@@ -24,18 +24,6 @@ The app is plain HTML, CSS, and vanilla JavaScript built on Bootstrap, with no b
 
 The app is fully static and only needs to be served over HTTP. (Opening `index.html` directly from the file system generally won't work, because browsers restrict IndexedDB on the `file://` protocol.)
 
-From the project root:
-
-```bash
-# Python 3
-python -m http.server 8000
-
-# or Node
-npx serve .
-```
-
-Then open `http://localhost:8000/` in a modern browser.
-
 On first run the database is empty — the header shows **No phrasebook loaded**. Open **Database**, then either **Load the example phrasebook** or **Import JSON into database** to get started.
 
 > All data lives in your browser's IndexedDB. Clearing site data — or using **Empty the database** — permanently removes it, so export to JSON first if you want a backup.
