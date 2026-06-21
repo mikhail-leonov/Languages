@@ -92,3 +92,4 @@ A current desktop or mobile browser with IndexedDB support and ES2017+. Bootstra
 ## Privacy
 
 There is no backend. Your phrasebooks are stored only in your own browser's database and are never uploaded. Use the JSON export to back them up or move them to another machine.
+
