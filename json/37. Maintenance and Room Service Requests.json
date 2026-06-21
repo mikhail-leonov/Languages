@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Maintenance & Room Service Requests",
+      "phrases": [
+        {
+          "english": "Hi, I would like to place an order for room service, please.",
+          "russian": "Здравствуйте, я бы хотел сделать заказ в номер, пожалуйста.",
+          "spanish": "Hola, me gustaría hacer un pedido al servicio de habitaciones, por favor.",
+          "french": "Bonjour, je voudrais passer une commande pour le service d'étage, s'il vous plaît.",
+          "german": "Hallo, ich möchte bitte eine Bestellung beim Zimmerservice aufgeben.",
+          "italian": "Buongiorno, vorrei effettuare un ordine per il servizio in camera, per favore.",
+          "portuguese": "Olá, eu gostaria de fazer um pedido de serviço de quarto, por favor.",
+          "esperanto": "Saluton, mi ŝatus fari mendon por ĉambra servo, bonvolu."
+        },
+        {
+          "english": "Could we get a fresh pot of hot coffee delivered to our room?",
+          "russian": "Можно ли доставить нам в номер свежий кофейник горячего кофе?",
+          "spanish": "¿Podrían traernos una jarra de café caliente recién hecho a la habitación?",
+          "french": "Serait-il possible de nous faire livrer un pot de café chaud en chambre ?",
+          "german": "Könnten wir eine frische Kanne heißen Kaffee aufs Zimmer bekommen?",
+          "italian": "Potremmo avere una caraffa di caffè caldo appena fatto portata in camera?",
+          "portuguese": "Você poderia mandar uma garrafa de café quentinho para o nosso quarto?",
+          "esperanto": "Ĉu ni povus ricevi freŝan poton da varma kafo liverita al nia ĉambro?"
+        },
+        {
+          "english": "Is it possible to order from the main dinner menu at this hour?",
+          "russian": "Можно ли в это время сделать заказ из основного обеденного меню?",
+          "spanish": "¿Es posible pedir del menú principal de la cena a esta hora?",
+          "french": "Est-il possible de commander à partir du menu principal du dîner à cette heure-ci ?",
+          "german": "Ist es um diese Uhrzeit noch möglich, von der Hauptkarte zu bestellen?",
+          "italian": "È possibile ordinare dal menu principale della cena a quest'ora?",
+          "portuguese": "É possível pedir do cardápio principal de jantar a esta hora?",
+          "esperanto": "Ĉu eblas mendi el la ĉefa vespermana menuo je ĉi tiu horo?"
+        },
+        {
+          "english": "Could you please bring up a bottle of sparkling water with two glasses?",
+          "russian": "Не могли бы вы принести бутылку газированной воды и два бокала?",
+          "spanish": "¿Podría traernos una botella de agua con gas y dos vasos, por favor?",
+          "french": "Pourriez-vous apporter une bouteille d'eau gazeuse avec deux verres, s'il vous plaît ?",
+          "german": "Könnten Sie bitte eine Flasche Sprudelwasser mit zwei Gläsern vorbeibringen?",
+          "italian": "Potrebbe portarci una bottiglia di acqua frizzante con due bicchieri, per favore?",
+          "portuguese": "Você poderia trazer uma garrafa de água com gás e dois copos, por favor?",
+          "esperanto": "Ĉu vi bonvolus alporti botelon da ŝaŭmakvo kun du glasoj?"
+        },
+        {
+          "english": "We would like to order the continental breakfast for eight AM tomorrow.",
+          "russian": "Мы бы хотели заказать континентальный завтрак на завтра к восьми часам утра.",
+          "spanish": "Nos gustaría encargar el desayuno continental para mañana a las ocho de la mañana.",
+          "french": "Nous voudrions commander le petit-déjeuner continental pour demain matin à huit heures.",
+          "german": "Wir würden gerne das kontinentale Frühstück für morgen früh um acht Uhr bestellen.",
+          "italian": "Vorremmo ordinare la colazione continentale per domani mattina alle otto.",
+          "portuguese": "Nós gostaríamos de encomendar o café da manhã continental para amanhã às oito da manhã.",
+          "esperanto": "Ni ŝatus mendi la kontinentan matenmanĝon por morgaŭ je la oka matene."
+        },
+        {
+          "english": "Can you please leave the room service tray right outside the door?",
+          "russian": "Не могли бы вы оставить поднос из-под заказа прямо за дверью?",
+          "spanish": "¿Podría dejar la bandeja del servicio de habitaciones justo fuera de la puerta, por favor?",
+          "french": "Pouvez-vous laisser le plateau du service d'étage juste devant la porte, s'il vous plaît ?",
+          "german": "Können Sie das Zimmerservice-Tablett bitte direkt vor der Tür stehen lassen?",
+          "italian": "Può lasciare il vassoio del servizio in camera appena fuori dalla porta, per favore?",
+          "portuguese": "Você poderia deixar a bandeja do serviço de quarto logo ali do lado de fora da porta?",
+          "esperanto": "Ĉu vi bonvolus lasi la ĉambroservan pleto ĝuste ekster la pordo?"
+        },
+        {
+          "english": "Could we get a couple of extra sets of cutlery sent up to the room?",
+          "russian": "Можно ли отправить к нам в номер пару дополнительных комплектов столовых приборов?",
+          "spanish": "¿Podrían mandarnos un par de juegos de cubiertos adicionales a la habitación?",
+          "french": "Serait-il possible de nous envoyer quelques couverts supplémentaires en chambre ?",
+          "german": "Könnten wir noch ein paar zusätzliche Bestecke aufs Zimmer bekommen?",
+          "italian": "Potremmo avere qualche set di posate extra in camera?",
+          "portuguese": "Seria possível mandar mais alguns talheres aqui para o quarto?",
+          "esperanto": "Ĉu ni povus ricevi kelkajn kromajn manĝilarojn senditajn al la ĉambro?"
+        },
+        {
+          "english": "I'd like to request a side of condiments with my current order.",
+          "russian": "Я бы хотел добавить соусы/приправы к моему текущему заказу.",
+          "spanish": "Me gustaría pedir algunas salsas y condimentos para acompañar mi pedido actual.",
+          "french": "Je voudrais demander des condiments en plus avec ma commande actuelle.",
+          "german": "Ich hätte gerne noch ein paar Beilagen-Saucen zu meiner aktuellen Bestellung.",
+          "italian": "Vorrei richiedere dei condimenti extra con il mio ordine attuale.",
+          "portuguese": "Gostaria de pedir alguns condimentos extras para acompanhar o meu pedido.",
+          "esperanto": "Mi ŝatus peti kromajn kondimentojn kun mia nuna mendo."
+        },
+        {
+          "english": "How long is the estimated delivery time for food orders right now?",
+          "russian": "Каково примерное время доставки заказов еды на данный момент?",
+          "spanish": "¿De cuánto es el tiempo estimado de entrega para los pedidos de comida en este momento?",
+          "french": "Quel est le délai de livraison estimé pour les commandes de nourriture en ce moment ?",
+          "german": "Wie lange ist die ungefähre Lieferzeit für Essensbestellungen im Moment?",
+          "italian": "Qual è il tempo di consegna stimato per le ordinazioni di cibo in questo momento?",
+          "portuguese": "Qual é o tempo estimado de entrega para os pedidos de comida no momento?",
+          "esperanto": "Kio estas la taksita liverdaŭro por manĝomendoj nun?"
+        },
+        {
+          "english": "Could you please clear the empty room service dishes from the hallway?",
+          "russian": "Не могли бы вы убрать пустую посуду из-под заказа из коридора?",
+          "spanish": "¿Podría retirar los platos vacíos del servicio de habitaciones del pasillo, por favor?",
+          "french": "Pourriez-vous débarrasser les plats vides du service d'étage qui sont dans le couloir, s'il vous plaît ?",
+          "german": "Könnten Sie bitte das leere Zimmerservice-Geschirr aus dem Flur wegräumen?",
+          "italian": "Potrebbe togliere i piatti sporchi del servizio in camera dal corridoio, per favore?",
+          "portuguese": "Você poderia, por favor, recolher os pratos vazios do serviço de quarto que estão no corredor?",
+          "esperanto": "Ĉu vi bonvolus forigi la malplenajn ĉambroservajn pladojn el la koridoro?"
+        },
+        {
+          "english": "Could we please get some fresh bath towels and washcloths sent up?",
+          "russian": "Не могли бы вы прислать нам чистые банные полотенца и салфетки для умывания?",
+          "spanish": "¿Podrían mandarnos algunas toallas de baño y paños limpios, por favor?",
+          "french": "Pourriez-vous nous envoyer des serviettes de bain et des débarbouillettes propres, s'il vous plaît ?",
+          "german": "Könnten wir bitte frische Badetücher und Waschlappen aufs Zimmer bekommen?",
+          "italian": "Potremmo avere degli asciugamani da bagno e delle manopole puliti, per favore?",
+          "portuguese": "Você poderia mandar algumas toalhas de banho e de rosto limpas, por favor?",
+          "esperanto": "Ĉu ni povus ricevi freŝajn bantukojn kaj viŝtukojn senditajn supren?"
+        },
+        {
+          "english": "Our room is running a bit low on toilet paper and tissues.",
+          "russian": "В нашем номере заканчивается туалетная бумага и салфетки.",
+          "spanish": "En nuestra habitación queda poco papel higiénico y pañuelos.",
+          "french": "Notre chambre commence à manquer de papier toilette et de mouchoirs.",
+          "german": "Das Toilettenpapier und die Taschentücher auf unserem Zimmer gehen langsam zur Neige.",
+          "italian": "In camera nostra stanno finendo la carta igienica e i fazzoletti di carta.",
+          "portuguese": "O papel higiênico e os lenços do nosso quarto estão acabando.",
+          "esperanto": "Nia ĉambro iom malhavas necesejpapiron kaj tukojn."
+        },
+        {
+          "english": "Would it be possible to get an extra blanket and a couple of pillows?",
+          "russian": "Можно ли получить дополнительное одеяло и пару подушек?",
+          "spanish": "¿Sería posible conseguir una manta extra y un par de almohadas?",
+          "french": "Serait-il possible d'avoir une couverture supplémentaire et deux oreillers ?",
+          "german": "Wäre es möglich, eine zusätzliche Decke und ein paar Kissen zu bekommen?",
+          "italian": "Sarebbe possibile avere una coperta extra e un paio di cuscini?",
+          "portuguese": "Seria possível conseguir um cobertor extra e alguns travesseiros?",
+          "esperanto": "Ĉu eblus akiri kroman litkovrilon kaj kelkajn kusenojn?"
+        },
+        {
+          "english": "Could housekeeping please come by to make up the room this morning?",
+          "russian": "Не могла бы горничная зайти убраться в номере этим утром?",
+          "spanish": "¿Podría pasar el servicio de limpieza a arreglar la habitación esta mañana, por favor?",
+          "french": "Le service de nettoyage pourrait-il passer faire la chambre ce matin, s'il vous plaît ?",
+          "german": "Könnte das Reinigungspersonal bitte heute Morgen vorbeikommen, um das Zimmer zu machen?",
+          "italian": "Il servizio di pulizia potrebbe passare a sistemare la camera stamattina, per favore?",
+          "portuguese": "O pessoal da limpeza poderia passar para arrumar o quarto hoje de manhã, por favor?",
+          "esperanto": "Ĉu domzorgado bonvolus veni por ordigi la ĉambron ĉi-matene?"
+        },
+        {
+          "english": "We need a few more complimentary coffee pods and tea bags, please.",
+          "russian": "Нам нужно еще немного бесплатных кофейных капсул и чайных пакетиков, пожалуйста.",
+          "spanish": "Necesitamos unas cuantas cápsulas de café y bolsitas de té de cortesía más, por favor.",
+          "french": "Nous aurions besoin de quelques capsules de café et sachets de thé gratuits supplémentaires, s'il vous plaît.",
+          "german": "Wir bräuchten bitte noch ein paar von den kostenlosen Kaffeekapseln und Teebeuteln.",
+          "italian": "Ci servirebbero altre cialde di caffè e bustine di tè di cortesia, per favore.",
+          "portuguese": "Precisamos de mais algumas cápsulas de café e saquinhos de chá de cortesia, por favor.",
+          "esperanto": "Ni bezonas kelkajn pliajn senpagajn kafkapsulojn kaj tesakojn, bonvolu."
+        },
+        {
+          "english": "Could you please send up a replenishment of shampoo and body wash?",
+          "russian": "Не могли бы вы пополнить запасы шампуня и геля для душа в номере?",
+          "spanish": "¿Podría mandarnos más champú y gel de baño, por favor?",
+          "french": "Pourriez-vous nous envoyer du shampooing et du gel douche de réapprovisionnement, s'il vous plaît ?",
+          "german": "Könnten Sie bitte Nachschub an Shampoo und Duschgel aufs Zimmer schicken?",
+          "italian": "Potrebbe mandarci un rifornimento di shampoo e bagnoschiuma, per favore?",
+          "portuguese": "Você poderia mandar uma reposição de xampu e sabonete líquido, por favor?",
+          "esperanto": "Ĉu vi bonvolus sendi suplementon de ŝampuo kaj korpolavo?"
+        },
+        {
+          "english": "Is there any way to get a clean set of bed sheets for tonight?",
+          "russian": "Можно ли как-то получить чистый комплект постельного белья на сегодня?",
+          "spanish": "¿Habría alguna manera de conseguir un juego de sábanas limpias para esta noche?",
+          "french": "Y a-t-il un moyen d'avoir des draps propres pour cette nuit ?",
+          "german": "Gibt es eine Möglichkeit, für heute Nacht frische Bettwäsche zu bekommen?",
+          "italian": "C'è modo di avere un completo di lenzuola pulite per stasera?",
+          "portuguese": "Teria como conseguir um jogo de lençóis limpos para hoje à noite?",
+          "esperanto": "Ĉu estas maniero akiri puran littukaron por ĉi-nokte?"
+        },
+        {
+          "english": "Could we request a physical iron and an ironing board for the room?",
+          "russian": "Можем ли мы попросить утюг и гладильную доску в номер?",
+          "spanish": "¿Podríamos solicitar una plancha y una tabla de planchar para la habitación?",
+          "french": "Pourrions-nous demander un fer et une planche à repasser pour la chambre ?",
+          "german": "Könnten wir ein Bügeleisen und ein Bügelbrett für das Zimmer anfordern?",
+          "italian": "Potremmo richiedere un ferro e un asse da stiro per la camera?",
+          "portuguese": "Nós poderíamos pedir um ferro e uma tábua de passar para o quarto?",
+          "esperanto": "Ĉu ni povus peti gladilon kaj gladotabulon por la ĉambro?"
+        },
+        {
+          "english": "We have a bag of laundry ready to be picked up for your cleaning service.",
+          "russian": "У нас готов мешок вещей для вашей прачечной/химчистки.",
+          "spanish": "Tenemos una bolsa de ropa lista para que la recojan para su servicio de lavandería.",
+          "french": "Nous avons un sac de linge prêt à être récupéré pour votre service de blanchisserie.",
+          "german": "Wir haben einen Wäschebeutel für Ihren Reinigungsservice zur Abholung bereitstehen.",
+          "italian": "Abbiamo un sacco della lavanderia pronto per il ritiro dal vostro servizio di lavaggio.",
+          "portuguese": "Temos uma sacola de roupas pronta para retirada pelo serviço de lavanderia de vocês.",
+          "esperanto": "Ni havas sakon da lavotaĵoj preta por forpreni por via purigada servo."
+        },
+        {
+          "english": "Could you please empty the trash cans in our room when you have a moment?",
+          "russian": "Не могли бы вы вынести мусорные ведра из нашего номера, когда у вас будет время?",
+          "spanish": "¿Podría vaciar las papeleras de nuestra habitación cuando tenga un momento, por favor?",
+          "french": "Pourriez-vous vider les poubelles de notre chambre quand vous aurez un moment, s'il vous plaît ?",
+          "german": "Könnten Sie bitte bei Gelegenheit die Mülleimer in unserem Zimmer leeren?",
+          "italian": "Potrebbe svuotare i cestini della spazzatura in camera nostra quando ha un attimo, per favore?",
+          "portuguese": "Você poderia esvaziar as lixeiras do nosso quarto quando tiver um tempinho, por favor?",
+          "esperanto": "Ĉu vi bonvolus malplenigi la rubujojn en nia ĉambro kiam vi havos momenton?"
+        },
+        {
+          "english": "The air conditioning unit in our room has completely stopped working.",
+          "russian": "Кондиционер в нашем номере полностью перестал работать.",
+          "spanish": "El aire acondicionado de nuestra habitación ha dejado de funcionar por completo.",
+          "french": "Le climatiseur de notre chambre a complètement arrêté de fonctionner.",
+          "german": "Die Klimaanlage in unserem Zimmer funktioniert überhaupt nicht mehr.",
+          "italian": "L'impianto di aria condizionata nella nostra camera ha smesso completamente di funzionare.",
+          "portuguese": "O ar-condicionado do nosso quarto parou de funcionar totalmente.",
+          "esperanto": "La klimatizilo en nia ĉambro tute ĉesis funkcii."
+        },
+        {
+          "english": "The television remote control doesn't seem to respond to any buttons.",
+          "russian": "Пульт от телевизора, похоже, вообще не реагирует на нажатия кнопок.",
+          "spanish": "El mando a distancia del televisor no parece responder a ningún botón.",
+          "french": "La télécommande de la télévision ne semble réagir à aucun bouton.",
+          "german": "Die Fernsehfernbedienung reagiert anscheinend auf keinen Tastendruck.",
+          "italian": "Il telecomando della televisione non sembra rispondere a nessun pulsante.",
+          "portuguese": "O controle remoto da TV parece não responder a nenhum botão.",
+          "esperanto": "La fora regilo de la televidilo ŝajne ne respondas al iuj butonoj."
+        },
+        {
+          "english": "A couple of the lightbulbs in the main living area have completely burned out.",
+          "russian": "Пара лампочек в основной жилой зоне полностью перегорела.",
+          "spanish": "Un par de bombillas de la sala principal se han fundido por completo.",
+          "french": "Quelques ampoules de la pièce principale ont complètement grillé.",
+          "german": "Ein paar Glühbirnen im Hauptwohnbereich sind komplett durchgebrannt.",
+          "italian": "Un paio di lampadine nella zona giorno principale si sono completamente bruciate.",
+          "portuguese": "Algumas lâmpadas da sala principal queimaram totalmente.",
+          "esperanto": "Kelkaj ampuloj en la ĉefa loĝareo tute forbrulis."
+        },
+        {
+          "english": "There are no active power outlets working on the left side of the bed.",
+          "russian": "С левой стороны кровати не работает ни одна розетка.",
+          "spanish": "No funciona ninguna toma de corriente en el lado izquierdo de la cama.",
+          "french": "Aucune prise de courant ne fonctionne sur le côté gauche du lit.",
+          "german": "Auf der linken Seite des Bettes funktioniert keine einzige Steckdose.",
+          "italian": "Non ci sono prese di corrente funzionanti sul lato sinistro del letto.",
+          "portuguese": "Nenhuma tomada está funcionando do lado esquerdo da cama.",
+          "esperanto": "Estas neniuj funkciantaj elektraj konektiloj sur la maldekstra flanko de la lito."
+        },
+        {
+          "english": "The mini-fridge in our room is making a very loud, vibrating noise.",
+          "russian": "Мини-холодильник в нашем номере издает очень громкий вибрирующий шум.",
+          "spanish": "La mininevera de nuestra habitación está haciendo un ruido de vibración muy fuerte.",
+          "french": "Le mini-frigo de notre chambre fait un bruit de vibration très fort.",
+          "german": "Der Minikühlschrank in unserem Zimmer macht ein sehr lautes, vibrierendes Geräusch.",
+          "italian": "Il minifrigo in camera nostra sta facendo un rumore di vibrazione molto forte.",
+          "portuguese": "El frigobar do nosso quarto está fazendo um barulho de vibração muito alto.",
+          "esperanto": "La minifridujo en nia ĉambro faras tre laŭtan, vibran bruon."
+        },
+        {
+          "english": "I can't seem to get the electronic room safe to open or lock.",
+          "russian": "Я никак не могу открыть или запереть электронный сейф в номере.",
+          "spanish": "No logro abrir ni cerrar la caja fuerte electrónica de la habitación.",
+          "french": "Je n'arrive pas à ouvrir ou à fermer le coffre-fort électronique de la chambre.",
+          "german": "Ich bekomme den elektronischen Zimmersafe weder auf noch zu.",
+          "italian": "Non riesco a far aprire o chiudere la cassaforte elettronica della camera.",
+          "portuguese": "Não estou conseguindo abrir nem trancar o cofre eletrônico do quarto.",
+          "esperanto": "Mi ŝajne ne povas malfermi aŭ ŝlosi la elektran ĉambran monŝrankon."
+        },
+        {
+          "english": "The hair dryer in the bathroom is overheating and cutting out.",
+          "russian": "Фен в ванной перегревается и отключается.",
+          "spanish": "El secador de pelo del baño se sobrecalienta y se apaga solo.",
+          "french": "Le sèche-cheveux de la salle de bain surchauffe et s'éteint tout seul.",
+          "german": "Der Haartrockner im Badezimmer überhitzt und schaltet sich ab.",
+          "italian": "L'asciugacapelli nel bagno si surriscalda e si spegne da solo.",
+          "portuguese": "O secador de cabelo do banheiro está superaquecendo e desligando sozinho.",
+          "esperanto": "La harsekigilo en la banĉambro varmiĝas kaj malŝaltiĝas."
+        },
+        {
+          "english": "The electronic key card reader on our door is flashing red constantly.",
+          "russian": "Электронный считыватель карт на нашей двери постоянно мигает красным.",
+          "spanish": "El lector electrónico de la tarjeta de nuestra puerta parpadea en rojo constantemente.",
+          "french": "Le lecteur de carte électronique de notre porte clignote en rouge en permanence.",
+          "german": "Der elektronische Schlüsselkartenleser an unserer Tür blinkt ständig rot.",
+          "italian": "Il lettore elettronico della chiave a scheda sulla porta lampeggia costantemente in rosso.",
+          "portuguese": "O leitor eletrônico do cartão da nossa porta está piscando em vermelho sem parar.",
+          "esperanto": "La elektronika ŝlosilkarta legilo sur nia pordo konstante ruĝe palpebrumas."
+        },
+        {
+          "english": "The heating system is blowing out cold air instead of warm air.",
+          "russian": "Система отопления дует холодным воздухом вместо теплого.",
+          "spanish": "El sistema de calefacción está expulsando aire frío en lugar de aire caliente.",
+          "french": "Le système de chauffage souffle de l'air froid au lieu de l'air chaud.",
+          "german": "Die Heizung bläst kalte statt warme Luft aus.",
+          "italian": "L'impianto di riscaldamento butta fuori aria fredda invece che calda.",
+          "portuguese": "O sistema de aquecimento está soltando ar frio em vez de ar quente.",
+          "esperanto": "La hejta sistemo blovas malvarman anstataŭ varman aeron."
+        },
+        {
+          "english": "I am unable to connect any of my devices to the premium room Wi-Fi.",
+          "russian": "Я не могу подключить ни одно из своих устройств к премиум-Wi-Fi в номере.",
+          "spanish": "No puedo conectar ninguno de mis dispositivos al Wi-Fi premium de la habitación.",
+          "french": "Je ne parviens à connecter aucun de mes appareils au réseau Wi-Fi premium de la chambre.",
+          "german": "Ich kann keines meiner Geräte mit dem Premium-WLAN des Zimmers verbinden.",
+          "italian": "Non riesco a connettere nessuno dei miei dispositivi al Wi-Fi premium della camera.",
+          "portuguese": "Não estou conseguindo conectar nenhum dos meus aparelhos no Wi-Fi premium do quarto.",
+          "esperanto": "Mi ne povas konekti iun ajn el miaj aparatoj al la supera ĉambra Wi-Fi."
+        },
+        {
+          "english": "The toilet in our bathroom appears to be completely clogged and overflowing.",
+          "russian": "Унитаз в нашей ванной, похоже, полностью засорился и течет через край.",
+          "spanish": "El inodoro de nuestro baño parece estar completamente atascado y desbordándose.",
+          "french": "Les toilettes de notre salle de bain semblent complètement bouchées et débordent.",
+          "german": "Die Toilette in unserem Badezimmer scheint komplett verstopft zu sein und läuft über.",
+          "italian": "Il water nel nostro bagno sembra essere completamente intasato e sta traboccando.",
+          "portuguese": "O vaso sanitário do nosso banheiro parece estar totalmente entupido e transbordando.",
+          "esperanto": "La necesejo en nia banĉambro ŝajnas tute ŝtopita kaj superfluas."
+        },
+        {
+          "english": "There is a very slow drain in the shower, and water is pooling up.",
+          "russian": "Вода в душе уходит очень медленно и скапливается.",
+          "spanish": "El desagüe de la ducha va muy lento y el agua se está acumulando.",
+          "french": "L'eau s'écoule très lentement dans la douche, et l'eau s'accumule.",
+          "german": "Der Abfluss in der Dusche läuft sehr langsam ab und das Wasser staut sich.",
+          "italian": "L'acqua nello scarico della doccia scende molto lentamente e si sta accumulando.",
+          "portuguese": "A água da ducha está descendo muito devagar e está acumulando poça.",
+          "esperanto": "La drenilo en la duŝo estas tre malrapida, kaj akvo amasiĝas."
+        },
+        {
+          "english": "The bathroom sink faucet is leaking a steady, loud drip.",
+          "russian": "Кран в раковине в ванной постоянно и громко капает.",
+          "spanish": "El grifo del lavabo del baño tiene una fuga y gotea de forma constante y ruidosa.",
+          "french": "Le robinet du lavabo de la salle de bain fuit, créant un goutte-à-goutte continu et bruyant.",
+          "german": "Der Wasserhahn am Waschbecken im Bad tropft ununterbrochen und laut.",
+          "italian": "Il rubinetto del lavandino del bagno perde con un gocciolio costante e rumoroso.",
+          "portuguese": "A torneira da pia do banheiro está pingando sem parar e fazendo barulho.",
+          "esperanto": "La krano de la banĉambra lavujo likas per konstanta, laŭta guto."
+        },
+        {
+          "english": "We aren't getting any hot water out of the shower head this morning.",
+          "russian": "Этим утром из душа вообще не идет горячая вода.",
+          "spanish": "No sale agua caliente de la ducha esta mañana.",
+          "french": "Nous n'avons pas d'eau chaude au pommeau de douche ce matin.",
+          "german": "Aus dem Duschkopf kommt heute Morgen überhaupt kein warmes Wasser.",
+          "italian": "Stamattina non esce acqua calda dal soffione della doccia.",
+          "portuguese": "Não está saindo água quente nenhuma do chuveiro hoje de manhã.",
+          "esperanto": "Ni ne ricevas varman akvon el la duŝilo ĉi-matene."
+        },
+        {
+          "english": "The water pressure in the shower is incredibly weak right now.",
+          "russian": "Напор воды в душе сейчас невероятно слабый.",
+          "spanish": "La presión del agua en la ducha es increíblemente débil en este momento.",
+          "french": "La pression de l'eau dans la douche est incroyablement faible en ce moment.",
+          "german": "Der Wasserdruck in der Dusche ist momentan unheimlich schwach.",
+          "italian": "La pressione dell'acqua nella doccia è incredibilmente debole in questo momento.",
+          "portuguese": "A pressão da água no chuveiro está incrivelmente fraca agora.",
+          "esperanto": "La akvopremo en la duŝo estas nekredeble malforta nun."
+        },
+        {
+          "english": "There is a strange, dark leak coming from underneath the bathroom sink.",
+          "russian": "Из-под раковины в ванной течет какая-то странная темная жидкость.",
+          "spanish": "Hay una fuga extraña y oscura debajo del lavabo del baño.",
+          "french": "Il y a une fuite étrange et sombre qui vient de sous le lavabo de la salle de bain.",
+          "german": "Unter dem Waschbecken im Badezimmer läuft eine seltsame, dunkle Flüssigkeit aus.",
+          "italian": "C'è una strana perdita scura che proviene da sotto il lavandino del bagno.",
+          "portuguese": "Tem um vazamento estranho e escuro vindo de debaixo da pia do banheiro.",
+          "esperanto": "Estas stranga, malhela liko venanta de sub la banĉambra lavujo."
+        },
+        {
+          "english": "The toilet handle is stuck, and the water won't stop running.",
+          "russian": "Кнопка/рычаг слива в унитазе заела, и вода течет без остановки.",
+          "spanish": "La cisterna del inodoro se ha quedado enganchada y el agua no para de correr.",
+          "french": "La poignée des toilettes est bloquée et l'eau ne s'arrête plus de couler.",
+          "german": "Der Spülknopf der Toilette klemmt und das Wasser läuft ununterbrochen.",
+          "italian": "La maniglia del water è bloccata e l'acqua continua a scorrere.",
+          "portuguese": "A descarga do vaso sanitário travou e a água não para de escorrer.",
+          "esperanto": "La neceseja tenilo estas blokita, kaj la akvo ne ĉesas flui."
+        },
+        {
+          "english": "The shower door doesn't close completely, causing water to spill out.",
+          "russian": "Дверь душевой кабины закрывается не полностью, из-за чего вода выливается наружу.",
+          "spanish": "La puerta de la ducha no cierra del todo, lo que hace que el agua se salga.",
+          "french": "La porte de la douche ne ferme pas complètement, ce qui fait déborder l'eau.",
+          "german": "Die Duschtür schließt nicht richtig, sodass Wasser nach draußen läuft.",
+          "italian": "La porta della doccia non si chiude completamente, facendo fuoriuscire l'acqua.",
+          "portuguese": "A porta do boxe não fecha totalmente, fazendo a água vazar para fora.",
+          "esperanto": "La duŝpordo ne tute fermiĝas, kaŭzante elfluon de akvo."
+        },
+        {
+          "english": "There is a persistent, unpleasant odor coming up from the bathroom drain.",
+          "russian": "Из слива в ванной идет стойкий неприятный запах.",
+          "spanish": "Hay un olor desagradable y persistente que sale del desagüe del baño.",
+          "french": "Il y a une odeur tenace et désagréable qui remonte de la bonde de la salle de bain.",
+          "german": "Aus dem Abfluss im Badezimmer kommt ein anhaltender, unangenehmer Geruch.",
+          "italian": "C'è un odore sgradevole e persistente che sale dallo scarico del bagno.",
+          "portuguese": "Tem um cheiro ruim e persistente subindo pelo ralo do banheiro.",
+          "esperanto": "Estas daŭra, malagrabla odoro venanta el la banĉambra drenilo."
+        },
+        {
+          "english": "The hot water handle in the bathtub is physically jammed and won't turn.",
+          "russian": "Кран горячей воды в ванной физически заело, и он не поворачивается.",
+          "spanish": "El grifo del agua caliente de la bañera está atascado y no gira.",
+          "french": "Le robinet d'eau chaude de la baignoire est physiquement coincé et ne tourne pas.",
+          "german": "Der Warmwasserhahn der Badewanne klemmt fest und lässt sich nicht drehen.",
+          "italian": "La manopola dell'acqua calda nella vasca è bloccata e non gira.",
+          "portuguese": "O registro de água quente da banheira está travado e não gira de jeito nenhum.",
+          "esperanto": "La varmakva tenilo en la bano estas fizike blokita kaj ne turniĝas."
+        },
+        {
+          "english": "I accidentally locked myself out of my room; can someone help me?",
+          "russian": "Я случайно захлопнул дверь и остался снаружи номера; может ли кто-нибудь мне помочь?",
+          "spanish": "Me he quedado fuera de la habitación por accidente; ¿alguien podría ayudarme?",
+          "french": "Je me suis enfermé dehors par accident ; est-ce que quelqu'un peut m'aider ?",
+          "german": "Ich habe mich versehentlich aus meinem Zimmer ausgesperrt. Kann mir jemand helfen?",
+          "italian": "Sono rimasto chiuso fuori dalla camera per sbaglio; qualcuno può aiutarmi?",
+          "portuguese": "Eu me tranquei para fora do quarto sem querer; alguém poderia me ajudar?",
+          "esperanto": "Mi hazarde ŝlosis min ekster mian ĉambron; ĉu iu povas helpi min?"
+        },
+        {
+          "english": "The window in our room is stuck and will not close all the way.",
+          "russian": "Окно в нашем номере заело, и оно не закрывается до конца.",
+          "spanish": "La ventana de nuestra habitación está atascada y no se cierra del todo.",
+          "french": "La fenêtre de notre chambre est coincée et ne ferme pas complètement.",
+          "german": "Das Fenster in unserem Zimmer klemmt und lässt sich nicht ganz schließen.",
+          "italian": "La finestra della nostra camera è bloccata e non si chiude del tutto.",
+          "portuguese": "A janela do nosso quarto está travada e não fecha até o fim.",
+          "esperanto": "La fenestro en nia ĉambro estas blokita kaj ne tute fermiĝas."
+        },
+        {
+          "english": "Could someone please come up to help me figure out the thermostat controls?",
+          "russian": "Не мог бы кто-нибудь подняться и помочь мне разобраться с управлением термостатом?",
+          "spanish": "¿Podría subir alguien a ayudarme a entender los controles del termostato, por favor?",
+          "french": "Est-ce que quelqu'un pourrait monter pour m'aider à comprendre le fonctionnement du thermostat, s'il vous plaît ?",
+          "german": "Könnte bitte jemand vorbeikommen und mir zeigen, wie man das Thermostat bedient?",
+          "italian": "Potrebbe salire qualcuno ad aiutarmi a capire i comandi del termostato, per favore?",
+          "portuguese": "Alguém poderia subir aqui para me ajudar a mexer nos controles do termostato, por favor?",
+          "esperanto": "Ĉu iu bonvolus veni supren por helpi min kompreni la termostatajn regilojn?"
+        },
+        {
+          "english": "The main door latch seems to be broken and won't secure properly.",
+          "russian": "Защелка на входной двери, похоже, сломана и не фиксируется как надо.",
+          "spanish": "El pestillo de la puerta principal parece estar roto y no cierra bien.",
+          "french": "Le loquet de la porte principale semble cassé et ne ferme pas correctement.",
+          "german": "Der Riegel der Zimmertür scheint kaputt zu sein und schließt nicht richtig.",
+          "italian": "La chiusura della porta principale sembra essere rotta e non si fissa bene.",
+          "portuguese": "A tranca da porta principal parece estar quebrada e não fecha direito.",
+          "esperanto": "La ĉefa porda riglilo ŝajnas esti rompita kaj ne ĝuste fermas."
+        },
+        {
+          "english": "I accidentally spilled some liquid on the carpet and need assistance.",
+          "russian": "Я случайно пролил жидкость на ковер, и мне нужна помощь (с уборкой).",
+          "spanish": "He derramado un líquido en la alfombra por accidente y necesito ayuda.",
+          "french": "J'ai accidentellement renversé du liquide sur le tapis et j'ai besoin d'aide.",
+          "german": "Ich habe versehentlich etwas auf den Teppich verschüttet und brauche Hilfe.",
+          "italian": "Ho accidentalmente versato del liquido sul tappeto e ho bisogno di assistenza.",
+          "portuguese": "Derrubei um líquido no tapete sem querer e preciso de ajuda.",
+          "esperanto": "Mi hazarde verŝis iun likvaĵon sur la tapiŝon kaj bezonas helpon."
+        },
+        {
+          "english": "Could you send someone to help move a heavy piece of luggage into the room?",
+          "russian": "Не могли бы вы прислать кого-нибудь, чтобы помочь занести в номер тяжелый багаж?",
+          "spanish": "¿Podría enviar a alguien para ayudar a meter una maleta pesada en la habitación?",
+          "french": "Pourriez-vous envoyer quelqu'un pour m'aider à porter un bagage lourd dans la chambre ?",
+          "german": "Könnten Sie jemanden schicken, der mir hilft, ein schweres Gepäckstück aufs Zimmer zu bringen?",
+          "italian": "Potrebbe inviare qualcuno ad aiutarmi a portare un bagaglio pesante in camera?",
+          "portuguese": "Você poderia mandar alguém para ajudar a trazer uma mala pesada para o quarto?",
+          "esperanto": "Ĉu vi povus sendi iun por helpi movi pezan pakaĵon en la ĉambron?"
+        },
+        {
+          "english": "The curtains are missing a hook and won't close completely to block the light.",
+          "russian": "На шторах не хватает крючка, и они не закрываются до конца, чтобы полностью заблокировать свет.",
+          "spanish": "A las cortinas les falta un gancho y no cierran del todo para tapar la luz.",
+          "french": "Il manque un crochet aux rideaux et ils ne ferment pas complètement pour bloquer la lumière.",
+          "german": "An den Vorhängen fehlt ein Haken, sodass sie sich nicht ganz zuziehen lassen, um das Licht abzuhalten.",
+          "italian": "Manca un gancio alle tende e non si chiudono del tutto per bloccare la luce.",
+          "portuguese": "Está faltando um gancho na cortina e ela não fecha totalmente para tapar a luz.",
+          "esperanto": "Al la kurtenoj mankas hoko kaj ili ne tute fermiĝas por bloki la lumon."
+        },
+        {
+          "english": "There is a squeaking noise coming from the hinges of the bathroom door.",
+          "russian": "Петли двери в ванную комнату издают скрип.",
+          "spanish": "Las bisagras de la puerta del baño hacen un ruido que rechina.",
+          "french": "Les charnières de la porte de la salle de bain grincent.",
+          "german": "Die Scharniere der Badezimmertür quietschen.",
+          "italian": "C'è uno cigolio che proviene dalle cerniere della porta del bagno.",
+          "portuguese": "As dobradiças da porta do banheiro estão rangendo.",
+          "esperanto": "Estas knaranta bruo venanta de la ĉarniroj de la banĉambra pordo."
+        },
+        {
+          "english": "Can someone assist me with setting up the digital media streaming on the TV?",
+          "russian": "Может ли кто-нибудь помочь мне настроить трансляцию цифрового контента на телевизоре?",
+          "spanish": "¿Podría alguien ayudarme a configurar la transmisión de contenido digital en el televisor?",
+          "french": "Quelqu'un pourrait-il m'aider à configurer le streaming vidéo sur la télévision ?",
+          "german": "Kann mir jemand dabei helfen, das Streaming am Fernseher einzurichten?",
+          "italian": "Qualcuno può assistermi nel configurare lo streaming multimediale sulla TV?",
+          "portuguese": "Alguém poderia me ajudar a configurar a transmissão de streaming na TV?",
+          "esperanto": "Ĉu iu povas helpi min agordi la ciferecan plurmedian fluon sur la televidilo?"
+        },
+        {
+          "english": "We noticed a loose tile on the bathroom floor that needs a quick look.",
+          "russian": "Мы заметили, что плитка на полу в ванной шатается, нужно бы на нее взглянуть.",
+          "spanish": "Hemos notado que hay una baldosa floja en el suelo del baño que habría que revisar.",
+          "french": "Nous avons remarqué un carreau instable sur le sol de la salle de bain, il faudrait y jeter un coup d'œil.",
+          "german": "Uns ist eine lose Fliese auf dem Badezimmerboden aufgefallen, die sich mal jemand ansehen müsste.",
+          "italian": "Abbiamo notato una piastrella allentata sul pavimento del bagno a cui bisognerebbe dare un'occhiata.",
+          "portuguese": "Nós reparamos em um piso solto no chão do banheiro que precisa de uma olhada rápida.",
+          "esperanto": "Ni rimarkis malstreĉitan kahelon sur la banĉambra planko, kiu bezonas rigardon."
+        }
+      ]
+    }
+  ]
+}

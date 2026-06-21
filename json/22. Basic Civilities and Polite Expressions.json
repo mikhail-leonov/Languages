@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Basic Civilities & Polite Expressions",
+      "phrases": [
+        {
+          "english": "Thank you so much!",
+          "russian": "Большое спасибо!",
+          "spanish": "¡Muchas gracias!",
+          "french": "Merci beaucoup !",
+          "german": "Vielen Dank!",
+          "italian": "Grazie mille!",
+          "portuguese": "Muito obrigado(a)!",
+          "esperanto": "Dankegon!"
+        },
+        {
+          "english": "Thanks a million!",
+          "russian": "Преогромное спасибо!",
+          "spanish": "¡Un millón de gracias!",
+          "french": "Merci mille fois !",
+          "german": "Tausend Dank!",
+          "italian": "Grazie un milione!",
+          "portuguese": "Muitíssimo obrigado(a)!",
+          "esperanto": "Mil dankojn!"
+        },
+        {
+          "english": "I really appreciate it.",
+          "russian": "Я очень ценю это. / Я очень благодарен.",
+          "spanish": "Realmente lo aprecio.",
+          "french": "J'apprécie vraiment.",
+          "german": "Ich weiß das wirklich zu schätzen.",
+          "italian": "Lo apprezzo davvero.",
+          "portuguese": "Eu realmente agradeço.",
+          "esperanto": "Mi tre aprezas tion."
+        },
+        {
+          "english": "You're very welcome.",
+          "russian": "Пожалуйста. / Не за что.",
+          "spanish": "De nada. / No hay de qué.",
+          "french": "De rien. / Je vous en prie.",
+          "german": "Bitte schön! / Gern geschehen!",
+          "italian": "Prego! / Di nulla.",
+          "portuguese": "De nada. / Não há de quê.",
+          "esperanto": "Nedankinde."
+        },
+        {
+          "english": "Don't mention it!",
+          "russian": "Не стоит благодарности!",
+          "spanish": "¡Ni lo menciones!",
+          "french": "De rien ! / Ne m'en parlez pas !",
+          "german": "Keine Ursache!",
+          "italian": "Non dimenticarlo! / Figurati!",
+          "portuguese": "Não seja por isso!",
+          "esperanto": "Ne menciindas!"
+        },
+        {
+          "english": "Anytime, happy to help!",
+          "russian": "В любое время, рад помочь!",
+          "spanish": "¡Cuando quieras, feliz de ayudar!",
+          "french": "Quand tu veux, ravi d'aider !",
+          "german": "Jederzeit, ich helfe gerne!",
+          "italian": "In qualsiasi momento, felice di aiutarti!",
+          "portuguese": "A qualquer hora, feliz em ajudar!",
+          "esperanto": "Ĉiam, volonte helpas!"
+        },
+        {
+          "english": "No problem at all.",
+          "russian": "Без проблем. / Вообще не проблема.",
+          "spanish": "No hay ningún problema.",
+          "french": "Pas de problème du tout.",
+          "german": "Überhaupt kein Problem.",
+          "italian": "Nessun problema.",
+          "portuguese": "Sem problemas.",
+          "esperanto": "Tute ne problemas."
+        },
+        {
+          "english": "It's my absolute pleasure.",
+          "russian": "Это мое искреннее удовольствие.",
+          "spanish": "Es un absoluto placer.",
+          "french": "C'est un plaisir absolu.",
+          "german": "Es ist mir ein absolutes Vergnügen.",
+          "italian": "È un assoluto piacere.",
+          "portuguese": "O prazer é todo meu.",
+          "esperanto": "Estas mia absoluta plezuro."
+        },
+        {
+          "english": "Much obliged!",
+          "russian": "Весьма признателен!",
+          "spanish": "¡Muy agradecido!",
+          "french": "Bien obligé !",
+          "german": "Sehr verbunden!",
+          "italian": "Molto obbligato!",
+          "portuguese": "Muito obrigado(a)!",
+          "esperanto": "Tre dankema!"
+        },
+        {
+          "english": "I can't thank you enough.",
+          "russian": "Не знаю, как вас и благодарить.",
+          "spanish": "No sé cómo agradecerte.",
+          "french": "Je ne pourrai jamais assez vous remercier.",
+          "german": "Ich kann Ihnen gar nicht genug danken.",
+          "italian": "Non so come ringraziarla abbastanza.",
+          "portuguese": "Não sei como lhe agradecer.",
+          "esperanto": "Mi ne povas sufiĉe danki vin."
+        },
+        {
+          "english": "I am deeply grateful for your assistance.",
+          "russian": "Я глубоко благодарен вам за помощь.",
+          "spanish": "Estoy profundamente agradecido por su ayuda.",
+          "french": "Je vous suis profondément reconnaissant pour votre aide.",
+          "german": "Ich bin Ihnen für Ihre Unterstützung zutiefst dankbar.",
+          "italian": "Le sono profondamente grato per la sua assistenza.",
+          "portuguese": "Estou profundamente grato(a) pela sua ajuda.",
+          "esperanto": "Mi estas profunde dankema pro via helpo."
+        },
+        {
+          "english": "Your kindness means the world to me.",
+          "russian": "Ваша доброта значит для меня целый мир.",
+          "spanish": "Tu amabilidad significa el mundo para mí.",
+          "french": "Ta gentillesse représente beaucoup pour moi.",
+          "german": "Ihre Freundlichkeit bedeutet mir die Welt.",
+          "italian": "La tua gentilezza significa moltissimo per me.",
+          "portuguese": "Sua bondade significa o mundo para mim.",
+          "esperanto": "Via afableco signifas la mondon por mi."
+        },
+        {
+          "english": "Thank you for going above and beyond.",
+          "russian": "Спасибо за то, что сделали больше, чем ожидали.",
+          "spanish": "Gracias por hacer más de lo debido.",
+          "french": "Merci de vous être dépassé.",
+          "german": "Vielen Dank, dass Sie sich so sehr bemüht haben.",
+          "italian": "Grazie per aver fatto più del dovuto.",
+          "portuguese": "Obrigado(a) por fazer mais do que o esperado.",
+          "esperanto": "Dankon pro viaj ekstraj penoj."
+        },
+        {
+          "english": "I sincerely appreciate your thoughtfulness.",
+          "russian": "Я искренне ценю вашу заботу.",
+          "spanish": "Agradezco sinceramente su consideración.",
+          "french": "Sincères remerciements pour votre délicatesse.",
+          "german": "Ich weiß Ihre Aufmerksamkeit aufrichtig zu schätzen.",
+          "italian": "Apprezzo sinceramente la sua premura.",
+          "portuguese": "Agradeço sinceramente a sua consideração.",
+          "esperanto": "Mi sincere aprezas vian atentemon."
+        },
+        {
+          "english": "Words cannot express how thankful I am.",
+          "russian": "Словами не передать, как я благодарен.",
+          "spanish": "Las palabras no pueden expresar lo agradecido que estoy.",
+          "french": "Les mots ne peuvent exprimer ma gratitude.",
+          "german": "Worte können nicht ausdrücken, wie dankbar ich bin.",
+          "italian": "Le parole no possono esprimere quanto io sia grato.",
+          "portuguese": "Palavras não podem expressar o quão grato(a) estou.",
+          "esperanto": "Vortoj ne povas esprimi mian dankemon."
+        },
+        {
+          "english": "Thank you for your unwavering support.",
+          "russian": "Спасибо за вашу непоколебимую поддержку.",
+          "spanish": "Gracias por su apoyo incondicional.",
+          "french": "Merci pour votre soutien indéfectible.",
+          "german": "Vielen Dank für Ihre unerschütterliche Unterstützung.",
+          "italian": "Grazie per il suo incrollabile sostegno.",
+          "portuguese": "Obrigado(a) pelo seu apoio inabalável.",
+          "esperanto": "Dankon pro via senŝancela subteno."
+        },
+        {
+          "english": "I wanted to extend my heartfelt thanks.",
+          "russian": "Я хотел бы выразить свою искреннюю благодарность.",
+          "spanish": "Quería expresarle mi más sincero agradecimiento.",
+          "french": "Je tenais à vous adresser mes sincères remerciements.",
+          "german": "Ich möchte Ihnen meinen herzlichen Dank aussprechen.",
+          "italian": "Volevo esprimerle i miei più sentiti ringraziamenti.",
+          "portuguese": "Gostaria de estender os meus sinceros agradecimentos.",
+          "esperanto": "Mi volis esprimi miajn korajn dankojn."
+        },
+        {
+          "english": "Your generosity is deeply appreciated.",
+          "russian": "Мы глубоко ценим вашу щедрость.",
+          "spanish": "Su generosidad es profundamente apreciada.",
+          "french": "Votre générosité est profondément appréciée.",
+          "german": "Ihre Großzügigkeit wird zutiefst geschätzt.",
+          "italian": "La sua generosità è profondamente apprezzata.",
+          "portuguese": "Sua generosidade é profundamente apreciada.",
+          "esperanto": "Via malavareco estas profunde aprezata."
+        },
+        {
+          "english": "Thank you for taking the time to help.",
+          "russian": "Спасибо, что нашли время помочь.",
+          "spanish": "Gracias por tomarse el tiempo para ayudar.",
+          "french": "Merci d'avoir pris le temps de m'aider.",
+          "german": "Vielen Dank, dass Sie sich die Zeit genommen haben, zu helfen.",
+          "italian": "Grazie per aver dedicato del tempo ad aiutarmi.",
+          "portuguese": "Obrigado(a) por dedicar seu tempo para ajudar.",
+          "esperanto": "Dankon pro trovi tempon por helpi."
+        },
+        {
+          "english": "I am forever indebted to your kindness.",
+          "russian": "Я навеки в долгу перед вашей добротой.",
+          "spanish": "Estaré eternamente agradecido por su amabilidad.",
+          "french": "Je serai éternellement redevable de votre gentillesse.",
+          "german": "Ich stehe für immer in der Schuld Ihrer Freundlichkeit.",
+          "italian": "Le sarò per sempre debitore per la sua gentilezza.",
+          "portuguese": "Estou para sempre em dívida com a sua bondade.",
+          "esperanto": "Mi estas por ĉiam ŝuldanto al via afableco."
+        },
+        {
+          "english": "I am so incredibly sorry.",
+          "russian": "Мне так невероятно жаль.",
+          "spanish": "Lo siento muchísimo.",
+          "french": "Je suis tellement désolé.",
+          "german": "Es tut mir so unglaublich leid.",
+          "italian": "Sono davvero incredibilmente dispiaciuto.",
+          "portuguese": "Sinto muitíssimo.",
+          "esperanto": "Mi estas tiel nekredeble bedaŭra."
+        },
+        {
+          "english": "Please accept my formal apologies.",
+          "russian": "Пожалуйста, примите мои официальные извинения.",
+          "spanish": "Por favor, acepte mis disculpas formales.",
+          "french": "Veuillez accepter mes excuses formelles.",
+          "german": "Bitte akzeptieren Sie meine formelle Entschuldigung.",
+          "italian": "La prego di accettare le mie scuse formali.",
+          "portuguese": "Por favor, aceite as minhas desculpas formais.",
+          "esperanto": "Bonvolu akcepti miajn formalajn pardonpetojn."
+        },
+        {
+          "english": "I didn't mean to cause any trouble.",
+          "russian": "Я не хотел доставлять никаких хлопот.",
+          "spanish": "No quise causar ningún problema.",
+          "french": "Je ne voulais pas causer d'ennuis.",
+          "german": "Ich wollte keine Unannehmlichkeiten verursachen.",
+          "italian": "Non volevo causare problemi.",
+          "portuguese": "Não tive intenção de causar problemas.",
+          "esperanto": "Mi ne intencis kaŭzi ĝenon."
+        },
+        {
+          "english": "Forgive me, I completely misunderstood.",
+          "russian": "Простите меня, я совершенно неправильно понял.",
+          "spanish": "Perdóname, lo entendí completamente mal.",
+          "french": "Pardonnez-moi, j'ai complètement mal compris.",
+          "german": "Verzeihen Sie mir, ich habe das völlig falsch verstanden.",
+          "italian": "Mi scusi, ho capito male.",
+          "portuguese": "Perdoe-me, eu entendi completamente errado.",
+          "esperanto": "Pardonu min, mi tute miskomprenis."
+        },
+        {
+          "english": "My sincere apologies for the oversight.",
+          "russian": "Мои искренние извинения за оплошность.",
+          "spanish": "Mis sinceras disculpas por el descuido.",
+          "french": "Mes sincères excuses pour cet oubli.",
+          "german": "Meine aufrichtige Entschuldigung für das Versehen.",
+          "italian": "Le mie sincere scuse per la svista.",
+          "portuguese": "As minhas sinceras desculpas pelo descuido.",
+          "esperanto": "Miajn sincerajn pardonpetojn pro la neatento."
+        },
+        {
+          "english": "I take full responsibility for the mistake.",
+          "russian": "Я беру на себя полную ответственность за ошибку.",
+          "spanish": "Asumo toda la responsabilidad por el error.",
+          "french": "Je prends l'entière responsabilité de cette erreur.",
+          "german": "Ich übernehme die volle Verantwortung für den Fehler.",
+          "italian": "Mi assumo la piena responsabilità dell'errore.",
+          "portuguese": "Assumo total responsabilidade pelo erro.",
+          "esperanto": "Mi prenas plenan respondecon pri la eraro."
+        },
+        {
+          "english": "Please pardon the late response.",
+          "russian": "Пожалуйста, извините за поздний ответ.",
+          "spanish": "Por favor, disculpe la demora en responder.",
+          "french": "Veuillez excuser ma réponse tardive.",
+          "german": "Bitte entschuldigen Sie die verspätete Antwort.",
+          "italian": "La prego di scusare la risposta tardiva.",
+          "portuguese": "Por favor, desculpe a resposta tardia.",
+          "esperanto": "Bonvolu pardoni la malfruan respondon."
+        },
+        {
+          "english": "I deeply regret any inconvenience caused.",
+          "russian": "Глубоко сожалею о причиненных неудобствах.",
+          "spanish": "Lamento profundamente las molestias causadas.",
+          "french": "Je regrette profondément tout inconvénient causé.",
+          "german": "Ich bedauere zutiefst die entstandenen Unannehmlichkeiten.",
+          "italian": "Rimpiango profondamente qualsiasi inconveniente causato.",
+          "portuguese": "Lamento profundamente qualquer inconveniente causado.",
+          "esperanto": "Mi profunde bedaŭras ĉiujn kaŭzitajn ĝenojn."
+        },
+        {
+          "english": "I hope you can overlook my mistake.",
+          "russian": "Надеюсь, вы сможете закрыть глаза на мою ошибку.",
+          "spanish": "Espero que puedas pasar por alto mi error.",
+          "french": "J'espère que vous pourrez fermer les yeux sur mon erreur.",
+          "german": "Ich hoffe, Sie können über meinen Fehler hinwegsehen.",
+          "italian": "Spero che lei possa sorvolare sul mio errore.",
+          "portuguese": "Espero que você possa ignorar o meu erro.",
+          "esperanto": "Mi esperas, ke vi povos pretervidi mian eraron."
+        },
+        {
+          "english": "My bad, I will make sure it doesn't happen again.",
+          "russian": "Мой косяк, я сделаю все, чтобы это не повторилось.",
+          "spanish": "Culpa mía, me aseguraré de que no vuelva a suceder.",
+          "french": "Autant pour moi, je veillerai a ce que cela ne se reproduise plus.",
+          "german": "Mein Fehler, ich werde dafür sorgen, dass es nicht wieder vorkommt.",
+          "italian": "Errore mio, mi assicurerò che non accada di nuovo.",
+          "portuguese": "Erro meu, vou garantir que isso não aconteça novamente.",
+          "esperanto": "Mia eraro, mi certigos ke ĝi ne okazu denove."
+        },
+        {
+          "english": "Could you please do me a favor?",
+          "russian": "Не могли бы вы оказать мне услугу?",
+          "spanish": "¿Podrías hacerme un favor, por favor?",
+          "french": "Pourriez-vous me rendre un service, s'il vous plaît ?",
+          "german": "Könnten Sie mir bitte einen Gefallen tun?",
+          "italian": "Potresti farmi un favore, per favore?",
+          "portuguese": "Você poderia me fazer um favor, por favor?",
+          "esperanto": "Ĉu vi bonvolus fari al mi favoron?"
+        },
+        {
+          "english": "Would you mind assisting me with this?",
+          "russian": "Вы не против помочь мне с этим?",
+          "spanish": "¿Le importaría ayudarme con esto?",
+          "french": "Cela vous dérangerait-il de m'aider pour cela ?",
+          "german": "Würde es Ihnen etwas ausmachen, mir dabei zu helfen?",
+          "italian": "Le dispiacerebbe aiutarmi in questo?",
+          "portuguese": "Você se importaria de me ajudar com isso?",
+          "esperanto": "Ĉu vi ĝenus vin helpi min pri ĉi tio?"
+        },
+        {
+          "english": "If it isn't too much trouble, could you help?",
+          "russian": "Если вас не затруднит, не могли бы вы помочь?",
+          "spanish": "Si no es mucha molestia, ¿podrías ayudarme?",
+          "french": "Si ce n'est pas trop vous demander, pourriez-vous m'aider ?",
+          "german": "Wenn es nicht zu viele Umstände macht, könnten Sie helfen?",
+          "italian": "Se non disturbo troppo, potresti aiutarmi?",
+          "portuguese": "Se não for incômodo, você poderia ajudar?",
+          "esperanto": "Se ne estas tro da ĝeno, ĉu vi povus helpi?"
+        },
+        {
+          "english": "May I please have a moment of your time?",
+          "russian": "Можно уделить мне минутку вашего времени?",
+          "spanish": "¿Puedo robarle un momento de su tiempo, por favor?",
+          "french": "Puis-je vous emprunter un instant, s'il vous plaît ?",
+          "german": "Darf ich Sie um einen kurzen Augenblick bitten?",
+          "italian": "Posso avere un momento del suo tempo, per favore?",
+          "portuguese": "Poderia conceder-me um momento do seu tempo, por favor?",
+          "esperanto": "Ĉu mi povus peti momenton de via tempo?"
+        },
+        {
+          "english": "I would be extremely grateful if you could check this.",
+          "russian": "Я был бы чрезвычайно благодарен, если бы вы проверили это.",
+          "spanish": "Le estaría sumamente agradecido si pudiera revisar esto.",
+          "french": "Je vous serais extrêmement reconnaissant de bien vouloir vérifier cela.",
+          "german": "Ich wäre Ihnen sehr dankbar, wenn Sie das überprüfen könnten.",
+          "italian": "Le sarei estremamente grato se potesse verificare questo.",
+          "portuguese": "Ficaria extremamente grato(a) se pudesse verificar isto.",
+          "esperanto": "Mi estus ekstreme danka se vi povus kontroli ĉi tion."
+        },
+        {
+          "english": "Whenever you have a chance, could you look at this?",
+          "russian": "Как только появится возможность, не могли бы вы взглянуть на это?",
+          "spanish": "Cuando tenga una oportunidad, ¿podría mirar esto?",
+          "french": "Dès que vous aurez un moment, pourriez-vous jeter un œil à ceci ?",
+          "german": "Wenn Sie Zeit haben, könnten Sie sich das mal ansehen?",
+          "italian": "Appena ha un attimo, potrebbe dare un'occhiata a questo?",
+          "portuguese": "Quando tiver uma chance, você poderia dar uma olhada nisto?",
+          "esperanto": "Kiam vi havos ŝancon, ĉu vi povus rigardi ĉi tion?"
+        },
+        {
+          "english": "Would it be possible for you to join us?",
+          "russian": "Было бы возможно для вас присоединиться к нам?",
+          "spanish": "¿Sería posible que se uniera a nosotros?",
+          "french": "Serait-il possible que vous vous joigniez à nous ?",
+          "german": "Wäre es Ihnen möglich, sich uns anzuschließen?",
+          "italian": "Sarebbe possibile per lei unirsi a noi?",
+          "portuguese": "Seria possível você se juntar a nós?",
+          "esperanto": "Ĉu estus eble por vi aliĝi al ni?"
+        },
+        {
+          "english": "I would highly appreciate your input on this.",
+          "russian": "Я был бы очень признателен за ваше мнение по этому поводу.",
+          "spanish": "Agradecería mucho su opinión sobre esto.",
+          "french": "J'apprécierais grandement votre avis là-dessus.",
+          "german": "Ich würde Ihren Beitrag dazu sehr schätzen.",
+          "italian": "Apprezzerei molto il suo contributo su questo.",
+          "portuguese": "Agradeceria muito a sua opinião sobre isto.",
+          "esperanto": "Mi tre aprezus vian kontribuon pri tio."
+        },
+        {
+          "english": "Could I trouble you for a quick hand?",
+          "russian": "Могу я попросить вас протянуть мне руку помощи?",
+          "spanish": "¿Podría pedirte una mano rápidamente?",
+          "french": "Puis-je vous déranger pour un coup de main rapide ?",
+          "german": "Darf ich Sie kurz um Hilfe bitten?",
+          "italian": "Posso disturbarla per un piccolo aiuto?",
+          "portuguese": "Poderia incomodá-lo(a) por uma ajuda rápida?",
+          "esperanto": "Ĉu mi povus ĝeni vin por rapida helpo?"
+        },
+        {
+          "english": "If you are available, could you lend me your expertise?",
+          "russian": "Если вы свободны, не могли бы вы поделиться своим опытом?",
+          "spanish": "Si está disponible, ¿podría prestarme su experiencia?",
+          "french": "Si vous êtes disponible, pourriez-vous me faire profiter de votre expertise ?",
+          "german": "Wenn Sie verfügbar sind, könnten Sie mir mit Ihrem Fachwissen helfen?",
+          "italian": "Se è disponibile, potrebbe prestarmi la sua esperienza?",
+          "portuguese": "Se estiver disponível, poderia partilhar a sua experiência comigo?",
+          "esperanto": "Se vi estas disponebla, ĉu vi povus prunti al mi vian kompetentecon?"
+        },
+        {
+          "english": "After you, please.",
+          "russian": "После вас, пожалуйста.",
+          "spanish": "Después de usted, por favor.",
+          "french": "Après vous, je vous en prie.",
+          "german": "Nach Ihnen, bitte.",
+          "italian": "Prima lei, prego.",
+          "portuguese": "Depois de você, por favor.",
+          "esperanto": "Post vi, mi petas."
+        },
+        {
+          "english": "Please, make yourself at home.",
+          "russian": "Пожалуйста, чувствуйте себя как дома.",
+          "spanish": "Por favor, siéntase como en casa.",
+          "french": "Faites comme chez vous, je vous en prie.",
+          "german": "Fühlen Sie sich bitte wie zu Hause.",
+          "italian": "Prego, faccia come se fosse a casa sua.",
+          "portuguese": "Por favor, sinta-se em casa.",
+          "esperanto": "Bonvolu, senti vin kiel hejme."
+        },
+        {
+          "english": "Thank you for your valuable insight.",
+          "russian": "Спасибо за ваше ценное мнение.",
+          "spanish": "Gracias por su valiosa información.",
+          "french": "Merci pour votre précieuse contribution.",
+          "german": "Vielen Dank für Ihren wertvollen Einblick.",
+          "italian": "Grazie per la sua preziosa intuizione.",
+          "portuguese": "Obrigado(a) pela sua valiosa contribuição.",
+          "esperanto": "Dankon pro via valora kompreno."
+        },
+        {
+          "english": "I truly value your opinion on this matter.",
+          "russian": "Я искренне ценю ваше мнение по этому вопросу.",
+          "spanish": "Realmente valoro su opinión al respecto.",
+          "french": "Je valorise vraiment votre opinion sur ce sujet.",
+          "german": "Ich schätze Ihre Meinung in dieser Angelegenheit sehr.",
+          "italian": "Apprezzo davvero la sua opinione su questo argomento.",
+          "portuguese": "Eu realmente valorizo a sua opinião sobre este assunto.",
+          "esperanto": "Mi vere aprezas vian opinion pri ĉi tio."
+        },
+        {
+          "english": "It is an honor to assist you today.",
+          "russian": "Для меня честь помочь вам сегодня.",
+          "spanish": "Es un honor ayudarle hoy.",
+          "french": "C'est un honneur de vous aider aujourd'hui.",
+          "german": "Es ist mir eine Ehre, Ihnen heute zu helfen.",
+          "italian": "È un onore assisterla oggi.",
+          "portuguese": "É uma honra ajudá-lo(a) hoje.",
+          "esperanto": "Estas honoro helpi vin hodiaŭ."
+        },
+        {
+          "english": "Your patience is highly appreciated.",
+          "russian": "Мы очень ценим ваше терпение.",
+          "spanish": "Agradecemos enormemente su paciencia.",
+          "french": "Votre patience est grandement appréciée.",
+          "german": "Ihre Geduld wird sehr geschätzt.",
+          "italian": "La tua pazienza è molto apprezzata.",
+          "portuguese": "A sua paciência é muito apreciada.",
+          "esperanto": "Via pacienco estas tre aprezata."
+        },
+        {
+          "english": "Please take all the time you need.",
+          "russian": "Пожалуйста, не торопитесь, возьмите столько времени, сколько нужно.",
+          "spanish": "Por favor, tómese todo el tiempo que necesite.",
+          "french": "Prenez tout le temps dont vous avez besoin, s'il vous plaît.",
+          "german": "Bitte nehmen Sie sich alle Zeit, die Sie brauchen.",
+          "italian": "Prenda pure tutto il tempo che le serve.",
+          "portuguese": "Por favor, leve o tempo que precisar.",
+          "esperanto": "Bonvolu preni tiom da tempo kiom vi bezonas."
+        },
+        {
+          "english": "I am entirely at your service.",
+          "russian": "Я полностью к вашим услугам.",
+          "spanish": "Estoy completamente a su servicio.",
+          "french": "Je suis entièrement à votre service.",
+          "german": "Ich stehe Ihnen voll und ganz zur Verfügung.",
+          "italian": "Sono interamente al suo servizio.",
+          "portuguese": "Estou inteiramente ao seu dispor.",
+          "esperanto": "Mi estas tute je via servo."
+        },
+        {
+          "english": "Excuse me, please allow me to step aside.",
+          "russian": "Извините, разрешите мне отойти.",
+          "spanish": "Disculpe, por favor permítame apartarme.",
+          "french": "Excusez-moi, permettez-moi de m'écarter.",
+          "german": "Entschuldigung, erlauben Sie mir bitte, beiseitezutreten.",
+          "italian": "Scusi, mi permetta di fare un passo da parte.",
+          "portuguese": "Com licença, por favor, permita-me afastar-me.",
+          "esperanto": "Pardonu, bonvolu permesi min flankenpaŝi."
+        },
+        {
+          "english": "Thank you for sharing your thoughts with me.",
+          "russian": "Спасибо, что поделились со мной своими мыслями.",
+          "spanish": "Gracias por compartir tus pensamientos conmigo.",
+          "french": "Merci de partager vos réflexions avec moi.",
+          "german": "Vielen Dank, dass Sie Ihre Gedanken mit mir teilen.",
+          "italian": "Grazie per aver condiviso i suoi pensieri con me.",
+          "portuguese": "Obrigado(a) por partilhar os seus pensamentos comigo.",
+          "esperanto": "Dankon pro viaj pensoj kun mi."
+        }
+      ]
+    }
+  ]
+}

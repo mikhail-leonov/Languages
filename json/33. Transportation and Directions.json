@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Transportation & Directions",
+      "phrases": [
+        {
+          "english": "Excuse me, could you please tell me how to get to the nearest subway station?",
+          "russian": "Извините, не могли бы вы подсказать, как добраться до ближайшей станции метро?",
+          "spanish": "Disculpe, ¿podría decirme cómo llegar a la estación de metro más cercana, por favor?",
+          "french": "Excusez-moi, pourriez-vous me dire comment aller à la station de métro la plus proche, s'il vous plaît ?",
+          "german": "Entschuldigung, könnten Sie mir bitte sagen, wie ich zur nächsten U-Bahn-Station komme?",
+          "italian": "Scusi, potrebbe dirmi come arrivare alla stazione della metropolitana più vicina?",
+          "portuguese": "Com licença, você poderia me dizer como chegar à estação de metrô mais próxima?",
+          "esperanto": "Pardonu, ĉu vi povus diri al mi kiel atingi la plej proksiman metrostacion?"
+        },
+        {
+          "english": "Is this the correct way to the history museum?",
+          "russian": "Я правильно иду к историческому музею?",
+          "spanish": "¿Es este el camino correcto para ir al museo de historia?",
+          "french": "Est-ce le bon chemin pour aller au musée d'histoire ?",
+          "german": "Ist das der richtige Weg zum Historischen Museum?",
+          "italian": "È questa la strada giusta per il museo di storia?",
+          "portuguese": "Caminho certo para o museu de história é por aqui?",
+          "esperanto": "Ĉu ĉi tiu estas la ĝusta vojo al la historia muzeo?"
+        },
+        {
+          "english": "Go straight down this street for two blocks, then take a sharp right.",
+          "russian": "Идите прямо по этой улице два квартала, затем резко поверните направо.",
+          "spanish": "Siga recto por esta calle durante dos cuadras, luego gire bruscamente a la derecha.",
+          "french": "Allez tout droit sur cette rue pendant deux blocs, puis tournez complètement à droite.",
+          "german": "Gehen Sie auf dieser Straße zwei Häuserblöcke geradeaus und biegen Sie dann scharf rechts ab.",
+          "italian": "Vada dritto su questa strada per due isolati, poi svolti bruscamente a destra.",
+          "portuguese": "Vá direto por esta rua por dois quarteirões e depois dobre à direita bem fechado.",
+          "esperanto": "Iru rekte laŭ ĉi tiu strato por du blokoj, tiam turnu vin akre dekstren."
+        },
+        {
+          "english": "You will see a large blue building right across from the park.",
+          "russian": "Вы увидите большое синее здание прямо напротив парка.",
+          "spanish": "Verá un edificio azul grande justo enfrente del parque.",
+          "french": "Vous verrez un grand bâtiment bleu juste en face du parc.",
+          "german": "Sie werden ein großes blaues Gebäude direkt gegenüber dem Park sehen.",
+          "italian": "Vedrà un grande edificio blu proprio di fronte al parco.",
+          "portuguese": "Você vai ver um prédio azul grande bem em frente ao parque.",
+          "esperanto": "Vi vidos grandan bluan konstruaĵon rekte kontraŭ la parko."
+        },
+        {
+          "english": "Is the train station within walking distance from here?",
+          "russian": "До железнодорожного вокзала можно дойти пешком отсюда?",
+          "spanish": "¿La estación de tren está a poca distancia a pie desde aquí?",
+          "french": "La gare est-elle accessible à pied d'ici ?",
+          "german": "Ist der Bahnhof von hier aus zu Fuß erreichbar?",
+          "italian": "La stazione ferroviaria è raggiungibile a piedi da qui?",
+          "portuguese": "A estação de trem dá para ir a pé a partir daqui?",
+          "esperanto": "Ĉu la stacidomo estas atingebla piede de ĉi tie?"
+        },
+        {
+          "english": "Keep going until you hit the main intersection, then look left.",
+          "russian": "Продолжайте идти до главного перекрестка, затем посмотрите налево.",
+          "spanish": "Siga adelante hasta llegar a la intersección principal, luego mire a la izquierda.",
+          "french": "Continuez jusqu'au grand carrefour, puis regardez sur votre gauche.",
+          "german": "Gehen Sie weiter, bis Sie an die Hauptkreuzung kommen, und schauen Sie dann nach links.",
+          "italian": "Continui ad andare avanti fino al semaforo principale, poi guardi a sinistra.",
+          "portuguese": "Siga em frente até chegar ao cruzamento principal, depois olhe para a esquerda.",
+          "esperanto": "Daŭrigu ĝis vi atingos la ĉefan intersekciĝon, tiam rigardu maldekstren."
+        },
+        {
+          "english": "It is located right around the corner from the pharmacy.",
+          "russian": "Это находится прямо за углом от аптеки.",
+          "spanish": "Está ubicado justo a la vuelta de la esquina de la farmacia.",
+          "french": "Il est situé juste au coin de la rue, après la pharmacie.",
+          "german": "Es liegt direkt um die Ecke von der Apotheke.",
+          "italian": "Si trova proprio dietro l'angolo rispetto alla farmacia.",
+          "portuguese": "Fica logo ali na esquina da farmácia.",
+          "esperanto": "Ĝi situas ĝuste ĉirkaŭ la angulo de la apoteko."
+        },
+        {
+          "english": "I'm completely lost—could you point me toward downtown?",
+          "russian": "Я совершенно заблудился — не могли бы вы показать мне дорогу к центру города?",
+          "spanish": "Estoy completamente perdido, ¿podría indicarme cómo ir hacia el centro?",
+          "french": "Je suis complètement perdu, pourriez-vous m'indiquer la direction du centre-ville ?",
+          "german": "Ich habe mich total verlaufen – könnten Sie mir den Weg Richtung Innenstadt zeigen?",
+          "italian": "Mi sono perso completamente, potrebbe indicarmi la direzione per il centro?",
+          "portuguese": "Estou completamente perdido — você poderia me apontar a direção do centro da cidade?",
+          "esperanto": "Mi estas tute perdita — ĉu vi povus montri al mi la direkton al la urbocentro?"
+        },
+        {
+          "english": "You can't miss it; it's right next to the central library.",
+          "russian": "Вы не пройдете мимо; это прямо рядом с центральной библиотекой.",
+          "spanish": "No tiene pérdida; está justo al lado de la biblioteca central.",
+          "french": "Vous ne pouvez pas le rater ; c'est juste à côté de la bibliothèque centrale.",
+          "german": "Sie können es nicht verfehlen; es ist direkt neben der Zentralbibliothek.",
+          "italian": "Non può sbagliare; è proprio accanto alla biblioteca centrale.",
+          "portuguese": "Não tem erro; fica logo ao lado da biblioteca central.",
+          "esperanto": "Vi ne povas maltrafi ĝin; ĝi estas tuj apud la centra biblioteko."
+        },
+        {
+          "english": "Follow the signs pointing toward the highway entrance.",
+          "russian": "Следуйте по знакам, указывающим на въезд на шоссе.",
+          "spanish": "Siga las señales que apuntan hacia la entrada de la autopista.",
+          "french": "Suivez les panneaux indiquant l'entrée de l'autoroute.",
+          "german": "Folgen Sie den Schildern in Richtung Autobahnauffahrt.",
+          "italian": "Segua i cartelli che indicano l'ingresso dell'autostrada.",
+          "portuguese": "Siga as placas que indicam a entrada da rodovia.",
+          "esperanto": "Sekvu la ŝildojn indikantajn la aŭtostradan enirejon."
+        },
+        {
+          "english": "Which bus line do I need to take to get to the airport?",
+          "russian": "Какая автобусная линия мне нужна, чтобы добраться до аэропорта?",
+          "spanish": "¿Qué línea de autobús tengo que tomar para ir al aeropuerto?",
+          "french": "Quelle ligne de bus dois-je prendre pour aller à l'aéroport ?",
+          "german": "Welche Buslinie muss ich nehmen, um zum Flughafen zu kommen?",
+          "italian": "Quale linea dell'autobus devo prendere per andare all'aeroporto?",
+          "portuguese": "Qual linha de ônibus eu preciso pegar para ir para o aeroporto?",
+          "esperanto": "Kiun buslinion mi bezonas preni por atingi la flughavenon?"
+        },
+        {
+          "english": "Does this specific train stop at the central station?",
+          "russian": "Этот конкретный поезд останавливается на центральном вокзале?",
+          "spanish": "¿Este tren en específico para en la estación central?",
+          "french": "Est-ce que ce train s'arrête à la gare centrale ?",
+          "german": "Hält dieser bestimmte Zug am Hauptbahnhof?",
+          "italian": "Questo treno specifico ferma alla stazione centrale?",
+          "portuguese": "Esse trem específico para na estação central?",
+          "esperanto": "Ĉu ĉi tiu specifa trajno haltas ĉe la centra stacidomo?"
+        },
+        {
+          "english": "How often do the commuter trains run on weekends?",
+          "russian": "Как часто ходят пригородные поезда по выходным?",
+          "spanish": "¿Con qué frecuencia pasan los trenes de cercanías los fines de semana?",
+          "french": "À quelle fréquence circulent les trains de banlieue le week-end ?",
+          "german": "Wie oft fahren die Pendlerzüge am Wochenende?",
+          "italian": "Ogni quanto passano i treni regionali nei fine settimana?",
+          "portuguese": "Com que frequência os trens de subúrbio circulam nos fins de semana?",
+          "esperanto": "Kiom ofte la antaŭurbaj trajnoj veturas dum semajnfinoj?"
+        },
+        {
+          "english": "You need to transfer to the green line at the next stop.",
+          "russian": "Вам нужно пересесть на зеленую линию на следующей остановке.",
+          "spanish": "Tiene que hacer transbordo a la línea verde en la próxima parada.",
+          "french": "Vous devez changer pour la ligne verte à la prochaine station.",
+          "german": "Sie müssen an der nächsten Haltestelle in die grüne Linie umsteigen.",
+          "italian": "Deve prendere la coincidenza con la linea verde alla prossima fermata.",
+          "portuguese": "Você precisa fazer a transferência para a linha verde na próxima parada.",
+          "esperanto": "Vi bezonas transiri al la verda linio ĉe la sekva haltejo."
+        },
+        {
+          "english": "Is this seat currently occupied, or may I sit here?",
+          "russian": "Это место сейчас занято или я могу присесть?",
+          "spanish": "¿Este asiento está ocupado o puedo sentarme aquí?",
+          "french": "Cette place est-elle occupée, ou puis-je m'asseoir ici ?",
+          "german": "Ist dieser Platz frei oder darf ich mich hierhin setzen?",
+          "italian": "Questo posto è occupato o posso sedermi qui?",
+          "portuguese": "Este assento está ocupado ou posso me sentar aqui?",
+          "esperanto": "Ĉu ĉi tiu sidloko estas okupita, aŭ ĉu mi povas sidi ĉi tie?"
+        },
+        {
+          "english": "Where can I purchase a multi-day transit pass?",
+          "russian": "Где я могу купить многодневный проездной билет?",
+          "spanish": "¿Dónde puedo comprar un pase de transporte para varios días?",
+          "french": "Où puis-je acheter un titre de transport multi-jours ?",
+          "german": "Wo kann ich ein Mehrtagesticket für die öffentlichen Verkehrsmittel kaufen?",
+          "italian": "Dove posso acquistare un abbonamento per i mezzi pubblici valido più giorni?",
+          "portuguese": "Onde posso comprar um bilhete de transporte para múltiplos dias?",
+          "esperanto": "Kie mi povas aĉeti plur-tagan transitbileton?"
+        },
+        {
+          "english": "Mind the gap between the train and the platform.",
+          "russian": "Осторожно, обращайте внимание на зазор между поездом и платформой.",
+          "spanish": "Cuidado con el espacio entre el tren y el andén.",
+          "french": "Attention à la marche entre le train et le quai.",
+          "german": "Bitte beachten Sie die Lücke zwischen Zug und Bahnsteigkante.",
+          "italian": "Attenzione allo spazio vuoto tra il treno e la banchina.",
+          "portuguese": "Cuidado com o vão entre o trem e a plataforma.",
+          "esperanto": "Atentu la interspacon inter la trajno kaj la kajo."
+        },
+        {
+          "english": "This bus is completely packed; we might have to wait for the next one.",
+          "russian": "Этот автобус забит до отказа; возможно, нам придется ждать следующего.",
+          "spanish": "Este autobús está completamente lleno; puede que tengamos que esperar al siguiente.",
+          "french": "Ce bus est bondé ; on va peut-être devoir attendre le suivant.",
+          "german": "Dieser Bus ist absolut voll; wir müssen vielleicht auf den nächsten warten.",
+          "italian": "Questo autobus è strapieno; forse ci toccherà aspettare il prossimo.",
+          "portuguese": "Esse ônibus está lotado; talvez a gente tenha que esperar pelo próximo.",
+          "esperanto": "Ĉi tiu buso estas tute plena; eble ni devos atendi la sekvan."
+        },
+        {
+          "english": "What is the final destination of this eastbound train?",
+          "russian": "Каков конечный пункт назначения этого поезда, идущего на восток?",
+          "spanish": "¿Cuál es el destino final de este tren que va hacia el este?",
+          "french": "Quel est le terminus de ce train en direction de l'est ?",
+          "german": "Was ist die Endstation dieses Zuges in Richtung Osten?",
+          "italian": "Qual è il capolinea di questo treno diretto a est?",
+          "portuguese": "Qual é o destino final desse trem que vai para o leste?",
+          "esperanto": "Kio estas la fina destino de ĉi tiu orient-ireja trajno?"
+        },
+        {
+          "english": "Excuse me, this is my stop—allow me to squeeze past you.",
+          "russian": "Извините, это моя остановка — разрешите протиснуться мимо вас.",
+          "spanish": "Disculpe, esta es mi parada; déjeme pasar, por favor.",
+          "french": "Excusez-moi, c'est mon arrêt — laissez-moi passer, s'il vous plaît.",
+          "german": "Entschuldigung, das ist meine Haltestelle – lassen Sie mich bitte kurz vorbei.",
+          "italian": "Scusi, questa è la mia fermata — mi lasci passare, per favore.",
+          "portuguese": "Com licença, essa é a minha parada — deixa eu passar por aqui.",
+          "esperanto": "Pardonu, ĉi tio estas mia haltejo — permesu min preterpasi."
+        },
+        {
+          "english": "Could you please take me to this specific address?",
+          "russian": "Не могли бы вы отвезти меня по этому конкретному адресу?",
+          "spanish": "¿Podría llevarme a esta dirección en particular, por favor?",
+          "french": "Pourriez-vous m'emmener à cette adresse précise, s'il vous plaît ?",
+          "german": "Könnten Sie mich bitte zu dieser Adresse bringen?",
+          "italian": "Potrebbe portarmi a questo indirizzo specifico, per favore?",
+          "portuguese": "Você poderia me levar para este endereço específico, por favor?",
+          "esperanto": "Ĉu vi bonvolus veturigi min al ĉi tiu specifa adreso?"
+        },
+        {
+          "english": "How much will the estimated fare be to the hotel?",
+          "russian": "Сколько примерно будет стоить поездка до отеля?",
+          "spanish": "¿Cuál será la tarifa estimada hasta el hotel?",
+          "french": "À combien s'élèvent les frais estimés pour aller à l'hôtel ?",
+          "german": "Wie hoch ist der geschätzte Fahrpreis bis zum Hotel?",
+          "italian": "A quanto ammonterà la tariffa indicativa per l'hotel?",
+          "portuguese": "Quanto vai dar mais ou menos a corrida até o hotel?",
+          "esperanto": "Kiom estos la taksita tarifo al la hotelo?"
+        },
+        {
+          "english": "Just pull up right here next to the curb, please.",
+          "russian": "Просто притормозите прямо здесь, у обочины, пожалуйста.",
+          "spanish": "Deténgase justo aquí junto a la acera, por favor.",
+          "french": "Garez-vous juste là contre le trottoir, s'il vous plaît.",
+          "german": "Halten Sie einfach direkt hier am Bordstein, bitte.",
+          "italian": "Si accosti pure qui vicino al marciapiede, grazie.",
+          "portuguese": "Pode encostar bem aqui junto ao meio-fio, por favor.",
+          "esperanto": "Bonvolu halti ĝuste ĉi tie apud la trotuaro."
+        },
+        {
+          "english": "Keep the change; thank you very much for the ride!",
+          "russian": "Сдачи не надо; большое спасибо за поездку!",
+          "spanish": "Quédese con el cambio; ¡muchas gracias por el viaje!",
+          "french": "Gardez la monnaie ; merci beaucoup pour la course !",
+          "german": "Stimmt so, danke für die Fahrt!",
+          "italian": "Tenga pure il resto; grazie mille per la corsa!",
+          "portuguese": "Fique com o troco; muito obrigado pela corrida!",
+          "esperanto": "Retenu la reston; dankegon por la veturo!"
+        },
+        {
+          "english": "I have a rideshare vehicle arriving in about three minutes.",
+          "russian": "Моя машина из службы такси (каршеринга) прибудет примерно через три минуты.",
+          "spanish": "Tengo un vehículo de app de transporte llegando en unos tres minutos.",
+          "french": "Mon chauffeur Uber/VTC arrive dans environ trois minutes.",
+          "german": "Mein bestellter Fahrdienst kommt in ungefähr drei Minuten an.",
+          "italian": "Ho un'auto a noleggio con conducente che arriva tra circa tre minuti.",
+          "portuguese": "O meu carro de aplicativo chega em uns três minutos.",
+          "esperanto": "Mi havas kunveturigan veturilon alvenantan post ĉirkaŭ tri minutoj."
+        },
+        {
+          "english": "Could we please make one quick stop along the way?",
+          "russian": "Мы можем сделать одну быструю остановку по дороге, пожалуйста?",
+          "spanish": "¿Podríamos hacer una parada rápida en el camino, por favor?",
+          "french": "Pourrions-nous faire un petit arrêt rapide en chemin, s'il vous plaît ?",
+          "german": "Könnten wir unterwegs kurz einen Zwischenstopp einlegen?",
+          "italian": "Potremmo fare una sosta veloce lungo la strada, per favore?",
+          "portuguese": "Poderíamos fazer uma parada rapidinha no caminho, por favor?",
+          "esperanto": "Ĉu ni povus fari unu rapidan halton survoje?"
+        },
+        {
+          "english": "Is there enough room in the trunk for three large suitcases?",
+          "russian": "Достаточно ли места в багажнике для трех больших чемоданов?",
+          "spanish": "¿Hay suficiente espacio en el maletero para tres maletas grandes?",
+          "french": "Y a-t-il assez de place dans le coffre pour trois grandes valises ?",
+          "german": "Ist im Kofferraum genug Platz für drei große Koffer?",
+          "italian": "C'è abbastanza spazio nel bagagliaio per tre valigie grandi?",
+          "portuguese": "Tem espaço suficiente no porta-malas para três malas grandes?",
+          "esperanto": "Ĉu estas sufiĉe da spaco en la kofrujo por tri grandaj valizoj?"
+        },
+        {
+          "english": "Please turn on the air conditioning if you don't mind.",
+          "russian": "Пожалуйста, включите кондиционер, если вас не затруднит.",
+          "spanish": "Por favor, encienda el aire acondicionado si no le importa.",
+          "french": "S'il vous plaît, allumez la climatisation si ça ne vous dérange pas.",
+          "german": "Schalten Sie bitte die Klimaanlage ein, wenn es Ihnen nichts ausmacht.",
+          "italian": "Per favore, accenda l'aria condizionata se non le dispiace.",
+          "portuguese": "Por favor, ligue o ar-condicionado se não for incomodar.",
+          "esperanto": "Bonvolu ŝalti la klimatizilon se ne ĝenas."
+        },
+        {
+          "english": "I need to update the drop-off location inside the app.",
+          "russian": "Мне нужно изменить место высадки внутри приложения.",
+          "spanish": "Necesito actualizar el lugar de destino dentro de la aplicación.",
+          "french": "Je dois modifier le lieu de dépose dans l'application.",
+          "german": "Ich muss den Zielort in der App aktualisieren.",
+          "italian": "Devo aggiornare la destinazione all'interno dell'applicazione.",
+          "portuguese": "Preciso atualizar o local de desembarque no aplicativo.",
+          "esperanto": "Mi bezonas ĝisdatigi la ellokon en la apo."
+        },
+        {
+          "english": "Thank you for navigating through that terrible traffic.",
+          "russian": "Спасибо, что справились с этим ужасным движением на дороге.",
+          "spanish": "Gracias por sortear ese tráfico tan terrible.",
+          "french": "Merci d'avoir réussi à rouler au milieu de ce terrible trafic.",
+          "german": "Vielen Dank, dass Sie uns durch diesen schrecklichen Verkehr gelotst haben.",
+          "italian": "Grazie per essersela cavata in mezzo a questo traffico terribile.",
+          "portuguese": "Obrigado(a) por conseguir passar por esse trânsito terrível.",
+          "esperanto": "Dankon pro trapasi tiun teruran trafikon."
+        },
+        {
+          "english": "Is there any public parking available near the venue?",
+          "russian": "Есть ли общественная парковка рядом с местом проведения мероприятия?",
+          "spanish": "¿Hay algún estacionamiento público disponible cerca del lugar?",
+          "french": "Y a-t-il un parking public disponible près du lieu de l'événement ?",
+          "german": "Gibt es öffentliche Parkplätze in der Nähe des Veranstaltungsorts?",
+          "italian": "C'è un parcheggio pubblico disponibile vicino alla struttura?",
+          "portuguese": "Tem algum estacionamento público disponível perto do local do evento?",
+          "esperanto": "Ĉu estas publika parkado havebla apud la ejo?"
+        },
+        {
+          "english": "The traffic on the freeway is completely backed up for miles.",
+          "russian": "Движение на автомагистрали полностью парализовано на мили вперед.",
+          "spanish": "El tráfico en la autopista está totalmente congestionado durante millas.",
+          "french": "La circulation sur l'autoroute est complètement bloquée sur des kilomètres.",
+          "german": "Der Verkehr auf der Autobahn staut sich kilometerweit komplett zurück.",
+          "italian": "Il traffico sull'autostrada è completamente bloccato per chilometri.",
+          "portuguese": "O trânsito na rodovia está completamente travado por quilômetros.",
+          "esperanto": "La trafiko sur la aŭtovojo estas tute ŝtopita dum mejloj."
+        },
+        {
+          "english": "We need to pull over at the next gas station to fill up.",
+          "russian": "Нам нужно заехать на следующую заправку, чтобы заправиться.",
+          "spanish": "Tenemos que detenernos en la próxima gasolinera para cargar combustible.",
+          "french": "On doit s'arrêter à la prochaine station-service pour faire le plein.",
+          "german": "Wir müssen an der nächsten Tankstelle ranfahren, um vollzutanken.",
+          "italian": "Dobbiamo accostare alla prossima stazione di servizio per fare il pieno.",
+          "portuguese": "Precisamos encostar no próximo posto de gasolina para abastecer.",
+          "esperanto": "Ni bezonas flankeniri ĉe la sekva benzinstacio por plenigi."
+        },
+        {
+          "english": "Make sure to watch out for the speed cameras on this road.",
+          "russian": "Обязательно следите за камерами контроля скорости на этой дороге.",
+          "spanish": "Asegúrese de estar atento a las cámaras de velocidad en esta carretera.",
+          "french": "Faites attention aux radars automatiques sur cette route.",
+          "german": "Achten Sie unbedingt auf die Blitzer auf dieser Straße.",
+          "italian": "Faccia attenzione agli autovelox su questa strada.",
+          "portuguese": "Fique atento aos radares de velocidade nesta estrada.",
+          "esperanto": "Atentu la rapidmezurilojn sur ĉi tiu vojo."
+        },
+        {
+          "english": "Do I need to pay the parking meter during the weekend?",
+          "russian": "Нужно ли мне оплачивать парковочный автомат в выходные дни?",
+          "spanish": "¿Tengo que pagar el parquímetro durante el fin de semana?",
+          "french": "Faut-il payer le parcmètre pendant le week-end ?",
+          "german": "Muss ich am Wochenende Gebühren am Parkscheinautomaten bezahlen?",
+          "italian": "Bisogna pagare il parchimetro durante il fine settimana?",
+          "portuguese": "Preciso pagar o parquímetro durante o fim de semana?",
+          "esperanto": "Ĉu mi devas pagi la parkometron dum la semajnfino?"
+        },
+        {
+          "english": "Take the next exit to bypass the construction zone ahead.",
+          "russian": "Воспользуйтесь следующим съездом, чтобы объехать зону дорожных работ впереди.",
+          "spanish": "Tome la siguiente salida para esquivar la zona de obras de más adelante.",
+          "french": "Prenez la prochaine sortie pour contourner la zone de travaux qui est devant.",
+          "german": "Nehmen Sie die nächste Ausfahrt, um die Baustelle da vorne zu umfahren.",
+          "italian": "Prenda la prossima uscita per evitare la zona dei lavori in corso più avanti.",
+          "portuguese": "Pegue a próxima saída para desviar da área em obras logo à frente.",
+          "esperanto": "Prenu la sekvan elveturejon por preterpasi la konstruzonon antaŭe."
+        },
+        {
+          "english": "The GPS is telling us to make a U-turn as soon as possible.",
+          "russian": "GPS-навигатор говорит нам развернуться при первой возможности.",
+          "spanish": "El GPS nos está indicando que hagamos un giro en U lo antes posible.",
+          "french": "Le GPS nous dit de faire demi-tour dès que possible.",
+          "german": "Das Navi sagt uns, wir sollen so bald wie möglich umdrehen.",
+          "italian": "Il GPS ci dice di fare inversione a U non appena possibile.",
+          "portuguese": "O GPS está mandando a gente fazer o retorno assim que puder.",
+          "esperanto": "La GPS diras al ni fari turniĝon kiel eble plej baldaŭ."
+        },
+        {
+          "english": "Is this area designated as a residential parking zone?",
+          "russian": "Является ли эта зона жилой парковкой (для резидентов)?",
+          "spanish": "¿Esta zona está asignada como estacionamiento para residentes?",
+          "french": "Cette zone est-elle réservée au stationnement résidentiel ?",
+          "german": "Ist dieser Bereich als Anwohnerparkzone ausgewiesen?",
+          "italian": "Questa zona è riservata al parcheggio dei residenti?",
+          "portuguese": "Esta área é exclusiva para estacionamento de moradores?",
+          "esperanto": "Ĉu ĉi tiu areo estas rezervita por loĝantaj parkumado?"
+        },
+        {
+          "english": "Watch your blind spot before you change lanes on the highway.",
+          "russian": "Проверяйте слепую зону перед тем, как перестраиваться на шоссе.",
+          "spanish": "Revise su punto ciego antes de cambiar de carril en la autopista.",
+          "french": "Vérifiez votre angle mort avant de changer de voie sur l'autoroute.",
+          "german": "Achten Sie auf den toten Winkel, bevor Sie auf der Autobahn die Spur wechseln.",
+          "italian": "Controlli l'angolo cieco prima di cambiare corsia in autostrada.",
+          "portuguese": "Olhe o ponto cego antes de mudar de faixa na rodovia.",
+          "esperanto": "Kontrolu vian blindan punkton antaŭ ol ŝanĝi vojon sur la aŭtovojo."
+        },
+        {
+          "english": "It is absolute gridlock downtown due to the festival road closures.",
+          "russian": "В центре города полнейший коллапс на дорогах из-за перекрытий в связи с фестивалем.",
+          "spanish": "Hay un embotellamiento total en el centro debido a los cortes de calle por el festival.",
+          "french": "C'est l'embouteillage complet en centre-ville à cause des routes fermées pour le festival.",
+          "german": "In der Innenstadt herrscht absoluter Stillstand wegen der Straßensperrungen für das Festival.",
+          "italian": "Il centro è completamente bloccato a causa della chiusura delle strade per il festival.",
+          "portuguese": "O trânsito está um caos total no centro devido aos bloqueios de ruas por causa do festival.",
+          "esperanto": "Estas absoluta trafika blokado en la urbocentro pro la festivalaj vojfermoj."
+        },
+        {
+          "english": "Where is the check-in desk for international flights?",
+          "russian": "Где находится стойка регистрации на международные рейсы?",
+          "spanish": "¿Dónde está el mostrador de facturación para vuelos internacionales?",
+          "french": "Où se trouve le comptoir d'enregistrement pour les vols internationaux ?",
+          "german": "Wo ist der Check-in-Schalter für internationale Flüge?",
+          "italian": "Dove si trova il banco dell'accettazione per i voli internazionali?",
+          "portuguese": "Onde fica o balcão de check-in para voos internacionais?",
+          "esperanto": "Kie estas la enregistra tablo por internaciaj flugoj?"
+        },
+        {
+          "english": "I need to drop off my oversized baggage right here.",
+          "russian": "Мне нужно сдать свой крупногабаритный багаж прямо здесь.",
+          "spanish": "Tengo que dejar mi equipaje facturado de gran tamaño justo aquí.",
+          "french": "Je dois déposer mes bagages hors format ici même.",
+          "german": "Ich muss mein Sperrgepäck direkt hier abgeben.",
+          "italian": "Devo lasciare il mio bagaglio fuori misura proprio qui.",
+          "portuguese": "Preciso despachar a minha bagagem fora do padrão bem aqui.",
+          "esperanto": "Mi bezonas deponi mian trograndan pakaĵon ĝuste ĉi tie."
+        },
+        {
+          "english": "What gate is the flight to London departing from?",
+          "russian": "От какого выхода (гейта) вылетает рейс в Лондон?",
+          "spanish": "¿De qué puerta sale el vuelo a Londres?",
+          "french": "De quelle porte part le vol pour Londres ?",
+          "german": "Von welchem Gate fliegt die Maschine nach London ab?",
+          "italian": "Da quale gate parte il volo per Londra?",
+          "portuguese": "De qual portão sai o voo para Londres?",
+          "esperanto": "De kiu pordego forflugas la flugo al Londono?"
+        },
+        {
+          "english": "The security line is moving incredibly slow this morning.",
+          "russian": "Очередь на досмотр движется невероятно медленно сегодня утром.",
+          "spanish": "La fila de seguridad se está moviendo increíblemente lento esta mañana.",
+          "french": "La file d'attente pour la sécurité avance incroyablement lentement ce matin.",
+          "german": "Die Schlange an der Sicherheitskontrolle bewegt sich heute Morgen unglaublich langsam.",
+          "italian": "La fila per i controlli di sicurezza si muove in modo incredibilmente lento stamattina.",
+          "portuguese": "A fila da segurança está andando incrivelmente devagar esta manhã.",
+          "esperanto": "La sekureca vico moviĝas nekredeble malrapide ĉi-matene."
+        },
+        {
+          "english": "I'm afraid my flight has been completely canceled due to weather.",
+          "russian": "Боюсь, что мой рейс полностью отменили из-за погодных условий.",
+          "spanish": "Me temo que mi vuelo ha sido cancelado por completo debido al clima.",
+          "french": "Je crains que mon vol n'ait été complètement annulé en raison des conditions météorologiques.",
+          "german": "Ich befürchte, mein Flug wurde wegen des Wetters komplett gestrichen.",
+          "italian": "Temo che il mio volo sia stato completamente cancellato a causa del maltempo.",
+          "portuguese": "Infelizmente, o meu voo foi totalmente cancelado por causa do mau tempo.",
+          "esperanto": "Mi timas ke mia flugo estis tute nuligita pro la vetero."
+        },
+        {
+          "english": "Where can I find the baggage claim area for arrival flight 402?",
+          "russian": "Где я могу найти зону выдачи багажа для прибывающего рейса 402?",
+          "spanish": "¿Dónde puedo encontrar el área de reclamo de equipaje para el vuelo de llegada 402?",
+          "french": "Où se trouve la zone de récupération des bagages pour le vol d'arrivée 402 ?",
+          "german": "Wo finde ich die Gepäckausgabe für den ankommenden Flug 402?",
+          "italian": "Dove posso trovare l'area di ritiro bagagli per il volo in arrivo 402?",
+          "portuguese": "Onde fica a área de restituição de bagagem para o voo de chegada 402?",
+          "esperanto": "Kie mi povas trovi la pakaĵ-ricevan areon por alvena flugo 402?"
+        },
+        {
+          "english": "Please place all liquids in a clear, separate bin.",
+          "russian": "Пожалуйста, положите все жидкости в отдельный прозрачный контейнер.",
+          "spanish": "Por favor, coloque todos los líquidos en una bandeja transparente y separada.",
+          "french": "Veuillez placer tous les liquides dans un bac transparent séparé.",
+          "german": "Bitte legen Sie alle Flüssigkeiten in einen durchsichtigen, separaten Behälter.",
+          "italian": "Per favore, riponga tutti i liquidi in una vaschetta trasparente separata.",
+          "portuguese": "Por favor, coloque todos os líquidos em uma bandeja plástica separada e transparente.",
+          "esperanto": "Bonvolu meti ĉiujn likvaĵojn en travideblan, apartan ujon."
+        },
+        {
+          "english": "Is this flight currently boarding, or is it delayed?",
+          "russian": "На этот рейс сейчас идет посадка или он задерживается?",
+          "spanish": "¿Este vuelo está embarcando actualmente o está retrasado?",
+          "french": "Ce vol est-il en cours d'embarquement, ou est-il retardé ?",
+          "german": "Wird für diesen Flug bereits das Boarding durchgeführt oder ist er verspätet?",
+          "italian": "L'imbarco di questo volo è già iniziato o è in ritardo?",
+          "portuguese": "Este voo já está embarcando ou está atrasado?",
+          "esperanto": "Ĉu ĉi tiu flugo nun enŝipiĝas, aŭ ĉu ĝi estas prokrastita?"
+        },
+        {
+          "english": "My carry-on bag easily fits inside the overhead compartment.",
+          "russian": "Моя ручная кладь легко помещается на багажной полке сверху.",
+          "spanish": "Mi equipaje de mano cabe fácilmente dentro del compartimento superior.",
+          "french": "Mon bagage cabine rentre facilement dans le compartiment à bagages supérieur.",
+          "german": "Mein Handgepäck passt problemlos in das Gepäckfach über dem Sitz.",
+          "italian": "Il mio bagaglio a mano entra facilmente nella cappelliera.",
+          "portuguese": "A minha bagagem de mão cabe facilmente no compartimento superior.",
+          "esperanto": "Mia manpakaĵo facile eniras la supran pakaĵujon."
+        },
+        {
+          "english": "I need to show my boarding pass and passport to the agent.",
+          "russian": "Мне нужно показать свой посадочный талон и паспорт сотруднику.",
+          "spanish": "Tengo que mostrar mi tarjeta de embarque y pasaporte al agente.",
+          "french": "Je dois présenter ma carte d'embarquement et mon passeport à l'agent.",
+          "german": "Ich muss dem Mitarbeiter meine Bordkarte und meinen Reisepass vorzeigen.",
+          "italian": "Devo mostrare la carta d'imbarco e il passaporto all'addetto.",
+          "portuguese": "Preciso mostrar o meu cartão de embarque e o passaporte para o funcionário.",
+          "esperanto": "Mi bezonas montri mian enirbileton kaj pasporton al la agento."
+        }
+      ]
+    }
+  ]
+}

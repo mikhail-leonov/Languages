@@ -1,0 +1,859 @@
+{
+  "categories": [
+    {
+      "name": "Daily Life and Home",
+      "phrases": [
+        {
+          "english": "house",
+          "russian": "дом",
+          "spanish": "casa",
+          "french": "maison",
+          "german": "Haus",
+          "portuguese": "casa",
+          "italian": "casa",
+          "esperanto": "domo"
+        },
+        {
+          "english": "home",
+          "russian": "дом",
+          "spanish": "hogar",
+          "french": "foyer",
+          "german": "Zuhause",
+          "portuguese": "lar",
+          "italian": "casa",
+          "esperanto": "hejmo"
+        },
+        {
+          "english": "apartment",
+          "russian": "квартира",
+          "spanish": "apartamento",
+          "french": "appartement",
+          "german": "Wohnung",
+          "portuguese": "apartamento",
+          "italian": "appartamento",
+          "esperanto": "apartamento"
+        },
+        {
+          "english": "room",
+          "russian": "комната",
+          "spanish": "habitación",
+          "french": "pièce",
+          "german": "Zimmer",
+          "portuguese": "quarto",
+          "italian": "stanza",
+          "esperanto": "ĉambro"
+        },
+        {
+          "english": "bedroom",
+          "russian": "спальня",
+          "spanish": "dormitorio",
+          "french": "chambre",
+          "german": "Schlafzimmer",
+          "portuguese": "quarto de dormir",
+          "italian": "camera da letto",
+          "esperanto": "dormoĉambro"
+        },
+        {
+          "english": "bathroom",
+          "russian": "ванная",
+          "spanish": "baño",
+          "french": "salle de bain",
+          "german": "Badezimmer",
+          "portuguese": "casa de banho",
+          "italian": "bagno",
+          "esperanto": "banĉambro"
+        },
+        {
+          "english": "kitchen",
+          "russian": "кухня",
+          "spanish": "cocina",
+          "french": "cuisine",
+          "german": "Küche",
+          "portuguese": "cozinha",
+          "italian": "cucina",
+          "esperanto": "kuirejo"
+        },
+        {
+          "english": "living room",
+          "russian": "гостиная",
+          "spanish": "salón",
+          "french": "salon",
+          "german": "Wohnzimmer",
+          "portuguese": "sala de estar",
+          "italian": "soggiorno",
+          "esperanto": "salono"
+        },
+        {
+          "english": "dining room",
+          "russian": "столовая",
+          "spanish": "comedor",
+          "french": "salle à manger",
+          "german": "Esszimmer",
+          "portuguese": "sala de jantar",
+          "italian": "sala da pranzo",
+          "esperanto": "manĝoĉambro"
+        },
+        {
+          "english": "hallway",
+          "russian": "коридор",
+          "spanish": "pasillo",
+          "french": "couloir",
+          "german": "Flur",
+          "portuguese": "corredor",
+          "italian": "corridoio",
+          "esperanto": "koridoro"
+        },
+        {
+          "english": "balcony",
+          "russian": "балкон",
+          "spanish": "balcón",
+          "french": "balcon",
+          "german": "Balkon",
+          "portuguese": "varanda",
+          "italian": "balcone",
+          "esperanto": "balkono"
+        },
+        {
+          "english": "garage",
+          "russian": "гараж",
+          "spanish": "garaje",
+          "french": "garage",
+          "german": "Garage",
+          "portuguese": "garagem",
+          "italian": "garage",
+          "esperanto": "garaĝo"
+        },
+        {
+          "english": "garden",
+          "russian": "сад",
+          "spanish": "jardín",
+          "french": "jardin",
+          "german": "Garten",
+          "portuguese": "jardim",
+          "italian": "giardino",
+          "esperanto": "ĝardeno"
+        },
+        {
+          "english": "stairs",
+          "russian": "лестница",
+          "spanish": "escaleras",
+          "french": "escalier",
+          "german": "Treppe",
+          "portuguese": "escadas",
+          "italian": "scale",
+          "esperanto": "ŝtuparo"
+        },
+        {
+          "english": "door",
+          "russian": "дверь",
+          "spanish": "puerta",
+          "french": "porte",
+          "german": "Tür",
+          "portuguese": "porta",
+          "italian": "porta",
+          "esperanto": "pordo"
+        },
+        {
+          "english": "window",
+          "russian": "окно",
+          "spanish": "ventana",
+          "french": "fenêtre",
+          "german": "Fenster",
+          "portuguese": "janela",
+          "italian": "finestra",
+          "esperanto": "fenestro"
+        },
+        {
+          "english": "wall",
+          "russian": "стена",
+          "spanish": "pared",
+          "french": "mur",
+          "german": "Wand",
+          "portuguese": "parede",
+          "italian": "parete",
+          "esperanto": "muro"
+        },
+        {
+          "english": "floor",
+          "russian": "пол",
+          "spanish": "suelo",
+          "french": "sol",
+          "german": "Boden",
+          "portuguese": "chão",
+          "italian": "pavimento",
+          "esperanto": "planko"
+        },
+        {
+          "english": "ceiling",
+          "russian": "потолок",
+          "spanish": "techo",
+          "french": "plafond",
+          "german": "Decke",
+          "portuguese": "teto",
+          "italian": "soffitto",
+          "esperanto": "plafono"
+        },
+        {
+          "english": "roof",
+          "russian": "крыша",
+          "spanish": "tejado",
+          "french": "toit",
+          "german": "Dach",
+          "portuguese": "telhado",
+          "italian": "tetto",
+          "esperanto": "tegmento"
+        },
+        {
+          "english": "bed",
+          "russian": "кровать",
+          "spanish": "cama",
+          "french": "lit",
+          "german": "Bett",
+          "portuguese": "cama",
+          "italian": "letto",
+          "esperanto": "lito"
+        },
+        {
+          "english": "table",
+          "russian": "стол",
+          "spanish": "mesa",
+          "french": "table",
+          "german": "Tisch",
+          "portuguese": "mesa",
+          "italian": "tavolo",
+          "esperanto": "tablo"
+        },
+        {
+          "english": "chair",
+          "russian": "стул",
+          "spanish": "silla",
+          "french": "chaise",
+          "german": "Stuhl",
+          "portuguese": "cadeira",
+          "italian": "sedia",
+          "esperanto": "seĝo"
+        },
+        {
+          "english": "sofa",
+          "russian": "диван",
+          "spanish": "sofá",
+          "french": "canapé",
+          "german": "Sofa",
+          "portuguese": "sofá",
+          "italian": "divano",
+          "esperanto": "sofo"
+        },
+        {
+          "english": "wardrobe",
+          "russian": "шкаф",
+          "spanish": "armario",
+          "french": "armoire",
+          "german": "Schrank",
+          "portuguese": "armário",
+          "italian": "armadio",
+          "esperanto": "vestaro"
+        },
+        {
+          "english": "shelf",
+          "russian": "полка",
+          "spanish": "estante",
+          "french": "étagère",
+          "german": "Regal",
+          "portuguese": "prateleira",
+          "italian": "scaffale",
+          "esperanto": "breto"
+        },
+        {
+          "english": "lamp",
+          "russian": "лампа",
+          "spanish": "lámpara",
+          "french": "lampe",
+          "german": "Lampe",
+          "portuguese": "candeeiro",
+          "italian": "lampada",
+          "esperanto": "lampo"
+        },
+        {
+          "english": "mirror",
+          "russian": "зеркало",
+          "spanish": "espejo",
+          "french": "miroir",
+          "german": "Spiegel",
+          "portuguese": "espelho",
+          "italian": "specchio",
+          "esperanto": "spegulo"
+        },
+        {
+          "english": "curtains",
+          "russian": "шторы",
+          "spanish": "cortinas",
+          "french": "rideaux",
+          "german": "Vorhänge",
+          "portuguese": "cortinas",
+          "italian": "tende",
+          "esperanto": "kurtenoj"
+        },
+        {
+          "english": "carpet",
+          "russian": "ковёр",
+          "spanish": "alfombra",
+          "french": "tapis",
+          "german": "Teppich",
+          "portuguese": "tapete",
+          "italian": "tappeto",
+          "esperanto": "tapiŝo"
+        },
+        {
+          "english": "pillow",
+          "russian": "подушка",
+          "spanish": "almohada",
+          "french": "oreiller",
+          "german": "Kissen",
+          "portuguese": "almofada",
+          "italian": "cuscino",
+          "esperanto": "kuseno"
+        },
+        {
+          "english": "blanket",
+          "russian": "одеяло",
+          "spanish": "manta",
+          "french": "couverture",
+          "german": "Decke",
+          "portuguese": "cobertor",
+          "italian": "coperta",
+          "esperanto": "kovrilo"
+        },
+        {
+          "english": "towel",
+          "russian": "полотенце",
+          "spanish": "toalla",
+          "french": "serviette",
+          "german": "Handtuch",
+          "portuguese": "toalha",
+          "italian": "asciugamano",
+          "esperanto": "viŝtuko"
+        },
+        {
+          "english": "television",
+          "russian": "телевизор",
+          "spanish": "televisión",
+          "french": "télévision",
+          "german": "Fernseher",
+          "portuguese": "televisão",
+          "italian": "televisione",
+          "esperanto": "televidilo"
+        },
+        {
+          "english": "washing machine",
+          "russian": "стиральная машина",
+          "spanish": "lavadora",
+          "french": "lave-linge",
+          "german": "Waschmaschine",
+          "portuguese": "máquina de lavar",
+          "italian": "lavatrice",
+          "esperanto": "lavmaŝino"
+        },
+        {
+          "english": "dishwasher",
+          "russian": "посудомоечная машина",
+          "spanish": "lavavajillas",
+          "french": "lave-vaisselle",
+          "german": "Geschirrspüler",
+          "portuguese": "máquina de lavar louça",
+          "italian": "lavastoviglie",
+          "esperanto": "vazlavmaŝino"
+        },
+        {
+          "english": "microwave",
+          "russian": "микроволновка",
+          "spanish": "microondas",
+          "french": "micro-ondes",
+          "german": "Mikrowelle",
+          "portuguese": "micro-ondas",
+          "italian": "microonde",
+          "esperanto": "mikroonda forno"
+        },
+        {
+          "english": "vacuum cleaner",
+          "russian": "пылесос",
+          "spanish": "aspiradora",
+          "french": "aspirateur",
+          "german": "Staubsauger",
+          "portuguese": "aspirador",
+          "italian": "aspirapolvere",
+          "esperanto": "polvosuĉilo"
+        },
+        {
+          "english": "kettle",
+          "russian": "чайник",
+          "spanish": "hervidor",
+          "french": "bouilloire",
+          "german": "Wasserkocher",
+          "portuguese": "chaleira",
+          "italian": "bollitore",
+          "esperanto": "bolkruĉo"
+        },
+        {
+          "english": "iron",
+          "russian": "утюг",
+          "spanish": "plancha",
+          "french": "fer à repasser",
+          "german": "Bügeleisen",
+          "portuguese": "ferro de engomar",
+          "italian": "ferro da stiro",
+          "esperanto": "gladilo"
+        },
+        {
+          "english": "heating",
+          "russian": "отопление",
+          "spanish": "calefacción",
+          "french": "chauffage",
+          "german": "Heizung",
+          "portuguese": "aquecimento",
+          "italian": "riscaldamento",
+          "esperanto": "hejtado"
+        },
+        {
+          "english": "air conditioning",
+          "russian": "кондиционер",
+          "spanish": "aire acondicionado",
+          "french": "climatisation",
+          "german": "Klimaanlage",
+          "portuguese": "ar condicionado",
+          "italian": "aria condizionata",
+          "esperanto": "aerumado"
+        },
+        {
+          "english": "key",
+          "russian": "ключ",
+          "spanish": "llave",
+          "french": "clé",
+          "german": "Schlüssel",
+          "portuguese": "chave",
+          "italian": "chiave",
+          "esperanto": "ŝlosilo"
+        },
+        {
+          "english": "light",
+          "russian": "свет",
+          "spanish": "luz",
+          "french": "lumière",
+          "german": "Licht",
+          "portuguese": "luz",
+          "italian": "luce",
+          "esperanto": "lumo"
+        },
+        {
+          "english": "switch",
+          "russian": "выключатель",
+          "spanish": "interruptor",
+          "french": "interrupteur",
+          "german": "Schalter",
+          "portuguese": "interruptor",
+          "italian": "interruttore",
+          "esperanto": "ŝaltilo"
+        },
+        {
+          "english": "socket",
+          "russian": "розетка",
+          "spanish": "enchufe",
+          "french": "prise",
+          "german": "Steckdose",
+          "portuguese": "tomada",
+          "italian": "presa",
+          "esperanto": "konektilo"
+        },
+        {
+          "english": "tap",
+          "russian": "кран",
+          "spanish": "grifo",
+          "french": "robinet",
+          "german": "Wasserhahn",
+          "portuguese": "torneira",
+          "italian": "rubinetto",
+          "esperanto": "krano"
+        },
+        {
+          "english": "toilet",
+          "russian": "туалет",
+          "spanish": "váter",
+          "french": "toilettes",
+          "german": "Toilette",
+          "portuguese": "sanita",
+          "italian": "gabinetto",
+          "esperanto": "necessejo"
+        },
+        {
+          "english": "shower",
+          "russian": "душ",
+          "spanish": "ducha",
+          "french": "douche",
+          "german": "Dusche",
+          "portuguese": "duche",
+          "italian": "doccia",
+          "esperanto": "duŝo"
+        },
+        {
+          "english": "bath",
+          "russian": "ванна",
+          "spanish": "bañera",
+          "french": "baignoire",
+          "german": "Badewanne",
+          "portuguese": "banheira",
+          "italian": "vasca",
+          "esperanto": "bankuveto"
+        },
+        {
+          "english": "sink",
+          "russian": "раковина",
+          "spanish": "lavabo",
+          "french": "lavabo",
+          "german": "Waschbecken",
+          "portuguese": "lavatório",
+          "italian": "lavandino",
+          "esperanto": "lavabo"
+        },
+        {
+          "english": "soap",
+          "russian": "мыло",
+          "spanish": "jabón",
+          "french": "savon",
+          "german": "Seife",
+          "portuguese": "sabonete",
+          "italian": "sapone",
+          "esperanto": "sapo"
+        },
+        {
+          "english": "toothbrush",
+          "russian": "зубная щётка",
+          "spanish": "cepillo de dientes",
+          "french": "brosse à dents",
+          "german": "Zahnbürste",
+          "portuguese": "escova de dentes",
+          "italian": "spazzolino",
+          "esperanto": "dentbroso"
+        },
+        {
+          "english": "toothpaste",
+          "russian": "зубная паста",
+          "spanish": "pasta de dientes",
+          "french": "dentifrice",
+          "german": "Zahnpasta",
+          "portuguese": "pasta de dentes",
+          "italian": "dentifricio",
+          "esperanto": "dentpasto"
+        },
+        {
+          "english": "to wake up",
+          "russian": "просыпаться",
+          "spanish": "despertarse",
+          "french": "se réveiller",
+          "german": "aufwachen",
+          "portuguese": "acordar",
+          "italian": "svegliarsi",
+          "esperanto": "vekighi"
+        },
+        {
+          "english": "to get up",
+          "russian": "вставать",
+          "spanish": "levantarse",
+          "french": "se lever",
+          "german": "aufstehen",
+          "portuguese": "levantar-se",
+          "italian": "alzarsi",
+          "esperanto": "levighi"
+        },
+        {
+          "english": "to wash (oneself)",
+          "russian": "умываться",
+          "spanish": "lavarse",
+          "french": "se laver",
+          "german": "sich waschen",
+          "portuguese": "lavar-se",
+          "italian": "lavarsi",
+          "esperanto": "lavighi"
+        },
+        {
+          "english": "to brush one's teeth",
+          "russian": "чистить зубы",
+          "spanish": "lavarse los dientes",
+          "french": "se brosser les dents",
+          "german": "Zähne putzen",
+          "portuguese": "escovar os dentes",
+          "italian": "lavarsi i denti",
+          "esperanto": "brovigi siajn dentojn"
+        },
+        {
+          "english": "to take a shower",
+          "russian": "принимать душ",
+          "spanish": "ducharse",
+          "french": "se doucher",
+          "german": "duschen",
+          "portuguese": "tomar duche",
+          "italian": "fare la doccia",
+          "esperanto": "duŝi"
+        },
+        {
+          "english": "to get dressed",
+          "russian": "одеваться",
+          "spanish": "vestirse",
+          "french": "s'habiller",
+          "german": "sich anziehen",
+          "portuguese": "vestir-se",
+          "italian": "vestirsi",
+          "esperanto": "vesti"
+        },
+        {
+          "english": "to have breakfast",
+          "russian": "завтракать",
+          "spanish": "desayunar",
+          "french": "prendre le petit-déjeuner",
+          "german": "frühstücken",
+          "portuguese": "tomar o pequeno-almoço",
+          "italian": "fare colazione",
+          "esperanto": "matenmanĝi"
+        },
+        {
+          "english": "to go to work",
+          "russian": "идти на работу",
+          "spanish": "ir al trabajo",
+          "french": "aller au travail",
+          "german": "zur Arbeit gehen",
+          "portuguese": "ir para o trabalho",
+          "italian": "andare al lavoro",
+          "esperanto": "iri al laboro"
+        },
+        {
+          "english": "to come home",
+          "russian": "приходить домой",
+          "spanish": "volver a casa",
+          "french": "rentrer à la maison",
+          "german": "nach Hause kommen",
+          "portuguese": "voltar para casa",
+          "italian": "tornare a casa",
+          "esperanto": "reveni hejmen"
+        },
+        {
+          "english": "to cook dinner",
+          "russian": "готовить ужин",
+          "spanish": "cocinar la cena",
+          "french": "préparer le dîner",
+          "german": "Abendessen kochen",
+          "portuguese": "fazer o jantar",
+          "italian": "preparare la cena",
+          "esperanto": "kuiri vespermanĝon"
+        },
+        {
+          "english": "to watch TV",
+          "russian": "смотреть телевизор",
+          "spanish": "ver la tele",
+          "french": "regarder la télé",
+          "german": "fernsehen",
+          "portuguese": "ver televisão",
+          "italian": "guardare la TV",
+          "esperanto": "rigardi televidon"
+        },
+        {
+          "english": "to go to bed",
+          "russian": "ложиться спать",
+          "spanish": "acostarse",
+          "french": "se coucher",
+          "german": "ins Bett gehen",
+          "portuguese": "ir para a cama",
+          "italian": "andare a letto",
+          "esperanto": "enlitiĝi"
+        },
+        {
+          "english": "to sleep",
+          "russian": "спать",
+          "spanish": "dormir",
+          "french": "dormir",
+          "german": "schlafen",
+          "portuguese": "dormir",
+          "italian": "dormire",
+          "esperanto": "dormi"
+        },
+        {
+          "english": "to rest",
+          "russian": "отдыхать",
+          "spanish": "descansar",
+          "french": "se reposer",
+          "german": "sich ausruhen",
+          "portuguese": "descansar",
+          "italian": "riposare",
+          "esperanto": "ripozi"
+        },
+        {
+          "english": "to clean",
+          "russian": "убирать",
+          "spanish": "limpiar",
+          "french": "nettoyer",
+          "german": "putzen",
+          "portuguese": "limpar",
+          "italian": "pulire",
+          "esperanto": "purigi"
+        },
+        {
+          "english": "to do the laundry",
+          "russian": "стирать",
+          "spanish": "lavar la ropa",
+          "french": "faire la lessive",
+          "german": "Wäsche waschen",
+          "portuguese": "lavar a roupa",
+          "italian": "fare il bucato",
+          "esperanto": "lavi vestaĵojn"
+        },
+        {
+          "english": "to wash the dishes",
+          "russian": "мыть посуду",
+          "spanish": "lavar los platos",
+          "french": "faire la vaisselle",
+          "german": "abwaschen",
+          "portuguese": "lavar a louça",
+          "italian": "lavare i piatti",
+          "esperanto": "lavi la vazaron"
+        },
+        {
+          "english": "to take out the rubbish",
+          "russian": "выносить мусор",
+          "spanish": "sacar la basura",
+          "french": "sortir les poubelles",
+          "german": "Müll rausbringen",
+          "portuguese": "deitar o lixo fora",
+          "italian": "buttare la spazzatura",
+          "esperanto": "forigi la rubon"
+        },
+        {
+          "english": "to make the bed",
+          "russian": "заправлять кровать",
+          "spanish": "hacer la cama",
+          "french": "faire le lit",
+          "german": "Bett machen",
+          "portuguese": "fazer a cama",
+          "italian": "fare il letto",
+          "esperanto": "aranĝi la liton"
+        },
+        {
+          "english": "to tidy up",
+          "russian": "наводить порядок",
+          "spanish": "ordenar",
+          "french": "ranger",
+          "german": "aufräumen",
+          "portuguese": "arrumar",
+          "italian": "mettere in ordine",
+          "esperanto": "ordigi"
+        },
+        {
+          "english": "to vacuum",
+          "russian": "пылесосить",
+          "spanish": "pasar la aspiradora",
+          "french": "passer l'aspirateur",
+          "german": "staubsaugen",
+          "portuguese": "aspirar",
+          "italian": "passare l'aspirapolvere",
+          "esperanto": "polvosuĉi"
+        },
+        {
+          "english": "to iron",
+          "russian": "гладить",
+          "spanish": "planchar",
+          "french": "repasser",
+          "german": "bügeln",
+          "portuguese": "engomar",
+          "italian": "stirare",
+          "esperanto": "gladi"
+        },
+        {
+          "english": "Welcome!",
+          "russian": "Добро пожаловать!",
+          "spanish": "¡Bienvenido!",
+          "french": "Bienvenue !",
+          "german": "Willkommen!",
+          "portuguese": "Bem-vindo!",
+          "italian": "Benvenuto!",
+          "esperanto": "Bonvenon!"
+        },
+        {
+          "english": "Come in.",
+          "russian": "Входите.",
+          "spanish": "Pase.",
+          "french": "Entrez.",
+          "german": "Kommen Sie herein.",
+          "portuguese": "Entre.",
+          "italian": "Entri.",
+          "esperanto": "Eniru."
+        },
+        {
+          "english": "Make yourself at home.",
+          "russian": "Чувствуйте себя как дома.",
+          "spanish": "Estás en tu casa.",
+          "french": "Faites comme chez vous.",
+          "german": "Fühlen Sie sich wie zu Hause.",
+          "portuguese": "Esteja à vontade.",
+          "italian": "Si metta a suo agio.",
+          "esperanto": "Sentigu vin kiel hejme."
+        },
+        {
+          "english": "Where's the bathroom?",
+          "russian": "Где ванная?",
+          "spanish": "¿Dónde está el baño?",
+          "french": "Où sont les toilettes ?",
+          "german": "Wo ist das Bad?",
+          "portuguese": "Onde é a casa de banho?",
+          "italian": "Dov'è il bagno?",
+          "esperanto": "Kie estas la necesejo?"
+        },
+        {
+          "english": "The light doesn't work.",
+          "russian": "Свет не работает.",
+          "spanish": "La luz no funciona.",
+          "french": "La lumière ne marche pas.",
+          "german": "Das Licht geht nicht.",
+          "portuguese": "A luz não funciona.",
+          "italian": "La luce non funziona.",
+          "esperanto": "La lumo ne funkcias."
+        },
+        {
+          "english": "It's cold in here.",
+          "russian": "Здесь холодно.",
+          "spanish": "Hace frío aquí.",
+          "french": "Il fait froid ici.",
+          "german": "Hier ist es kalt.",
+          "portuguese": "Está frio aqui.",
+          "italian": "Fa freddo qui.",
+          "esperanto": "Ĉi tie estas malvarme."
+        },
+        {
+          "english": "I wake up at seven.",
+          "russian": "Я просыпаюсь в семь.",
+          "spanish": "Me despierto a las siete.",
+          "french": "Je me réveille à sept heures.",
+          "german": "Ich wache um sieben auf.",
+          "portuguese": "Acordo às sete.",
+          "italian": "Mi sveglio alle sette.",
+          "esperanto": "Mi vekiĝas je la sepa."
+        },
+        {
+          "english": "I live alone.",
+          "russian": "Я живу один.",
+          "spanish": "Vivo solo.",
+          "french": "Je vis seul.",
+          "german": "Ich wohne allein.",
+          "portuguese": "Vivo sozinho.",
+          "italian": "Vivo da solo.",
+          "esperanto": "Mi loĝas sola."
+        },
+        {
+          "english": "Can I use the bathroom?",
+          "russian": "Можно воспользоваться туалетом?",
+          "spanish": "¿Puedo usar el baño?",
+          "french": "Puis-je utiliser les toilettes ?",
+          "german": "Darf ich die Toilette benutzen?",
+          "portuguese": "Posso usar a casa de banho?",
+          "italian": "Posso usare il bagno?",
+          "esperanto": "Ĉu mi povas uzi la necesejon?"
+        }
+      ]
+    }
+  ]
+}

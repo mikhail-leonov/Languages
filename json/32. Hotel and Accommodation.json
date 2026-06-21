@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Hotel & Accommodation",
+      "phrases": [
+        {
+          "english": "Hi, I have a reservation under the name [Name].",
+          "russian": "Здравствуйте, у меня забронирован номер на имя [Имя].",
+          "spanish": "Hola, tengo una reserva a nombre de [Nombre].",
+          "french": "Bonjour, j'ai une réservation au nom de [Nom].",
+          "german": "Guten Tag, ich habe eine Reservierung auf den Namen [Name].",
+          "italian": "Buongiorno, ho una prenotazione a nome di [Nome].",
+          "portuguese": "Olá, eu tenho uma reserva em nome de [Nome].",
+          "esperanto": "Saluton, mi havas rezervon sub la nomo [Nomo]."
+        },
+        {
+          "english": "Could we check in a little bit earlier than scheduled?",
+          "russian": "Можем ли мы заселиться немного раньше запланированного времени?",
+          "spanish": "¿Podríamos hacer el registro de entrada un poco antes de lo previsto?",
+          "french": "Serait-il possible de faire le check-in un peu plus tôt que prévu ?",
+          "german": "Könnten wir etwas früher als geplant einchecken?",
+          "italian": "Potremmo effettuare il check-in un po' prima del previsto?",
+          "portuguese": "Nós poderíamos fazer o check-in um pouco mais cedo do que o previsto?",
+          "esperanto": "Ĉu ni povus enregistriĝi iom pli frue ol planite?"
+        },
+        {
+          "english": "Here is my identification and the credit card for incidentals.",
+          "russian": "Вот удостоверение личности и кредитная карта для покрытия дополнительных расходов.",
+          "spanish": "Aquí tiene mi identificación y la tarjeta de crédito para gastos imprevistos.",
+          "french": "Voici ma pièce d'identité et la carte de crédit pour les extras.",
+          "german": "Hier sind mein Ausweis und die Kreditkarte für unvorhergesehene Ausgaben.",
+          "italian": "Ecco il mio documento d'identità e la carta di credito per le spese impreviste.",
+          "portuguese": "Aqui está o meu documento de identidade e o cartão de crédito para despesas extras.",
+          "esperanto": "Jen mia identigilo kaj la kreditkarto por eventualaj elspezoj."
+        },
+        {
+          "english": "Is there a complimentary breakfast included with my stay?",
+          "russian": "Включен ли бесплатный завтрак в стоимость проживания?",
+          "spanish": "¿Hay desayuno de cortesía incluido en mi estancia?",
+          "french": "Le petit-déjeuner gratuit est-il inclus dans mon séjour ?",
+          "german": "Ist bei meinem Aufenthalt ein kostenloses Frühstück inbegriffen?",
+          "italian": "La colazione è inclusa gratuitamente nel mio soggiorno?",
+          "portuguese": "O café da manhã é cortesia e está incluído na minha estadia?",
+          "esperanto": "Ĉu senpaga matenmanĝo estas inkluzivita en mia restado?"
+        },
+        {
+          "english": "What time does the checkout process officially close tomorrow?",
+          "russian": "В какое время завтра официально заканчивается регистрация отъезда?",
+          "spanish": "¿A qué hora termina oficialmente el proceso de salida mañana?",
+          "french": "À quelle heure doit-on libérer la chambre demain au plus tard ?",
+          "german": "Bis wie viel Uhr muss der Check-out morgen offiziell erledigt sein?",
+          "italian": "A che ora è previsto ufficialmente il check-out domani?",
+          "portuguese": "A que horas termina oficialmente o horário de check-out amanhã?",
+          "esperanto": "Kioma horo oficiale fermiĝas la elregistriĝo morgaŭ?"
+        },
+        {
+          "english": "Could you please explain how to connect to the hotel Wi-Fi?",
+          "russian": "Не могли бы вы объяснить, как подключиться к гостиничному Wi-Fi?",
+          "spanish": "¿Podría explicarme cómo conectarme al Wi-Fi del hotel, por favor?",
+          "french": "Pourriez-vous m'expliquer comment se connecter au Wi-Fi de l'hôtel, s'il vous plaît ?",
+          "german": "Könnten Sie mir bitte erklären, wie ich mich mit dem Hotel-WLAN verbinde?",
+          "italian": "Potrebbe spiegarmi come connettermi al Wi-Fi dell'hotel, per favore?",
+          "portuguese": "Você poderia, por favor, me explicar como se conectar ao Wi-Fi do hotel?",
+          "esperanto": "Ĉu vi povus klarigi kiel konektiĝi al la hotela Wi-Fi?"
+        },
+        {
+          "english": "Are there any maps or local guides available at the desk?",
+          "russian": "Есть ли на стойке регистрации карты или путеводители по городу?",
+          "spanish": "¿Tienen mapas o guías locales disponibles en recepción?",
+          "french": "Y a-t-il des cartes ou des guides locaux disponibles à la réception ?",
+          "german": "Gibt es am Empfang Stadtpläne oder Reiseführer?",
+          "italian": "Ci sono mappe o guide locali disponibili alla reception?",
+          "portuguese": "Há algum mapa ou guia local disponível no balcão?",
+          "esperanto": "Ĉu estas mapoj aŭ lokaj gvidlibroj haveblaj ĉe la receptejo?"
+        },
+        {
+          "english": "Which floor is our room located on, and where are the elevators?",
+          "russian": "На каком этаже находится наш номер и где лифты?",
+          "spanish": "¿En qué piso está nuestra habitación y dónde están los ascensores?",
+          "french": "À quel étage se trouve notre chambre, et où sont les ascenseurs ?",
+          "german": "Auf welcher Etage befindet sich unser Zimmer und wo sind die Aufzüge?",
+          "italian": "A quale piano si trova la nostra camera e dove sono gli ascensori?",
+          "portuguese": "Em qual andar fica o nosso quarto e onde ficam os elevadores?",
+          "esperanto": "Sur kiu etaĝo estas nia ĉambro, kaj kie estas la liftoj?"
+        },
+        {
+          "english": "Is parking included in our room rate, or is there an extra fee?",
+          "russian": "Включена ли парковка в стоимость номера или взимается дополнительная плата?",
+          "spanish": "¿El estacionamiento está incluido en la tarifa de la habitación o hay un cargo extra?",
+          "french": "Le parking est-il inclus dans le prix de la chambre, ou y a-t-il un supplément ?",
+          "german": "Ist das Parken im Zimmerpreis inbegriffen oder fällt eine zusätzliche Gebühr an?",
+          "italian": "Il parcheggio è incluso nella tariffa della camera o c'è un costo aggiuntivo?",
+          "portuguese": "O estacionamento está incluído na tarifa do quarto ou há uma taxa extra?",
+          "esperanto": "Ĉu parkado estas inkluzivita en la ĉambra prezo, aŭ ĉu estas kroma kotizo?"
+        },
+        {
+          "english": "Could we request an extra set of room keys, please?",
+          "russian": "Можем ли мы попросить дополнительный комплект ключей от номера?",
+          "spanish": "¿Podríamos pedir un juego de llaves adicional para la habitación, por favor?",
+          "french": "Pourrions-nous avoir un double des clés de la chambre, s'il vous plaît ?",
+          "german": "Könnten wir bitte ein zusätzliches Set Zimmerschlüssel bekommen?",
+          "italian": "Potremmo richiedere un set di chiavi in più per la camera, per favore?",
+          "portuguese": "Poderíamos solicitar um jogo de chaves extra para o quarto, por favor?",
+          "esperanto": "Ĉu ni povus peti plian aron da ĉambraj ŝlosiloj, bonvolu?"
+        },
+        {
+          "english": "Where is the fitness center and the swimming pool located?",
+          "russian": "Где находятся фитнес-центр и бассейн?",
+          "spanish": "¿Dónde se encuentran el gimnasio y la piscina?",
+          "french": "Où se trouvent la salle de sport et la piscine ?",
+          "german": "Wo befinden sich das Fitnessstudio und der Pool?",
+          "italian": "Dove si trovano la palestra e la piscina?",
+          "portuguese": "Onde ficam a academia e a piscina?",
+          "esperanto": "Kie troviĝas la trejnejo kaj la naĝejo?"
+        },
+        {
+          "english": "Is room service available 24 hours a day?",
+          "russian": "Доступно ли обслуживание в номерах круглосуточно?",
+          "spanish": "¿El servicio a la habitación está disponible las 24 horas del día?",
+          "french": "Le service d'étage est-il disponible 24 heures sur 24 ?",
+          "german": "Ist der Zimmerservice rund um die Uhr verfügbar?",
+          "italian": "Il servizio in camera è disponibile 24 ore su 24?",
+          "portuguese": "O serviço de quarto funciona 24 horas por dia?",
+          "esperanto": "Ĉu ĉambra servo estas havebla 24 horojn tage?"
+        },
+        {
+          "english": "Could I get the password for the premium internet service?",
+          "russian": "Могу ли я получить пароль от премиум-интернета?",
+          "spanish": "¿Podría darme la contraseña para el servicio de internet premium?",
+          "french": "Puis-je avoir le mot de passe pour le service internet premium ?",
+          "german": "Könnte ich das Passwort für den Premium-Internetzugang bekommen?",
+          "italian": "Potrei avere la password per il servizio internet premium?",
+          "portuguese": "Poderia me passar a senha para o serviço de internet premium?",
+          "esperanto": "Ĉu mi povus ricevi la pasvorton por la supera interreta servo?"
+        },
+        {
+          "english": "Do you offer a shuttle service directly to the airport?",
+          "russian": "Предоставляете ли вы услуги трансфера прямо до аэропорта?",
+          "spanish": "¿Ofrecen servicio de transporte directo al aeropuerto?",
+          "french": "Proposez-vous une navette directe pour l'aéroport ?",
+          "german": "Bieten Sie einen Shuttle-Service direkt zum Flughafen an?",
+          "italian": "Offrite un servizio navetta diretto per l'aeroporto?",
+          "portuguese": "Vocês oferecem serviço de traslado direto para o aeroporto?",
+          "esperanto": "Ĉu vi ofertas pendservon rekte al la flughaveno?"
+        },
+        {
+          "english": "Is there a laundry or dry-cleaning service on-site?",
+          "russian": "Есть ли в отеле услуги прачечной или химчистки?",
+          "spanish": "¿Hay servicio de lavandería o tintorería en el hotel?",
+          "french": "Y a-t-il un service de blanchisserie ou de nettoyage à sec sur place ?",
+          "german": "Gibt es im Hotel einen Wäsche- oder Reinigungsservice?",
+          "italian": "C'è un servizio di lavanderia o lavaggio a secco all'interno dell'hotel?",
+          "portuguese": "Existe serviço de lavanderia ou lavagem a seco no local?",
+          "esperanto": "Ĉu estas lavota aŭ sekpuriga servo surloke?"
+        },
+        {
+          "english": "Where can I find the ice machine on this floor?",
+          "russian": "Где я могу найти ледогенератор на этом этаже?",
+          "spanish": "¿Dónde puedo encontrar la máquina de hielo en este piso?",
+          "french": "Où se trouve la machine à glaçons à cet étage ?",
+          "german": "Wo finde ich die Eismaschine auf dieser Etage?",
+          "italian": "Dove posso trovare la macchina del ghiaccio su questo piano?",
+          "portuguese": "Onde posso encontrar a máquina de gelo neste andar?",
+          "esperanto": "Kie mi povas trovi la glacimaŝinon sur ĉi tiu etaĝo?"
+        },
+        {
+          "english": "Can we book a spa treatment directly through the front desk?",
+          "russian": "Можем ли мы забронировать спа-процедуры прямо через стойку регистрации?",
+          "spanish": "¿Podemos reservar un tratamiento de spa directamente en la recepción?",
+          "french": "Pouvons-nous réserver un soin au spa directement auprès de la réception ?",
+          "german": "Können wir eine Spa-Behandlung direkt über die Rezeption buchen?",
+          "italian": "Possiamo prenotare un trattamento spa direttamente tramite la reception?",
+          "portuguese": "Podemos agendar um tratamento de spa diretamente com a recepção?",
+          "esperanto": "Ĉu ni povas rezervi kuracilon ĉe la banloko rekte per la receptejo?"
+        },
+        {
+          "english": "Is there a business center where I can print a document?",
+          "russian": "Есть ли здесь бизнес-центр, где я мог бы распечатать документ?",
+          "spanish": "¿Hay un centro de negocios donde pueda imprimir un documento?",
+          "french": "Y a-t-il un centre d'affaires où je peux imprimer un document ?",
+          "german": "Gibt es ein Business-Center, in dem ich ein Dokument ausdrucken kann?",
+          "italian": "C'è un business center dove posso stampare un documento?",
+          "portuguese": "Há algum business center onde eu possa imprimir um documento?",
+          "esperanto": "Ĉu estas komerca centro kie mi povas presi dokumenton?"
+        },
+        {
+          "english": "Do you have a luggage storage area we can use after checkout?",
+          "russian": "Есть ли у вас камера хранения багажа, которой мы могли бы воспользоваться после отъезда?",
+          "spanish": "¿Tienen un área de almacenamiento de equipaje que podamos usar después de la salida?",
+          "french": "Avez-vous une consigne à bagages que nous pourrions utiliser après le check-out ?",
+          "german": "Haben Sie einen Gepäckraum, den wir nach dem Check-out nutzen können?",
+          "italian": "Disponete di un deposito bagagli che possiamo utilizzare dopo il check-out?",
+          "portuguese": "Vocês têm um guarda-volumes que possamos usar após o check-out?",
+          "esperanto": "Ĉu vi havas konservejon por pakaĵoj, kiun ni povas uzi post elregistriĝo?"
+        },
+        {
+          "english": "What are the current hours of operation for the hotel restaurant?",
+          "russian": "Каковы часы работы ресторан отеля на данный момент?",
+          "spanish": "¿Cuáles son los horarios de atención actuales del restaurante del hotel?",
+          "french": "Quels sont les horaires d'ouverture actuels du restaurant de l'hôtel ?",
+          "german": "Wie sind die aktuellen Öffnungszeiten des Hotelrestaurants?",
+          "italian": "Quali son gli orari di apertura attuali del ristorante dell'hotel?",
+          "portuguese": "Quais são os horários de funcionamento atuais do restaurante do hotel?",
+          "esperanto": "Kioj estas la nunaj malfermhoroj de la hotela restoracio?"
+        },
+        {
+          "english": "Would it be possible to upgrade to a room with a better view?",
+          "russian": "Было бы возможно поменять номер на вариант с более красивым видом?",
+          "spanish": "¿Sería posible obtener una mejora a una habitación con mejor vista?",
+          "french": "Serait-il possible d'obtenir un surclassement pour une chambre avec une meilleure vue ?",
+          "german": "Wäre ein Upgrade auf ein Zimmer mit besserer Aussicht möglich?",
+          "italian": "Sarebbe possibile passare a una camera con una vista migliore?",
+          "portuguese": "Seria possível fazer um upgrade para um quarto com uma vista melhor?",
+          "esperanto": "Ĉu estus eble plibonigi al ĉambro kun pli bona vido?"
+        },
+        {
+          "english": "Could we get a few extra pillows and towels sent up?",
+          "russian": "Не могли бы вы прислать нам еще несколько подушек и полотенец?",
+          "spanish": "¿Podrían subirnos algunas almohadas y toallas extra?",
+          "french": "Pourrions-nous avoir quelques oreillers et serviettes supplémentaires ?",
+          "german": "Könnten wir noch ein paar zusätzliche Kissen und Handtücher aufs Zimmer bekommen?",
+          "italian": "Potremmo avere qualche cuscino e asciugamano in più in camera?",
+          "portuguese": "Poderia mandar mais alguns travesseiros e toalhas para o nosso quarto?",
+          "esperanto": "Ĉu ni povus ricevi kelkajn kromajn kusenojn kaj tukojn senditajn supren?"
+        },
+        {
+          "english": "Is there any way to get a complimentary cot or crib for the room?",
+          "russian": "Можно ли как-то бесплатно получить в номер детскую кроватку или раскладушку?",
+          "spanish": "¿Habría alguna manera de conseguir una cuna o camita de bebé de cortesía para la habitación?",
+          "french": "Serait-il possible d'avoir un lit d'appoint ou un lit bébé gratuit dans la chambre ?",
+          "german": "Gibt es die Möglichkeit, ein kostenloses Zustell- oder Babybett für das Zimmer zu bekommen?",
+          "italian": "È possibile avere una culla o un lettino da viaggio gratuito in camera?",
+          "portuguese": "Teria como conseguir um berço ou cama extra de cortesia para o quarto?",
+          "esperanto": "Ĉu eblas ricevi senpagan beboliton aŭ plian liton por la ĉambro?"
+        },
+        {
+          "english": "Could you please send someone up to look at the air conditioning?",
+          "russian": "Пожалуйста, пришлите кого-нибудь проверить кондиционер.",
+          "spanish": "Por favor, ¿podría enviar a alguien a revisar el aire acondicionado?",
+          "french": "Pourriez-vous envoyer quelqu'un pour jeter un œil à la climatisation, s'il vous plaît ?",
+          "german": "Könnten Sie bitte jemanden vorbeischicken, der sich die Klimaanlage ansieht?",
+          "italian": "Potrebbe mandare qualcuno a controllare l'aria condizionata, per favore?",
+          "portuguese": "Você poderia, por favor, mandar alguém aqui para dar uma olhada no ar-condicionado?",
+          "esperanto": "Ĉu vi bonvolus sendi iun supren por rigardi la klimatizilon?"
+        },
+        {
+          "english": "We need a few more bottles of complimentary water, please?",
+          "russian": "Нам нужно еще несколько бутылок бесплатной воды, пожалуйста.",
+          "spanish": "Necesitamos unas cuantas botellas más de agua de cortesía, por favor.",
+          "french": "Il nous faudrait quelques bouteilles d'eau gratuites supplémentaires, s'il vous plaît.",
+          "german": "Wir bräuchten bitte noch ein paar Flaschen von dem kostenlosen Wasser.",
+          "italian": "Ci servirebbero altre bottiglie d'acqua offerte dalla casa, per favore.",
+          "portuguese": "Precisamos de mais algumas garrafas de água de cortesia, por favor.",
+          "esperanto": "Ni bezonas kelkajn pli da senpagaj akvoboteloj, bonvolu."
+        },
+        {
+          "english": "Is it possible to request a room away from the elevator noise?",
+          "russian": "Можно ли попросить номер подальше от шума лифта?",
+          "spanish": "¿Es posible solicitar una habitación alejada del ruido del ascensor?",
+          "french": "Est-il possible de demander une chambre éloignée du bruit de l'ascenseur ?",
+          "german": "Wäre es möglich, ein Zimmer abseits vom Aufzugslärm zu bekommen?",
+          "italian": "È possibile richiedere una camera lontana dal rumore dell'ascensore?",
+          "portuguese": "É possível solicitar um quarto longe do barulho do elevador?",
+          "esperanto": "Ĉu eblas peti ĉambron for de la lifta bruo?"
+        },
+        {
+          "english": "Could you set up a wake-up call for exactly seven AM tomorrow?",
+          "russian": "Не могли бы вы разбудить меня звонком ровно в семь утра завтра?",
+          "spanish": "¿Podría programar un servicio de despertador para mañana exactamente a las siete de la mañana?",
+          "french": "Pourriez-vous programmer un réveil par téléphone demain à sept heures pile ?",
+          "german": "Könnten Sie für morgen früh um Punkt sieben Uhr einen Weckruf einrichten?",
+          "italian": "Potrebbe programmare una sveglia telefonica per domani mattina alle sette in punto?",
+          "portuguese": "Você poderia programar um despertador por telefone para amanhã exatamente às sete da manhã?",
+          "esperanto": "Ĉu vi povus aranĝi vekvokon por morgaŭ je la sepa matene precize?"
+        },
+        {
+          "english": "We would highly appreciate some extra coffee pods for the machine.",
+          "russian": "Мы были бы очень признательны за дополнительные кофейные капсулы для кофемашины.",
+          "spanish": "Agradeceríamos mucho algunas cápsulas de café adicionales para la máquina.",
+          "french": "Nous apprécierions beaucoup avoir quelques capsules de café en plus pour la machine.",
+          "german": "Wir würden uns über ein paar zusätzliche Kaffeekapseln für die Maschine sehr freuen.",
+          "italian": "Gradiremmo molto qualche capsula di caffè extra per la macchinetta.",
+          "portuguese": "Ficaríamos muito agradecidos por mais algumas cápsulas de café para a máquina.",
+          "esperanto": "Ni tre aprezus kelkajn kromajn kafkapsulojn por la maŝino."
+        },
+        {
+          "english": "Can you recommend a good local restaurant within walking distance?",
+          "russian": "Можете ли вы порекомендовать хороший местный ресторан в пешей доступности?",
+          "spanish": "¿Puede recomendar un buen restaurante local a poca distancia a pie?",
+          "french": "Pouvez-vous recommander un bon restaurant local accessible à pied ?",
+          "german": "Können Sie ein gutes Restaurant in der Nähe empfehlen, das man zu Fuß erreichen kann?",
+          "italian": "Può consigliare un buon ristorante locale raggiungibile a piedi?",
+          "portuguese": "Você pode recomendar um restaurante local bom que dê para ir a pé?",
+          "esperanto": "Ĉu vi povas rekomendi bonan lokan restoracion piedirebla?"
+        },
+        {
+          "english": "Could we get a replacement for a broken hair dryer, please?",
+          "russian": "Не могли бы вы заменить сломанный фен, пожалуйста?",
+          "spanish": "¿Podrían cambiarnos el secador de pelo que está roto, por favor?",
+          "french": "Pourrions-nous avoir un autre sèche-cheveux, celui-ci étant cassé, s'il vous plaît ?",
+          "german": "Könnten wir bitte Ersatz für einen kaputten Föhn bekommen?",
+          "italian": "Potremmo avere un asciugacapelli in sostituzione di quello rotto, per favore?",
+          "portuguese": "Poderíamos conseguir um secador de cabelo substituto para o que quebrou, por favor?",
+          "esperanto": "Ĉu ni povus ricevi anstataŭaĵon por rompita harsekigilo, bonvolu?"
+        },
+        {
+          "english": "I'm afraid the electronic key card is not unlocking our door.",
+          "russian": "Боюсь, что электронный ключ-карта не открывает нашу дверь.",
+          "spanish": "Me temo que la tarjeta llave electrónica no está abriendo nuestra puerta.",
+          "french": "Je crains que la carte d'accès électronique ne déverrouille pas notre porte.",
+          "german": "Ich befürchte, die elektronische Schlüsselkarte öffnet unsere Tür nicht.",
+          "italian": "Temo che la chiave elettronica non stia aprendo la nostra porta.",
+          "portuguese": "Receio que o cartão eletrônico não esteja abrindo a nossa porta.",
+          "esperanto": "Mi timas ke la elektronika ŝlosilkarto ne malŝlosas nian pordon."
+        },
+        {
+          "english": "The hot water in our shower doesn't seem to be working at all.",
+          "russian": "Похоже, горячая вода в нашем душе вообще не течет.",
+          "spanish": "El agua caliente de nuestra ducha no parece funcionar en absoluto.",
+          "french": "L'eau chaude de la douche ne semble pas fonctionner du tout.",
+          "german": "Das heiße Wasser in unserer Dusche scheint überhaupt nicht zu funktionieren.",
+          "italian": "L'acqua calda nella nostra doccia non sembra funzionare affatto.",
+          "portuguese": "A água quente do nosso chuveiro parece não estar funcionando de jeito nenhum.",
+          "esperanto": "La varma akvo en nia duŝo ŝajne tute ne funkcias."
+        },
+        {
+          "english": "The room next door is being incredibly loud and disruptive.",
+          "russian": "В соседнем номере ведут себя невероятно шумно и мешают отдыхать.",
+          "spanish": "La habitación de al lado está haciendo un ruido increíble y molesto.",
+          "french": "Les voisins de la chambre d'à côté sont incroyablement bruyants et dérangeants.",
+          "german": "Im Zimmer nebenan ist es unglaublich laut und störend.",
+          "italian": "La camera della porta accanto è incredibilmente rumorosa e molesta.",
+          "portuguese": "O pessoal do quarto ao lado está fazendo um barulho absurdo e incomodando muito.",
+          "esperanto": "La apuda ĉambro estas nekredeble laŭta kaj ĝena."
+        },
+        {
+          "english": "I noticed that the television remote control is missing from the room.",
+          "russian": "Я заметил(а), что в номере отсутствует пульт от телевизора.",
+          "spanish": "Me di cuenta de que el control remoto del televisor no está en la habitación.",
+          "french": "J'ai remarqué que la télécommande de la télévision manquait dans la chambre.",
+          "german": "Mir ist aufgefallen, dass die Fernbedienung für den Fernseher im Zimmer fehlt.",
+          "italian": "Ho notato che manca il telecomando della televisione in camera.",
+          "portuguese": "Notei que o controle remoto da televisão sumiu do quarto.",
+          "esperanto": "Mi rimarkis ke la fora regilo de la televidilo mankas en la ĉambro."
+        },
+        {
+          "english": "The sink in our bathroom appears to be completely clogged.",
+          "russian": "Похоже, раковина в нашей ванной комнате полностью засорилась.",
+          "spanish": "El lavabo de nuestro baño parece estar completamente obstruido.",
+          "french": "Le lavabo de notre salle de bain semble complètement bouché.",
+          "german": "Das Waschbecken in unserem Badezimmer scheint komplett verstopft zu sein.",
+          "italian": "Il lavandino del nostro bagno sembra completamente intasato.",
+          "portuguese": "A pia do nosso banheiro parece estar totalmente entupida.",
+          "esperanto": "La lavujo en nia banĉambro ŝajnas tute ŝtopita."
+        },
+        {
+          "english": "There is a strange, persistent odor coming from the ventilation system.",
+          "russian": "Из вентиляционной системы идет какой-то странный, стойкий запах.",
+          "spanish": "Hay un olor extraño y persistente que sale del sistema de ventilación.",
+          "french": "Il y a une odeur étrange et persistante qui provient du système de ventilation.",
+          "german": "Aus der Lüftungsanlage kommt ein seltsamer, anhaltender Geruch.",
+          "italian": "C'è un odore strano e persistente proveniente dal sistema di ventilazione.",
+          "portuguese": "Tem um cheiro estranho e persistente vindo do sistema de ventilação.",
+          "esperanto": "Estas stranga, persistanta odoro venanta de la ventolsistemo."
+        },
+        {
+          "english": "The Wi-Fi signal in our room is extremely weak and keeps dropping.",
+          "russian": "Сигнал Wi-Fi в нашем номере очень слабый и постоянно пропадает.",
+          "spanish": "La señal de Wi-Fi en nuestra habitación es extremadamente débil y se corta a cada rato.",
+          "french": "Le signal Wi-Fi dans notre chambre est extrêmement faible et n'arrête pas de couper.",
+          "german": "Das WLAN-Signal in unserem Zimmer ist extrem schwach und bricht ständig ab.",
+          "italian": "Il segnale Wi-Fi nella nostra camera è estremamente debole e continua a cadere.",
+          "portuguese": "O sinal do Wi-Fi no nosso quarto está super fraco e caindo toda hora.",
+          "esperanto": "La Wi-Fi-signalo en nia ĉambro estas ekstreme malforta kaj konstante perdiĝas."
+        },
+        {
+          "english": "Our room hasn't been cleaned or serviced by housekeeping today.",
+          "russian": "В нашем номере сегодня не убирались и не проводили обслуживание.",
+          "spanish": "Nuestra habitación no ha sido limpiada ni atendida por el servicio de limpieza hoy.",
+          "french": "Notre chambre n'a pas été nettoyée ni faite par le service d'étage aujourd'hui.",
+          "german": "Unser Zimmer wurde heute vom Reinigungsservice noch nicht sauber gemacht.",
+          "italian": "La nostra camera non è stata ancora pulita o riordinata dal servizio pulizie oggi.",
+          "portuguese": "O nosso quarto não foi limpo nem arrumado pelo serviço de limpeza hoje.",
+          "esperanto": "Nia ĉambro ne estis purigita aŭ prizorgita de la domzorga servo hodiaŭ."
+        },
+        {
+          "english": "I believe there is an error on our digital room bill.",
+          "russian": "Мне кажется, в нашем электронном счете за номер допущена ошибка.",
+          "spanish": "Creo que hay un error en nuestra factura digital de la habitación.",
+          "french": "Je pense qu'il y a une erreur sur notre facture de chambre numérique.",
+          "german": "Ich glaube, auf unserer digitalen Zimmerrechnung ist ein Fehler.",
+          "italian": "Credo ci sia un errore sul nostro conto digitale della camera.",
+          "portuguese": "Acho que tem um erro na nossa conta digital do quarto.",
+          "esperanto": "Mi kredas ke estas eraro en nia cifereca ĉambra kalkulo."
+        },
+        {
+          "english": "The toilet in our room is overflowing and needs immediate attention.",
+          "russian": "Унитаз в нашем номере переполняется и требует срочного вмешательства.",
+          "spanish": "El inodoro de nuestra habitación se está desbordando y necesita atención inmediata.",
+          "french": "Les toilettes de notre chambre débordent et nécessitent une intervention immédiate.",
+          "german": "Die Toilette in unserem Zimmer läuft über und erfordert sofortige Hilfe.",
+          "italian": "Il water nella nostra camera sta esaurendo e ha bisogno di un intervento immediato.",
+          "portuguese": "O vaso sanitário do nosso quarto está transbordando e precisa de atenção imediata.",
+          "esperanto": "La necesejo en nia ĉambro superfluas kaj bezonas tujan atenton."
+        },
+        {
+          "english": "Hi, we are ready to check out of room [Room Number].",
+          "russian": "Здравствуйте, мы готовы выехать из номера [Номер комнаты].",
+          "spanish": "Hola, estamos listos para hacer la salida de la habitación [Número de habitación].",
+          "french": "Bonjour, nous sommes prêts pour le check-out de la chambre [Numéro de chambre].",
+          "german": "Hallo, wir möchten aus Zimmer [Zimmernummer] auschecken.",
+          "italian": "Salve, siamo pronti per il check-out dalla camera [Numero di camera].",
+          "portuguese": "Olá, estamos prontos para fazer o check-out do quarto [Número do quarto].",
+          "esperanto": "Saluton, ni pretas elregistriĝi el ĉambro [Ĉambra Numero]."
+        },
+        {
+          "english": "Could we request a late checkout for one o'clock today?",
+          "russian": "Можем ли мы попросить о позднем выезде в час дня сегодня?",
+          "spanish": "¿Podríamos solicitar una salida tardía para la una en punto de hoy?",
+          "french": "Serait-il possible de décaler le check-out à treize heures aujourd'hui ?",
+          "german": "Könnten wir für heute einen späten Check-out um 13:00 Uhr beantragen?",
+          "italian": "Potremmo richiedere un late check-out per le tredici di oggi?",
+          "portuguese": "Poderíamos pedir um check-out tardio para a uma da tarde hoje?",
+          "esperanto": "Ĉu ni povus peti malfruan elregistriĝon por la unua horo hodiaŭ?"
+        },
+        {
+          "english": "Please add the room service charges to the final bill.",
+          "russian": "Пожалуйста, включите расходы на обслуживание в номере в окончательный счет.",
+          "spanish": "Por favor, agregue los cargos del servicio de habitaciones a la factura final.",
+          "french": "Veuillez ajouter les frais du service d'étage à la facture finale.",
+          "german": "Bitte setzen Sie die Gebühren für den Zimmerservice auf die Endabrechnung.",
+          "italian": "Per favore, aggiunga le spese del servizio in camera al conto finale.",
+          "portuguese": "Por favor, adicione as despesas do serviço de quarto à conta final.",
+          "esperanto": "Bonvolu aldoni la ĉambroservajn kostojn al la fina fakturo."
+        },
+        {
+          "english": "Could you please print a physical copy of my itemized receipt?",
+          "russian": "Не могли бы вы распечатать бумажную копию моего детализированного чека?",
+          "spanish": "¿Podría imprimir una copia física de mi recibo detallado, por favor?",
+          "french": "Pourriez-vous imprimer une copie papier de ma facture détaillée, s'il vous plaît ?",
+          "german": "Könnten Sie mir bitte eine gedruckte Kopie meiner detaillierten Abrechnung geben?",
+          "italian": "Potrebbe stamparmi una copia cartacea della ricevuta dettagliata, per favore?",
+          "portuguese": "Você poderia, por favor, imprimir uma cópia física do meu recibo detalhado?",
+          "esperanto": "Ĉu vi bonvolus presi fizikan kopion de mia detala kvitanco?"
+        },
+        {
+          "english": "Everything during our stay was absolutely wonderful, thank you!",
+          "russian": "Все во время нашего пребывания было просто чудесно, спасибо!",
+          "spanish": "¡Todo durante nuestra estancia fue absolutamente maravilloso, gracias!",
+          "french": "Tout était absolument parfait pendant notre séjour, merci !",
+          "german": "Alles während unseres Aufenthalts war absolut wunderbar, vielen Dank!",
+          "italian": "Tutto durante il nostro soggiorno è stato assolutamente fantastico, grazie!",
+          "portuguese": "Tudo durante a nossa estadia foi absolutamente maravilhoso, obrigado(a)!",
+          "esperanto": "Ĉio dum nia restado estis absolute mirinda, dankon!"
+        },
+        {
+          "english": "Can you help us call a taxi or an Uber to the train station?",
+          "russian": "Можете помочь нам вызвать такси или Uber до ж/д вокзала?",
+          "spanish": "¿Puede ayudarnos a pedir un taxi o un Uber hacia la estación de tren?",
+          "french": "Pouvez-vous nous aider à appeler un taxi ou un Uber pour la gare ?",
+          "german": "Könnten Sie uns helfen, ein Taxi oder ein Uber zum Bahnhof zu rufen?",
+          "italian": "Può aiutarci a chiamare un taxi o un Uber per la stazione ferroviaria?",
+          "portuguese": "Você pode nos ajudar a pedir um táxi ou um Uber para a estação de trem?",
+          "esperanto": "Ĉu vi povas helpi nin voki taksion aŭ Uber-on al la stacidomo?"
+        },
+        {
+          "english": "We have left our room keys right here on the front desk.",
+          "russian": "Мы оставили ключи от номера прямо здесь, на стойке регистрации.",
+          "spanish": "Hemos dejado las llaves de nuestra habitación aquí mismo en la recepción.",
+          "french": "Nous avons laissé les clés de notre chambre ici même sur le comptoir de la réception.",
+          "german": "Wir haben unsere Zimmerschlüssel direkt hier auf dem Tresen abgelegt.",
+          "italian": "Abbiamo lasciato le chiavi della camera proprio qui sul bancone.",
+          "portuguese": "Deixamos as chaves do quarto bem aqui no balcão da recepção.",
+          "esperanto": "Ni lasis niajn ĉambrajn ŝlosilojn ĉi tie sur la akceptejo."
+        },
+        {
+          "english": "Is it alright if we leave our bags here for a few hours?",
+          "russian": "Ничего, если мы оставим наши вещи здесь на несколько часов?",
+          "spanish": "¿Está bien si dejamos nuestras maletas aquí por unas horas?",
+          "french": "C'est possible de laisser nos bagages ici pendant quelques heures ?",
+          "german": "Ist es in Ordnung, wenn wir unsere Taschen für ein paar Stunden hier lassen?",
+          "italian": "Va bene se lasciamo qui i nostri bagagli per qualche ora?",
+          "portuguese": "Tudo bem se deixarmos as nossas malas aqui por algumas horas?",
+          "esperanto": "Ĉu estas enorde se ni lasos niajn sakojn ĉi tie dum kelkaj horoj?"
+        },
+        {
+          "english": "Thank you so much for your incredible hospitality and help.",
+          "russian": "Огромное спасибо за ваше невероятное гостеприимство и помощь.",
+          "spanish": "Muchas gracias por su increíble hospitalidad y ayuda.",
+          "french": "Merci infiniment pour votre incroyable hospitalité et votre aide.",
+          "german": "Vielen Dank für Ihre fantastische Gastfreundschaft und Hilfe.",
+          "italian": "Grazie mille per la vostra incredibile ospitalità e il vostro aiuto.",
+          "portuguese": "Muito obrigado(a) por sua incrível hospitalidade e ajuda.",
+          "esperanto": "Dankegon pro via nekredebla gastamo kaj helpo."
+        },
+        {
+          "english": "I would like to settle the final balance using a different card.",
+          "russian": "Я бы хотел(а) оплатить оставшуюся сумму другой картой.",
+          "spanish": "Me gustaría liquidar el saldo final con una tarjeta diferente.",
+          "french": "Je voudrais régler le solde restant avec une autre carte bancaire.",
+          "german": "Ich möchte den Restbetrag gerne mit einer anderen Karte bezahlen.",
+          "italian": "Vorrei saldare il conto finale utilizzando una carta diversa.",
+          "portuguese": "Gostaria de pagar o saldo final usando um cartão diferente.",
+          "esperanto": "Mi ŝatus pagi la finan saldon per alia karto."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,899 @@
+{
+  "categories": [
+    {
+      "name": "Food, Groceries and Cooking",
+      "phrases": [
+        {
+          "english": "bread",
+          "russian": "хлеб",
+          "spanish": "pan",
+          "french": "pain",
+          "german": "Brot",
+          "portuguese": "pão",
+          "italian": "pane",
+          "esperanto": "pano"
+        },
+        {
+          "english": "rice",
+          "russian": "рис",
+          "spanish": "arroz",
+          "french": "riz",
+          "german": "Reis",
+          "portuguese": "arroz",
+          "italian": "riso",
+          "esperanto": "rizo"
+        },
+        {
+          "english": "pasta",
+          "russian": "макароны",
+          "spanish": "pasta",
+          "french": "pâtes",
+          "german": "Nudeln",
+          "portuguese": "massa",
+          "italian": "pasta",
+          "esperanto": "pastao"
+        },
+        {
+          "english": "flour",
+          "russian": "мука",
+          "spanish": "harina",
+          "french": "farine",
+          "german": "Mehl",
+          "portuguese": "farinha",
+          "italian": "farina",
+          "esperanto": "faruno"
+        },
+        {
+          "english": "egg",
+          "russian": "яйцо",
+          "spanish": "huevo",
+          "french": "œuf",
+          "german": "Ei",
+          "portuguese": "ovo",
+          "italian": "uovo",
+          "esperanto": "ovo"
+        },
+        {
+          "english": "eggs",
+          "russian": "яйца",
+          "spanish": "huevos",
+          "french": "œufs",
+          "german": "Eier",
+          "portuguese": "ovos",
+          "italian": "uova",
+          "esperanto": "ovoj"
+        },
+        {
+          "english": "milk",
+          "russian": "молоко",
+          "spanish": "leche",
+          "french": "lait",
+          "german": "Milch",
+          "portuguese": "leite",
+          "italian": "latte",
+          "esperanto": "lakto"
+        },
+        {
+          "english": "butter",
+          "russian": "сливочное масло",
+          "spanish": "mantequilla",
+          "french": "beurre",
+          "german": "Butter",
+          "portuguese": "manteiga",
+          "italian": "burro",
+          "esperanto": "butero"
+        },
+        {
+          "english": "cheese",
+          "russian": "сыр",
+          "spanish": "queso",
+          "french": "fromage",
+          "german": "Käse",
+          "portuguese": "queijo",
+          "italian": "formaggio",
+          "esperanto": "fromaĝo"
+        },
+        {
+          "english": "oil",
+          "russian": "растительное масло",
+          "spanish": "aceite",
+          "french": "huile",
+          "german": "Öl",
+          "portuguese": "óleo",
+          "italian": "olio",
+          "esperanto": "oleo"
+        },
+        {
+          "english": "olive oil",
+          "russian": "оливковое масло",
+          "spanish": "aceite de oliva",
+          "french": "huile d'olive",
+          "german": "Olivenöl",
+          "portuguese": "azeite",
+          "italian": "olio d'oliva",
+          "esperanto": "olivoleo"
+        },
+        {
+          "english": "sugar",
+          "russian": "сахар",
+          "spanish": "azúcar",
+          "french": "sucre",
+          "german": "Zucker",
+          "portuguese": "açúcar",
+          "italian": "zucchero",
+          "esperanto": "sukero"
+        },
+        {
+          "english": "salt",
+          "russian": "соль",
+          "spanish": "sal",
+          "french": "sel",
+          "german": "Salz",
+          "portuguese": "sal",
+          "italian": "sale",
+          "esperanto": "salo"
+        },
+        {
+          "english": "pepper (spice)",
+          "russian": "перец",
+          "spanish": "pimienta",
+          "french": "poivre",
+          "german": "Pfeffer",
+          "portuguese": "pimenta",
+          "italian": "pepe",
+          "esperanto": "pipro"
+        },
+        {
+          "english": "meat",
+          "russian": "мясо",
+          "spanish": "carne",
+          "french": "viande",
+          "german": "Fleisch",
+          "portuguese": "carne",
+          "italian": "carne",
+          "esperanto": "viando"
+        },
+        {
+          "english": "chicken",
+          "russian": "курица",
+          "spanish": "pollo",
+          "french": "poulet",
+          "german": "Hähnchen",
+          "portuguese": "frango",
+          "italian": "pollo",
+          "esperanto": "kokaĵo"
+        },
+        {
+          "english": "beef",
+          "russian": "говядина",
+          "spanish": "ternera",
+          "french": "bœuf",
+          "german": "Rindfleisch",
+          "portuguese": "carne de vaca",
+          "italian": "manzo",
+          "esperanto": "bovaĵo"
+        },
+        {
+          "english": "pork",
+          "russian": "свинина",
+          "spanish": "cerdo",
+          "french": "porc",
+          "german": "Schweinefleisch",
+          "portuguese": "carne de porco",
+          "italian": "maiale",
+          "esperanto": "porkaĵo"
+        },
+        {
+          "english": "fish",
+          "russian": "рыба",
+          "spanish": "pescado",
+          "french": "poisson",
+          "german": "Fisch",
+          "portuguese": "peixe",
+          "italian": "pesce",
+          "esperanto": "fiŝo"
+        },
+        {
+          "english": "ham",
+          "russian": "ветчина",
+          "spanish": "jamón",
+          "french": "jambon",
+          "german": "Schinken",
+          "portuguese": "fiambre",
+          "italian": "prosciutto",
+          "esperanto": "ŝinko"
+        },
+        {
+          "english": "sausage",
+          "russian": "колбаса",
+          "spanish": "salchicha",
+          "french": "saucisse",
+          "german": "Wurst",
+          "portuguese": "salsicha",
+          "italian": "salsiccia",
+          "esperanto": "kolbaso"
+        },
+        {
+          "english": "fruit",
+          "russian": "фрукты",
+          "spanish": "fruta",
+          "french": "fruit",
+          "german": "Obst",
+          "portuguese": "fruta",
+          "italian": "frutta",
+          "esperanto": "frukto"
+        },
+        {
+          "english": "apple",
+          "russian": "яблоко",
+          "spanish": "manzana",
+          "french": "pomme",
+          "german": "Apfel",
+          "portuguese": "maçã",
+          "italian": "mela",
+          "esperanto": "pomo"
+        },
+        {
+          "english": "banana",
+          "russian": "банан",
+          "spanish": "plátano",
+          "french": "banane",
+          "german": "Banane",
+          "portuguese": "banana",
+          "italian": "banana",
+          "esperanto": "banano"
+        },
+        {
+          "english": "orange",
+          "russian": "апельсин",
+          "spanish": "naranja",
+          "french": "orange",
+          "german": "Orange",
+          "portuguese": "laranja",
+          "italian": "arancia",
+          "esperanto": "oranĝo"
+        },
+        {
+          "english": "lemon",
+          "russian": "лимон",
+          "spanish": "limón",
+          "french": "citron",
+          "german": "Zitrone",
+          "portuguese": "limão",
+          "italian": "limone",
+          "esperanto": "citrono"
+        },
+        {
+          "english": "grapes",
+          "russian": "виноград",
+          "spanish": "uvas",
+          "french": "raisins",
+          "german": "Trauben",
+          "portuguese": "uvas",
+          "italian": "uva",
+          "esperanto": "vinberoj"
+        },
+        {
+          "english": "strawberry",
+          "russian": "клубника",
+          "spanish": "fresa",
+          "french": "fraise",
+          "german": "Erdbeere",
+          "portuguese": "morango",
+          "italian": "fragola",
+          "esperanto": "fragus"
+        },
+        {
+          "english": "vegetables",
+          "russian": "овощи",
+          "spanish": "verduras",
+          "french": "légumes",
+          "german": "Gemüse",
+          "portuguese": "legumes",
+          "italian": "verdura",
+          "esperanto": "legomoj"
+        },
+        {
+          "english": "tomato",
+          "russian": "помидор",
+          "spanish": "tomate",
+          "french": "tomate",
+          "german": "Tomate",
+          "portuguese": "tomate",
+          "italian": "pomodoro",
+          "esperanto": "tomato"
+        },
+        {
+          "english": "potato",
+          "russian": "картофель",
+          "spanish": "patata",
+          "french": "pomme de terre",
+          "german": "Kartoffel",
+          "portuguese": "batata",
+          "italian": "patata",
+          "esperanto": "terpomo"
+        },
+        {
+          "english": "onion",
+          "russian": "лук",
+          "spanish": "cebolla",
+          "french": "oignon",
+          "german": "Zwiebel",
+          "portuguese": "cebola",
+          "italian": "cipolla",
+          "esperanto": "cepo"
+        },
+        {
+          "english": "garlic",
+          "russian": "чеснок",
+          "spanish": "ajo",
+          "french": "ail",
+          "german": "Knoblauch",
+          "portuguese": "alho",
+          "italian": "aglio",
+          "esperanto": "ajlo"
+        },
+        {
+          "english": "carrot",
+          "russian": "морковь",
+          "spanish": "zanahoria",
+          "french": "carotte",
+          "german": "Karotte",
+          "portuguese": "cenoura",
+          "italian": "carota",
+          "esperanto": "karoto"
+        },
+        {
+          "english": "lettuce",
+          "russian": "салат",
+          "spanish": "lechuga",
+          "french": "laitue",
+          "german": "Salat",
+          "portuguese": "alface",
+          "italian": "lattuga",
+          "esperanto": "laktuko"
+        },
+        {
+          "english": "mushroom",
+          "russian": "гриб",
+          "spanish": "champiñón",
+          "french": "champignon",
+          "german": "Pilz",
+          "portuguese": "cogumelo",
+          "italian": "fungo",
+          "esperanto": "fungo"
+        },
+        {
+          "english": "water",
+          "russian": "вода",
+          "spanish": "agua",
+          "french": "eau",
+          "german": "Wasser",
+          "portuguese": "água",
+          "italian": "acqua",
+          "esperanto": "akvo"
+        },
+        {
+          "english": "coffee",
+          "russian": "кофе",
+          "spanish": "café",
+          "french": "café",
+          "german": "Kaffee",
+          "portuguese": "café",
+          "italian": "caffè",
+          "esperanto": "kafo"
+        },
+        {
+          "english": "tea",
+          "russian": "чай",
+          "spanish": "té",
+          "french": "thé",
+          "german": "Tee",
+          "portuguese": "chá",
+          "italian": "tè",
+          "esperanto": "teo"
+        },
+        {
+          "english": "juice",
+          "russian": "сок",
+          "spanish": "zumo",
+          "french": "jus",
+          "german": "Saft",
+          "portuguese": "sumo",
+          "italian": "succo",
+          "esperanto": "suko"
+        },
+        {
+          "english": "wine",
+          "russian": "вино",
+          "spanish": "vino",
+          "french": "vin",
+          "german": "Wein",
+          "portuguese": "vinho",
+          "italian": "vino",
+          "esperanto": "vino"
+        },
+        {
+          "english": "beer",
+          "russian": "пиво",
+          "spanish": "cerveza",
+          "french": "bière",
+          "german": "Bier",
+          "portuguese": "cerveja",
+          "italian": "birra",
+          "esperanto": "bier"
+        },
+        {
+          "english": "yogurt",
+          "russian": "йогурт",
+          "spanish": "yogur",
+          "french": "yaourt",
+          "german": "Joghurt",
+          "portuguese": "iogurte",
+          "italian": "yogurt",
+          "esperanto": "jogurto"
+        },
+        {
+          "english": "honey",
+          "russian": "мёд",
+          "spanish": "miel",
+          "french": "miel",
+          "german": "Honig",
+          "portuguese": "mel",
+          "italian": "miele",
+          "esperanto": "mielo"
+        },
+        {
+          "english": "chocolate",
+          "russian": "шоколад",
+          "spanish": "chocolate",
+          "french": "chocolat",
+          "german": "Schokolade",
+          "portuguese": "chocolate",
+          "italian": "cioccolato",
+          "esperanto": "ĉokolado"
+        },
+        {
+          "english": "breakfast",
+          "russian": "завтрак",
+          "spanish": "desayuno",
+          "french": "petit-déjeuner",
+          "german": "Frühstück",
+          "portuguese": "pequeno-almoço",
+          "italian": "colazione",
+          "esperanto": "matenmanĝo"
+        },
+        {
+          "english": "lunch",
+          "russian": "обед",
+          "spanish": "almuerzo",
+          "french": "déjeuner",
+          "german": "Mittagessen",
+          "portuguese": "almoço",
+          "italian": "pranzo",
+          "esperanto": "tagmanĝo"
+        },
+        {
+          "english": "dinner",
+          "russian": "ужин",
+          "spanish": "cena",
+          "french": "dîner",
+          "german": "Abendessen",
+          "portuguese": "jantar",
+          "italian": "cena",
+          "esperanto": "vespermanĝo"
+        },
+        {
+          "english": "snack",
+          "russian": "перекус",
+          "spanish": "merienda",
+          "french": "collation",
+          "german": "Snack",
+          "portuguese": "lanche",
+          "italian": "spuntino",
+          "esperanto": "manĝeto"
+        },
+        {
+          "english": "sweet",
+          "russian": "сладкий",
+          "spanish": "dulce",
+          "french": "sucré",
+          "german": "süß",
+          "portuguese": "doce",
+          "italian": "dolce",
+          "esperanto": "dolĉa"
+        },
+        {
+          "english": "salty",
+          "russian": "солёный",
+          "spanish": "salado",
+          "french": "salé",
+          "german": "salzig",
+          "portuguese": "salgado",
+          "italian": "salato",
+          "esperanto": "sala"
+        },
+        {
+          "english": "sour",
+          "russian": "кислый",
+          "spanish": "agrio",
+          "french": "acide",
+          "german": "sauer",
+          "portuguese": "azedo",
+          "italian": "acido",
+          "esperanto": "acida"
+        },
+        {
+          "english": "spicy",
+          "russian": "острый",
+          "spanish": "picante",
+          "french": "épicé",
+          "german": "scharf",
+          "portuguese": "picante",
+          "italian": "piccante",
+          "esperanto": "spica"
+        },
+        {
+          "english": "bitter",
+          "russian": "горький",
+          "spanish": "amargo",
+          "french": "amer",
+          "german": "bitter",
+          "portuguese": "amargo",
+          "italian": "amaro",
+          "esperanto": "amara"
+        },
+        {
+          "english": "fresh",
+          "russian": "свежий",
+          "spanish": "fresco",
+          "french": "frais",
+          "german": "frisch",
+          "portuguese": "fresco",
+          "italian": "fresco",
+          "esperanto": "freŝa"
+        },
+        {
+          "english": "frozen",
+          "russian": "замороженный",
+          "spanish": "congelado",
+          "french": "surgelé",
+          "german": "gefroren",
+          "portuguese": "congelado",
+          "italian": "congelato",
+          "esperanto": "frostigita"
+        },
+        {
+          "english": "raw",
+          "russian": "сырой",
+          "spanish": "crudo",
+          "french": "cru",
+          "german": "roh",
+          "portuguese": "cru",
+          "italian": "crudo",
+          "esperanto": "kruda"
+        },
+        {
+          "english": "ripe",
+          "russian": "спелый",
+          "spanish": "maduro",
+          "french": "mûr",
+          "german": "reif",
+          "portuguese": "maduro",
+          "italian": "maturo",
+          "esperanto": "matura"
+        },
+        {
+          "english": "to cook",
+          "russian": "готовить",
+          "spanish": "cocinar",
+          "french": "cuisiner",
+          "german": "kochen",
+          "portuguese": "cozinhar",
+          "italian": "cucinare",
+          "esperanto": "kuiri"
+        },
+        {
+          "english": "to fry",
+          "russian": "жарить",
+          "spanish": "freír",
+          "french": "frire",
+          "german": "braten",
+          "portuguese": "fritar",
+          "italian": "friggere",
+          "esperanto": "friti"
+        },
+        {
+          "english": "to boil",
+          "russian": "варить",
+          "spanish": "hervir",
+          "french": "bouillir",
+          "german": "kochen",
+          "portuguese": "ferver",
+          "italian": "bollire",
+          "esperanto": "boligi"
+        },
+        {
+          "english": "to bake",
+          "russian": "печь",
+          "spanish": "hornear",
+          "french": "cuire au four",
+          "german": "backen",
+          "portuguese": "assar",
+          "italian": "cuocere al forno",
+          "esperanto": "baki"
+        },
+        {
+          "english": "to cut",
+          "russian": "резать",
+          "spanish": "cortar",
+          "french": "couper",
+          "german": "schneiden",
+          "portuguese": "cortar",
+          "italian": "tagliare",
+          "esperanto": "tranĉi"
+        },
+        {
+          "english": "to mix",
+          "russian": "смешивать",
+          "spanish": "mezclar",
+          "french": "mélanger",
+          "german": "mischen",
+          "portuguese": "misturar",
+          "italian": "mescolare",
+          "esperanto": "miksi"
+        },
+        {
+          "english": "to peel",
+          "russian": "чистить",
+          "spanish": "pelar",
+          "french": "éplucher",
+          "german": "schälen",
+          "portuguese": "descascar",
+          "italian": "sbucciare",
+          "esperanto": "senŝeligi"
+        },
+        {
+          "english": "recipe",
+          "russian": "рецепт",
+          "spanish": "receta",
+          "french": "recette",
+          "german": "Rezept",
+          "portuguese": "receita",
+          "italian": "ricetta",
+          "esperanto": "recepto"
+        },
+        {
+          "english": "kitchen",
+          "russian": "кухня",
+          "spanish": "cocina",
+          "french": "cuisine",
+          "german": "Küche",
+          "portuguese": "cozinha",
+          "italian": "cucina",
+          "esperanto": "kuirejo"
+        },
+        {
+          "english": "frying pan",
+          "russian": "сковорода",
+          "spanish": "sartén",
+          "french": "poêle",
+          "german": "Pfanne",
+          "portuguese": "frigideira",
+          "italian": "padella",
+          "esperanto": "patelo"
+        },
+        {
+          "english": "pot",
+          "russian": "кастрюля",
+          "spanish": "olla",
+          "french": "casserole",
+          "german": "Topf",
+          "portuguese": "panela",
+          "italian": "pentola",
+          "esperanto": "pot"
+        },
+        {
+          "english": "knife",
+          "russian": "нож",
+          "spanish": "cuchillo",
+          "french": "couteau",
+          "german": "Messer",
+          "portuguese": "faca",
+          "italian": "coltello",
+          "esperanto": "tranĉilo"
+        },
+        {
+          "english": "fork",
+          "russian": "вилка",
+          "spanish": "tenedor",
+          "french": "fourchette",
+          "german": "Gabel",
+          "portuguese": "garfo",
+          "italian": "forchetta",
+          "esperanto": "forko"
+        },
+        {
+          "english": "spoon",
+          "russian": "ложка",
+          "spanish": "cuchara",
+          "french": "cuillère",
+          "german": "Löffel",
+          "portuguese": "colher",
+          "italian": "cucchiaio",
+          "esperanto": "kulero"
+        },
+        {
+          "english": "plate",
+          "russian": "тарелка",
+          "spanish": "plato",
+          "french": "assiette",
+          "german": "Teller",
+          "portuguese": "prato",
+          "italian": "piatto",
+          "esperanto": "plado"
+        },
+        {
+          "english": "oven",
+          "russian": "духовка",
+          "spanish": "horno",
+          "french": "four",
+          "german": "Ofen",
+          "portuguese": "forno",
+          "italian": "forno",
+          "esperanto": "forno"
+        },
+        {
+          "english": "fridge",
+          "russian": "холодильник",
+          "spanish": "nevera",
+          "french": "réfrigérateur",
+          "german": "Kühlschrank",
+          "portuguese": "frigorífico",
+          "italian": "frigorifero",
+          "esperanto": "fridujo"
+        },
+        {
+          "english": "Where is the supermarket?",
+          "russian": "Где супермаркет?",
+          "spanish": "¿Dónde está el supermercado?",
+          "french": "Où est le supermarché ?",
+          "german": "Wo ist der Supermarkt?",
+          "portuguese": "Onde fica o supermercado?",
+          "italian": "Dov'è il supermercato?",
+          "esperanto": "Kie estas la superbazaro?"
+        },
+        {
+          "english": "How much is a kilo of apples?",
+          "russian": "Сколько стоит килограмм яблок?",
+          "spanish": "¿Cuánto cuesta un kilo de manzanas?",
+          "french": "Combien coûte un kilo de pommes ?",
+          "german": "Was kostet ein Kilo Äpfel?",
+          "portuguese": "Quanto custa um quilo de maçãs?",
+          "italian": "Quanto costa un chilo di mele?",
+          "esperanto": "Kiom kostas kilogramo da pomoj?"
+        },
+        {
+          "english": "I'd like a loaf of bread.",
+          "russian": "Я бы хотел буханку хлеба.",
+          "spanish": "Quisiera una barra de pan.",
+          "french": "Je voudrais un pain.",
+          "german": "Ich hätte gern ein Brot.",
+          "portuguese": "Queria um pão.",
+          "italian": "Vorrei un filone di pane.",
+          "esperanto": "Mi ŝatus panon."
+        },
+        {
+          "english": "a bottle of water",
+          "russian": "бутылка воды",
+          "spanish": "una botella de agua",
+          "french": "une bouteille d'eau",
+          "german": "eine Flasche Wasser",
+          "portuguese": "uma garrafa de água",
+          "italian": "una bottiglia d'acqua",
+          "esperanto": "botelo da akvo"
+        },
+        {
+          "english": "a dozen eggs",
+          "russian": "дюжина яиц",
+          "spanish": "una docena de huevos",
+          "french": "une douzaine d'œufs",
+          "german": "ein Dutzend Eier",
+          "portuguese": "uma dúzia de ovos",
+          "italian": "una dozzina di uova",
+          "esperanto": "dekduo da ovoj"
+        },
+        {
+          "english": "Is it fresh?",
+          "russian": "Это свежее?",
+          "spanish": "¿Está fresco?",
+          "french": "Est-ce frais ?",
+          "german": "Ist das frisch?",
+          "portuguese": "Está fresco?",
+          "italian": "È fresco?",
+          "esperanto": "Ĉu ĝi estas freŝa?"
+        },
+        {
+          "english": "I'm vegetarian.",
+          "russian": "Я вегетарианец.",
+          "spanish": "Soy vegetariano.",
+          "french": "Je suis végétarien.",
+          "german": "Ich bin Vegetarier.",
+          "portuguese": "Sou vegetariano.",
+          "italian": "Sono vegetariano.",
+          "esperanto": "Mi estas vegetarano."
+        },
+        {
+          "english": "I'm vegan.",
+          "russian": "Я веган.",
+          "spanish": "Soy vegano.",
+          "french": "Je suis végan.",
+          "german": "Ich bin Veganer.",
+          "portuguese": "Sou vegano.",
+          "italian": "Sono vegano.",
+          "esperanto": "Mi estas vegano."
+        },
+        {
+          "english": "I'm allergic to nuts.",
+          "russian": "У меня аллергия на орехи.",
+          "spanish": "Soy alérgico a los frutos secos.",
+          "french": "Je suis allergique aux noix.",
+          "german": "Ich bin allergisch gegen Nüsse.",
+          "portuguese": "Sou alérgico a frutos secos.",
+          "italian": "Sono allergico alla frutta secca.",
+          "esperanto": "Mi estas alergia al nuksoj."
+        },
+        {
+          "english": "I don't eat pork.",
+          "russian": "Я не ем свинину.",
+          "spanish": "No como cerdo.",
+          "french": "Je ne mange pas de porc.",
+          "german": "Ich esse kein Schweinefleisch.",
+          "portuguese": "Não como carne de porco.",
+          "italian": "Non mangio carne di maiale.",
+          "esperanto": "Mi ne manĝas porkaĵon."
+        },
+        {
+          "english": "Does it contain nuts?",
+          "russian": "В этом есть орехи?",
+          "spanish": "¿Contiene frutos secos?",
+          "french": "Est-ce que ça contient des noix ?",
+          "german": "Enthält das Nüsse?",
+          "portuguese": "Contém frutos secos?",
+          "italian": "Contiene frutta secca?",
+          "esperanto": "Ĉu ĝi enhavas nuksojn?"
+        },
+        {
+          "english": "gluten-free",
+          "russian": "без глютена",
+          "spanish": "sin gluten",
+          "french": "sans gluten",
+          "german": "glutenfrei",
+          "portuguese": "sem glúten",
+          "italian": "senza glutine",
+          "esperanto": "sen gluteno"
+        },
+        {
+          "english": "lactose-free",
+          "russian": "без лактозы",
+          "spanish": "sin lactosa",
+          "french": "sans lactose",
+          "german": "laktosefrei",
+          "portuguese": "sem lactose",
+          "italian": "senza lattosio",
+          "esperanto": "sen laktozo"
+        },
+        {
+          "english": "without sugar",
+          "russian": "без сахара",
+          "spanish": "sin azúcar",
+          "french": "sans sucre",
+          "german": "ohne Zucker",
+          "portuguese": "sem açúcar",
+          "italian": "senza zucchero",
+          "esperanto": "sen sukero"
+        }
+      ]
+    }
+  ]
+}

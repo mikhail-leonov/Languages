@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Greetings & Farewells",
+      "phrases": [
+        {
+          "english": "Hey there!",
+          "russian": "Привет!",
+          "spanish": "¡Hola!",
+          "french": "Salut !",
+          "german": "Hallo zusammen!",
+          "italian": "Ehi, ciao!",
+          "portuguese": "Olá!",
+          "esperanto": "Hej!"
+        },
+        {
+          "english": "What's up?",
+          "russian": "Как дела? / Что нового?",
+          "spanish": "¿Qué tal?",
+          "french": "Quoi de neuf ?",
+          "german": "Was geht ab?",
+          "italian": "Come va?",
+          "portuguese": "E aí?",
+          "esperanto": "Kio nova?"
+        },
+        {
+          "english": "How's it going?",
+          "russian": "Как успехи? / Как оно?",
+          "spanish": "¿Cómo te va?",
+          "french": "Comment ça va ?",
+          "german": "Wie läuft's?",
+          "italian": "Come sta andando?",
+          "portuguese": "Como vão as coisas?",
+          "esperanto": "Kiel iras?"
+        },
+        {
+          "english": "Good to see you!",
+          "russian": "Рад тебя видеть!",
+          "spanish": "¡Qué bueno verte!",
+          "french": "Ravi de te voir !",
+          "german": "Schön, dich zu sehen!",
+          "italian": "Che bello vederti!",
+          "portuguese": "Bom te ver!",
+          "esperanto": "Bone vidi vin!"
+        },
+        {
+          "english": "Long time no see!",
+          "russian": "Сколько лет, сколько зим!",
+          "spanish": "¡Cuánto tiempo sin verte!",
+          "french": "Ça fait un bail !",
+          "german": "Lange nicht gesehen!",
+          "italian": "Quanto tempo!",
+          "portuguese": "Quanto tempo não te vejo!",
+          "esperanto": "Longe ne vidis!"
+        },
+        {
+          "english": "What have you been up to?",
+          "russian": "Чем занимался всё это время?",
+          "spanish": "¿Qué хаs estado haciendo?",
+          "french": "Qu'est-ce que tu as fait de beau ?",
+          "german": "Was hast du so getrieben?",
+          "italian": "Che hai fatto di bello?",
+          "portuguese": "O que você tem feito?",
+          "esperanto": "Kion vi faris lastatempe?"
+        },
+        {
+          "english": "How's your day treating you?",
+          "russian": "Как проходит твой день?",
+          "spanish": "¿Cómo te trata el día?",
+          "french": "Comment se passe ta journée ?",
+          "german": "Wie läuft dein Tag so?",
+          "italian": "Come ti va la giornata?",
+          "portuguese": "Como está sendo o seu dia?",
+          "esperanto": "Kiel via tago?"
+        },
+        {
+          "english": "Look who it is!",
+          "russian": "Посмотрите, кто это!",
+          "spanish": "¡Mira quién es!",
+          "french": "Regarde un peu qui voilà !",
+          "german": "Schau mal, wer da ist!",
+          "italian": "Guarda chi si vede!",
+          "portuguese": "Olha só quem é!",
+          "esperanto": "Rigardu, kiu ĝi estas!"
+        },
+        {
+          "english": "Hey, what's the good word?",
+          "russian": "Привет, какие хорошие новости?",
+          "spanish": "Hey, ¿qué cuentas?",
+          "french": "Alors, quelles sont les bonnes nouvelles ?",
+          "german": "Und, was gibt's Neues?",
+          "italian": "Ehi, che si dice di bello?",
+          "portuguese": "E aí, quais são as novidades?",
+          "esperanto": "Hej, kio estas nova?"
+        },
+        {
+          "english": "How are things?",
+          "russian": "Как дела? / Как жизнь?",
+          "spanish": "¿Cómo van las cosas?",
+          "french": "Comment vont les choses ?",
+          "german": "Wie stehen die Dinge?",
+          "italian": "Come vanno le cose?",
+          "portuguese": "Como estão as coisas?",
+          "esperanto": "Kiel la aferoj?"
+        },
+        {
+          "english": "Good morning, everyone.",
+          "russian": "Доброе утро всем.",
+          "spanish": "Buenos días a todos.",
+          "french": "Bonjour à tous.",
+          "german": "Guten Morgen allerseits.",
+          "italian": "Buongiorno a tutti.",
+          "portuguese": "Bom dia a todos.",
+          "esperanto": "Bonan matenon al ĉiuj."
+        },
+        {
+          "english": "Good afternoon, sir/ma'am.",
+          "russian": "Добрый день, сэр/мэм.",
+          "spanish": "Buenas tardes, señor/señora.",
+          "french": "Bonjour, monsieur/madame.",
+          "german": "Guten Tag, der Herr / die Dame.",
+          "italian": "Buon pomeriggio, signore/signora.",
+          "portuguese": "Boa tarde, senhor/senhora.",
+          "esperanto": "Bonan posttagmezon, sinjoro/s-ino."
+        },
+        {
+          "english": "It is a pleasure to meet you.",
+          "russian": "Приятно с вами познакомиться.",
+          "spanish": "Es un placer conocerle.",
+          "french": "C'est un plaisir de vous rencontrer.",
+          "german": "Es ist mir ein Vergnügen, Sie kennenzulernen.",
+          "italian": "È un piacere conoscerla.",
+          "portuguese": "É um prazer conhecê-lo(a).",
+          "esperanto": "Estas plezuro renkonti vin."
+        },
+        {
+          "english": "Welcome to our meeting.",
+          "russian": "Добро пожаловать на нашу встречу.",
+          "spanish": "Bienvenidos a nuestra reunión.",
+          "french": "Bienvenue à notre réunion.",
+          "german": "Herzlich willkommen zu unserem Treffen.",
+          "italian": "Benvenuti alla nostra riunione.",
+          "portuguese": "Bem-vindos à nossa reunião.",
+          "esperanto": "Bonvenon al nia kunveno."
+        },
+        {
+          "english": "I hope this day finds you well.",
+          "russian": "Надеюсь, этот день складывается для вас удачно.",
+          "spanish": "Espero que se encuentre bien hoy.",
+          "french": "J'espère que vous allez bien aujourd'hui.",
+          "german": "Ich hoffe, dieser Tag verläuft gut für Sie.",
+          "italian": "Spero che questa giornata la trovi in salute.",
+          "portuguese": "Espero que este dia o(a) encontre bem.",
+          "esperanto": "Mi esperas, ke ĉi tiu tago trovas vin bone."
+        },
+        {
+          "english": "Allow me to introduce myself.",
+          "russian": "Разрешите представиться.",
+          "spanish": "Permítame presentarme.",
+          "french": "Permettez-moi de me présenter.",
+          "german": "Erlauben Sie mir, mich vorzustellen.",
+          "italian": "Mi permetta di presentarsi.",
+          "portuguese": "Permita-me apresentar-me.",
+          "esperanto": "Permesu, ke mi prezentu min."
+        },
+        {
+          "english": "Pleasant morning to you.",
+          "russian": "Приятного вам утра.",
+          "spanish": "Que tenga una agradable mañana.",
+          "french": "Je vous souhaite une agréable matinée.",
+          "german": "Ich wünsche Ihnen einen angenehmen Morgen.",
+          "italian": "Le auguro una piacevole mattinata.",
+          "portuguese": "Desejo-lhe uma manhã agradável.",
+          "esperanto": "Agrablan matenon al vi."
+        },
+        {
+          "english": "Thank you for joining us today.",
+          "russian": "Спасибо, что присоединились к нам сегодня.",
+          "spanish": "Gracias por acompañarnos hoy.",
+          "french": "Merci de vous joindre à nous aujourd'hui.",
+          "german": "Vielen Dank, dass Sie heute dabei sind.",
+          "italian": "Grazie per esservi uniti a noi oggi.",
+          "portuguese": "Obrigado por se juntar a nós hoje.",
+          "esperanto": "Dankon pro aliĝi al ni hodiaŭ."
+        },
+        {
+          "english": "It's an honor to connect with you.",
+          "russian": "Для меня честь связаться с вами.",
+          "spanish": "Es un honor ponerme en contacto con usted.",
+          "french": "C'est un honneur d'entrer en contact avec vous.",
+          "german": "Es ist mir eine Ehre, mit Ihnen in Kontakt zu treten.",
+          "italian": "È un onore entrare in contatto con lei.",
+          "portuguese": "É uma honra entrar em contato com você.",
+          "esperanto": "Estas honoro kontakti vin."
+        },
+        {
+          "english": "Good evening, ladies and gentlemen.",
+          "russian": "Добрый вечер, дамы и господа.",
+          "spanish": "Buenas noches, damas y caballeros.",
+          "french": "Bonsoir, mesdames et messieurs.",
+          "german": "Guten Abend, meine Damen und Herren.",
+          "italian": "Buonasera, signore e signori.",
+          "portuguese": "Boa noite, senhoras e senhores.",
+          "esperanto": "Bonan vesperon, gesinjoroj."
+        },
+        {
+          "english": "It is so wonderful to see you!",
+          "russian": "Как чудесно вас видеть!",
+          "spanish": "¡Es tan maravilloso verte!",
+          "french": "C'est tellement merveilleux de te voir !",
+          "german": "Es ist so wunderbar, dich zu sehen!",
+          "italian": "È davvero splendido vederti!",
+          "portuguese": "É tão maravilhoso ver você!",
+          "esperanto": "Estas tiel mirinde vidi vin!"
+        },
+        {
+          "english": "I have been looking forward to meeting you!",
+          "russian": "Я так ждал встречи с вами!",
+          "spanish": "¡He estado deseando conocerle!",
+          "french": "J'avais hâte de vous rencontrer !",
+          "german": "Ich habe mich schon darauf gefreut, Sie kennenzulernen!",
+          "italian": "Non vedevo l'ora di incontrarla!",
+          "portuguese": "Estava ansioso para conhecê-lo(a)!",
+          "esperanto": "Mi antaŭĝojis renkonti vin!"
+        },
+        {
+          "english": "What a delightful surprise!",
+          "russian": "Какая приятная неожиданность!",
+          "spanish": "¡Qué delicia de sorpresa!",
+          "french": "Quelle charmante surprise !",
+          "german": "Was für eine schöne Überraschung!",
+          "italian": "Che splendida sorpresa!",
+          "portuguese": "Que surpresa agradável!",
+          "esperanto": "Kia ĝojiga surprizo!"
+        },
+        {
+          "english": "Oh my goodness, it's been ages!",
+          "russian": "Боже мой, прошла целая вечность!",
+          "spanish": "¡Madre mía, hace siglos!",
+          "french": "Oh mon Dieu, ça fait des siècles !",
+          "german": "Meine Güte, das ist ja ewig her!",
+          "italian": "Mamma mia, è passata un'eternità!",
+          "portuguese": "Meu Deus, faz uma eternidade!",
+          "esperanto": "Ho ve, pasis aĝoj!"
+        },
+        {
+          "english": "You bring so much energy into the room!",
+          "russian": "Ты приносишь столько энергии с собой!",
+          "spanish": "¡Traes tanta energía a la habitación!",
+          "french": "Tu apportes tellement d'énergie ici !",
+          "german": "Du bringst so viel Energie in den Raum!",
+          "italian": "Porti così tanta energia nella stanza!",
+          "portuguese": "Você traz tanta energia para o ambiente!",
+          "esperanto": "Vi alportas tiom da energio en la ĉambron!"
+        },
+        {
+          "english": "So glad we finally crossed paths!",
+          "russian": "Так рад, что наши пути наконец пересеклись!",
+          "spanish": "¡Qué alegría que finalmente nos hayamos cruzado!",
+          "french": "Tellement ravi que nos chemins se soient enfin croisés !",
+          "german": "So froh, dass sich unsere Wege endlich gekreuzt haben!",
+          "italian": "Sono così felice che le nostre strade si siano finalmente incrociate!",
+          "portuguese": "Que bom que nossos caminhos finalmente se cruzaram!",
+          "esperanto": "Tiel ĝojas, ke niaj vojoj fine kruciĝis!"
+        },
+        {
+          "english": "Hey friend, I've missed you!",
+          "russian": "Привет, друг, я скучал по тебе!",
+          "spanish": "¡Hola amigo, te he echado de menos!",
+          "french": "Salut l'ami, tu m'as manqué !",
+          "german": "Hallo Freund, ich habe dich vermisst!",
+          "italian": "Ehi amico, mi sei mancato!",
+          "portuguese": "Ei amigo, senti sua falta!",
+          "esperanto": "Hej amiko, vi mankis al mi!"
+        },
+        {
+          "english": "Your smile is the best welcome!",
+          "russian": "Твоя улыбка — лучший привет!",
+          "spanish": "¡Tu sonrisa es la mejor bienvenida!",
+          "french": "Ton sourire est la plus belle des bienvenues !",
+          "german": "Dein Lächeln ist das beste Willkommen!",
+          "italian": "Il tuo sorriso è il benvenuto migliore!",
+          "portuguese": "O seu sorriso é a melhor recepção!",
+          "esperanto": "Via rideto estas la plej bona bonveno!"
+        },
+        {
+          "english": "It is always a treat to bump into you.",
+          "russian": "Всегда такое удовольствие случайно встретить тебя.",
+          "spanish": "Siempre es un placer encontrarte.",
+          "french": "C'est toujours un plaisir de te croiser.",
+          "german": "Es ist immer eine Freude, dich zufällig zu treffen.",
+          "italian": "È sempre un piacere incontrarti per caso.",
+          "portuguese": "É sempre um prazer esbarrar com você.",
+          "esperanto": "Ĉiam estas plezuro hazarde renkonti vin."
+        },
+        {
+          "english": "Welcome back, we missed you around here!",
+          "russian": "С возвращением, нам тебя здесь не хватало!",
+          "spanish": "¡Bienvenido de nuevo, te extrañamos por aquí!",
+          "french": "Bon retour parmi nous, tu nous as manqué !",
+          "german": "Willkommen zurück, wir haben dich hier vermisst!",
+          "italian": "Bentornato, ci sei mancato da queste parti!",
+          "portuguese": "Bem-vindo de volta, sentimos sua falta por aqui!",
+          "esperanto": "Bonvenon reen, vi mankis al ni ĉi tie!"
+        },
+        {
+          "english": "Catch you later!",
+          "russian": "Поймаю тебя позже! / Пересечемся!",
+          "spanish": "¡Te veo luego!",
+          "french": "Plus tard !",
+          "german": "Bis später!",
+          "italian": "Ci becchiamo dopo!",
+          "portuguese": "Te vejo mais tarde!",
+          "esperanto": "Ĝis poste!"
+        },
+        {
+          "english": "See ya!",
+          "russian": "Увидимся!",
+          "spanish": "¡Nos vemos!",
+          "french": "À plus !",
+          "german": "Tschüss! / Bis dann!",
+          "italian": "Ci vediamo!",
+          "portuguese": "Até mais!",
+          "esperanto": "Ĝis!"
+        },
+        {
+          "english": "I'm out!",
+          "russian": "Я пошел!",
+          "spanish": "¡Me voy!",
+          "french": "Je me casse !",
+          "german": "Ich bin weg!",
+          "italian": "Io vado!",
+          "portuguese": "Fui!",
+          "esperanto": "Mi foriras!"
+        },
+        {
+          "english": "Peace out!",
+          "russian": "Пока! / Счастливо!",
+          "spanish": "¡Paz!",
+          "french": "Allez, salut !",
+          "german": "Mach's gut! / Peace!",
+          "italian": "Ciao ciao! / Pace!",
+          "portuguese": "Fui, abraço!",
+          "esperanto": "Paco!"
+        },
+        {
+          "english": "Take care!",
+          "russian": "Береги себя!",
+          "spanish": "¡Cuídate!",
+          "french": "Prends soin de toi !",
+          "german": "Pass auf dich auf!",
+          "italian": "Abbi cura di te!",
+          "portuguese": "Se cuida!",
+          "esperanto": "Zorgu pri vi!"
+        },
+        {
+          "english": "Until next time!",
+          "russian": "До следующего раза!",
+          "spanish": "¡Hasta la próxima!",
+          "french": "À la prochaine !",
+          "german": "Bis zum nächsten Mal!",
+          "italian": "Alla prossima!",
+          "portuguese": "Até a próxima!",
+          "esperanto": "Ĝis la venonta fojo!"
+        },
+        {
+          "english": "Talk to you soon!",
+          "russian": "Созвонимся! / Скоро поговорим!",
+          "spanish": "¡Hablamos pronto!",
+          "french": "On se parle bientôt !",
+          "german": "Wir sprechen uns bald!",
+          "italian": "Ci sentiamo presto!",
+          "portuguese": "Falo com você em breve!",
+          "esperanto": "Baldaŭ aŭdiĝos!"
+        },
+        {
+          "english": "Bye for now!",
+          "russian": "Пока что пока!",
+          "spanish": "¡Adiós por ahora!",
+          "french": "Au revoir pour l'instant !",
+          "german": "Tschüss erst mal!",
+          "italian": "Per ora ciao!",
+          "portuguese": "Tchau por enquanto!",
+          "esperanto": "Ĝis revido!"
+        },
+        {
+          "english": "Have a good one!",
+          "russian": "Всего хорошего!",
+          "spanish": "¡Que te vaya bien!",
+          "french": "Passe une bonne journée !",
+          "german": "Schönen Tag noch!",
+          "italian": "Buona giornata!",
+          "portuguese": "Tenha um bom dia!",
+          "esperanto": "Havu bonan tagon!"
+        },
+        {
+          "english": "Later gator!",
+          "russian": "Увидимся позже, крокодил!",
+          "spanish": "¡Hasta luego, cocodrilo!",
+          "french": "À plus tard, l'alligator !",
+          "german": "Bis später, Krokodil!",
+          "italian": "A dopo, alligatore!",
+          "portuguese": "Até logo, jacaré!",
+          "esperanto": "Ĝis poste, krokodilo!"
+        },
+        {
+          "english": "Goodbye, and thank you for your time.",
+          "russian": "До свидания, и спасибо за ваше время.",
+          "spanish": "Adiós, y gracias por su tiempo.",
+          "french": "Au revoir, et merci pour votre temps.",
+          "german": "Auf Wiedersehen und vielen Dank für Ihre Zeit.",
+          "italian": "Arrivederci e grazie per il suo tempo.",
+          "portuguese": "Adeus, e obrigado pelo seu tempo.",
+          "esperanto": "Ĝis revido, kaj dankon por via tempo."
+        },
+        {
+          "english": "It was an absolute pleasure speaking with you.",
+          "russian": "Было искренним удовольствием побеседовать с вами.",
+          "spanish": "Fue un absoluto placer hablar con usted.",
+          "french": "Ce fut un plaisir absolu de s'entretenir avec vous.",
+          "german": "Es war mir ein absolutes Vergnügen, mit Ihnen zu sprechen.",
+          "italian": "È stato un assoluto piacere parlare con lei.",
+          "portuguese": "Foi um prazer absoluto falar com você.",
+          "esperanto": "Estis absoluta plezuro paroli kun vi."
+        },
+        {
+          "english": "I look forward to our next encounter.",
+          "russian": "С нетерпением жду нашей следующей встречи.",
+          "spanish": "Espero con interés nuestro próximo encuentro.",
+          "french": "Dans l'attente de notre prochaine rencontre.",
+          "german": "Ich freue mich auf unsere nächste Begegnung.",
+          "italian": "Guardo con fiducia al nostro prossimo incontro.",
+          "portuguese": "Aguardo com expectativa o nosso próximo encontro.",
+          "esperanto": "Mi antaŭĝojas nian venontan renkonton."
+        },
+        {
+          "english": "Please accept my best regards until we meet again.",
+          "russian": "Пожалуйста, примите мои наилучшие пожелания до нашей следующей встречи.",
+          "spanish": "Por favor, acepte mis mejores deseos hasta que nos volvamos a ver.",
+          "french": "Veuillez agréer mes meilleures salutations en attendant notre prochaine rencontre.",
+          "german": "Mit freundlichen Grüßen, bis wir uns wiedersehen.",
+          "italian": "La prego di accettare i miei più cordiali saluti fino al nostro prossimo incontro.",
+          "portuguese": "Por favor, aceite os meus melhores cumprimentos até nos encontrarmos novamente.",
+          "esperanto": "Bonvolu akcepti miajn plej bonajn salutojn ĝis ni revidos."
+        },
+        {
+          "english": "Safe travels on your journey home.",
+          "russian": "Безопасной дороги домой.",
+          "spanish": "Buen viaje de regreso a casa.",
+          "french": "Bon voyage de retour chez vous.",
+          "german": "Gute Heimreise.",
+          "italian": "Buon viaggio di ritorno a casa.",
+          "portuguese": "Boa viagem de regresso a casa.",
+          "esperanto": "Bonan vojaĝon hejmen."
+        },
+        {
+          "english": "I wish you the absolute best of luck.",
+          "russian": "Желаю вам исключительной удачи.",
+          "spanish": "Le deseo la mejor de las suertes.",
+          "french": "Je vous souhaite la meilleure des chances.",
+          "german": "Ich wünsche Ihnen viel Erfolg.",
+          "italian": "Le auguro la migliore delle fortune.",
+          "portuguese": "Desejo-lhe a melhor das sortes.",
+          "esperanto": "Mi deziras al vi la plej bonan sorton."
+        },
+        {
+          "english": "Farewell, and take good care of yourself.",
+          "russian": "Прощайте, и берегите себя.",
+          "spanish": "Adiós, y cuídese mucho.",
+          "french": "Adieu, et prenez bien soin de vous.",
+          "german": "Lebewohl und passen Sie gut auf sich auf.",
+          "italian": "Addio e si prenda cura di sé.",
+          "portuguese": "Adeus, e cuide bem de si.",
+          "esperanto": "Adiaŭ, kaj zorgu pri vi."
+        },
+        {
+          "english": "Until our paths cross again.",
+          "russian": "До тех пор, пока наши пути снова не пересекутся.",
+          "spanish": "Hasta que nuestros caminos se vuelvan a cruzar.",
+          "french": "Jusqu'à ce que nos chemins se croisent à nouveau.",
+          "german": "Bis sich unsere Wege wieder kreuzen.",
+          "italian": "Finché le nostre strade non si incroceranno di nuovo.",
+          "portuguese": "Até que os nossos caminhos se cruzem novamente.",
+          "esperanto": "Ĝis niaj vojoj denove kruciĝos."
+        },
+        {
+          "english": "Thank you for your hospitality, goodbye.",
+          "russian": "Спасибо за ваше гостеприимство, до свидания.",
+          "spanish": "Gracias por su hospitalidad, adiós.",
+          "french": "Merci pour votre hospitalité, au revoir.",
+          "german": "Vielen Dank für Ihre Gastfreundschaft, auf Wiedersehen.",
+          "italian": "Grazie per la vostra ospitalità, arrivederci.",
+          "portuguese": "Obrigado pela sua hospitalidade, adeus.",
+          "esperanto": "Dankon pro via gastamo, ĝis revido."
+        },
+        {
+          "english": "May success follow you wherever you go.",
+          "russian": "Пусть успех сопутствует вам, куда бы вы ни направились.",
+          "spanish": "Que el éxito le acompañe dondequiera que vaya.",
+          "french": "Que le succès vous accompagne où que vous ailiez.",
+          "german": "Möge der Erfolg Sie auf all Ihren Wegen begleiten.",
+          "italian": "Che il successo la segua ovunque vada.",
+          "portuguese": "Que o sucesso o(a) acompanhe por onde quer que vá.",
+          "esperanto": "Bonŝanco sekvu vin kien ajn vi iras."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Reactions, Exclamations & Casual Conversation",
+      "phrases": [
+        {
+          "english": "Wow, I absolutely did not see that coming!",
+          "russian": "Ого, я совершенно этого не ожидал(а)!",
+          "spanish": "¡Vaya, absolutamente no vi venir eso!",
+          "french": "Waouh, je ne l'ai absolument pas vu venir !",
+          "german": "Wow, das habe ich absolut nicht kommen sehen!",
+          "italian": "Wow, non me lo aspettavo assolutamente!",
+          "portuguese": "Nossa, eu absolutamente não previ isso!",
+          "esperanto": "Ho, mi absolute ne antaŭvidis tion!"
+        },
+        {
+          "english": "You have got to be kidding me!",
+          "russian": "Ты, должно быть, шутишь!",
+          "spanish": "¡Tienes que estar bromeando!",
+          "french": "Tu plaisantes, j'espère !",
+          "german": "Du machst wohl Witze!",
+          "italian": "Ma stai scherzando!",
+          "portuguese": "Você só pode estar brincando comigo!",
+          "esperanto": "Vi devas ŝerci!"
+        },
+        {
+          "english": "Oh my goodness, that is completely unbelievable!",
+          "russian": "Боже мой, это просто невероятно!",
+          "spanish": "¡Dios mío, eso es completamente increíble!",
+          "french": "Oh mon dieu, c'est complètement incroyable !",
+          "german": "Ach du meine Güte, das ist völlig unglaublich!",
+          "italian": "Oh mio dio, è del tutto incredibile!",
+          "portuguese": "Meu Deus, isso é totalmente inacreditável!",
+          "esperanto": "Ho ve, tio estas tute nekredebla!"
+        },
+        {
+          "english": "Are you serious right now?",
+          "russian": "Ты сейчас серьезно?",
+          "spanish": "¿Hablas en serio ahora mismo?",
+          "french": "Tu es sérieux là ?",
+          "german": "Ist das dein Ernst jetzt?",
+          "italian": "Dici sul serio in questo momento?",
+          "portuguese": "Você está falando sério agora?",
+          "esperanto": "Ĉu vi seriozas nun?"
+        },
+        {
+          "english": "That is the last thing I expected to hear.",
+          "russian": "Это последнее, что я ожидал(а) услышать.",
+          "spanish": "Eso es lo último que esperaba escuchar.",
+          "french": "C'est la dernière chose que je m'attendais à entendre.",
+          "german": "Das ist das Letzte, was ich zu hören erwartet habe.",
+          "italian": "Questa è l'ultima cosa che mi aspettavo di sentire.",
+          "portuguese": "Essa é a última coisa que eu esperava ouvir.",
+          "esperanto": "Tio estas la lasta afero, kiun mi atendis aŭdi."
+        },
+        {
+          "english": "Well, knock me down with a feather!",
+          "russian": "Я просто поражен(а)! / Вот это да!",
+          "spanish": "¡Vaya, me dejas de piedra!",
+          "french": "Eh bien, ça alors, j'en tombe des nues !",
+          "german": "Ich glaub, mich knutscht ein Elch! / Da bin ich platt!",
+          "italian": "Beh, mi lasceresti di stucco!",
+          "portuguese": "Estou de queixo caído! / Essa me pegou de surpresa!",
+          "esperanto": "Nu, faligu min per plumo!"
+        },
+        {
+          "english": "I am completely speechless, to be honest.",
+          "russian": "Честно говоря, у меня просто нет слов.",
+          "spanish": "Para ser sincero, me he quedado completamente sin palabras.",
+          "french": "Pour être tout à fait honnête, je suis sans voix.",
+          "german": "Um ehrlich zu sein, bin ich völlig sprachlos.",
+          "italian": "Sono completamente senza parole, a essere sinceri.",
+          "portuguese": "Para ser bem honesto, estou completamente sem palavras.",
+          "esperanto": "Mi estas tute senvorta, por esti honesta."
+        },
+        {
+          "english": "You're pulling my leg, right?",
+          "russian": "Ты же меня разыгрываешь, да?",
+          "spanish": "Me estás tomando el pelo, ¿verdad?",
+          "french": "Tu me fais marcher, n'est-ce pas ?",
+          "german": "Du nimmst mich auf den Arm, oder?",
+          "italian": "Mi stai prendendo in giro, vero?",
+          "portuguese": "Você está me zoando, né? / Está de brincadeira, né?",
+          "esperanto": "Vi mokas min, ĉu ne?"
+        },
+        {
+          "english": "Heavens above, what a shocking turn of events!",
+          "russian": "О боже, какой неожиданный поворот событий!",
+          "spanish": "¡Santo cielo, qué giro tan sorprendente!",
+          "french": "Ciel, quel retournement de situation choquant !",
+          "german": "Himmel herrgott, was für eine schockierende Wendung der Ereignisse!",
+          "italian": "Santo cielo, che colpo di scena scioccante!",
+          "portuguese": "Céus, que reviravolta chocante!",
+          "esperanto": "Ĉieloj, kia ŝoka turniĝo de eventoj!"
+        },
+        {
+          "english": "I can't believe my ears right now.",
+          "russian": "Я просто не верю своим ушам прямо сейчас.",
+          "spanish": "No puedo creer lo que estoy oyendo ahora mismo.",
+          "french": "Je n'en crois pas mes oreilles en ce moment.",
+          "german": "Ich kann meinen Ohren gerade nicht trauen.",
+          "italian": "Non posso credere alle mie orecchie in questo momento.",
+          "portuguese": "Não estou conseguindo acreditar no que estou ouvindo agora.",
+          "esperanto": "Mi ne povas kredi miajn orelojn nun."
+        },
+        {
+          "english": "I am so incredibly sorry for your loss.",
+          "russian": "Мне так невероятно жаль вашей утраты. / Примите мои глубочайшие соболезнования.",
+          "spanish": "Liento muchísimo tu pérdida.",
+          "french": "Je suis tellement désolé pour votre perte.",
+          "german": "Es tut mir so unfassbar leid für deinen Verlust.",
+          "italian": "Sono incredibilmente dispiaciuto per la tua perdita.",
+          "portuguese": "Sinto muitíssimo pela sua perda.",
+          "esperanto": "Mi tiom bedaŭras vian perdon."
+        },
+        {
+          "english": "My heart completely breaks for you right now.",
+          "russian": "Мое сердце просто разрывается за тебя сейчас.",
+          "spanish": "Se me rompe el corazón por ti en este momento.",
+          "french": "J'ai le cœur complètement brisé pour toi en ce moment.",
+          "german": "Es bricht mir im Moment das Herz für dich.",
+          "italian": "Mi si spezza completamente il cuore per te in questo momento.",
+          "portuguese": "Meu coração está completamente partido por você agora.",
+          "esperanto": "Mia koro tute rompiĝas por vi nun."
+        },
+        {
+          "english": "Please accept my deepest and most sincere condolences.",
+          "russian": "Пожалуйста, примите мои самые глубокие и искренние соболезнования.",
+          "spanish": "Por favor, acepte mis más sinceras y profundas condolencias.",
+          "french": "Veuillez accepter mes plus profondes et sincères condoléances.",
+          "german": "Bitte nehmen Sie mein tiefstes und aufrichtigstes Beileid entgegen.",
+          "italian": "La preghiamo di accettare le nostre più sentite e sincere condoglianze.",
+          "portuguese": "Por favor, aceite as minhas mais profundas e sinceras condolências.",
+          "esperanto": "Bonvolu akcepti miajn plej profundajn kaj sincerajn kondolencojn."
+        },
+        {
+          "english": "I am keeping you and your family in my thoughts.",
+          "russian": "Я думаю о вас и вашей семье. / Вы в моих мыслях.",
+          "spanish": "Los tengo a ti y a tu familia en mis pensamientos.",
+          "french": "Je pense fort à toi et à ta famille.",
+          "german": "Ich schließe Sie und Ihre Familie in meine Gedanken ein.",
+          "italian": "Tengo te e la tua famiglia nei miei pensieri.",
+          "portuguese": "Estou pensando muito em você e na sua família.",
+          "esperanto": "Mi tenas vin kaj vian familion en miaj pensoj."
+        },
+        {
+          "english": "If you need anything at all, please don't hesitate to ask.",
+          "russian": "Если вам что-нибудь понадобится, пожалуйста, не стесняйтесь обращаться.",
+          "spanish": "Si necesitas cualquier cosa, por favor no dudes en pedirla.",
+          "french": "Si tu as besoin de quoi que ce soit, n'hésite surtout pas à demander.",
+          "german": "Wenn Sie irgendetwas brauchen, zögern Sie bitte nicht, zu fragen.",
+          "italian": "Se hai bisogno di qualsiasi cosa, non esitare a chiedere.",
+          "portuguese": "Se precisar de absolutamente qualquer coisa, por favor, não hesite em pedir.",
+          "esperanto": "Se vi bezonas ion ajn, bonvolu ne heziti peti."
+        },
+        {
+          "english": "That is such devastating news; I am so sorry.",
+          "russian": "Это такие ужасные новости, мне так жаль.",
+          "spanish": "Es una noticia devastadora; lo siento mucho.",
+          "french": "C'est une nouvelle tellement dévastatrice ; je suis tellement désolé.",
+          "german": "Das sind so niederschmetternde Nachrichten; es tut mir so leid.",
+          "italian": "Questa è una notizia devastante; mi dispiace tanto.",
+          "portuguese": "Essa é uma notícia devastadora; eu sinto muito.",
+          "esperanto": "Tio estas tiel terura novaĵo; mi tre bedaŭras."
+        },
+        {
+          "english": "I wish I had the right words to comfort you.",
+          "russian": "Как бы мне хотелось найти правильные слова, чтобы утешить тебя.",
+          "spanish": "Ojalá tuviera las palabras adecuadas para consolarte.",
+          "french": "J'aimerais avoir les mots justes pour te réconforter.",
+          "german": "Ich wünschte, ich hätte die richtigen Worte, um dich zu trösten.",
+          "italian": "Vorrei avere le parole giuste per confortarti.",
+          "portuguese": "Gostaria de ter as palavras certas para te confortar.",
+          "esperanto": "Mi dezirus havi la ĝustajn vortojn por konsoli vin."
+        },
+        {
+          "english": "Sending you so much love and strength during this time.",
+          "russian": "Посылаю тебе много любви и сил в это время.",
+          "spanish": "Te envío mucho amor y fuerzas durante este tiempo.",
+          "french": "Je t'envoie énormément d'amour et de force dans cette épreuve.",
+          "german": "Ich schicke dir in dieser Zeit ganz viel Liebe und Kraft.",
+          "italian": "Ti mando tanto amore e forza in questo momento.",
+          "portuguese": "Estou te mandando muito amor e forças durante este período.",
+          "esperanto": "Mi sendas al vi multe da amo kaj forto dum ĉi tiu tempo."
+        },
+        {
+          "english": "It is completely heartbreaking to see you go through this.",
+          "russian": "Сердце разрывается видеть, как ты через это проходишь.",
+          "spanish": "Es completamente desgarrador verte pasar por esto.",
+          "french": "C'est un déchirement total de te voir traverser cela.",
+          "german": "Es ist absolut herzzerreißend zu sehen, wie du das durchmachst.",
+          "italian": "È del tutto straziante vederti attraversare tutto questo.",
+          "portuguese": "É de partir o coração ver você passar por isso.",
+          "esperanto": "Estas tute korŝira vidi vin trapasi ĉi tion."
+        },
+        {
+          "english": "I am here for you, no matter what you need.",
+          "russian": "Я здесь, с тобой, что бы тебе ни понадобилось.",
+          "spanish": "Estoy aquí para ti, sin importar lo que necesites.",
+          "french": "Je suis là pour toi, peu importe ce dont tu as besoin.",
+          "german": "Ich bin für dich da, egal was du brauchst.",
+          "italian": "Sono qui per te, qualunque cosa ti serva.",
+          "portuguese": "Estou aqui por você, não importa o que precise.",
+          "esperanto": "Mi estas ĉi tie por vi, negrave kion vi bezonas."
+        },
+        {
+          "english": "Huge congratulations on your massive success!",
+          "russian": "Огромные поздравления с твоим грандиозным успехом!",
+          "spanish": "¡Muchísimas felicitaciones por tu enorme éxito!",
+          "french": "Toutes mes félicitations pour cet immense succès !",
+          "german": "Herzlichen Glückwunsch zu diesem Riesenerfolg!",
+          "italian": "Grandissimi complimenti per il tuo enorme successo!",
+          "portuguese": "Parabéns enormes pelo seu imenso sucesso!",
+          "esperanto": "Grandegajn gratulojn pro via grandega sukceso!"
+        },
+        {
+          "english": "I am absolutely thrilled for you!",
+          "russian": "Я искренне и безумно рад(а) за тебя!",
+          "spanish": "¡Estoy absolutamente encantado por ti!",
+          "french": "Je suis absolument ravi pour toi !",
+          "german": "Ich freue mich absolut riesig für dich!",
+          "italian": "Sono felicissimo per te!",
+          "portuguese": "Estou absolutamente radiante por você!",
+          "esperanto": "Mi estas absolute ravita pro vi!"
+        },
+        {
+          "english": "You worked so hard for this, and you truly deserve it.",
+          "russian": "Ты так упорно работал(а) ради этого и действительно этого заслуживаешь.",
+          "spanish": "Trabajaste muy duro para esto y realmente te lo mereces.",
+          "french": "Tu as tellement travaillé pour ça, tu le mérites vraiment.",
+          "german": "Du hast so hart dafür gearbeitet und du hast es wirklich verdient.",
+          "italian": "Hai lavorato così duramente per questo, e te lo meriti davvero.",
+          "portuguese": "Você trabalhou muito duro por isso e realmente merece.",
+          "esperanto": "Vi tiel forte laboris por ĉi tio, kaj vi vere meritas ĝin."
+        },
+        {
+          "english": "Kudos to you for pulling off such a great achievement!",
+          "russian": "Респект тебе за такое великое достижение!",
+          "spanish": "¡Felicitaciones a ti por lograr un éxito tan grande!",
+          "french": "Chapeau à toi pour avoir accompli une telle réussite !",
+          "german": "Respekt für diese großartige Leistung!",
+          "italian": "Tanto di cappello a te per aver ottenuto un risultato così grande!",
+          "portuguese": "Parabéns para você por conseguir uma conquista tão grande!",
+          "esperanto": "Bonŝancon al vi pro tia granda atingoj!"
+        },
+        {
+          "english": "Way to go! I knew you could do it.",
+          "russian": "Так держать! Я знал(а), что у тебя все получится.",
+          "spanish": "¡Así se hace! Sabía que podías hacerlo.",
+          "french": "Bien joué ! Je savais que tu en étais capable.",
+          "german": "Klasse gemacht! Ich wusste, dass du das schaffst.",
+          "italian": "Grande! Sapevo che ce l'avresti fatta.",
+          "portuguese": "Muito bem! Eu sabia que você conseguiria.",
+          "esperanto": "Tiel! Mi sciis ke vi povas fari ĝin."
+        },
+        {
+          "english": "That is absolutely phenomenal news!",
+          "russian": "Это просто феноменальные новости!",
+          "spanish": "¡Esas son noticias absolutamente fenomenales!",
+          "french": "C'est une nouvelle absolument phénoménale !",
+          "german": "Das sind absolut phänomenale Neuigkeiten!",
+          "italian": "Questa è una notizia assolutamente fenomenale!",
+          "portuguese": "Essa é uma notícia absolutamente fenomenal!",
+          "esperanto": "Tio estas absolute fenomenala novaĵo!"
+        },
+        {
+          "english": "Hats off to you for an incredible performance.",
+          "russian": "Снимаю шляпу перед твоим невероятным выступлением / результатом.",
+          "spanish": "Me quito el sombrero ante ti por una actuación increíble.",
+          "french": "Chapeau bas pour cette performance incroyable.",
+          "german": "Hut ab vor dieser unglaublichen Leistung.",
+          "italian": "Tanto di cappello per una performance incredibile.",
+          "portuguese": "Tiro o chapéu para você por um desempenho incrível.",
+          "esperanto": "Mi deprenas mian ĉapelon pro via nekredebla prezento."
+        },
+        {
+          "english": "Keep up the fantastic work; you're on a roll!",
+          "russian": "Продолжай в том же духе, ты в ударе!",
+          "spanish": "Sigue así con este fantástico trabajo, ¡estás en racha!",
+          "french": "Continue ce travail fantastique, tu as le vent en poupe !",
+          "german": "Mach weiter so mit dieser fantastischen Arbeit; du hast gerade einen Lauf!",
+          "italian": "Continua così con questo fantastico lavoro; sei inarrestabile!",
+          "portuguese": "Continue com o ótimo trabalho; você está mandando muito bem!",
+          "esperanto": "Daŭrigu la fantastan laboron; vi estas en bona ŝanco!"
+        },
+        {
+          "english": "Cheers to your brand new milestone!",
+          "russian": "За твой новый важный рубеж (достижение)!",
+          "spanish": "¡Brindo por tu nuevo gran logro!",
+          "french": "Trinquons à cette toute nouvelle étape franchie !",
+          "german": "Herzlichen Glückwunsch zu diesem neuen Meilenstein!",
+          "italian": "Cin cin per questo tuo nuovo traguardo!",
+          "portuguese": "Brinde à sua mais nova conquista!",
+          "esperanto": "Je via nova mejloŝtono!"
+        },
+        {
+          "english": "I couldn't be prouder of what you've accomplished.",
+          "russian": "Я просто не мог(ла) бы больше гордиться тем, чего ты добился/добилась.",
+          "spanish": "No podría estar más orgulloso de lo que has logrado.",
+          "french": "Je ne pourrais pas être plus fier de ce que tu as accompli.",
+          "german": "Ich könnte nicht stolzer auf das sein, was du erreicht hast.",
+          "italian": "Non potrei essere più orgoglioso di quello che hai ottenuto.",
+          "portuguese": "Não poderia estar mais orgulhoso(a) do que você realizou.",
+          "esperanto": "Mi ne povus esti pli fiera pri tio, kion vi atingis."
+        },
+        {
+          "english": "By the way, did you catch the game last night?",
+          "russian": "Кстати, ты смотрел(а) вчерашнюю игру?",
+          "spanish": "Por cierto, ¿viste el partido de anoche?",
+          "french": "Au fait, tu as regardé le match hier soir ?",
+          "german": "Übrigens, hast du gestern Abend das Spiel gesehen?",
+          "italian": "A proposito, hai visto la partita ieri sera?",
+          "portuguese": "A propósito, você assistiu ao jogo ontem à noite?",
+          "esperanto": "Parenteze, ĉu vi vidis la ludon hieraŭ nokte?"
+        },
+        {
+          "english": "To be completely honest with you, I'm not quite sure.",
+          "russian": "Если быть с тобой абсолютно честным, я не совсем уверен(а).",
+          "spanish": "Para ser completamente sincero contigo, no estoy muy seguro.",
+          "french": "Pour être tout à fait honnête avec toi, je ne suis pas très sûr.",
+          "german": "Um ganz ehrlich zu sein, bin ich mir nicht ganz sicher.",
+          "italian": "A essere del tutto sinceri con te, non sono molto sicuro.",
+          "portuguese": "Para ser totalmente sincero com você, não tenho muita certeza.",
+          "esperanto": "Por esti tute honesta kun vi, mi ne tute certas."
+        },
+        {
+          "english": "At the end of the day, it is what it is.",
+          "russian": "В конце концов, что есть, то есть. / Имеем то, что имеем.",
+          "spanish": "Al fin y al cabo, las cosas son como son.",
+          "french": "En fin de compte, c'est comme ça.",
+          "german": "Am Ende des Tages ist es, wie es ist.",
+          "italian": "Alla fin fine, è quello che è.",
+          "portuguese": "No fim das contas, as coisas são como são.",
+          "esperanto": "Fine de la tago, ĝi estas kio ĝi estas."
+        },
+        {
+          "english": "As a matter of fact, I was just thinking about that.",
+          "russian": "На самом деле, я как раз об этом думал(а).",
+          "spanish": "De hecho, estaba pensando justamente en eso.",
+          "french": "En fait, j'étais justement en train d'y penser.",
+          "german": "Tatsächlich habe ich gerade genau daran gedacht.",
+          "italian": "In effetti, ci stavo proprio pensando.",
+          "portuguese": "Na verdade, eu estava justamente pensando nisso.",
+          "esperanto": "Fakte, mi ĵus pensis pri tio."
+        },
+        {
+          "english": "Funny enough, I ran into him just yesterday.",
+          "russian": "Забавно, но я столкнулся с ним буквально вчера.",
+          "spanish": "Curiosamente, me lo encontré justo ayer.",
+          "french": "C'est drôle, je suis tombé sur lui pas plus tard qu'hier.",
+          "german": "Witzigerweise bin ich ihm erst gestern über den Weg gelaufen.",
+          "italian": "Curiosamente, l'ho incontrato proprio ieri.",
+          "portuguese": "Por coincidência, eu trombei com ele ontem mesmo.",
+          "esperanto": "Amuze, mi renkontis lin ĵus hieraŭ."
+        },
+        {
+          "english": "Long story short, we had to change the entire plan.",
+          "russian": "Короче говоря, нам пришлось полностью поменять план.",
+          "spanish": "Para resumir, tuvimos que cambiar todo el plan.",
+          "french": "Pour faire court, on a dû changer tout le plan.",
+          "german": "Lange Rede, kurzer Sinn: Wir mussten den gesamten Plan ändern.",
+          "italian": "Per farla breve, abbiamo dovuto cambiare l'intero piano.",
+          "portuguese": "Resumindo a história, tivemos que mudar o plano inteirinho.",
+          "esperanto": "Mallonge, ni devis ŝanĝi la tutan planon."
+        },
+        {
+          "english": "Speaking of which, have you heard from the manager?",
+          "russian": "Кстати говоря, ты что-нибудь слышал(а) от менеджера?",
+          "spanish": "Hablando de eso, ¿has sabido algo del gerente?",
+          "french": "En parlant de ça, tu as eu des nouvelles du responsable ?",
+          "german": "Wo wir gerade davon sprechen, hast du was vom Manager gehört?",
+          "italian": "A questo proposito, hai sentito il manager?",
+          "portuguese": "Falando nisso, você teve notícias do gerente?",
+          "esperanto": "Parolante pri tio, ĉu vi aŭdis de la manaĝero?"
+        },
+        {
+          "english": "For what it's worth, I think you made the right call.",
+          "russian": "Как бы то ни было, я думаю, ты принял(а) правильное решение.",
+          "spanish": "Sirva de lo que sirva, creo que tomaste la decisión correcta.",
+          "french": "Quoi qu'il en soit, je pense que tu as pris la bonne décision.",
+          "german": "Wie dem auch sei, ich denke, du hast die richtige Entscheidung getroffen.",
+          "italian": "Per quel che vale, penso che tu abbia preso la decisione giusta.",
+          "portuguese": "Se serve de alguma coisa, acho que você tomou a decisão certa.",
+          "esperanto": "Kiel ajn, mi pensas ke vi faris la ĝustan decidon."
+        },
+        {
+          "english": "To make a long story short, it all worked out fine.",
+          "russian": "Короче говоря, все закончилось хорошо.",
+          "spanish": "Para resumir la historia, todo salió bien.",
+          "french": "Bref, tout s'est bien passé.",
+          "german": "Um es kurz zu machen: Es ist alles gut ausgegangen.",
+          "italian": "Per farla breve, è andato tutto bene.",
+          "portuguese": "Para encurtar a história, deu tudo certo no final.",
+          "esperanto": "Mallonge, ĉio finfine bone funkciis."
+        },
+        {
+          "english": "Mind you, it wasn't an easy decision to make.",
+          "russian": "Заметь, это было нелегкое решение.",
+          "spanish": "Eso sí, no fue una decisión fácil de tomar.",
+          "french": "Remarque, ce n'était pas une décision facile à prendre.",
+          "german": "Wohlgemerkt, das war keine leichte Entscheidung.",
+          "italian": "Intendiamoci, non è stata una decisione facile da prendere.",
+          "portuguese": "Veja bem, não foi uma decisão fácil de se tomar.",
+          "esperanto": "Notu, ke ĝi ne estis facila decido fari."
+        },
+        {
+          "english": "You've got this, don't doubt yourself for a second!",
+          "russian": "У тебя все получится, ни секунды не сомневайся в себе!",
+          "spanish": "¡Tú puedes con esto, no dudes de ti mismo ni por un segundo!",
+          "french": "Tu vas y arriver, ne doute pas de toi une seule seconde !",
+          "german": "Du schaffst das, zweifle keine Sekunde an dir!",
+          "italian": "Ce la puoi fare, non dubitare di te stesso neanche per un secondo!",
+          "portuguese": "Você consegue, não duvide de si mesmo nem por um segundo!",
+          "esperanto": "Vi sukcesos, ne dubu pri vi eĉ sekundon!"
+        },
+        {
+          "english": "I am completely rooting for you all the way.",
+          "russian": "Я всем сердцем болею за тебя до самого конца.",
+          "spanish": "Te apoyo por completo durante todo el camino.",
+          "french": "Je suis à fond derrière toi, jusqu'au bout.",
+          "german": "Ich drücke dir auf dem ganzen Weg ganz fest die Daumen.",
+          "italian": "Faccio il tifo per te fino in fondo.",
+          "portuguese": "Estou torcendo totalmente por você até o fim.",
+          "esperanto": "Mi tute subtenas vin ĝis la fino."
+        },
+        {
+          "english": "Don't give up, you are so close to the finish line!",
+          "russian": "Не сдавайся, ты уже так близок (близка) к финишу!",
+          "spanish": "¡No te rindas, estás muy cerca de la meta!",
+          "french": "N'abandonne pas, tu es si près du but !",
+          "german": "Gib nicht auf, du bist so nah an der Ziellinie!",
+          "italian": "Non mollare, sei vicinissimo al traguardo!",
+          "portuguese": "Não desista, você está muito perto da linha de chegada!",
+          "esperanto": "Ne rezignu, vi estas tiel proksima al la cellinio!"
+        },
+        {
+          "english": "I have absolute faith in your abilities.",
+          "russian": "Я абсолютно верю в твои способности.",
+          "spanish": "Tengo fe absoluta en tus habilidades.",
+          "french": "J'ai une confiance absolue en tes capacités.",
+          "german": "Ich habe absolutes Vertrauen in deine Fähigkeiten.",
+          "italian": "Ho assoluta fiducia nelle tue capacità.",
+          "portuguese": "Tenho fé absoluta nas suas habilidades.",
+          "esperanto": "Mi havas absolutan fidon al viaj kapabloj."
+        },
+        {
+          "english": "Give it your best shot, and don't look back!",
+          "russian": "Выложись на полную и не оглядывайся назад!",
+          "spanish": "¡Haz tu mejor esfuerzo y no mires atrás!",
+          "french": "Fais de ton mieux, et ne regarde pas en arrière !",
+          "german": "Gib dein Bestes und schau nicht zurück!",
+          "italian": "Dai il massimo e non guardarti indietro!",
+          "portuguese": "Dê o seu melhor e não olhe para trás!",
+          "esperanto": "Donu vian plej bonan, kaj ne rigardu malantaŭen!"
+        },
+        {
+          "english": "You are going to knock this completely out of the park.",
+          "russian": "Ты справишься с этим блестяще! / Ты всех порвешь!",
+          "spanish": "Vas a sacarla completamente del estadio con esto.",
+          "french": "Tu vas casser la baraque, c'est sûr !",
+          "german": "Du wirst das Ding absolut rocken.",
+          "italian": "Farai un figurone pazzesco con questo.",
+          "portuguese": "Você vai arrebentar com isso / vai mandar super bem.",
+          "esperanto": "Vi sukcesos bonege pri ĉi tio."
+        },
+        {
+          "english": "Keep your chin up; things are bound to get better.",
+          "russian": "Выше нос, все обязательно наладится.",
+          "spanish": "Mantén la cabeza en alto; las cosas van a mejorar.",
+          "french": "Garde la tête haute, ça va s'arranger à coup sûr.",
+          "german": "Kopf hoch, die Dinge werden sich bestimmt bessern.",
+          "italian": "Su col morale, le cose andranno sicuramente meglio.",
+          "portuguese": "De cabeça erguida; as coisas com certeza vão melhorar.",
+          "esperanto": "Kuraĝiĝu; aferoj certe pliboniĝos."
+        },
+        {
+          "english": "Go get 'em! Show them what you're made of.",
+          "russian": "Иди и возьми свое! Покажи им, на что ты способен (способна).",
+          "spanish": "¡Ve a por ellos! Demuéstrales de qué estás hecho.",
+          "french": "Vas-y, fonce ! Montre-leur de quoi tu es capable.",
+          "german": "Zeig ihnen, was in dir steckt! Hol dir das Ding!",
+          "italian": "Vai e spacca tutto! Mostra loro di che pasta sei fatto.",
+          "portuguese": "Vai com tudo! Mostra para eles do que você é capaz.",
+          "esperanto": "Iru kaj montru! Montru al ili el kio vi estas farita."
+        },
+        {
+          "english": "Believe in yourself, because you are truly amazing.",
+          "russian": "Верь в себя, потому что ты действительно потрясающий (потрясающая).",
+          "spanish": "Cree en ti mismo, porque eres realmente increíble.",
+          "french": "Crois en toi, parce que tu es vraiment incroyable.",
+          "german": "Glaube an dich selbst, denn du bist wirklich großartig.",
+          "italian": "Credi in te stesso, perché sei davvero fantastico.",
+          "portuguese": "Acredite em si mesmo, porque você é realmente incrível.",
+          "esperanto": "Kredu al vi mem, ĉar vi estas vere mirinda."
+        },
+        {
+          "english": "There is absolutely nothing you can't handle.",
+          "russian": "Нет абсолютно ничего, с чем бы ты не справился (не справилась).",
+          "spanish": "No hay absolutamente nada que no puedas manejar.",
+          "french": "Il n'y a absolument rien que tu ne puisses surmonter.",
+          "german": "Es gibt absolut nichts, dem du nicht gewachsen bist.",
+          "italian": "Non c'è assolutamente nulla che tu non possa gestire.",
+          "portuguese": "Não há absolutamente nada que você não consiga dar conta.",
+          "esperanto": "Estas absolute nenio, kion vi ne povas trakti."
+        }
+      ]
+    }
+  ]
+}

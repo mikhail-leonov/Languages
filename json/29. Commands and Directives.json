@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Commands & Directives",
+      "phrases": [
+        {
+          "english": "Please ensure all files are saved before closing.",
+          "russian": "Пожалуйста, убедитесь, что все файлы сохранены перед закрытием.",
+          "spanish": "Por favor, asegúrese de guardar todos los archivos antes de cerrar.",
+          "french": "Veuillez vous assurer que tous les fichiers sont enregistrés avant de fermer.",
+          "german": "Bitte stellen Sie sicher, dass alle Dateien vor dem Schließen gespeichert sind.",
+          "italian": "Per favore, assicurati che tutti i file siano salvati prima di chiudere.",
+          "portuguese": "Por favor, certifique-se de que todos os arquivos estão salvos antes de fechar.",
+          "esperanto": "Bonvolu certigi, ke ĉiuj dosieroj estas konservitaj antaŭ fermi."
+        },
+        {
+          "english": "Kindly review the attached document at your earliest convenience.",
+          "russian": "Пожалуйста, ознакомьтесь с прикрепленным документом при первой возможности.",
+          "spanish": "Le ruego que revise el documento adjunto lo antes posible.",
+          "french": "Veuillez examiner le document ci-joint dès que possible.",
+          "german": "Bitte überprüfen Sie das beigefügte Dokument bei nächster Gelegenheit.",
+          "italian": "La preghiamo di visionare il documento allegato non appena Le sarà possibile.",
+          "portuguese": "Por gentileza, revise o documento anexo assim que possível.",
+          "esperanto": "Bonvolu revizii la aldonitan dokumenton kiam oportune."
+        },
+        {
+          "english": "Please take a seat, and someone will be with you shortly.",
+          "russian": "Пожалуйста, присаживайтесь, к вам скоро подойдут.",
+          "spanish": "Por favor, tome asiento y en un momento le atenderán.",
+          "french": "Veuillez vous asseoir, on s'occupe de vous sous peu.",
+          "german": "Bitte nehmen Sie Platz, jemand wird gleich bei Ihnen sein.",
+          "italian": "Prego, si sieda, qualcuno sarà da lei a breve.",
+          "portuguese": "Por favor, sente-se, alguém virá atendê-lo em breve.",
+          "esperanto": "Bonvolu sidiĝi, iu tuj venos al vi."
+        },
+        {
+          "english": "Make sure to double-check the figures before submission.",
+          "russian": "Обязательно перепроверьте цифры перед отправкой.",
+          "spanish": "Asegúrese de verificar dos veces las cifras antes de enviarlas.",
+          "french": "Assurez-vous de revérifier les chiffres avant de soumettre.",
+          "german": "Überprüfen Sie die Zahlen vor der Abgabe bitte noch einmal genau.",
+          "italian": "Assicurati di controllare due volte le cifre prima dell'invio.",
+          "portuguese": "Certifique-se de checar duas vezes os números antes do envio.",
+          "esperanto": "Certiĝu duoble kontroli la cifrojn antaŭ la sendado."
+        },
+        {
+          "english": "Please pass the information along to the rest of the team.",
+          "russian": "Пожалуйста, передайте эту информацию остальным членам команды.",
+          "spanish": "Por favor, transmita la información al resto del equipo.",
+          "french": "Veuillez transmettre l'information au reste de l'équipe.",
+          "german": "Bitte leiten Sie die Informationen an den Rest des Teams weiter.",
+          "italian": "Per favore, passa l'informazione al resto del team.",
+          "portuguese": "Por favor, passe essa informação para o resto da equipe.",
+          "esperanto": "Bonvolu transdoni la informon al la resto de la teamo."
+        },
+        {
+          "english": "Follow the onscreen prompts to complete your registration.",
+          "russian": "Следуйте подсказкам на экране, чтобы завершить регистрацию.",
+          "spanish": "Siga las instrucciones en pantalla para completar su registro.",
+          "french": "Suivez les instructions à l'écran pour finaliser votre inscription.",
+          "german": "Folgen Sie den Anweisungen auf dem Bildschirm, um Ihre Registrierung abzuschließen.",
+          "italian": "Segui le indicazioni sullo schermo per completare la registrazione.",
+          "portuguese": "Siga as orientações na tela para concluir sua inscrição.",
+          "esperanto": "Sekvu la sur-ekranajn instrukciojn por kompletigi vian registriĝon."
+        },
+        {
+          "english": "Please hold the line while I transfer your call.",
+          "russian": "Пожалуйста, оставайтесь на линии, пока я переключаю ваш звонок.",
+          "spanish": "Por favor, manténgase en la línea mientras transfiero su llamada.",
+          "french": "Veuillez patienter en ligne pendant que je transfère votre appel.",
+          "german": "Bitte bleiben Sie am Apparat, während ich Ihren Anruf weiterleite.",
+          "italian": "Rimanga in linea, per favore, mentre le passo la chiamata.",
+          "portuguese": "Por favor, aguarde na linha enquanto transfiro a sua chamada.",
+          "esperanto": "Bonvolu atendi en la linio dum mi transdonas vian vokon."
+        },
+        {
+          "english": "Kindly step this way to enter the main hall.",
+          "russian": "Пожалуйста, пройдите сюда, чтобы пройти в главный зал.",
+          "spanish": "Por favor, pase por aquí para entrar al salón principal.",
+          "french": "Veuillez avancer par ici pour entrer dans la salle principale.",
+          "german": "Bitte gehen Sie hier entlang, um in den Hauptsaal zu gelangen.",
+          "italian": "Prego, venga da questa parte per entrare nella sala principale.",
+          "portuguese": "Por gentileza, venha por aqui para entrar no salão principal.",
+          "esperanto": "Bonvolu veni ĉi tien por eniri la ĉefan salon."
+        },
+        {
+          "english": "Please remember to silence your mobile devices.",
+          "russian": "Пожалуйста, не забудьте перевести мобильные устройства в беззвучный режим.",
+          "spanish": "Por favor, recuerde poner en silencio sus dispositivos móviles.",
+          "french": "N'oubliez pas de mettre vos appareils mobiles en sourdine, s'il vous plaît.",
+          "german": "Bitte denken Sie daran, Ihre Mobilgeräte stummzuschalten.",
+          "italian": "Per favore, ricordate di silenziare i vostri dispositivi mobili.",
+          "portuguese": "Por favor, lembre-se de colocar seus dispositivos móveis no silêncioso.",
+          "esperanto": "Bonvolu memori silentigi viajn poŝtelefonojn."
+        },
+        {
+          "english": "Make yourself comfortable while you wait.",
+          "russian": "Располагайтесь поудобнее, пока вы ожидаете.",
+          "spanish": "Póngase cómodo mientras espera.",
+          "french": "Installez-vous confortablement en attendant.",
+          "german": "Machen Sie es sich bequem, während Sie warten.",
+          "italian": "Mettetevi pure comodi nell'attesa.",
+          "portuguese": "Fique à vontade enquanto espera.",
+          "esperanto": "Sentu vin komforte dum vi atendas."
+        },
+        {
+          "english": "Stop what you are doing and look over here.",
+          "russian": "Прекратите делать то, чем вы занимаетесь, и посмотрите сюда.",
+          "spanish": "Deja lo que estés haciendo y mira hacia aquí.",
+          "french": "Arrête ce que tu fais et regarde ici.",
+          "german": "Hören Sie auf mit dem, was Sie tun, und schauen Sie hierher.",
+          "italian": "Fermati e guarda qui.",
+          "portuguese": "Pare o que você está fazendo e olhe para cá.",
+          "esperanto": "Ĉesu fari tion, kion vi faras, kaj rigardu ĉi tien."
+        },
+        {
+          "english": "Hand over the final report by five o'clock.",
+          "russian": "Сдайте финальный отчет до пяти часов.",
+          "spanish": "Entregue el informe final para las cinco en punto.",
+          "french": "Remettez le rapport final avant dix-sept heures.",
+          "german": "Geben Sie den Abschlussbericht bis Punkt fünf Uhr ab.",
+          "italian": "Consegna la relazione finale entro le diciassette.",
+          "portuguese": "Entregue o relatório final até as cinco horas.",
+          "esperanto": "Transdonu la finan raporton ĝis la kvina horo."
+        },
+        {
+          "english": "Pay close attention to the following safety steps.",
+          "russian": "Внимательно следите за следующими шагами по технике безопасности.",
+          "spanish": "Preste mucha atención a los siguientes pasos de seguridad.",
+          "french": "Faites bien attention aux consignes de sécurité suivantes.",
+          "german": "Achten Sie genau auf die folgenden Sicherheitsmaßnahmen.",
+          "italian": "Presta massima attenzione ai seguenti passaggi di sicurezza.",
+          "portuguese": "Preste muita atenção às seguintes etapas de segurança.",
+          "esperanto": "Atentu bone la sekvajn sekurecajn paŝojn."
+        },
+        {
+          "english": "Do not click on any unverified links under any circumstances.",
+          "russian": "Ни при каких обстоятельствах не кликайте по непроверенным ссылкам.",
+          "spanish": "No haga clic en ningún enlace no verificado bajo ninguna circunstancia.",
+          "french": "Ne cliquez en aucun cas sur des liens non vérifiés.",
+          "german": "Klicken Sie unter keinen Umständen auf unbestätigte Links.",
+          "italian": "Non cliccare su link non verificati in nessun caso.",
+          "portuguese": "Não clique em links não verificados sob nenhuma circunstância.",
+          "esperanto": "Sub neniuj cirkonstancoj alklaku nekonfirmitajn ligilojn."
+        },
+        {
+          "english": "Stay exactly where you are until help arrives.",
+          "russian": "Оставайтесь ровно там, где вы находитесь, пока не прибудет помощь.",
+          "spanish": "Quédate exactamente donde estás hasta que llegue ayuda.",
+          "french": "Reste exactement où tu es jusqu'à ce que les secours arrivent.",
+          "german": "Bleiben Sie genau dort, wo Sie sind, bis Hilfe eintrifft.",
+          "italian": "Resta esattamente dove sei finché non arrivano i soccorsi.",
+          "portuguese": "Fique exatamente onde você está até que a ajuda chegue.",
+          "esperanto": "Restu ĝuste kie vi estas ĝis helpo alvenos."
+        },
+        {
+          "english": "Proceed directly to the nearest emergency exit.",
+          "russian": "Направляйтесь прямиком к ближайшему аварийному выходу.",
+          "spanish": "Diríjase directamente a la salida de emergencia más cercana.",
+          "french": "Rendez-vous directement vers la sortie de secours la plus proche.",
+          "german": "Begeben Sie sich direkt zum nächsten Notausgang.",
+          "italian": "Procedere direttamente verso l'uscita di sicurezza più vicina.",
+          "portuguese": "Siga diretamente para a saída de emergência mais próxima.",
+          "esperanto": "Iru rekte al la plej proksima kriz-elirejo."
+        },
+        {
+          "english": "Listen carefully to the instructions before beginning.",
+          "russian": "Внимательно выслушайте инструкции перед началом.",
+          "spanish": "Escuche atentamente las instrucciones antes de comenzar.",
+          "french": "Écoutez attentivement les instructions avant de commencer.",
+          "german": "Hören Sie sich die Anweisungen vor dem Start sorgfältig an.",
+          "italian": "Ascolta attentamente le istruzioni prima di iniziare.",
+          "portuguese": "Ouça atentamente as instruções antes de começar.",
+          "esperanto": "Aŭskultu atente la instrukciojn antaŭ ol komenci."
+        },
+        {
+          "english": "Do not enter this restricted area without authorization.",
+          "russian": "Не входите в эту запретную зону без разрешения.",
+          "spanish": "No ingrese a esta área restringida sin autorización.",
+          "french": "N'entrez pas dans cette zone réglementée sans autorisation.",
+          "german": "Betreten Sie diesen Sperrbereich nicht ohne Erlaubnis.",
+          "italian": "Non entrare in questa zona riservata senza autorizzazione.",
+          "portuguese": "Não entre nesta área restrita sem autorização.",
+          "esperanto": "Ne eniru ĉi tiun limigitan areon sen rajtigo."
+        },
+        {
+          "english": "Keep your eyes on the road while driving.",
+          "russian": "Следите за дорогой во время вождения.",
+          "spanish": "Mantén los ojos en el camino mientras conduces.",
+          "french": "Gardez les yeux sur la route en conduisant.",
+          "german": "Behalten Sie beim Fahren die Straße im Auge.",
+          "italian": "Tieni gli occhi sulla strada mentre guidi.",
+          "portuguese": "Mantenha os olhos na estrada enquanto dirige.",
+          "esperanto": "Tenu viajn okulojn sur la vojo dum veturado."
+        },
+        {
+          "english": "Cease all operations immediately until further notice.",
+          "russian": "Немедленно прекратить все операции до дальнейшего уведомления.",
+          "spanish": "Cese todas las operaciones de inmediato hasta nuevo aviso.",
+          "french": "Cessez immédiatement toutes les opérations jusqu'à nouvel ordre.",
+          "german": "Stellen Sie sämtliche Arbeiten bis auf Weiteres sofort ein.",
+          "italian": "Cessare immediatamente ogni attività fino a nuovo avviso.",
+          "portuguese": "Interrompa todas as operações imediatamente até segundo aviso.",
+          "esperanto": "Ĉesigu ĉiujn operaciojn tuj ĝis plua avizo."
+        },
+        {
+          "english": "Take charge of organizing the upcoming team meeting.",
+          "russian": "Возьмите на себя организацию предстоящего собрания команды.",
+          "spanish": "Hazte cargo de la organización de la próxima reunión de equipo.",
+          "french": "Prends en charge l'organisation de la prochaine réunion d'équipe.",
+          "german": "Übernehmen Sie die Leitung bei der Organisation des anstehenden Teammeetings.",
+          "italian": "Prendi in mano l'organizzazione della prossima riunione del team.",
+          "portuguese": "Assuma o controle da organização da próxima reunião de equipe.",
+          "esperanto": "Ekkonu la organizadon de la venonta teama kunveno."
+        },
+        {
+          "english": "Handle the client communications for this account.",
+          "russian": "Займитесь общением с клиентами по этому аккаунту.",
+          "spanish": "Encárgate de la comunicación con el cliente para esta cuenta.",
+          "french": "Gère la communication avec les clients pour ce compte.",
+          "german": "Kümmern Sie sich um die Kundenkommunikation für dieses Projekt.",
+          "italian": "Gestisci le comunicazioni con il cliente per questo account.",
+          "portuguese": "Cuide das comunicações com o cliente para esta conta.",
+          "esperanto": "Prizorgu la klientajn komunikadojn por ĉi tiu konto."
+        },
+        {
+          "english": "Draft an initial outline for the new project proposal.",
+          "russian": "Составьте первоначальный план для нового проектного предложения.",
+          "spanish": "Redacta un esquema inicial para la propuesta del nuevo proyecto.",
+          "french": "Rédige une première ébauche pour la proposition de nouveau projet.",
+          "german": "Entwerfen Sie eine erste Skizze für den neuen Projektvorschlag.",
+          "italian": "Prepara una bozza iniziale per la proposta del nuovo progetto.",
+          "portuguese": "Elabore um esboço inicial para a proposta do novo projeto.",
+          "esperanto": "Verkis komencan skizon por la nova projekta propono."
+        },
+        {
+          "english": "Update the project spreadsheet with the latest metrics.",
+          "russian": "Обновите проектную таблицу актуальными показателями.",
+          "spanish": "Actualiza la hoja de cálculo del proyecto con las últimas métricas.",
+          "french": "Mets à jour le tableau de suivi du projet avec les derniers indicateurs.",
+          "german": "Aktualisieren Sie die Projekttabelle mit den neuesten Kennzahlen.",
+          "italian": "Aggiorna il foglio di calcolo del progetto con i dati più recenti.",
+          "portuguese": "Atualize a planilha do projeto com as métricas mais recentes.",
+          "esperanto": "Ĝisdatigu la projektan kalkultabelon per la plej novaj metrikoj."
+        },
+        {
+          "english": "Coordinate with the design team to finalize the assets.",
+          "russian": "Согласуйте действия с командой дизайнеров, чтобы утвердить материалы.",
+          "spanish": "Coordina con el equipo de diseño para finalizar los materiales.",
+          "french": "Coordonne-toi avec l'équipe créative pour finaliser les éléments visuels.",
+          "german": "Stimmen Sie sich mit dem Designteam ab, um die Assets fertigzustellen.",
+          "italian": "Coordinati con il team di progettazione per finalizzare le risorse.",
+          "portuguese": "Coordene com a equipe de design para finalizar os materiais.",
+          "esperanto": "Kunordigu kun la dezajna teamo por finfari la aktivaĵojn."
+        },
+        {
+          "english": "Lead the brainstorming session tomorrow morning.",
+          "russian": "Проведите мозговой штурм завтра утром.",
+          "spanish": "Dirige la sesión de lluvia de ideas mañana por la mañana.",
+          "french": "Anime la séance de remue-méninges demain matin.",
+          "german": "Leiten Sie morgen früh die Brainstorming-Sitzung.",
+          "italian": "Guida la sessione di brainstorming domani mattina.",
+          "portuguese": "Lidere a sessão de brainstorming amanhã de manhã.",
+          "esperanto": "Gvidu la cerbumadan seancon morgaŭ matene."
+        },
+        {
+          "english": "Look into the recent system errors and report back.",
+          "russian": "Разберитесь с недавними системными ошибками и отчитайтесь.",
+          "spanish": "Investiga los errores recientes del sistema e infórmame.",
+          "french": "Analyse les récentes erreurs système et fais-moi un retour.",
+          "german": "Untersuchen Sie die jüngsten Systemfehler und melden Sie sich wieder.",
+          "italian": "Analizza i recenti errori di sistema e fammi sapere.",
+          "portuguese": "Investigue os erros recentes do sistema e traga um retorno.",
+          "esperanto": "Esploru la lastatempajn sistemajn erarojn kaj raportu."
+        },
+        {
+          "english": "Review the budget details and flag any issues.",
+          "russian": "Проверьте детали бюджета и отметьте любые проблемы.",
+          "spanish": "Revisa los detalles del presupuesto y señala cualquier problema.",
+          "french": "Examine les détails du budget et signale tout problème.",
+          "german": "Prüfen Sie die Budgetdetails und weisen Sie auf Probleme hin.",
+          "italian": "Esamina i dettagli del budget e segnala eventuali problemi.",
+          "portuguese": "Revise os detalhes do orçamento e aponte quaisquer problemas.",
+          "esperanto": "Reviziu la buĝetajn detalojn kaj marku iujn ajn problemojn."
+        },
+        {
+          "english": "Compile the feedback from the quarterly review.",
+          "russian": "Соберите отзывы по итогам квартального обзора.",
+          "spanish": "Recopila los comentarios de la revisión trimestral.",
+          "french": "Compile les retours de la revue trimestrielle.",
+          "german": "Tragen Sie das Feedback aus dem Quartalsbericht zusammen.",
+          "italian": "Raccogli i feedback della valutazione trimestrale.",
+          "portuguese": "Compile os feedbacks da avaliação trimestral.",
+          "esperanto": "Kompilu la komentojn el la trimonata revizio."
+        },
+        {
+          "english": "Oversee the onboarding process for the new interns.",
+          "russian": "Проконтролируйте процесс адаптации новых стажеров.",
+          "spanish": "Supervisa el proceso de inducción de los nuevos pasantes.",
+          "french": "Supervise le processus d'intégration des nouveaux stagiaires.",
+          "german": "Überwachen Sie den Einarbeitungsprozess der neuen Praktikanten.",
+          "italian": "Supervisiona il processo di inserimento dei nuovi stagisti.",
+          "portuguese": "Supervione o processo de integração dos novos estagiários.",
+          "esperanto": "Superrigardu la enkondukan procezon por la novaj staĝantoj."
+        },
+        {
+          "english": "Evacuate the building immediately through the nearest exit!",
+          "russian": "Немедленно покиньте здание через ближайший выход!",
+          "spanish": "¡Evacue el edificio de inmediato por la salida más cercana!",
+          "french": "Évacuez immédiatement le bâtiment par la sortie la plus proche !",
+          "german": "Verlassen Sie das Gebäude sofort über den nächsten Notausgang!",
+          "italian": "Evacuare l'edificio immediatamente attraverso l'uscita più vicina!",
+          "portuguese": "Evacue o prédio imediatamente pela saída mais próxima!",
+          "esperanto": "Evakuu la konstruaĵon tuj tra la plej proksima elirejo!"
+        },
+        {
+          "english": "Call emergency services right now!",
+          "russian": "Вызывайте скорую помощь/службу спасения прямо сейчас!",
+          "spanish": "¡Llama a los servicios de emergencia ahora mismo!",
+          "french": "Appelez les secours immédiatement !",
+          "german": "Rufen Sie sofort den Notruf!",
+          "italian": "Chiama subito i servizi di emergenza!",
+          "portuguese": "Ligue para os serviços de emergência agora mesmo!",
+          "esperanto": "Voku la kriz-servojn tuj!"
+        },
+        {
+          "english": "Clear the area and make room for assistance!",
+          "russian": "Освободите зону и освободите место для помощи!",
+          "spanish": "¡Despejen el área y abran paso para la asistencia!",
+          "french": "Dégagez la zone et faites de la place pour les secours !",
+          "german": "Räumen Sie den Bereich und machen Sie Platz für Rettungskräfte!",
+          "italian": "Sgomberare l'area e fare spazio per i soccorsi!",
+          "portuguese": "Afastem-se da área e deem espaço para o atendimento!",
+          "esperanto": "Liberigu la areon kaj faru spacon por helpo!"
+        },
+        {
+          "english": "Drop to the floor and cover your head!",
+          "russian": "Ложитесь на пол и прикройте голову!",
+          "spanish": "¡Tírate al suelo y cúbrete la cabeza!",
+          "french": "Mettez-vous au sol et protégez votre tête !",
+          "german": "Werfen Sie sich auf den Boden und schützen Sie Ihren Kopf!",
+          "italian": "Gettati a terra e copriti la testa!",
+          "portuguese": "Deite-se no chão e cubra a cabeça!",
+          "esperanto": "Falu sur la plankon kaj kovru vian kapon!"
+        },
+        {
+          "english": "Stop the machine before it overheats!",
+          "russian": "Остановите машину, пока она не перегрелась!",
+          "spanish": "¡Detén la máquina antes de que se recaliente!",
+          "french": "Arrêtez la machine avant qu'elle ne surchauffe !",
+          "german": "Stoppen Sie die Maschine, bevor sie überhitzt!",
+          "italian": "Ferma il macchinario prima che si surriscaldi!",
+          "portuguese": "Pare a máquina antes que ela superaqueça!",
+          "esperanto": "Haltigu la maŝinon antaŭ ol ĝi varmiĝos!"
+        },
+        {
+          "english": "Get down on the ground immediately!",
+          "russian": "Немедленно ложитесь на землю!",
+          "spanish": "¡Al suelo de inmediato!",
+          "french": "Mettez-vous à terre immédiatement !",
+          "german": "Legen Sie sich sofort auf den Boden!",
+          "italian": "A terra immediatamente!",
+          "portuguese": "Deite-se no chão imediatamente!",
+          "esperanto": "Surteriĝu tuj!"
+        },
+        {
+          "english": "Alert the security team right away!",
+          "russian": "Немедленно предупредите охрану!",
+          "spanish": "¡Avise al equipo de seguridad de inmediato!",
+          "french": "Alertez l'équipe de sécurité sur-le-champ !",
+          "german": "Verständigen Sie sofort das Sicherheitsteam!",
+          "italian": "Allerta subito la sicurezza!",
+          "portuguese": "Alerte a equipe de segurança imediatamente!",
+          "esperanto": "Avertu la sekurecan teamon tuj!"
+        },
+        {
+          "english": "Watch out for the falling debris!",
+          "russian": "Остерегайтесь падающих обломков!",
+          "spanish": "¡Cuidado con los escombros que caen!",
+          "french": "Attention aux chutes de débris !",
+          "german": "Achtung vor herabstürzenden Trümmern!",
+          "italian": "Attenzione alla caduta di detriti!",
+          "portuguese": "Cuidado com os escombros caindo!",
+          "esperanto": "Atentu la falantajn derompaĵojn!"
+        },
+        {
+          "english": "Shut down the main power supply now!",
+          "russian": "Отключите главный источник питания прямо сейчас!",
+          "spanish": "¡Corte el suministro eléctrico principal ahora mismo!",
+          "french": "Coupez l'alimentation générale maintenant !",
+          "german": "Schalten Sie jetzt die Hauptstromversorgung ab!",
+          "italian": "Stacca la corrente generale adesso!",
+          "portuguese": "Desligue a chave geral de energia agora!",
+          "esperanto": "Malŝaltu la ĉefan elektroprovizon nun!"
+        },
+        {
+          "english": "Seek shelter immediately away from the windows!",
+          "russian": "Немедленно найдите укрытие подальше от окон!",
+          "spanish": "¡Busque refugio de inmediato lejos de las ventanas!",
+          "french": "Cherchez un abri immédiatement, loin des fenêtres !",
+          "german": "Suchen Sie sofort Schutz abseits der Fenster!",
+          "italian": "Cerca subito un riparo lontano dalle finestre!",
+          "portuguese": "Procure abrigo imediatamente longe das janelas!",
+          "esperanto": "Serĉu ŝirmejon tuj for de la fenestroj!"
+        },
+        {
+          "english": "Feel free to start without me if I am late.",
+          "russian": "Если я опоздаю, можете начинать без меня.",
+          "spanish": "Siéntase libre de comenzar sin mí si me retraso.",
+          "french": "N'hésitez pas à commencer sans moi si je suis en retard.",
+          "german": "Fangen Sie ruhig ohne mich an, falls ich zu spät komme.",
+          "italian": "Iniziate pure senza di me se faccio tardi.",
+          "portuguese": "Fique à vontade para começar sem mim se eu me atrasar.",
+          "esperanto": "Sentiu libera komenci sen mi se mi malfruos."
+        },
+        {
+          "english": "Go ahead and submit the application whenever you are ready.",
+          "russian": "Отправляйте заявку, как только будете готовы.",
+          "spanish": "Adelante, envía la solicitud cuando estés listo.",
+          "french": "Vas-y, soumets ta demande dès que tu es prêt.",
+          "german": "Sie können den Antrag abschicken, sobald Sie bereit sind.",
+          "italian": "Procedi pure e invia la domanda quando sei pronto.",
+          "portuguese": "Pode enviar a inscrição assim que estiver pronto(a).",
+          "esperanto": "Sendu la peton kiam ajn vi pretas."
+        },
+        {
+          "english": "Help yourself to any refreshments in the kitchen.",
+          "russian": "Угощайтесь любыми закусками/напитками на кухне.",
+          "spanish": "Sírvase cualquier refresco o bocadillo que guste en la cocina.",
+          "french": "Servez-vous, il y a des rafraîchissements dans la cuisine.",
+          "german": "Bedienen Sie sich ruhig an den Erfrischungen in der Küche.",
+          "italian": "Serviti pure, ci sono rinfreschi in cucina.",
+          "portuguese": "Sirva-se com os petiscos e bebidas na cozinha.",
+          "esperanto": "Helpu vin mem el la refreŝigaĵoj en la kuirejo."
+        },
+        {
+          "english": "You may proceed to the next step of the process.",
+          "russian": "Вы можете переходить к следующему этапу процесса.",
+          "spanish": "Puede proceder al siguiente paso del proceso.",
+          "french": "Vous pouvez passer à l'étape suivante du processus.",
+          "german": "Sie können mit dem nächsten Schritt fortfahren.",
+          "italian": "Può procedere con il passaggio successivo della procedura.",
+          "portuguese": "Você pode prosseguir para a próxima etapa do processo.",
+          "esperanto": "Vi povas procedi al la sekva paŝo de la procezo."
+        },
+        {
+          "english": "Take as many copies as you need for your team.",
+          "russian": "Возьмите столько копий, сколько нужно вашей команде.",
+          "spanish": "Toma todas las copias que necesites para tu equipo.",
+          "french": "Prenez autant de copies que nécessaire pour votre équipe.",
+          "german": "Nehmen Sie sich so viele Kopien mit, wie Sie für Ihr Team brauchen.",
+          "italian": "Prendi pure tutte le copie che ti servono per il tuo team.",
+          "portuguese": "Pegue quantas cópias precisar para a sua equipe.",
+          "esperanto": "Prenu tiom da kopioj kiom vi bezonas por via teamo."
+        },
+        {
+          "english": "Come on in, the door is completely unlocked.",
+          "russian": "Заходи, дверь совсем не заперта.",
+          "spanish": "Adelante, la puerta está abierta.",
+          "french": "Entre, la porte n'est pas fermée à clé.",
+          "german": "Kommen Sie ruhig rein, die Tür ist unverschlossen.",
+          "italian": "Entra pure, la porta è aperta.",
+          "portuguese": "Pode entrar, a porta está totalmente destrancada.",
+          "esperanto": "Eniru, la pordo estas tute malŝlosita."
+        },
+        {
+          "english": "Feel free to browse around the gallery.",
+          "russian": "Не стесняйтесь осматривать галерею.",
+          "spanish": "Siéntase libre de recorrer la galería.",
+          "french": "N'hésitez pas à faire le tour de la galerie.",
+          "german": "Schauen Sie sich in aller Ruhe in der Galerie um.",
+          "italian": "Fai con comodo, guarda pure in giro per la galleria.",
+          "portuguese": "Fique à vontade para dar uma olhada na galeria.",
+          "esperanto": "Sentiu libera ĉirkaŭrigardi en la galerio."
+        },
+        {
+          "english": "You are welcome to ask any questions at the end.",
+          "russian": "Вы можете задать любые вопросы в конце.",
+          "spanish": "Son bienvenidos a hacer cualquier pregunta al final.",
+          "french": "Vous pourrez poser vos questions à la fin.",
+          "german": "Fragen können Sie gerne am Ende stellen.",
+          "italian": "Sarete i benvenuti a fare domande alla fine.",
+          "portuguese": "Fiquem à vontade para fazer perguntas no final.",
+          "esperanto": "Vi estas bonvenaj fari iujn ajn demandojn ĉe la fino."
+        },
+        {
+          "english": "Go right ahead and use my desk for the afternoon.",
+          "russian": "Конечно, пользуйся моим столом сегодня после обеда.",
+          "spanish": "Adelante, usa mi escritorio esta tarde.",
+          "french": "Vas-y, installe-toi à mon bureau pour l'après-midi.",
+          "german": "Nutzen Sie meinen Schreibtisch heute Nachmittag ruhig.",
+          "italian": "Fai pure, usa la mia scrivania per il pomeriggio.",
+          "portuguese": "Pode usar a minha mesa durante a tarde, sem problemas.",
+          "esperanto": "Uzu mian skribtablon por la posttagmezo."
+        },
+        {
+          "english": "Pass right through the security gate; you are cleared.",
+          "russian": "Проходите через пункт охраны, вам разрешено.",
+          "spanish": "Pase directamente por la puerta de seguridad; está autorizado.",
+          "french": "Passez le portique de sécurité, vous avez le feu vert.",
+          "german": "Gehen Sie ruhig durch die Sicherheitskontrolle; Sie haben die Freigabe.",
+          "italian": "Passa pure dai controlli di sicurezza; hai il via libera.",
+          "portuguese": "Pode passar pelo portão de segurança; você está liberado(a).",
+          "esperanto": "Pasas tra la sekureca pordego; vi estas permesita."
+        }
+      ]
+    }
+  ]
+}

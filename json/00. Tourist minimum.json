@@ -1,0 +1,1071 @@
+{
+  "categories": [
+    {
+      "name": "Tourist Essentials",
+      "phrases": [
+        {
+          "english": "Hello",
+          "russian": "Привет",
+          "spanish": "Hola",
+          "french": "Bonjour",
+          "german": "Hallo",
+          "portuguese": "Olá",
+          "italian": "Ciao"
+        },
+        {
+          "english": "Good morning",
+          "russian": "Доброе утро",
+          "spanish": "Buenos días",
+          "french": "Bonjour",
+          "german": "Guten Morgen",
+          "portuguese": "Bom dia",
+          "italian": "Buongiorno"
+        },
+        {
+          "english": "Good evening",
+          "russian": "Добрый вечер",
+          "spanish": "Buenas tardes",
+          "french": "Bonsoir",
+          "german": "Guten Abend",
+          "portuguese": "Boa tarde",
+          "italian": "Buonasera"
+        },
+        {
+          "english": "Good night",
+          "russian": "Спокойной ночи",
+          "spanish": "Buenas noches",
+          "french": "Bonne nuit",
+          "german": "Gute Nacht",
+          "portuguese": "Boa noite",
+          "italian": "Buonanotte"
+        },
+        {
+          "english": "Goodbye",
+          "russian": "До свидания",
+          "spanish": "Adiós",
+          "french": "Au revoir",
+          "german": "Auf Wiedersehen",
+          "portuguese": "Adeus",
+          "italian": "Arrivederci"
+        },
+        {
+          "english": "See you later",
+          "russian": "Увидимся позже",
+          "spanish": "Hasta luego",
+          "french": "À plus tard",
+          "german": "Bis später",
+          "portuguese": "Até logo",
+          "italian": "A più tardi"
+        },
+        {
+          "english": "Welcome",
+          "russian": "Добро пожаловать",
+          "spanish": "Bienvenido",
+          "french": "Bienvenue",
+          "german": "Willkommen",
+          "portuguese": "Bem-vindo",
+          "italian": "Benvenuto"
+        },
+        {
+          "english": "Yes",
+          "russian": "Да",
+          "spanish": "Sí",
+          "french": "Oui",
+          "german": "Ja",
+          "portuguese": "Sim",
+          "italian": "Sì"
+        },
+        {
+          "english": "No",
+          "russian": "Нет",
+          "spanish": "No",
+          "french": "Non",
+          "german": "Nein",
+          "portuguese": "Não",
+          "italian": "No"
+        },
+        {
+          "english": "Please",
+          "russian": "Пожалуйста",
+          "spanish": "Por favor",
+          "french": "S'il vous plaît",
+          "german": "Bitte",
+          "portuguese": "Por favor",
+          "italian": "Per favore"
+        },
+        {
+          "english": "Thank you",
+          "russian": "Спасибо",
+          "spanish": "Gracias",
+          "french": "Merci",
+          "german": "Danke",
+          "portuguese": "Obrigado",
+          "italian": "Grazie"
+        },
+        {
+          "english": "Thank you very much",
+          "russian": "Большое спасибо",
+          "spanish": "Muchas gracias",
+          "french": "Merci beaucoup",
+          "german": "Vielen Dank",
+          "portuguese": "Muito obrigado",
+          "italian": "Grazie mille"
+        },
+        {
+          "english": "You're welcome",
+          "russian": "Пожалуйста",
+          "spanish": "De nada",
+          "french": "De rien",
+          "german": "Bitte schön",
+          "portuguese": "De nada",
+          "italian": "Prego"
+        },
+        {
+          "english": "Excuse me",
+          "russian": "Извините",
+          "spanish": "Perdone",
+          "french": "Excusez-moi",
+          "german": "Entschuldigung",
+          "portuguese": "Com licença",
+          "italian": "Mi scusi"
+        },
+        {
+          "english": "Sorry",
+          "russian": "Простите",
+          "spanish": "Lo siento",
+          "french": "Désolé",
+          "german": "Es tut mir leid",
+          "portuguese": "Desculpe",
+          "italian": "Mi dispiace"
+        },
+        {
+          "english": "OK",
+          "russian": "Хорошо",
+          "spanish": "Vale",
+          "french": "D'accord",
+          "german": "Okay",
+          "portuguese": "Está bem",
+          "italian": "Va bene"
+        },
+        {
+          "english": "Of course",
+          "russian": "Конечно",
+          "spanish": "Por supuesto",
+          "french": "Bien sûr",
+          "german": "Natürlich",
+          "portuguese": "Claro",
+          "italian": "Certo"
+        },
+        {
+          "english": "Maybe",
+          "russian": "Может быть",
+          "spanish": "Quizás",
+          "french": "Peut-être",
+          "german": "Vielleicht",
+          "portuguese": "Talvez",
+          "italian": "Forse"
+        },
+        {
+          "english": "How are you?",
+          "russian": "Как дела?",
+          "spanish": "¿Cómo estás?",
+          "french": "Comment ça va ?",
+          "german": "Wie geht es dir?",
+          "portuguese": "Como estás?",
+          "italian": "Come stai?"
+        },
+        {
+          "english": "I'm fine, thank you.",
+          "russian": "Хорошо, спасибо.",
+          "spanish": "Bien, gracias.",
+          "french": "Ça va bien, merci.",
+          "german": "Mir geht es gut, danke.",
+          "portuguese": "Estou bem, obrigado.",
+          "italian": "Sto bene, grazie."
+        },
+        {
+          "english": "What's your name?",
+          "russian": "Как тебя зовут?",
+          "spanish": "¿Cómo te llamas?",
+          "french": "Comment tu t'appelles ?",
+          "german": "Wie heißt du?",
+          "portuguese": "Como te chamas?",
+          "italian": "Come ti chiami?"
+        },
+        {
+          "english": "My name is...",
+          "russian": "Меня зовут...",
+          "spanish": "Me llamo...",
+          "french": "Je m'appelle...",
+          "german": "Ich heiße...",
+          "portuguese": "Chamo-me...",
+          "italian": "Mi chiamo..."
+        },
+        {
+          "english": "Nice to meet you.",
+          "russian": "Приятно познакомиться.",
+          "spanish": "Encantado.",
+          "french": "Enchanté.",
+          "german": "Freut mich.",
+          "portuguese": "Prazer em conhecer-te.",
+          "italian": "Piacere."
+        },
+        {
+          "english": "Where are you from?",
+          "russian": "Откуда ты?",
+          "spanish": "¿De dónde eres?",
+          "french": "D'où viens-tu ?",
+          "german": "Woher kommst du?",
+          "portuguese": "De onde és?",
+          "italian": "Di dove sei?"
+        },
+        {
+          "english": "I'm from England.",
+          "russian": "Я из Англии.",
+          "spanish": "Soy de Inglaterra.",
+          "french": "Je viens d'Angleterre.",
+          "german": "Ich komme aus England.",
+          "portuguese": "Sou de Inglaterra.",
+          "italian": "Vengo dall'Inghilterra."
+        },
+        {
+          "english": "Do you speak English?",
+          "russian": "Вы говорите по-английски?",
+          "spanish": "¿Habla inglés?",
+          "french": "Parlez-vous anglais ?",
+          "german": "Sprechen Sie Englisch?",
+          "portuguese": "Fala inglês?",
+          "italian": "Parla inglese?"
+        },
+        {
+          "english": "I don't speak much.",
+          "russian": "Я почти не говорю.",
+          "spanish": "No hablo mucho.",
+          "french": "Je ne parle pas beaucoup.",
+          "german": "Ich spreche nicht viel.",
+          "portuguese": "Não falo muito.",
+          "italian": "Non parlo molto."
+        },
+        {
+          "english": "I don't understand.",
+          "russian": "Я не понимаю.",
+          "spanish": "No entiendo.",
+          "french": "Je ne comprends pas.",
+          "german": "Ich verstehe nicht.",
+          "portuguese": "Não entendo.",
+          "italian": "Non capisco."
+        },
+        {
+          "english": "I understand.",
+          "russian": "Я понимаю.",
+          "spanish": "Entiendo.",
+          "french": "Je comprends.",
+          "german": "Ich verstehe.",
+          "portuguese": "Entendo.",
+          "italian": "Capisco."
+        },
+        {
+          "english": "Can you repeat that?",
+          "russian": "Можете повторить?",
+          "spanish": "¿Puede repetir?",
+          "french": "Pouvez-vous répéter ?",
+          "german": "Können Sie das wiederholen?",
+          "portuguese": "Pode repetir?",
+          "italian": "Può ripetere?"
+        },
+        {
+          "english": "Slowly, please.",
+          "russian": "Медленнее, пожалуйста.",
+          "spanish": "Más despacio, por favor.",
+          "french": "Plus lentement, s'il vous plaît.",
+          "german": "Langsamer, bitte.",
+          "portuguese": "Mais devagar, por favor.",
+          "italian": "Più lentamente, per favore."
+        },
+        {
+          "english": "What does this mean?",
+          "russian": "Что это значит?",
+          "spanish": "¿Qué significa esto?",
+          "french": "Qu'est-ce que ça veut dire ?",
+          "german": "Was bedeutet das?",
+          "portuguese": "O que significa isto?",
+          "italian": "Cosa significa?"
+        },
+        {
+          "english": "How do you say...?",
+          "russian": "Как сказать...?",
+          "spanish": "¿Cómo se dice...?",
+          "french": "Comment dit-on... ?",
+          "german": "Wie sagt man...?",
+          "portuguese": "Como se diz...?",
+          "italian": "Come si dice...?"
+        },
+        {
+          "english": "Can you help me?",
+          "russian": "Можете мне помочь?",
+          "spanish": "¿Puede ayudarme?",
+          "french": "Pouvez-vous m'aider ?",
+          "german": "Können Sie mir helfen?",
+          "portuguese": "Pode ajudar-me?",
+          "italian": "Può aiutarmi?"
+        },
+        {
+          "english": "I don't know.",
+          "russian": "Я не знаю.",
+          "spanish": "No lo sé.",
+          "french": "Je ne sais pas.",
+          "german": "Ich weiß nicht.",
+          "portuguese": "Não sei.",
+          "italian": "Non lo so."
+        },
+        {
+          "english": "What?",
+          "russian": "Что?",
+          "spanish": "¿Qué?",
+          "french": "Quoi ?",
+          "german": "Was?",
+          "portuguese": "O quê?",
+          "italian": "Cosa?"
+        },
+        {
+          "english": "Where?",
+          "russian": "Где?",
+          "spanish": "¿Dónde?",
+          "french": "Où ?",
+          "german": "Wo?",
+          "portuguese": "Onde?",
+          "italian": "Dove?"
+        },
+        {
+          "english": "When?",
+          "russian": "Когда?",
+          "spanish": "¿Cuándo?",
+          "french": "Quand ?",
+          "german": "Wann?",
+          "portuguese": "Quando?",
+          "italian": "Quando?"
+        },
+        {
+          "english": "Who?",
+          "russian": "Кто?",
+          "spanish": "¿Quién?",
+          "french": "Qui ?",
+          "german": "Wer?",
+          "portuguese": "Quem?",
+          "italian": "Chi?"
+        },
+        {
+          "english": "Why?",
+          "russian": "Почему?",
+          "spanish": "¿Por qué?",
+          "french": "Pourquoi ?",
+          "german": "Warum?",
+          "portuguese": "Porquê?",
+          "italian": "Perché?"
+        },
+        {
+          "english": "How?",
+          "russian": "Как?",
+          "spanish": "¿Cómo?",
+          "french": "Comment ?",
+          "german": "Wie?",
+          "portuguese": "Como?",
+          "italian": "Come?"
+        },
+        {
+          "english": "How much?",
+          "russian": "Сколько?",
+          "spanish": "¿Cuánto?",
+          "french": "Combien ?",
+          "german": "Wie viel?",
+          "portuguese": "Quanto?",
+          "italian": "Quanto?"
+        },
+        {
+          "english": "Where is...?",
+          "russian": "Где...?",
+          "spanish": "¿Dónde está...?",
+          "french": "Où est... ?",
+          "german": "Wo ist...?",
+          "portuguese": "Onde fica...?",
+          "italian": "Dov'è...?"
+        },
+        {
+          "english": "Where is the toilet?",
+          "russian": "Где туалет?",
+          "spanish": "¿Dónde está el baño?",
+          "french": "Où sont les toilettes ?",
+          "german": "Wo ist die Toilette?",
+          "portuguese": "Onde é a casa de banho?",
+          "italian": "Dov'è il bagno?"
+        },
+        {
+          "english": "Where is the station?",
+          "russian": "Где вокзал?",
+          "spanish": "¿Dónde está la estación?",
+          "french": "Où est la gare ?",
+          "german": "Wo ist der Bahnhof?",
+          "portuguese": "Onde fica a estação?",
+          "italian": "Dov'è la stazione?"
+        },
+        {
+          "english": "How do I get to...?",
+          "russian": "Как добраться до...?",
+          "spanish": "¿Cómo llego a...?",
+          "french": "Comment aller à... ?",
+          "german": "Wie komme ich zu...?",
+          "portuguese": "Como chego a...?",
+          "italian": "Come arrivo a...?"
+        },
+        {
+          "english": "Is it far?",
+          "russian": "Это далеко?",
+          "spanish": "¿Está lejos?",
+          "french": "C'est loin ?",
+          "german": "Ist es weit?",
+          "portuguese": "É longe?",
+          "italian": "È lontano?"
+        },
+        {
+          "english": "left",
+          "russian": "налево",
+          "spanish": "izquierda",
+          "french": "gauche",
+          "german": "links",
+          "portuguese": "esquerda",
+          "italian": "sinistra"
+        },
+        {
+          "english": "right",
+          "russian": "направо",
+          "spanish": "derecha",
+          "french": "droite",
+          "german": "rechts",
+          "portuguese": "direita",
+          "italian": "destra"
+        },
+        {
+          "english": "straight ahead",
+          "russian": "прямо",
+          "spanish": "todo recto",
+          "french": "tout droit",
+          "german": "geradeaus",
+          "portuguese": "em frente",
+          "italian": "dritto"
+        },
+        {
+          "english": "here",
+          "russian": "здесь",
+          "spanish": "aquí",
+          "french": "ici",
+          "german": "hier",
+          "portuguese": "aqui",
+          "italian": "qui"
+        },
+        {
+          "english": "there",
+          "russian": "там",
+          "spanish": "allí",
+          "french": "là",
+          "german": "dort",
+          "portuguese": "ali",
+          "italian": "lì"
+        },
+        {
+          "english": "near",
+          "russian": "близко",
+          "spanish": "cerca",
+          "french": "près",
+          "german": "nah",
+          "portuguese": "perto",
+          "italian": "vicino"
+        },
+        {
+          "english": "far",
+          "russian": "далеко",
+          "spanish": "lejos",
+          "french": "loin",
+          "german": "weit",
+          "portuguese": "longe",
+          "italian": "lontano"
+        },
+        {
+          "english": "entrance",
+          "russian": "вход",
+          "spanish": "entrada",
+          "french": "entrée",
+          "german": "Eingang",
+          "portuguese": "entrada",
+          "italian": "entrata"
+        },
+        {
+          "english": "exit",
+          "russian": "выход",
+          "spanish": "salida",
+          "french": "sortie",
+          "german": "Ausgang",
+          "portuguese": "saída",
+          "italian": "uscita"
+        },
+        {
+          "english": "ticket",
+          "russian": "билет",
+          "spanish": "billete",
+          "french": "billet",
+          "german": "Fahrkarte",
+          "portuguese": "bilhete",
+          "italian": "biglietto"
+        },
+        {
+          "english": "train",
+          "russian": "поезд",
+          "spanish": "tren",
+          "french": "train",
+          "german": "Zug",
+          "portuguese": "comboio",
+          "italian": "treno"
+        },
+        {
+          "english": "bus",
+          "russian": "автобус",
+          "spanish": "autobús",
+          "french": "bus",
+          "german": "Bus",
+          "portuguese": "autocarro",
+          "italian": "autobus"
+        },
+        {
+          "english": "taxi",
+          "russian": "такси",
+          "spanish": "taxi",
+          "french": "taxi",
+          "german": "Taxi",
+          "portuguese": "táxi",
+          "italian": "taxi"
+        },
+        {
+          "english": "airport",
+          "russian": "аэропорт",
+          "spanish": "aeropuerto",
+          "french": "aéroport",
+          "german": "Flughafen",
+          "portuguese": "aeroporto",
+          "italian": "aeroporto"
+        },
+        {
+          "english": "map",
+          "russian": "карта",
+          "spanish": "mapa",
+          "french": "carte",
+          "german": "Karte",
+          "portuguese": "mapa",
+          "italian": "mappa"
+        },
+        {
+          "english": "A ticket to..., please.",
+          "russian": "Один билет до..., пожалуйста.",
+          "spanish": "Un billete para..., por favor.",
+          "french": "Un billet pour..., s'il vous plaît.",
+          "german": "Eine Fahrkarte nach..., bitte.",
+          "portuguese": "Um bilhete para..., por favor.",
+          "italian": "Un biglietto per..., per favore."
+        },
+        {
+          "english": "Stop here, please.",
+          "russian": "Остановите здесь, пожалуйста.",
+          "spanish": "Pare aquí, por favor.",
+          "french": "Arrêtez-vous ici, s'il vous plaît.",
+          "german": "Halten Sie hier, bitte.",
+          "portuguese": "Pare aqui, por favor.",
+          "italian": "Si fermi qui, per favore."
+        },
+        {
+          "english": "I'm hungry.",
+          "russian": "Я голоден.",
+          "spanish": "Tengo hambre.",
+          "french": "J'ai faim.",
+          "german": "Ich habe Hunger.",
+          "portuguese": "Tenho fome.",
+          "italian": "Ho fame."
+        },
+        {
+          "english": "I'm thirsty.",
+          "russian": "Я хочу пить.",
+          "spanish": "Tengo sed.",
+          "french": "J'ai soif.",
+          "german": "Ich habe Durst.",
+          "portuguese": "Tenho sede.",
+          "italian": "Ho sete."
+        },
+        {
+          "english": "A table for two, please.",
+          "russian": "Столик на двоих, пожалуйста.",
+          "spanish": "Una mesa para dos, por favor.",
+          "french": "Une table pour deux, s'il vous plaît.",
+          "german": "Einen Tisch für zwei, bitte.",
+          "portuguese": "Uma mesa para dois, por favor.",
+          "italian": "Un tavolo per due, per favore."
+        },
+        {
+          "english": "The menu, please.",
+          "russian": "Меню, пожалуйста.",
+          "spanish": "La carta, por favor.",
+          "french": "La carte, s'il vous plaît.",
+          "german": "Die Speisekarte, bitte.",
+          "portuguese": "A ementa, por favor.",
+          "italian": "Il menù, per favore."
+        },
+        {
+          "english": "The bill, please.",
+          "russian": "Счёт, пожалуйста.",
+          "spanish": "La cuenta, por favor.",
+          "french": "L'addition, s'il vous plaît.",
+          "german": "Die Rechnung, bitte.",
+          "portuguese": "A conta, por favor.",
+          "italian": "Il conto, per favore."
+        },
+        {
+          "english": "I'd like...",
+          "russian": "Я бы хотел...",
+          "spanish": "Quisiera...",
+          "french": "Je voudrais...",
+          "german": "Ich hätte gern...",
+          "portuguese": "Queria...",
+          "italian": "Vorrei..."
+        },
+        {
+          "english": "water",
+          "russian": "вода",
+          "spanish": "agua",
+          "french": "eau",
+          "german": "Wasser",
+          "portuguese": "água",
+          "italian": "acqua"
+        },
+        {
+          "english": "coffee",
+          "russian": "кофе",
+          "spanish": "café",
+          "french": "café",
+          "german": "Kaffee",
+          "portuguese": "café",
+          "italian": "caffè"
+        },
+        {
+          "english": "beer",
+          "russian": "пиво",
+          "spanish": "cerveza",
+          "french": "bière",
+          "german": "Bier",
+          "portuguese": "cerveja",
+          "italian": "birra"
+        },
+        {
+          "english": "wine",
+          "russian": "вино",
+          "spanish": "vino",
+          "french": "vin",
+          "german": "Wein",
+          "portuguese": "vinho",
+          "italian": "vino"
+        },
+        {
+          "english": "Cheers!",
+          "russian": "За здоровье!",
+          "spanish": "¡Salud!",
+          "french": "Santé !",
+          "german": "Prost!",
+          "portuguese": "Saúde!",
+          "italian": "Salute!"
+        },
+        {
+          "english": "It's delicious.",
+          "russian": "Очень вкусно.",
+          "spanish": "Está delicioso.",
+          "french": "C'est délicieux.",
+          "german": "Das ist köstlich.",
+          "portuguese": "Está delicioso.",
+          "italian": "È delizioso."
+        },
+        {
+          "english": "Enjoy your meal.",
+          "russian": "Приятного аппетита.",
+          "spanish": "Buen provecho.",
+          "french": "Bon appétit.",
+          "german": "Guten Appetit.",
+          "portuguese": "Bom apetite.",
+          "italian": "Buon appetito."
+        },
+        {
+          "english": "I'm allergic to...",
+          "russian": "У меня аллергия на...",
+          "spanish": "Soy alérgico a...",
+          "french": "Je suis allergique à...",
+          "german": "Ich bin allergisch gegen...",
+          "portuguese": "Sou alérgico a...",
+          "italian": "Sono allergico a..."
+        },
+        {
+          "english": "breakfast",
+          "russian": "завтрак",
+          "spanish": "desayuno",
+          "french": "petit-déjeuner",
+          "german": "Frühstück",
+          "portuguese": "pequeno-almoço",
+          "italian": "colazione"
+        },
+        {
+          "english": "How much is it?",
+          "russian": "Сколько это стоит?",
+          "spanish": "¿Cuánto cuesta?",
+          "french": "Combien ça coûte ?",
+          "german": "Wie viel kostet das?",
+          "portuguese": "Quanto custa?",
+          "italian": "Quanto costa?"
+        },
+        {
+          "english": "It's too expensive.",
+          "russian": "Это слишком дорого.",
+          "spanish": "Es demasiado caro.",
+          "french": "C'est trop cher.",
+          "german": "Das ist zu teuer.",
+          "portuguese": "É demasiado caro.",
+          "italian": "È troppo caro."
+        },
+        {
+          "english": "I'll take it.",
+          "russian": "Я возьму это.",
+          "spanish": "Me lo llevo.",
+          "french": "Je le prends.",
+          "german": "Ich nehme es.",
+          "portuguese": "Levo isto.",
+          "italian": "Lo prendo."
+        },
+        {
+          "english": "Can I pay by card?",
+          "russian": "Можно картой?",
+          "spanish": "¿Puedo pagar con tarjeta?",
+          "french": "Puis-je payer par carte ?",
+          "german": "Kann ich mit Karte zahlen?",
+          "portuguese": "Posso pagar com cartão?",
+          "italian": "Posso pagare con la carta?"
+        },
+        {
+          "english": "Where is the ATM?",
+          "russian": "Где банкомат?",
+          "spanish": "¿Dónde hay un cajero?",
+          "french": "Où est le distributeur ?",
+          "german": "Wo ist der Geldautomat?",
+          "portuguese": "Onde há um multibanco?",
+          "italian": "Dov'è il bancomat?"
+        },
+        {
+          "english": "cash",
+          "russian": "наличные",
+          "spanish": "efectivo",
+          "french": "espèces",
+          "german": "Bargeld",
+          "portuguese": "dinheiro",
+          "italian": "contanti"
+        },
+        {
+          "english": "money",
+          "russian": "деньги",
+          "spanish": "dinero",
+          "french": "argent",
+          "german": "Geld",
+          "portuguese": "dinheiro",
+          "italian": "denaro"
+        },
+        {
+          "english": "open",
+          "russian": "открыто",
+          "spanish": "abierto",
+          "french": "ouvert",
+          "german": "geöffnet",
+          "portuguese": "aberto",
+          "italian": "aperto"
+        },
+        {
+          "english": "closed",
+          "russian": "закрыто",
+          "spanish": "cerrado",
+          "french": "fermé",
+          "german": "geschlossen",
+          "portuguese": "fechado",
+          "italian": "chiuso"
+        },
+        {
+          "english": "shop",
+          "russian": "магазин",
+          "spanish": "tienda",
+          "french": "magasin",
+          "german": "Geschäft",
+          "portuguese": "loja",
+          "italian": "negozio"
+        },
+        {
+          "english": "market",
+          "russian": "рынок",
+          "spanish": "mercado",
+          "french": "marché",
+          "german": "Markt",
+          "portuguese": "mercado",
+          "italian": "mercato"
+        },
+        {
+          "english": "one",
+          "russian": "один",
+          "spanish": "uno",
+          "french": "un",
+          "german": "eins",
+          "portuguese": "um",
+          "italian": "uno"
+        },
+        {
+          "english": "two",
+          "russian": "два",
+          "spanish": "dos",
+          "french": "deux",
+          "german": "zwei",
+          "portuguese": "dois",
+          "italian": "due"
+        },
+        {
+          "english": "three",
+          "russian": "три",
+          "spanish": "tres",
+          "french": "trois",
+          "german": "drei",
+          "portuguese": "três",
+          "italian": "tre"
+        },
+        {
+          "english": "four",
+          "russian": "четыре",
+          "spanish": "cuatro",
+          "french": "quatre",
+          "german": "vier",
+          "portuguese": "quatro",
+          "italian": "quattro"
+        },
+        {
+          "english": "five",
+          "russian": "пять",
+          "spanish": "cinco",
+          "french": "cinq",
+          "german": "fünf",
+          "portuguese": "cinco",
+          "italian": "cinque"
+        },
+        {
+          "english": "six",
+          "russian": "шесть",
+          "spanish": "seis",
+          "french": "six",
+          "german": "sechs",
+          "portuguese": "seis",
+          "italian": "sei"
+        },
+        {
+          "english": "seven",
+          "russian": "семь",
+          "spanish": "siete",
+          "french": "sept",
+          "german": "sieben",
+          "portuguese": "sete",
+          "italian": "sette"
+        },
+        {
+          "english": "eight",
+          "russian": "восемь",
+          "spanish": "ocho",
+          "french": "huit",
+          "german": "acht",
+          "portuguese": "oito",
+          "italian": "otto"
+        },
+        {
+          "english": "nine",
+          "russian": "девять",
+          "spanish": "nueve",
+          "french": "neuf",
+          "german": "neun",
+          "portuguese": "nove",
+          "italian": "nove"
+        },
+        {
+          "english": "ten",
+          "russian": "десять",
+          "spanish": "diez",
+          "french": "dix",
+          "german": "zehn",
+          "portuguese": "dez",
+          "italian": "dieci"
+        },
+        {
+          "english": "twenty",
+          "russian": "двадцать",
+          "spanish": "veinte",
+          "french": "vingt",
+          "german": "zwanzig",
+          "portuguese": "vinte",
+          "italian": "venti"
+        },
+        {
+          "english": "one hundred",
+          "russian": "сто",
+          "spanish": "cien",
+          "french": "cent",
+          "german": "hundert",
+          "portuguese": "cem",
+          "italian": "cento"
+        },
+        {
+          "english": "today",
+          "russian": "сегодня",
+          "spanish": "hoy",
+          "french": "aujourd'hui",
+          "german": "heute",
+          "portuguese": "hoje",
+          "italian": "oggi"
+        },
+        {
+          "english": "tomorrow",
+          "russian": "завтра",
+          "spanish": "mañana",
+          "french": "demain",
+          "german": "morgen",
+          "portuguese": "amanhã",
+          "italian": "domani"
+        },
+        {
+          "english": "yesterday",
+          "russian": "вчера",
+          "spanish": "ayer",
+          "french": "hier",
+          "german": "gestern",
+          "portuguese": "ontem",
+          "italian": "ieri"
+        },
+        {
+          "english": "now",
+          "russian": "сейчас",
+          "spanish": "ahora",
+          "french": "maintenant",
+          "german": "jetzt",
+          "portuguese": "agora",
+          "italian": "adesso"
+        },
+        {
+          "english": "What time is it?",
+          "russian": "Который час?",
+          "spanish": "¿Qué hora es?",
+          "french": "Quelle heure est-il ?",
+          "german": "Wie spät ist es?",
+          "portuguese": "Que horas são?",
+          "italian": "Che ore sono?"
+        },
+        {
+          "english": "Help!",
+          "russian": "Помогите!",
+          "spanish": "¡Ayuda!",
+          "french": "Au secours !",
+          "german": "Hilfe!",
+          "portuguese": "Socorro!",
+          "italian": "Aiuto!"
+        },
+        {
+          "english": "Emergency!",
+          "russian": "Это срочно!",
+          "spanish": "¡Emergencia!",
+          "french": "Urgence !",
+          "german": "Notfall!",
+          "portuguese": "Emergência!",
+          "italian": "Emergenza!"
+        },
+        {
+          "english": "Call the police!",
+          "russian": "Вызовите полицию!",
+          "spanish": "¡Llame a la policía!",
+          "french": "Appelez la police !",
+          "german": "Rufen Sie die Polizei!",
+          "portuguese": "Chame a polícia!",
+          "italian": "Chiami la polizia!"
+        },
+        {
+          "english": "Call a doctor!",
+          "russian": "Вызовите врача!",
+          "spanish": "¡Llame a un médico!",
+          "french": "Appelez un médecin !",
+          "german": "Rufen Sie einen Arzt!",
+          "portuguese": "Chame um médico!",
+          "italian": "Chiami un medico!"
+        },
+        {
+          "english": "I need a doctor.",
+          "russian": "Мне нужен врач.",
+          "spanish": "Necesito un médico.",
+          "french": "J'ai besoin d'un médecin.",
+          "german": "Ich brauche einen Arzt.",
+          "portuguese": "Preciso de um médico.",
+          "italian": "Ho bisogno di un medico."
+        },
+        {
+          "english": "I'm sick.",
+          "russian": "Я болею.",
+          "spanish": "Estoy enfermo.",
+          "french": "Je suis malade.",
+          "german": "Ich bin krank.",
+          "portuguese": "Estou doente.",
+          "italian": "Sono malato."
+        },
+        {
+          "english": "It hurts here.",
+          "russian": "Здесь болит.",
+          "spanish": "Me duele aquí.",
+          "french": "J'ai mal ici.",
+          "german": "Hier tut es weh.",
+          "portuguese": "Dói aqui.",
+          "italian": "Mi fa male qui."
+        },
+        {
+          "english": "Where is the hospital?",
+          "russian": "Где больница?",
+          "spanish": "¿Dónde está el hospital?",
+          "french": "Où est l'hôpital ?",
+          "german": "Wo ist das Krankenhaus?",
+          "portuguese": "Onde fica o hospital?",
+          "italian": "Dov'è l'ospedale?"
+        },
+        {
+          "english": "Where is the pharmacy?",
+          "russian": "Где аптека?",
+          "spanish": "¿Dónde está la farmacia?",
+          "french": "Où est la pharmacie ?",
+          "german": "Wo ist die Apotheke?",
+          "portuguese": "Onde fica a farmácia?",
+          "italian": "Dov'è la farmacia?"
+        },
+        {
+          "english": "I'm lost.",
+          "russian": "Я заблудился.",
+          "spanish": "Estoy perdido.",
+          "french": "Je suis perdu.",
+          "german": "Ich habe mich verlaufen.",
+          "portuguese": "Estou perdido.",
+          "italian": "Mi sono perso."
+        },
+        {
+          "english": "Be careful!",
+          "russian": "Осторожно!",
+          "spanish": "¡Cuidado!",
+          "french": "Attention !",
+          "german": "Vorsicht!",
+          "portuguese": "Cuidado!",
+          "italian": "Attenzione!"
+        }
+      ]
+    }
+  ]
+}

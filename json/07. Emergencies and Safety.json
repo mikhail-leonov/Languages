@@ -1,0 +1,609 @@
+{
+  "categories": [
+    {
+      "name": "Emergencies and Safety",
+      "phrases": [
+        {
+          "english": "Help!",
+          "russian": "Помогите!",
+          "spanish": "¡Ayuda!",
+          "french": "Au secours !",
+          "german": "Hilfe!",
+          "portuguese": "Socorro!",
+          "italian": "Aiuto!",
+          "esperanto": "Helpu!"
+        },
+        {
+          "english": "Emergency!",
+          "russian": "Чрезвычайная ситуация!",
+          "spanish": "¡Emergencia!",
+          "french": "Urgence !",
+          "german": "Notfall!",
+          "portuguese": "Emergência!",
+          "italian": "Emergenza!",
+          "esperanto": "Krizo!"
+        },
+        {
+          "english": "It's an emergency.",
+          "russian": "Это срочно.",
+          "spanish": "Es una emergencia.",
+          "french": "C'est une urgence.",
+          "german": "Es ist ein Notfall.",
+          "portuguese": "É uma emergência.",
+          "italian": "È un'emergenza.",
+          "esperanto": "Estas krizo."
+        },
+        {
+          "english": "It's urgent.",
+          "russian": "Это срочно.",
+          "spanish": "Es urgente.",
+          "french": "C'est urgent.",
+          "german": "Es ist dringend.",
+          "portuguese": "É urgente.",
+          "italian": "È urgente.",
+          "esperanto": "Urĝas."
+        },
+        {
+          "english": "Call the police!",
+          "russian": "Вызовите полицию!",
+          "spanish": "¡Llame a la policía!",
+          "french": "Appelez la police !",
+          "german": "Rufen Sie die Polizei!",
+          "portuguese": "Chame a polícia!",
+          "italian": "Chiami la polizia!",
+          "esperanto": "Voku la policon!"
+        },
+        {
+          "english": "Call an ambulance!",
+          "russian": "Вызовите скорую!",
+          "spanish": "¡Llame a una ambulancia!",
+          "french": "Appelez une ambulance !",
+          "german": "Rufen Sie einen Krankenwagen!",
+          "portuguese": "Chame uma ambulância!",
+          "italian": "Chiami un'ambulanza!",
+          "esperanto": "Voku ambulancon!"
+        },
+        {
+          "english": "Call the fire brigade!",
+          "russian": "Вызовите пожарных!",
+          "spanish": "¡Llame a los bomberos!",
+          "french": "Appelez les pompiers !",
+          "german": "Rufen Sie die Feuerwehr!",
+          "portuguese": "Chame os bombeiros!",
+          "italian": "Chiami i pompieri!",
+          "esperanto": "Voku la fajrobrigadon!"
+        },
+        {
+          "english": "Get help!",
+          "russian": "Позовите кого-нибудь на помощь!",
+          "spanish": "¡Pida ayuda!",
+          "french": "Allez chercher de l'aide !",
+          "german": "Holen Sie Hilfe!",
+          "portuguese": "Peça ajuda!",
+          "italian": "Chiami aiuto!",
+          "esperanto": "Voku helpon!"
+        },
+        {
+          "english": "Fire!",
+          "russian": "Пожар!",
+          "spanish": "¡Fuego!",
+          "french": "Au feu !",
+          "german": "Feuer!",
+          "portuguese": "Fogo!",
+          "italian": "Al fuoco!",
+          "esperanto": "Fajro!"
+        },
+        {
+          "english": "Stop!",
+          "russian": "Стой!",
+          "spanish": "¡Alto!",
+          "french": "Arrêtez !",
+          "german": "Halt!",
+          "portuguese": "Pare!",
+          "italian": "Fermo!",
+          "esperanto": "Haltu!"
+        },
+        {
+          "english": "Stop, thief!",
+          "russian": "Держите вора!",
+          "spanish": "¡Al ladrón!",
+          "french": "Au voleur !",
+          "german": "Haltet den Dieb!",
+          "portuguese": "Pára, ladrão!",
+          "italian": "Al ladro!",
+          "esperanto": "Haltu, ŝtelisto!"
+        },
+        {
+          "english": "Watch out!",
+          "russian": "Осторожно!",
+          "spanish": "¡Cuidado!",
+          "french": "Attention !",
+          "german": "Vorsicht!",
+          "portuguese": "Cuidado!",
+          "italian": "Attenzione!",
+          "esperanto": "Atentu!"
+        },
+        {
+          "english": "Hurry!",
+          "russian": "Скорее!",
+          "spanish": "¡Rápido!",
+          "french": "Vite !",
+          "german": "Schnell!",
+          "portuguese": "Depressa!",
+          "italian": "Presto!",
+          "esperanto": "Rapidu!"
+        },
+        {
+          "english": "I need help.",
+          "russian": "Мне нужна помощь.",
+          "spanish": "Necesito ayuda.",
+          "french": "J'ai besoin d'aide.",
+          "german": "Ich brauche Hilfe.",
+          "portuguese": "Preciso de ajuda.",
+          "italian": "Ho bisogno di aiuto.",
+          "esperanto": "Mi bezonas helpon."
+        },
+        {
+          "english": "Can you help me?",
+          "russian": "Вы можете мне помочь?",
+          "spanish": "¿Puede ayudarme?",
+          "french": "Pouvez-vous m'aider ?",
+          "german": "Können Sie mir helfen?",
+          "portuguese": "Pode ajudar-me?",
+          "italian": "Può aiutarmi?",
+          "esperanto": "Ĉu vi povas helpi min?"
+        },
+        {
+          "english": "I've been robbed.",
+          "russian": "Меня ограбили.",
+          "spanish": "Me han robado.",
+          "french": "On m'a volé.",
+          "german": "Ich wurde bestohlen.",
+          "portuguese": "Fui roubado.",
+          "italian": "Sono stato derubato.",
+          "esperanto": "Mi estas rabita."
+        },
+        {
+          "english": "Someone stole my wallet.",
+          "russian": "У меня украли кошелёк.",
+          "spanish": "Alguien me robó la cartera.",
+          "french": "On a volé mon portefeuille.",
+          "german": "Jemand hat meine Brieftasche gestohlen.",
+          "portuguese": "Alguém roubou a minha carteira.",
+          "italian": "Qualcuno ha rubato il mio portafoglio.",
+          "esperanto": "Iu ŝtelis mian monujon."
+        },
+        {
+          "english": "My passport was stolen.",
+          "russian": "У меня украли паспорт.",
+          "spanish": "Me robaron el pasaporte.",
+          "french": "On m'a volé mon passeport.",
+          "german": "Mein Pass wurde gestohlen.",
+          "portuguese": "Roubaram-me o passaporte.",
+          "italian": "Mi hanno rubato il passaporto.",
+          "esperanto": "Mia pasporto estas ŝtelita."
+        },
+        {
+          "english": "I lost my bag.",
+          "russian": "Я потерял сумку.",
+          "spanish": "Perdí mi bolso.",
+          "french": "J'ai perdu mon sac.",
+          "german": "Ich habe meine Tasche verloren.",
+          "portuguese": "Perdi a minha mala.",
+          "italian": "Ho perso la mia borsa.",
+          "esperanto": "Mi perdis mian sakon."
+        },
+        {
+          "english": "I'm lost.",
+          "russian": "Я заблудился.",
+          "spanish": "Estoy perdido.",
+          "french": "Je suis perdu.",
+          "german": "Ich habe mich verlaufen.",
+          "portuguese": "Estou perdido.",
+          "italian": "Mi sono perso.",
+          "esperanto": "Mi perdiĝis."
+        },
+        {
+          "english": "I want to report a theft.",
+          "russian": "Я хочу заявить о краже.",
+          "spanish": "Quiero denunciar un robo.",
+          "french": "Je veux signaler un vol.",
+          "german": "Ich möchte einen Diebstahl melden.",
+          "portuguese": "Quero denunciar um roubo.",
+          "italian": "Voglio denunciare un furto.",
+          "esperanto": "Mi volas raporti ŝtelon."
+        },
+        {
+          "english": "Where is the police station?",
+          "russian": "Где полицейский участок?",
+          "spanish": "¿Dónde está la comisaría?",
+          "french": "Où est le commissariat ?",
+          "german": "Wo ist die Polizeiwache?",
+          "portuguese": "Onde fica a esquadra?",
+          "italian": "Dov'è la stazione di polizia?",
+          "esperanto": "Kie estas la policejo?"
+        },
+        {
+          "english": "Someone is following me.",
+          "russian": "За мной кто-то идёт.",
+          "spanish": "Alguien me sigue.",
+          "french": "Quelqu'un me suit.",
+          "german": "Jemand folgt mir.",
+          "portuguese": "Alguém me segue.",
+          "italian": "Qualcuno mi segue.",
+          "esperanto": "Iu sekvas min."
+        },
+        {
+          "english": "Leave me alone!",
+          "russian": "Оставьте меня в покое!",
+          "spanish": "¡Déjeme en paz!",
+          "french": "Laissez-moi tranquille !",
+          "german": "Lassen Sie mich in Ruhe!",
+          "portuguese": "Deixe-me em paz!",
+          "italian": "Mi lasci in pace!",
+          "esperanto": "Lasu min sola!"
+        },
+        {
+          "english": "I can't find my child.",
+          "russian": "Я не могу найти своего ребёнка.",
+          "spanish": "No encuentro a mi hijo.",
+          "french": "Je ne trouve pas mon enfant.",
+          "german": "Ich kann mein Kind nicht finden.",
+          "portuguese": "Não encontro o meu filho.",
+          "italian": "Non trovo mio figlio.",
+          "esperanto": "Mi ne povas trovi mian infanon."
+        },
+        {
+          "english": "There's been an accident.",
+          "russian": "Произошла авария.",
+          "spanish": "Ha habido un accidente.",
+          "french": "Il y a eu un accident.",
+          "german": "Es gab einen Unfall.",
+          "portuguese": "Houve um acidente.",
+          "italian": "C'è stato un incidente.",
+          "esperanto": "Okazis akcidento."
+        },
+        {
+          "english": "I've had an accident.",
+          "russian": "Я попал в аварию.",
+          "spanish": "He tenido un accidente.",
+          "french": "J'ai eu un accident.",
+          "german": "Ich hatte einen Unfall.",
+          "portuguese": "Tive um acidente.",
+          "italian": "Ho avuto un incidente.",
+          "esperanto": "Mi havis akcidenton."
+        },
+        {
+          "english": "Someone is hurt.",
+          "russian": "Кто-то ранен.",
+          "spanish": "Hay un herido.",
+          "french": "Quelqu'un est blessé.",
+          "german": "Jemand ist verletzt.",
+          "portuguese": "Há um ferido.",
+          "italian": "C'è un ferito.",
+          "esperanto": "Iu estas vundita."
+        },
+        {
+          "english": "He's not breathing.",
+          "russian": "Он не дышит.",
+          "spanish": "No respira.",
+          "french": "Il ne respire pas.",
+          "german": "Er atmet nicht.",
+          "portuguese": "Ele não respira.",
+          "italian": "Non respira.",
+          "esperanto": "Li ne spiras."
+        },
+        {
+          "english": "Someone fainted.",
+          "russian": "Кто-то потерял сознание.",
+          "spanish": "Alguien se ha desmayado.",
+          "french": "Quelqu'un s'est évanoui.",
+          "german": "Jemand ist ohnmächtig geworden.",
+          "portuguese": "Alguém desmaiou.",
+          "italian": "Qualcuno è svenuto.",
+          "esperanto": "Iu svenis."
+        },
+        {
+          "english": "Is everyone okay?",
+          "russian": "Все целы?",
+          "spanish": "¿Están todos bien?",
+          "french": "Tout le monde va bien ?",
+          "german": "Geht es allen gut?",
+          "portuguese": "Estão todos bem?",
+          "italian": "State tutti bene?",
+          "esperanto": "Ĉu ĉiuj estas bone?"
+        },
+        {
+          "english": "It's dangerous.",
+          "russian": "Это опасно.",
+          "spanish": "Es peligroso.",
+          "french": "C'est dangereux.",
+          "german": "Das ist gefährlich.",
+          "portuguese": "É perigoso.",
+          "italian": "È pericoloso.",
+          "esperanto": "Ĝi estas danĝera."
+        },
+        {
+          "english": "Danger!",
+          "russian": "Опасность!",
+          "spanish": "¡Peligro!",
+          "french": "Danger !",
+          "german": "Gefahr!",
+          "portuguese": "Perigo!",
+          "italian": "Pericolo!",
+          "esperanto": "Danĝero!"
+        },
+        {
+          "english": "Be careful.",
+          "russian": "Будьте осторожны.",
+          "spanish": "Tenga cuidado.",
+          "french": "Faites attention.",
+          "german": "Seien Sie vorsichtig.",
+          "portuguese": "Tenha cuidado.",
+          "italian": "Faccia attenzione.",
+          "esperanto": "Estu singarda."
+        },
+        {
+          "english": "There's a fire.",
+          "russian": "Здесь пожар.",
+          "spanish": "Hay un incendio.",
+          "french": "Il y a un incendie.",
+          "german": "Es brennt.",
+          "portuguese": "Há um incêndio.",
+          "italian": "C'è un incendio.",
+          "esperanto": "Estas fajro."
+        },
+        {
+          "english": "I smell gas.",
+          "russian": "Пахнет газом.",
+          "spanish": "Huele a gas.",
+          "french": "Ça sent le gaz.",
+          "german": "Es riecht nach Gas.",
+          "portuguese": "Cheira a gás.",
+          "italian": "C'è odore di gas.",
+          "esperanto": "Mi flaras gason."
+        },
+        {
+          "english": "My car broke down.",
+          "russian": "Моя машина сломалась.",
+          "spanish": "Mi coche se averió.",
+          "french": "Ma voiture est tombée en panne.",
+          "german": "Mein Auto hat eine Panne.",
+          "portuguese": "O meu carro avariou.",
+          "italian": "La mia macchina si è guastata.",
+          "esperanto": "Mia aŭto paneis."
+        },
+        {
+          "english": "Don't touch anything.",
+          "russian": "Ничего не трогайте.",
+          "spanish": "No toque nada.",
+          "french": "Ne touchez à rien.",
+          "german": "Fassen Sie nichts an.",
+          "portuguese": "Não toque em nada.",
+          "italian": "Non tocchi niente.",
+          "esperanto": "Ne tuŝu ion."
+        },
+        {
+          "english": "Are you okay?",
+          "russian": "Ты в порядке?",
+          "spanish": "¿Estás bien?",
+          "french": "Ça va ?",
+          "german": "Geht es dir gut?",
+          "portuguese": "Estás bem?",
+          "italian": "Stai bene?",
+          "esperanto": "Ĉu vi estas bone?"
+        },
+        {
+          "english": "I'm okay.",
+          "russian": "Я в порядке.",
+          "spanish": "Estoy bien.",
+          "french": "Ça va.",
+          "german": "Mir geht es gut.",
+          "portuguese": "Estou bem.",
+          "italian": "Sto bene.",
+          "esperanto": "Mi estas bone."
+        },
+        {
+          "english": "Don't worry.",
+          "russian": "Не волнуйтесь.",
+          "spanish": "No se preocupe.",
+          "french": "Ne vous inquiétez pas.",
+          "german": "Machen Sie sich keine Sorgen.",
+          "portuguese": "Não se preocupe.",
+          "italian": "Non si preoccupi.",
+          "esperanto": "Ne maltrankviliĝu."
+        },
+        {
+          "english": "Stay calm.",
+          "russian": "Сохраняйте спокойствие.",
+          "spanish": "Mantenga la calma.",
+          "french": "Restez calme.",
+          "german": "Bleiben Sie ruhig.",
+          "portuguese": "Mantenha a calma.",
+          "italian": "Stia calmo.",
+          "esperanto": "Restu trankvila."
+        },
+        {
+          "english": "I don't feel safe.",
+          "russian": "Я не чувствую себя в безопасности.",
+          "spanish": "No me siento seguro.",
+          "french": "Je ne me sens pas en sécurité.",
+          "german": "Ich fühle mich nicht sicher.",
+          "portuguese": "Não me sinto seguro.",
+          "italian": "Non mi sento al sicuro.",
+          "esperanto": "Mi ne sentas min sekura."
+        },
+        {
+          "english": "Where's the nearest hospital?",
+          "russian": "Где ближайшая больница?",
+          "spanish": "¿Dónde está el hospital más cercano?",
+          "french": "Où est l'hôpital le plus proche ?",
+          "german": "Wo ist das nächste Krankenhaus?",
+          "portuguese": "Onde fica o hospital mais próximo?",
+          "italian": "Dov'è l'ospedale più vicino?",
+          "esperanto": "Kie estas la plej proksima hospitalo?"
+        },
+        {
+          "english": "I need to call my embassy.",
+          "russian": "Мне нужно позвонить в посольство.",
+          "spanish": "Necesito llamar a mi embajada.",
+          "french": "Je dois appeler mon ambassade.",
+          "german": "Ich muss meine Botschaft anrufen.",
+          "portuguese": "Preciso de ligar para a minha embaixada.",
+          "italian": "Devo chiamare la mia ambasciata.",
+          "esperanto": "Mi bezonas voki mian ambasadon."
+        },
+        {
+          "english": "What's the emergency number?",
+          "russian": "Какой номер экстренной службы?",
+          "spanish": "¿Cuál es el número de emergencias?",
+          "french": "Quel est le numéro d'urgence ?",
+          "german": "Wie lautet die Notrufnummer?",
+          "portuguese": "Qual é o número de emergência?",
+          "italian": "Qual è il numero di emergenza?",
+          "esperanto": "Kio estas la kriz-numero?"
+        },
+        {
+          "english": "Call this number.",
+          "russian": "Позвоните по этому номеру.",
+          "spanish": "Llame a este número.",
+          "french": "Appelez ce numéro.",
+          "german": "Rufen Sie diese Nummer an.",
+          "portuguese": "Ligue para este número.",
+          "italian": "Chiami questo numero.",
+          "esperanto": "Voku ĉi tiun numeron."
+        },
+        {
+          "english": "police",
+          "russian": "полиция",
+          "spanish": "policía",
+          "french": "police",
+          "german": "Polizei",
+          "portuguese": "polícia",
+          "italian": "polizia",
+          "esperanto": "polico"
+        },
+        {
+          "english": "police officer",
+          "russian": "полицейский",
+          "spanish": "policía",
+          "french": "policier",
+          "german": "Polizist",
+          "portuguese": "polícia",
+          "italian": "poliziotto",
+          "esperanto": "policisto"
+        },
+        {
+          "english": "ambulance",
+          "russian": "скорая помощь",
+          "spanish": "ambulancia",
+          "french": "ambulance",
+          "german": "Krankenwagen",
+          "portuguese": "ambulância",
+          "italian": "ambulanza",
+          "esperanto": "ambulanco"
+        },
+        {
+          "english": "fire brigade",
+          "russian": "пожарная служба",
+          "spanish": "bomberos",
+          "french": "pompiers",
+          "german": "Feuerwehr",
+          "portuguese": "bombeiros",
+          "italian": "vigili del fuoco",
+          "esperanto": "fajrobrigado"
+        },
+        {
+          "english": "firefighter",
+          "russian": "пожарный",
+          "spanish": "bombero",
+          "french": "pompier",
+          "german": "Feuerwehrmann",
+          "portuguese": "bombeiro",
+          "italian": "pompiere",
+          "esperanto": "fajrobrigadisto"
+        },
+        {
+          "english": "accident",
+          "russian": "авария",
+          "spanish": "accidente",
+          "french": "accident",
+          "german": "Unfall",
+          "portuguese": "acidente",
+          "italian": "incidente",
+          "esperanto": "akcidento"
+        },
+        {
+          "english": "emergency",
+          "russian": "чрезвычайная ситуация",
+          "spanish": "emergencia",
+          "french": "urgence",
+          "german": "Notfall",
+          "portuguese": "emergência",
+          "italian": "emergenza",
+          "esperanto": "krizo"
+        },
+        {
+          "english": "embassy",
+          "russian": "посольство",
+          "spanish": "embajada",
+          "french": "ambassade",
+          "german": "Botschaft",
+          "portuguese": "embaixada",
+          "italian": "ambasciata",
+          "esperanto": "ambasado"
+        },
+        {
+          "english": "consulate",
+          "russian": "консульство",
+          "spanish": "consulado",
+          "french": "consulat",
+          "german": "Konsulat",
+          "portuguese": "consulado",
+          "italian": "consolato",
+          "esperanto": "konsulejo"
+        },
+        {
+          "english": "police station",
+          "russian": "полицейский участок",
+          "spanish": "comisaría",
+          "french": "commissariat",
+          "german": "Polizeiwache",
+          "portuguese": "esquadra",
+          "italian": "stazione di polizia",
+          "esperanto": "policejo"
+        },
+        {
+          "english": "thief",
+          "russian": "вор",
+          "spanish": "ladrón",
+          "french": "voleur",
+          "german": "Dieb",
+          "portuguese": "ladrão",
+          "italian": "ladro",
+          "esperanto": "ŝtelisto"
+        },
+        {
+          "english": "danger",
+          "russian": "опасность",
+          "spanish": "peligro",
+          "french": "danger",
+          "german": "Gefahr",
+          "portuguese": "perigo",
+          "italian": "pericolo",
+          "esperanto": "danĝero"
+        },
+        {
+          "english": "lost and found",
+          "russian": "бюро находок",
+          "spanish": "objetos perdidos",
+          "french": "objets trouvés",
+          "german": "Fundbüro",
+          "portuguese": "perdidos e achados",
+          "italian": "oggetti smarriti",
+          "esperanto": "perditaj objektoj"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "categories": [
+    {
+      "name": "Health, Doctor and Pharmacy",
+      "phrases": [
+        {
+          "english": "body",
+          "russian": "тело",
+          "spanish": "cuerpo",
+          "french": "corps",
+          "german": "Körper",
+          "portuguese": "corpo",
+          "italian": "corpo",
+          "esperanto": "korpo"
+        },
+        {
+          "english": "head",
+          "russian": "голова",
+          "spanish": "cabeza",
+          "french": "tête",
+          "german": "Kopf",
+          "portuguese": "cabeça",
+          "italian": "testa",
+          "esperanto": "kapo"
+        },
+        {
+          "english": "eye",
+          "russian": "глаз",
+          "spanish": "ojo",
+          "french": "œil",
+          "german": "Auge",
+          "portuguese": "olho",
+          "italian": "occhio",
+          "esperanto": "okulo"
+        },
+        {
+          "english": "ear",
+          "russian": "ухо",
+          "spanish": "oreja",
+          "french": "oreille",
+          "german": "Ohr",
+          "portuguese": "orelha",
+          "italian": "orecchio",
+          "esperanto": "orelo"
+        },
+        {
+          "english": "nose",
+          "russian": "нос",
+          "spanish": "nariz",
+          "french": "nez",
+          "german": "Nase",
+          "portuguese": "nariz",
+          "italian": "naso",
+          "esperanto": "nazo"
+        },
+        {
+          "english": "mouth",
+          "russian": "рот",
+          "spanish": "boca",
+          "french": "bouche",
+          "german": "Mund",
+          "portuguese": "boca",
+          "italian": "bocca",
+          "esperanto": "buŝo"
+        },
+        {
+          "english": "tooth",
+          "russian": "зуб",
+          "spanish": "diente",
+          "french": "dent",
+          "german": "Zahn",
+          "portuguese": "dente",
+          "italian": "dente",
+          "esperanto": "dento"
+        },
+        {
+          "english": "throat",
+          "russian": "горло",
+          "spanish": "garganta",
+          "french": "gorge",
+          "german": "Kehle",
+          "portuguese": "garganta",
+          "italian": "gola",
+          "esperanto": "gorĝo"
+        },
+        {
+          "english": "neck",
+          "russian": "шея",
+          "spanish": "cuello",
+          "french": "cou",
+          "german": "Hals",
+          "portuguese": "pescoço",
+          "italian": "collo",
+          "esperanto": "kolo"
+        },
+        {
+          "english": "shoulder",
+          "russian": "плечо",
+          "spanish": "hombro",
+          "french": "épaule",
+          "german": "Schulter",
+          "portuguese": "ombro",
+          "italian": "spalla",
+          "esperanto": "ŝultro"
+        },
+        {
+          "english": "arm",
+          "russian": "рука",
+          "spanish": "brazo",
+          "french": "bras",
+          "german": "Arm",
+          "portuguese": "braço",
+          "italian": "braccio",
+          "esperanto": "brako"
+        },
+        {
+          "english": "hand",
+          "russian": "кисть",
+          "spanish": "mano",
+          "french": "main",
+          "german": "Hand",
+          "portuguese": "mão",
+          "italian": "mano",
+          "esperanto": "mano"
+        },
+        {
+          "english": "finger",
+          "russian": "палец",
+          "spanish": "dedo",
+          "french": "doigt",
+          "german": "Finger",
+          "portuguese": "dedo",
+          "italian": "dito",
+          "esperanto": "fingro"
+        },
+        {
+          "english": "chest",
+          "russian": "грудь",
+          "spanish": "pecho",
+          "french": "poitrine",
+          "german": "Brust",
+          "portuguese": "peito",
+          "italian": "petto",
+          "esperanto": "brusto"
+        },
+        {
+          "english": "back",
+          "russian": "спина",
+          "spanish": "espalda",
+          "french": "dos",
+          "german": "Rücken",
+          "portuguese": "costas",
+          "italian": "schiena",
+          "esperanto": "dorso"
+        },
+        {
+          "english": "stomach",
+          "russian": "живот",
+          "spanish": "estómago",
+          "french": "ventre",
+          "german": "Bauch",
+          "portuguese": "barriga",
+          "italian": "pancia",
+          "esperanto": "ventro"
+        },
+        {
+          "english": "leg",
+          "russian": "нога",
+          "spanish": "pierna",
+          "french": "jambe",
+          "german": "Bein",
+          "portuguese": "perna",
+          "italian": "gamba",
+          "esperanto": "kruro"
+        },
+        {
+          "english": "knee",
+          "russian": "колено",
+          "spanish": "rodilla",
+          "french": "genou",
+          "german": "Knie",
+          "portuguese": "joelho",
+          "italian": "ginocchio",
+          "esperanto": "genuo"
+        },
+        {
+          "english": "foot",
+          "russian": "ступня",
+          "spanish": "pie",
+          "french": "pied",
+          "german": "Fuß",
+          "portuguese": "pé",
+          "italian": "piede",
+          "esperanto": "piedo"
+        },
+        {
+          "english": "heart",
+          "russian": "сердце",
+          "spanish": "corazón",
+          "french": "cœur",
+          "german": "Herz",
+          "portuguese": "coração",
+          "italian": "cuore",
+          "esperanto": "koro"
+        },
+        {
+          "english": "skin",
+          "russian": "кожа",
+          "spanish": "piel",
+          "french": "peau",
+          "german": "Haut",
+          "portuguese": "pele",
+          "italian": "pelle",
+          "esperanto": "haŭto"
+        },
+        {
+          "english": "blood",
+          "russian": "кровь",
+          "spanish": "sangre",
+          "french": "sang",
+          "german": "Blut",
+          "portuguese": "sangue",
+          "italian": "sangue",
+          "esperanto": "sango"
+        },
+        {
+          "english": "I'm sick.",
+          "russian": "Я болею.",
+          "spanish": "Estoy enfermo.",
+          "french": "Je suis malade.",
+          "german": "Ich bin krank.",
+          "portuguese": "Estou doente.",
+          "italian": "Sono malato.",
+          "esperanto": "Mi estas malsana."
+        },
+        {
+          "english": "I don't feel well.",
+          "russian": "Мне нехорошо.",
+          "spanish": "No me siento bien.",
+          "french": "Je ne me sens pas bien.",
+          "german": "Mir geht es nicht gut.",
+          "portuguese": "Não me sinto bem.",
+          "italian": "Non mi sento bene.",
+          "esperanto": "Mi ne sentas min bone."
+        },
+        {
+          "english": "I have a fever.",
+          "russian": "У меня жар.",
+          "spanish": "Tengo fiebre.",
+          "french": "J'ai de la fièvre.",
+          "german": "Ich habe Fieber.",
+          "portuguese": "Tenho febre.",
+          "italian": "Ho la febbre.",
+          "esperanto": "Mi havas febron."
+        },
+        {
+          "english": "I have a headache.",
+          "russian": "У меня болит голова.",
+          "spanish": "Me duele la cabeza.",
+          "french": "J'ai mal à la tête.",
+          "german": "Ich habe Kopfschmerzen.",
+          "portuguese": "Tenho dor de cabeça.",
+          "italian": "Ho mal di testa.",
+          "esperanto": "Mi havas kapdoloron."
+        },
+        {
+          "english": "I have a stomachache.",
+          "russian": "У меня болит живот.",
+          "spanish": "Me duele el estómago.",
+          "french": "J'ai mal au ventre.",
+          "german": "Ich habe Bauchschmerzen.",
+          "portuguese": "Tenho dor de barriga.",
+          "italian": "Ho mal di pancia.",
+          "esperanto": "Mi havas ventrodoloron."
+        },
+        {
+          "english": "I have a sore throat.",
+          "russian": "У меня болит горло.",
+          "spanish": "Me duele la garganta.",
+          "french": "J'ai mal à la gorge.",
+          "german": "Ich habe Halsschmerzen.",
+          "portuguese": "Tenho dor de garganta.",
+          "italian": "Ho mal di gola.",
+          "esperanto": "Mi havas gorĝdoloron."
+        },
+        {
+          "english": "I have a cough.",
+          "russian": "У меня кашель.",
+          "spanish": "Tengo tos.",
+          "french": "J'ai de la toux.",
+          "german": "Ich habe Husten.",
+          "portuguese": "Tenho tosse.",
+          "italian": "Ho la tosse.",
+          "esperanto": "Mi havas tuson."
+        },
+        {
+          "english": "I have a cold.",
+          "russian": "Я простужен.",
+          "spanish": "Estoy resfriado.",
+          "french": "J'ai un rhume.",
+          "german": "Ich bin erkältet.",
+          "portuguese": "Estou constipado.",
+          "italian": "Ho il raffreddore.",
+          "esperanto": "Mi havas malvarmumon."
+        },
+        {
+          "english": "I have the flu.",
+          "russian": "У меня грипп.",
+          "spanish": "Tengo gripe.",
+          "french": "J'ai la grippe.",
+          "german": "Ich habe Grippe.",
+          "portuguese": "Tenho gripe.",
+          "italian": "Ho l'influenza.",
+          "esperanto": "Mi havas gripon."
+        },
+        {
+          "english": "I feel dizzy.",
+          "russian": "У меня кружится голова.",
+          "spanish": "Estoy mareado.",
+          "french": "J'ai des vertiges.",
+          "german": "Mir ist schwindelig.",
+          "portuguese": "Estou tonto.",
+          "italian": "Ho le vertigini.",
+          "esperanto": "Mi sentas vertiĝon."
+        },
+        {
+          "english": "I feel nauseous.",
+          "russian": "Меня тошнит.",
+          "spanish": "Tengo náuseas.",
+          "french": "J'ai des nausées.",
+          "german": "Mir ist übel.",
+          "portuguese": "Tenho náuseas.",
+          "italian": "Ho la nausea.",
+          "esperanto": "Mi sentas naŭzon."
+        },
+        {
+          "english": "It hurts here.",
+          "russian": "Здесь болит.",
+          "spanish": "Me duele aquí.",
+          "french": "J'ai mal ici.",
+          "german": "Hier tut es weh.",
+          "portuguese": "Dói aqui.",
+          "italian": "Mi fa male qui.",
+          "esperanto": "Ĉi tie doloras."
+        },
+        {
+          "english": "My leg hurts.",
+          "russian": "У меня болит нога.",
+          "spanish": "Me duele la pierna.",
+          "french": "J'ai mal à la jambe.",
+          "german": "Mein Bein tut weh.",
+          "portuguese": "Dói-me a perna.",
+          "italian": "Mi fa male la gamba.",
+          "esperanto": "Mia kruro doloras."
+        },
+        {
+          "english": "I'm bleeding.",
+          "russian": "У меня кровь идёт.",
+          "spanish": "Estoy sangrando.",
+          "french": "Je saigne.",
+          "german": "Ich blute.",
+          "portuguese": "Estou a sangrar.",
+          "italian": "Sto sanguinando.",
+          "esperanto": "Mi sangas."
+        },
+        {
+          "english": "I'm injured.",
+          "russian": "Я ранен.",
+          "spanish": "Estoy herido.",
+          "french": "Je suis blessé.",
+          "german": "Ich bin verletzt.",
+          "portuguese": "Estou ferido.",
+          "italian": "Sono ferito.",
+          "esperanto": "Mi estas vundita."
+        },
+        {
+          "english": "I have diarrhea.",
+          "russian": "У меня диарея.",
+          "spanish": "Tengo diarrea.",
+          "french": "J'ai la diarrhée.",
+          "german": "Ich habe Durchfall.",
+          "portuguese": "Tenho diarreia.",
+          "italian": "Ho la diarrea.",
+          "esperanto": "Mi havas diareon."
+        },
+        {
+          "english": "I'm vomiting.",
+          "russian": "Меня рвёт.",
+          "spanish": "Estoy vomitando.",
+          "french": "Je vomis.",
+          "german": "Ich muss mich übergeben.",
+          "portuguese": "Estou a vomitar.",
+          "italian": "Sto vomitando.",
+          "esperanto": "Mi vomitas."
+        },
+        {
+          "english": "I can't sleep.",
+          "russian": "Я не могу спать.",
+          "spanish": "No puedo dormir.",
+          "french": "Je ne peux pas dormir.",
+          "german": "Ich kann nicht schlafen.",
+          "portuguese": "Não consigo dormir.",
+          "italian": "Non riesco a dormire.",
+          "esperanto": "Mi ne povas dormi."
+        },
+        {
+          "english": "I'm tired.",
+          "russian": "Я устал.",
+          "spanish": "Estoy cansado.",
+          "french": "Je suis fatigué.",
+          "german": "Ich bin müde.",
+          "portuguese": "Estou cansado.",
+          "italian": "Sono stanco.",
+          "esperanto": "Mi estas laca."
+        },
+        {
+          "english": "I need a doctor.",
+          "russian": "Мне нужен врач.",
+          "spanish": "Necesito un médico.",
+          "french": "J'ai besoin d'un médecin.",
+          "german": "Ich brauche einen Arzt.",
+          "portuguese": "Preciso de um médico.",
+          "italian": "Ho bisogno di un medico.",
+          "esperanto": "Mi bezonas kuraciston."
+        },
+        {
+          "english": "Call a doctor.",
+          "russian": "Вызовите врача.",
+          "spanish": "Llame a un médico.",
+          "french": "Appelez un médecin.",
+          "german": "Rufen Sie einen Arzt.",
+          "portuguese": "Chame um médico.",
+          "italian": "Chiami un medico.",
+          "esperanto": "Voku kuraciston."
+        },
+        {
+          "english": "Where is the pharmacy?",
+          "russian": "Где аптека?",
+          "spanish": "¿Dónde está la farmacia?",
+          "french": "Où est la pharmacie ?",
+          "german": "Wo ist die Apotheke?",
+          "portuguese": "Onde fica a farmácia?",
+          "italian": "Dov'è la farmacia?",
+          "esperanto": "Kie estas la apoteko?"
+        },
+        {
+          "english": "Where is the hospital?",
+          "russian": "Где больница?",
+          "spanish": "¿Dónde está el hospital?",
+          "french": "Où est l'hôpital ?",
+          "german": "Wo ist das Krankenhaus?",
+          "portuguese": "Onde fica o hospital?",
+          "italian": "Dov'è l'ospedale?",
+          "esperanto": "Kie estas la hospitalo?"
+        },
+        {
+          "english": "I need to see a doctor.",
+          "russian": "Мне нужно к врачу.",
+          "spanish": "Necesito ver a un médico.",
+          "french": "Je dois voir un médecin.",
+          "german": "Ich muss zum Arzt.",
+          "portuguese": "Preciso de ver um médico.",
+          "italian": "Devo vedere un medico.",
+          "esperanto": "Mi devas viziti kuraciston."
+        },
+        {
+          "english": "Do you have something for a headache?",
+          "russian": "У вас есть что-нибудь от головной боли?",
+          "spanish": "¿Tiene algo para el dolor de cabeza?",
+          "french": "Avez-vous quelque chose contre le mal de tête ?",
+          "german": "Haben Sie etwas gegen Kopfschmerzen?",
+          "portuguese": "Tem algo para a dor de cabeça?",
+          "italian": "Ha qualcosa per il mal di testa?",
+          "esperanto": "Ĉu vi havas ion kontraŭ kapdoloro?"
+        },
+        {
+          "english": "I have a prescription.",
+          "russian": "У меня есть рецепт.",
+          "spanish": "Tengo una receta.",
+          "french": "J'ai une ordonnance.",
+          "german": "Ich habe ein Rezept.",
+          "portuguese": "Tenho uma receita.",
+          "italian": "Ho una ricetta.",
+          "esperanto": "Mi havas recepton."
+        },
+        {
+          "english": "Is it serious?",
+          "russian": "Это серьёзно?",
+          "spanish": "¿Es grave?",
+          "french": "Est-ce grave ?",
+          "german": "Ist es ernst?",
+          "portuguese": "É grave?",
+          "italian": "È grave?",
+          "esperanto": "Ĉu estas serioze?"
+        },
+        {
+          "english": "I'm allergic to penicillin.",
+          "russian": "У меня аллергия на пенициллин.",
+          "spanish": "Soy alérgico a la penicilina.",
+          "french": "Je suis allergique à la pénicilline.",
+          "german": "Ich bin allergisch gegen Penizillin.",
+          "portuguese": "Sou alérgico à penicilina.",
+          "italian": "Sono allergico alla penicillina.",
+          "esperanto": "Mi estas alergia al penicilino."
+        },
+        {
+          "english": "I have diabetes.",
+          "russian": "У меня диабет.",
+          "spanish": "Tengo diabetes.",
+          "french": "J'ai du diabète.",
+          "german": "Ich habe Diabetes.",
+          "portuguese": "Tenho diabetes.",
+          "italian": "Ho il diabete.",
+          "esperanto": "Mi havas diabeton."
+        },
+        {
+          "english": "I have high blood pressure.",
+          "russian": "У меня высокое давление.",
+          "spanish": "Tengo la tensión alta.",
+          "french": "J'ai de la tension.",
+          "german": "Ich habe hohen Blutdruck.",
+          "portuguese": "Tenho a tensão alta.",
+          "italian": "Ho la pressione alta.",
+          "esperanto": "Mi havas altan sangopremon."
+        },
+        {
+          "english": "I'm pregnant.",
+          "russian": "Я беременна.",
+          "spanish": "Estoy embarazada.",
+          "french": "Je suis enceinte.",
+          "german": "Ich bin schwanger.",
+          "portuguese": "Estou grávida.",
+          "italian": "Sono incinta.",
+          "esperanto": "Mi estas graveda."
+        },
+        {
+          "english": "I take medication for...",
+          "russian": "Я принимаю лекарство от...",
+          "spanish": "Tomo medicación para...",
+          "french": "Je prends des médicaments pour...",
+          "german": "Ich nehme Medikamente gegen...",
+          "portuguese": "Tomo medicação para...",
+          "italian": "Prendo medicine per...",
+          "esperanto": "Mi prenas medikamenton por..."
+        },
+        {
+          "english": "How often should I take this?",
+          "russian": "Как часто это принимать?",
+          "spanish": "¿Con qué frecuencia debo tomarlo?",
+          "french": "À quelle fréquence dois-je le prendre ?",
+          "german": "Wie oft soll ich das nehmen?",
+          "portuguese": "Com que frequência devo tomar isto?",
+          "italian": "Ogni quanto devo prenderlo?",
+          "esperanto": "Kiom ofte mi prenu ĉi tion?"
+        },
+        {
+          "english": "Twice a day.",
+          "russian": "Два раза в день.",
+          "spanish": "Dos veces al día.",
+          "french": "Deux fois par jour.",
+          "german": "Zweimal am Tag.",
+          "portuguese": "Duas vezes por dia.",
+          "italian": "Due volte al giorno.",
+          "esperanto": "Du fojojn tage."
+        },
+        {
+          "english": "After meals.",
+          "russian": "После еды.",
+          "spanish": "Después de las comidas.",
+          "french": "Après les repas.",
+          "german": "Nach dem Essen.",
+          "portuguese": "Depois das refeições.",
+          "italian": "Dopo i pasti.",
+          "esperanto": "Post manĝoj."
+        },
+        {
+          "english": "doctor",
+          "russian": "врач",
+          "spanish": "médico",
+          "french": "médecin",
+          "german": "Arzt",
+          "portuguese": "médico",
+          "italian": "medico",
+          "esperanto": "kuracisto"
+        },
+        {
+          "english": "nurse",
+          "russian": "медсестра",
+          "spanish": "enfermero",
+          "french": "infirmier",
+          "german": "Krankenschwester",
+          "portuguese": "enfermeiro",
+          "italian": "infermiere",
+          "esperanto": "flegisto"
+        },
+        {
+          "english": "dentist",
+          "russian": "стоматолог",
+          "spanish": "dentista",
+          "french": "dentiste",
+          "german": "Zahnarzt",
+          "portuguese": "dentista",
+          "italian": "dentista",
+          "esperanto": "dentisto"
+        },
+        {
+          "english": "pharmacy",
+          "russian": "аптека",
+          "spanish": "farmacia",
+          "french": "pharmacie",
+          "german": "Apotheke",
+          "portuguese": "farmácia",
+          "italian": "farmacia",
+          "esperanto": "apoteko"
+        },
+        {
+          "english": "hospital",
+          "russian": "больница",
+          "spanish": "hospital",
+          "french": "hôpital",
+          "german": "Krankenhaus",
+          "portuguese": "hospital",
+          "italian": "ospedale",
+          "esperanto": "hospitalo"
+        },
+        {
+          "english": "medicine",
+          "russian": "лекарство",
+          "spanish": "medicina",
+          "french": "médicament",
+          "german": "Medikament",
+          "portuguese": "medicamento",
+          "italian": "medicina",
+          "esperanto": "medikamento"
+        },
+        {
+          "english": "pill",
+          "russian": "таблетка",
+          "spanish": "pastilla",
+          "french": "comprimé",
+          "german": "Tablette",
+          "portuguese": "comprimido",
+          "italian": "pastiglia",
+          "esperanto": "pilolo"
+        },
+        {
+          "english": "painkiller",
+          "russian": "обезболивающее",
+          "spanish": "analgésico",
+          "french": "antidouleur",
+          "german": "Schmerzmittel",
+          "portuguese": "analgésico",
+          "italian": "antidolorifico",
+          "esperanto": "kontraŭdolorilo"
+        },
+        {
+          "english": "antibiotics",
+          "russian": "антибиотики",
+          "spanish": "antibióticos",
+          "french": "antibiotiques",
+          "german": "Antibiotika",
+          "portuguese": "antibióticos",
+          "italian": "antibiotici",
+          "esperanto": "antibiotikoj"
+        },
+        {
+          "english": "aspirin",
+          "russian": "аспирин",
+          "spanish": "aspirina",
+          "french": "aspirine",
+          "german": "Aspirin",
+          "portuguese": "aspirina",
+          "italian": "aspirina",
+          "esperanto": "aspirino"
+        },
+        {
+          "english": "bandage",
+          "russian": "бинт",
+          "spanish": "venda",
+          "french": "bandage",
+          "german": "Verband",
+          "portuguese": "ligadura",
+          "italian": "benda",
+          "esperanto": "bandaĝo"
+        },
+        {
+          "english": "plaster",
+          "russian": "пластырь",
+          "spanish": "tirita",
+          "french": "pansement",
+          "german": "Pflaster",
+          "portuguese": "penso",
+          "italian": "cerotto",
+          "esperanto": "gluaĵo"
+        },
+        {
+          "english": "thermometer",
+          "russian": "градусник",
+          "spanish": "termómetro",
+          "french": "thermomètre",
+          "german": "Thermometer",
+          "portuguese": "termómetro",
+          "italian": "termometro",
+          "esperanto": "termometro"
+        },
+        {
+          "english": "prescription",
+          "russian": "рецепт",
+          "spanish": "receta",
+          "french": "ordonnance",
+          "german": "Rezept",
+          "portuguese": "receita",
+          "italian": "ricetta",
+          "esperanto": "recepto"
+        },
+        {
+          "english": "fever",
+          "russian": "жар",
+          "spanish": "fiebre",
+          "french": "fièvre",
+          "german": "Fieber",
+          "portuguese": "febre",
+          "italian": "febbre",
+          "esperanto": "febro"
+        },
+        {
+          "english": "cough",
+          "russian": "кашель",
+          "spanish": "tos",
+          "french": "toux",
+          "german": "Husten",
+          "portuguese": "tosse",
+          "italian": "tosse",
+          "esperanto": "tuso"
+        },
+        {
+          "english": "cold (illness)",
+          "russian": "простуда",
+          "spanish": "resfriado",
+          "french": "rhume",
+          "german": "Erkältung",
+          "portuguese": "constipação",
+          "italian": "raffreddore",
+          "esperanto": "malvarmumo"
+        },
+        {
+          "english": "flu",
+          "russian": "грипп",
+          "spanish": "gripe",
+          "french": "grippe",
+          "german": "Grippe",
+          "portuguese": "gripe",
+          "italian": "influenza",
+          "esperanto": "gripo"
+        },
+        {
+          "english": "allergy",
+          "russian": "аллергия",
+          "spanish": "alergia",
+          "french": "allergie",
+          "german": "Allergie",
+          "portuguese": "alergia",
+          "italian": "allergia",
+          "esperanto": "alergio"
+        },
+        {
+          "english": "infection",
+          "russian": "инфекция",
+          "spanish": "infección",
+          "french": "infection",
+          "german": "Infektion",
+          "portuguese": "infeção",
+          "italian": "infezione",
+          "esperanto": "infekto"
+        },
+        {
+          "english": "pain",
+          "russian": "боль",
+          "spanish": "dolor",
+          "french": "douleur",
+          "german": "Schmerz",
+          "portuguese": "dor",
+          "italian": "dolore",
+          "esperanto": "doloro"
+        },
+        {
+          "english": "wound",
+          "russian": "рана",
+          "spanish": "herida",
+          "french": "blessure",
+          "german": "Wunde",
+          "portuguese": "ferida",
+          "italian": "ferita",
+          "esperanto": "vundo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "General Questions & Introductions",
+      "phrases": [
+        {
+          "english": "Hi, I don't think we've met—I'm [Name].",
+          "russian": "Привет, по-моему, мы не знакомы — меня зовут [Имя].",
+          "spanish": "Hola, creo que no nos conocemos, soy [Nombre].",
+          "french": "Bonjour, je ne pense pas que nous nous connaissions — je m'appelle [Nom].",
+          "german": "Hallo, ich glaube, wir kennen uns noch nicht – ich bin [Name].",
+          "italian": "Ciao, non credo che ci conosciamo — sono [Nome].",
+          "portuguese": "Olá, acho que não nos conhecemos — eu sou o(a) [Nome].",
+          "esperanto": "Saluton, mi pensas ke ni ne konas nin — mi estas [Nomo]."
+        },
+        {
+          "english": "Allow me to introduce myself; my name is [Name].",
+          "russian": "Разрешите представиться, меня зовут [Имя].",
+          "spanish": "Permítame presentarme; mi nombre es [Nombre].",
+          "french": "Permettez-moi de me présenter ; je m'appelle [Nom].",
+          "german": "Erlauben Sie mir, mich vorzustellen; mein Name ist [Name].",
+          "italian": "Mi permetta di presentarmi; il mio nome è [Nome].",
+          "portuguese": "Permita-me apresentar-me; o meu nome é [Nome].",
+          "esperanto": "Permesu min prezenti min; mia nomo estas [Nomo]."
+        },
+        {
+          "english": "Hello, I just joined the team, I'm [Name].",
+          "russian": "Привет, я только что присоединился к команде, меня зовут [Имя].",
+          "spanish": "Hola, acabo de unirme al equipo, soy [Nombre].",
+          "french": "Bonjour, je viens de rejoindre l'équipe, je m'appelle [Nom].",
+          "german": "Hallo, ich bin neu im Team, ich bin [Name].",
+          "italian": "Ciao, mi sono appena unito al gruppo, sono [Nome].",
+          "portuguese": "Olá, acabo de entrar para a equipe, eu sou o(a) [Nome].",
+          "esperanto": "Saluton, mi ĵus aliĝis al la teamo, mi estas [Nomo]."
+        },
+        {
+          "english": "Hi there! I'm [Name], nice to finally meet you.",
+          "russian": "Привет! Я [Имя], рад наконец-то познакомиться.",
+          "spanish": "¡Hola! Soy [Nombre], un placer conocerte por fin.",
+          "french": "Salut ! Je m'appelle [Nom], ravi de te rencontrer enfin.",
+          "german": "Hallo zusammen! Ich bin [Name], schön, dich endlich kennenzulernen.",
+          "italian": "Ciao! Sono [Nome], che bello incontrarti finalmente.",
+          "portuguese": "Olá! Eu sou o(a) [Nome], prazer em finalmente conhecê-lo(a).",
+          "esperanto": "Hej! Mi estas [Nomo], agrable fine renkonti vin."
+        },
+        {
+          "english": "Good morning, my name is [Name] and I'll be your guide today.",
+          "russian": "Доброе утро, меня зовут [Имя], и сегодня я буду вашим гидом.",
+          "spanish": "Buenos días, mi nombre es [Nombre] y seré su guía hoy.",
+          "french": "Bonjour, je m'appelle [Nom] et je serai votre guide aujourd'hui.",
+          "german": "Guten Morgen, mein Name ist [Name] und ich werde heute Ihr Begleiter sein.",
+          "italian": "Buongiorno, il mio nome è [Nome] e oggi sarò la vostra guida.",
+          "portuguese": "Bom dia, o meu nome é [Nome] e serei o seu guia hoje.",
+          "esperanto": "Bonan matenon, mia nomo estas [Nomo] kaj mi estos via gvidisto hodiaŭ."
+        },
+        {
+          "english": "Hey everyone, I'm [Name], looking forward to working together.",
+          "russian": "Всем привет, я [Имя], буду рад совместной работе.",
+          "spanish": "Hola a todos, soy [Nombre], espero que trabajemos bien juntos.",
+          "french": "Salut tout le monde, je m'appelle [Nom], ravi de travailler avec vous.",
+          "german": "Hallo zusammen, ich bin [Name], ich freue mich auf die Zusammenarbeit.",
+          "italian": "Ciao a tutti, sono [Nome], non vedo l'ora di lavorare insieme.",
+          "portuguese": "Olá a todos, eu sou o(a) [Nome], estou ansioso(a) para trabalharmos juntos.",
+          "esperanto": "Saluton al ĉiuj, mi estas [Nomo], mi antaŭĝojas labori kune."
+        },
+        {
+          "english": "Pleased to meet you, I am [Name] from the marketing department.",
+          "russian": "Рад знакомству, я [Имя] из отдела маркетинга.",
+          "spanish": "Encantado de conocerle, soy [Nombre] del departamento de marketing.",
+          "french": "Ravi de vous rencontrer, je m'appelle [Nom] du service marketing.",
+          "german": "Freut mich, Sie kennenzulernen, ich bin [Name] aus der Marketingabteilung.",
+          "italian": "Piacere di conoscerla, sono [Nome] del dipartimento di marketing.",
+          "portuguese": "Prazer em conhecê-lo(a), eu sou o(a) [Nome] do departamento de marketing.",
+          "esperanto": "Agrable renkonti vin, mi estas [Nomo] el la merkatada fako."
+        },
+        {
+          "english": "Hi, I'm [Name], a friend of [Mutual Friend's Name].",
+          "russian": "Привет, я [Имя], друг [Имя общего друга].",
+          "spanish": "Hola, soy [Nombre], amigo de [Nombre del amigo común].",
+          "french": "Salut, je m'appelle [Nom], un ami de [Nom de l'ami commun].",
+          "german": "Hallo, ich bin [Name], ein Freund von [Name des gemeinsamen Freundes].",
+          "italian": "Ciao, sono [Nome], un amico di [Nome dell'amico comune].",
+          "portuguese": "Olá, eu sou o(a) [Nome], amigo(a) do(a) [Nome do amigo em comum].",
+          "esperanto": "Saluton, mi estas [Nomo], amiko de [Nomo de komuna amiko]."
+        },
+        {
+          "english": "Allow me to present myself, my name is [Name].",
+          "russian": "Позвольте представиться, меня зовут [Имя].",
+          "spanish": "Permítame presentarse, mi nombre es [Nombre].",
+          "french": "Permettez-moi de me présenter, je m'appelle [Nom].",
+          "german": "Erlauben Sie mir, mich vorzustellen, mein Name ist [Name].",
+          "italian": "Mi permetta di presentarsi, il mio nome è [Nome].",
+          "portuguese": "Permita-me apresentar-me, o meu nome é [Nome].",
+          "esperanto": "Permesu min prezenti min, mia nomo estas [Nomo]."
+        },
+        {
+          "english": "Hello, I'm [Name], and I am thrilled to be here today.",
+          "russian": "Здравствуйте, я [Имя], и я счастлив быть здесь сегодня.",
+          "spanish": "Hola, soy [Nombre] y estoy encantado de estar aquí hoy.",
+          "french": "Bonjour, je m'appelle [Nom] et je suis ravi d'être ici aujourd'hui.",
+          "german": "Hallo, ich bin [Name] und ich freue mich sehr, heute hier zu sein.",
+          "italian": "Buongiorno, sono [Nome] e sono entusiasta di essere qui oggi.",
+          "portuguese": "Olá, eu sou o(a) [Nome] e estou muito feliz por estar aqui hoje.",
+          "esperanto": "Saluton, mi estas [Nomo], kaj mi ĝojas esti ĉi tie hodiaŭ."
+        },
+        {
+          "english": "I'd like you to meet my colleague, [Name].",
+          "russian": "Я бы хотел познакомить вас со своим коллегой, его зовут [Имя].",
+          "spanish": "Me gustaría presentarle a mi colega, [Nombre].",
+          "french": "J'aimerais vous présenter mon collègue, [Nom].",
+          "german": "Ich möchte Ihnen meinen Kollegen [Name] vorstellen.",
+          "italian": "Vorrei presentarle il mio collega, [Nome].",
+          "portuguese": "Gostaria de lhe apresentar o meu colega, [Nome].",
+          "esperanto": "Mi ŝatus prezenti vin al mia kolego, [Nomo]."
+        },
+        {
+          "english": "Have you met [Name] yet?",
+          "russian": "Вы уже знакомы с [Имя]?",
+          "spanish": "¿Ya conoces a [Nombre]?",
+          "french": "As-tu déjà rencontré [Nom] ?",
+          "german": "Hast du [Name] schon kennengelernt?",
+          "italian": "Hai già incontrato [Nome]?",
+          "portuguese": "Você já conhece o(a) [Nome]?",
+          "esperanto": "Ĉu vi jam konas [Nomo]?"
+        },
+        {
+          "english": "This is [Name], they handle our account management.",
+          "russian": "Это [Имя], он занимается ведением наших клиентов.",
+          "spanish": "Este es [Nombre], se encarga de la gestión de nuestras cuentas.",
+          "french": "Voici [Nom], il s'occupe de la gestion de nos comptes.",
+          "german": "Das ist [Name], er kümmert sich um unsere Kundenbetreuung.",
+          "italian": "Questo è [Nome], si occupa della gestione dei nostri clienti.",
+          "portuguese": "Este(a) é o(a) [Nome], ele(a) cuida da nossa gestão de contas.",
+          "esperanto": "Tio estas [Nomo], li/ŝi prizorgas nian administradon de kontoj."
+        },
+        {
+          "english": "I want to introduce you to someone very special, this is [Name].",
+          "russian": "Я хочу познакомить вас кое с кем особенным, это [Имя].",
+          "spanish": "Quiero presentarte a alguien muy especial, este es [Nombre].",
+          "french": "Je veux te présenter quelqu'un de très spécial, voici [Nom].",
+          "german": "Ich möchte dir jemanden vorstellen, der mir sehr wichtig ist, das ist [Name].",
+          "italian": "Voglio presentarti una persona molto speciale, questo è [Nome].",
+          "portuguese": "Quero lhe apresentar alguém muito especial, este(a) é o(a) [Nome].",
+          "esperanto": "Mi volas prezenti vin al iu tre speciala, tio estas [Nomo]."
+        },
+        {
+          "english": "Please welcome the newest member of our team, [Name].",
+          "russian": "Пожалуйста, поприветствуйте нового члена нашей команды, [Имя].",
+          "spanish": "Por favor, denle la bienvenida al miembro más reciente de nuestro equipo, [Nombre].",
+          "french": "Veuillez accueillir le tout nouveau membre de notre équipe, [Nom].",
+          "german": "Bitte begrüßen Sie das neueste Mitglied unseres Teams, [Name].",
+          "italian": "Vi prego di dare il benvenuto al nuovo membro del nostro team, [Nome].",
+          "portuguese": "Por favor, deem as boas-vindas ao mais novo membro da nossa equipe, [Nome].",
+          "esperanto": "Bonvolu bonvenigi la plej novan membron de nia teamo, [Nomo]."
+        },
+        {
+          "english": "[Name], meet [Name]. [Name], this is [Name].",
+          "russian": "[Имя], познакомься с [Имя]. [Имя], это [Имя].",
+          "spanish": "[Nombre], conoce a [Nombre]. [Nombre], este es [Nombre].",
+          "french": "[Nom], je te présente [Nom]. [Nom], voici [Nom].",
+          "german": "[Name], das ist [Name]. [Name], das ist [Name].",
+          "italian": "[Nome], ti presento [Nome]. [Nome], questo è [Nome].",
+          "portuguese": "[Nome], conheça o(a) [Nome]. [Nome], este(a) é o(a) [Nome].",
+          "esperanto": "[Nomo], renkontu [Nomo]. [Nomo], tio estas [Nomo]."
+        },
+        {
+          "english": "Allow me to introduce [Name], our guest speaker for tonight.",
+          "russian": "Позвольте представить вам [Имя], нашего приглашенного спикера на сегодняшний вечер.",
+          "spanish": "Permítame presentar a [Nombre], nuestro orador invitado para esta noche.",
+          "french": "Permettez-moi de vous présenter [Nom], notre conférencier invité pour ce soir.",
+          "german": "Erlauben Sie mir, [Name] vorzustellen, unseren Gastredner für den heutigen Abend.",
+          "italian": "Mi permetta di presentare [Nome], il nostro ospite d'onore per questa sera.",
+          "portuguese": "Permita-me apresentar o(a) [Nome], o(a) nosso(a) palestrante convidado(a) de hoje à noite.",
+          "esperanto": "Permesu min prezenti [Nomo], nian gastan parolanton por ĉi-vespere."
+        },
+        {
+          "english": "I would like to introduce my partner, [Name].",
+          "russian": "Я бы хотел представить моего партнера, [Имя].",
+          "spanish": "Me gustaría presentar a mi socio, [Nombre].",
+          "french": "J'aimerais vous présenter mon partenaire, [Nom].",
+          "german": "Ich möchte Ihnen meinen Partner [Name] vorstellen.",
+          "italian": "Vorrei presentarle il mio partner, [Nome].",
+          "portuguese": "Gostaria de apresentar o meu parceiro/sócio, [Nome].",
+          "esperanto": "Mi ŝatus prezenti mian partneron, [Nomo]."
+        },
+        {
+          "english": "Do you know [Name]? You two have a lot in common.",
+          "russian": "Ты знаешь [Имя]? У вас двоих много общего.",
+          "spanish": "¿Conoces a [Nombre]? Ustedes dos tienen mucho en común.",
+          "french": "Tu connais [Nom] ? Vous avez beaucoup de points communs tous les deux.",
+          "german": "Kennst du [Name]? Ihr beide habt viele Gemeinsamkeiten.",
+          "italian": "Conosci [Nome]? Voi due avete molto in comune.",
+          "portuguese": "Você conhece o(a) [Nome]? Vocês dois têm muito em comum.",
+          "esperanto": "Ĉu vi konas [Nomo]? Vi du havas multon komunan."
+        },
+        {
+          "english": "I'm delighted to introduce [Name], who just arrived from Chicago.",
+          "russian": "Рад представить вам [Имя], который только что приехал из Чикаго.",
+          "spanish": "Me complace presentar a [Nombre], que acaba de llegar de Chicago.",
+          "french": "Je suis ravi de vous présenter [Nom], qui vient tout juste d'arriver de Chicago.",
+          "german": "Ich freue mich, Ihnen [Name] vorzustellen, der gerade aus Chicago eingetroffen ist.",
+          "italian": "Sono felice di presentarle [Nome], appena arrivato da Chicago.",
+          "portuguese": "Tenho o prazer de apresentar o(a) [Nome], que acaba de chegar de Chicago.",
+          "esperanto": "Mi ĝojas prezenti [Nomo], kiu ĵus alvenis el Ĉikago."
+        },
+        {
+          "english": "So, what brings you to this event today?",
+          "russian": "Итак, что привело вас на это мероприятие сегодня?",
+          "spanish": "Y bien, ¿qué te trae por este evento hoy?",
+          "french": "Alors, qu'est-ce qui vous amène à cet événement aujourd'hui ?",
+          "german": "Und, was führt Sie heute zu dieser Veranstaltung?",
+          "italian": "Allora, cosa vi porta a questo evento oggi?",
+          "portuguese": "Então, o que traz você a este evento hoje?",
+          "esperanto": "Do, kio alportas vin al ĉi tiu evento hodiaŭ?"
+        },
+        {
+          "english": "How do you know the host?",
+          "russian": "Откуда вы знаете организатора?",
+          "spanish": "¿De qué conoces al anfitrión?",
+          "french": "Comment connais-tu l'hôte ?",
+          "german": "Woher kennst du den Gastgeber?",
+          "italian": "Come conosci il padrone di casa?",
+          "portuguese": "De onde você conhece o anfitrião?",
+          "esperanto": "Kiel vi konas la gastiganton?"
+        },
+        {
+          "english": "What line of work are you in?",
+          "russian": "В какой сфере вы работаете?",
+          "spanish": "¿En qué área trabajas?",
+          "french": "Dans quel secteur d'activité travailles-tu ?",
+          "german": "In welcher Branche sind Sie tätig?",
+          "italian": "Di che cosa ti occupi?",
+          "portuguese": "Em que área você trabalha?",
+          "esperanto": "En kiu fako vi laboras?"
+        },
+        {
+          "english": "Have you been to one of these gatherings before?",
+          "russian": "Вы бывали на таких встречах раньше?",
+          "spanish": "¿Has estado antes en una reunión como esta?",
+          "french": "As-tu déjà assisté à ce genre de rassemblement auparavant ?",
+          "german": "Waren Sie schon einmal auf so einem Treffen?",
+          "italian": "Sei già stato a uno di questi incontri prima d'ora?",
+          "portuguese": "Você já esteve em um encontro como este antes?",
+          "esperanto": "Ĉu vi jam estis ĉe tia kunveno antaŭe?"
+        },
+        {
+          "english": "So, what's your story?",
+          "russian": "Итак, какая у тебя история? / Расскажи о себе.",
+          "spanish": "Y bien, ¿cuál es tu historia?",
+          "french": "Alors, c'est quoi ton histoire ?",
+          "german": "Erzähl mal, was ist deine Geschichte?",
+          "italian": "Allora, qual è la tua storia?",
+          "portuguese": "Então, qual é a sua história?",
+          "esperanto": "Do, kio estas via rakonto?"
+        },
+        {
+          "english": "What do you like to do outside of work?",
+          "russian": "Чем вы любите заниматься вне работы?",
+          "spanish": "¿Qué te gusta hacer fuera del trabajo?",
+          "french": "Qu'est-ce que tu aimes faire en dehors du travail ?",
+          "german": "Was machst du gerne außerhalb der Arbeit?",
+          "italian": "Cosa ti piace fare fuori dal lavoro?",
+          "portuguese": "O que você gosta de fazer fora do trabalho?",
+          "esperanto": "Kion vi ŝatas fari ekster laboro?"
+        },
+        {
+          "english": "How long have you been living in the area?",
+          "russian": "Как долго вы живете в этом районе?",
+          "spanish": "¿Cuánto tiempo llevas viviendo por aquí?",
+          "french": "Depuis combien de temps habites-tu dans la région ?",
+          "german": "Wie lange leben Sie schon in dieser Gegend?",
+          "italian": "Da quanto tempo vivi in questa zona?",
+          "portuguese": "Há quanto tempo você mora nesta região?",
+          "esperanto": "Kiom longe vi loĝas en ĉi tiu regiono?"
+        },
+        {
+          "english": "Are you enjoying the conference so far?",
+          "russian": "Вам нравится конференция пока что?",
+          "spanish": "¿Estás disfrutando de la conferencia hasta ahora?",
+          "french": "Tu apprécies la conférence pour l'instant ?",
+          "german": "Gefällt Ihnen die Konferenz bisher?",
+          "italian": "Ti sta piacendo la conferenza finora?",
+          "portuguese": "Está gostando da conferência até agora?",
+          "esperanto": "Ĉu vi ĝuas la konferencon ĝis nun?"
+        },
+        {
+          "english": "What has been the highlight of your week?",
+          "russian": "Что стало главным событием вашей недели?",
+          "spanish": "¿Qué ha sido lo mejor de tu semana?",
+          "french": "Quel a été le moment fort de ta semaine ?",
+          "german": "Was war das Highlight deiner Woche?",
+          "italian": "Qual è stato il momento più bello della tua settimana?",
+          "portuguese": "Qual foi o ponto alto da sua semana?",
+          "esperanto": "Kio estis la kulmino de via semajno?"
+        },
+        {
+          "english": "I love your outfit, where did you get it?",
+          "russian": "Мне очень нравится твой наряд, где ты его взяла?",
+          "spanish": "Me encanta tu ropa, ¿dónde la conseguiste?",
+          "french": "J'adore ta tenue, où l'as-tu trouvée ?",
+          "german": "Ich liebe dein Outfit, wo hast du das her?",
+          "italian": "Adoro il tuo outfit, dove l'hai preso?",
+          "portuguese": "Adorei a sua roupa, onde você comprou?",
+          "esperanto": "Mi amas vian vestaĵon, kie vi akiris ĝin?"
+        },
+        {
+          "english": "Tell me more about that project you mentioned.",
+          "russian": "Расскажи мне поподробнее о проекте, о котором ты упомянул.",
+          "spanish": "Cuéntame más sobre ese proyecto que mencionaste.",
+          "french": "Dis-m'en plus sur ce projet dont tu as parlé.",
+          "german": "Erzähl mir mehr über das Projekt, das du erwähnt hast.",
+          "italian": "Raccontami di più su quel progetto che hai menzionato.",
+          "portuguese": "Conte-me mais sobre esse projeto que você mencionou.",
+          "esperanto": "Rakontu al mi pli pri tiu projekto, kiun vi menciis."
+        },
+        {
+          "english": "What inspired you to get into that field?",
+          "russian": "Что вдохновило вас пойти в эту сферу?",
+          "spanish": "¿Qué te inspiró a entrar en ese campo?",
+          "french": "Qu'est-ce qui t'a inspiré à te lancer dans ce domaine ?",
+          "german": "Was hat Sie dazu inspiriert, in diesen Bereich zu gehen?",
+          "italian": "Cosa ti ha ispirato a entrare in questo campo?",
+          "portuguese": "O que inspirou você a entrar nessa área?",
+          "esperanto": "Kio inspiri vin eniri tiun kampon?"
+        },
+        {
+          "english": "What's the biggest challenge you're facing right now?",
+          "russian": "С какой самой большой трудностью вы сталкиваетесь сейчас?",
+          "spanish": "¿Cuál es el mayor desafío al que te enfrentas ahora mismo?",
+          "french": "Quel est le plus grand défi auquel tu fais face en ce moment ?",
+          "german": "Was ist die größte Herausforderung, vor der Sie gerade stehen?",
+          "italian": "Qual è la sfida più grande che stai affrontando in questo momento?",
+          "portuguese": "Qual é o maior desafio que você está enfrentando no momento?",
+          "esperanto": "Kio estas la plej granda defio, kiun vi alfrontas nun?"
+        },
+        {
+          "english": "Where do you see your industry heading in the next few years?",
+          "russian": "Куда, по вашему мнению, будет двигаться ваша отрасль в ближайшие несколько лет?",
+          "spanish": "¿Hacia dónde crees que se dirige tu sector en los próximos años?",
+          "french": "Où vois-tu ton secteur évoluer dans les prochaines années ?",
+          "german": "Wohin entwickelt sich Ihre Branche Ihrer Meinung nach in den nächsten Jahren?",
+          "italian": "Dove vedi il tuo settore nei prossimi anni?",
+          "portuguese": "Para onde você acha que o seu setor está caminhando nos próximos anos?",
+          "esperanto": "Kien vi vidas vian industrion movi en la venontaj jaroj?"
+        },
+        {
+          "english": "If you could live anywhere in the world, where would it be?",
+          "russian": "Если бы вы могли жить где угодно в мире, где бы это было?",
+          "spanish": "Si pudieras vivir en cualquier parte del mundo, ¿dónde sería?",
+          "french": "Si tu pouvais vivre n'importe où dans le monde, ce serait où ?",
+          "german": "Wenn Sie überall auf der Welt leben könnten, wo wäre das?",
+          "italian": "Se potessi vivere ovunque nel mondo, dove sarebbe?",
+          "portuguese": "Se você pudesse morar em qualquer lugar do mundo, onde seria?",
+          "esperanto": "Se vi povus loĝi ie ajn en la mondo, kie ĝi estus?"
+        },
+        {
+          "english": "What is a book or movie that completely changed your perspective?",
+          "russian": "Какая книга или фильм полностью изменили ваше мировоззрение?",
+          "spanish": "¿Qué libro o película cambió por completo tu perspectiva?",
+          "french": "Quel livre ou quel film a complètement changé ta perspective ?",
+          "german": "Welches Buch oder welcher Film hat Ihre Sichtweise völlig verändert?",
+          "italian": "Qual è un libro o un film che ha cambiato completamente la tua prospettiva?",
+          "portuguese": "Qual livro ou filme mudou completamente a sua perspectiva?",
+          "esperanto": "Kiu libro aŭ filmo tute ŝanĝis vian perspektivon?"
+        },
+        {
+          "english": "What are you most passionate about these days?",
+          "russian": "Чем вы больше всего увлечены в последнее время?",
+          "spanish": "¿Qué es lo que más te apasiona en estos días?",
+          "french": "Qu'est-ce qui te passionne le plus ces temps-ci ?",
+          "german": "Wofür begeistern Sie sich dieser Tage am meisten?",
+          "italian": "Cosa ti appassiona di più in questo periodo?",
+          "portuguese": "O que mais te apaixona hoje em dia?",
+          "esperanto": "Kio plej pasias vin nun?"
+        },
+        {
+          "english": "How did you get started with that hobby?",
+          "russian": "Как вы начали заниматься этим хобби?",
+          "spanish": "¿Cómo empezaste con ese pasatiempo?",
+          "french": "Comment as-tu commencé ce passe-temps ?",
+          "german": "Wie bist du zu diesem Hobby gekommen?",
+          "italian": "Come hai iniziato con questo hobby?",
+          "portuguese": "Como você começou com esse hobby?",
+          "esperanto": "Kiel vi komencis kun tiu hobio?"
+        },
+        {
+          "english": "If you didn't have to work, how would you spend your time?",
+          "russian": "Если бы вам не нужно было работать, как бы вы проводили время?",
+          "spanish": "Si no tuvieras que trabajar, ¿cómo pasarías el tiempo?",
+          "french": "Si tu n'avais pas besoin de travailler, comment passerais-tu ton temps ?",
+          "german": "Wenn Sie nicht arbeiten müssten, wie würden Sie Ihre Zeit verbringen?",
+          "italian": "Se non dovessi lavorare, come passeresti il tempo?",
+          "portuguese": "Se você não precisasse trabalhar, como passaria o seu tempo?",
+          "esperanto": "Se vi ne devus labori, kiel vi pasigus vian tempon?"
+        },
+        {
+          "english": "What's a goal you're currently working toward?",
+          "russian": "Над какой целью вы сейчас работаете?",
+          "spanish": "¿En qué objetivo estás trabajando actualmente?",
+          "french": "Quel est l'objectif vers lequel tu tends en ce moment ?",
+          "german": "An welchem Ziel arbeiten Sie derzeit?",
+          "italian": "Qual è un obiettivo a cui stai lavorando attualmente?",
+          "portuguese": "Qual é o objetivo para o qual você está trabalhando atualmente?",
+          "esperanto": "Kio estas celo, al kiu vi nun laboras?"
+        },
+        {
+          "english": "How have you been keeping lately?",
+          "russian": "Как поживаешь в последнее время?",
+          "spanish": "¿Cómo te ha ido últimamente?",
+          "french": "Comment vas-tu ces derniers temps ?",
+          "german": "Wie ging es dir in letzter Zeit so?",
+          "italian": "Come stai in questo periodo?",
+          "portuguese": "Como você tem passado ultimamente?",
+          "esperanto": "Kiel vi fartas lastatempe?"
+        },
+        {
+          "english": "What's new in your world?",
+          "russian": "Что нового в твоем мире?",
+          "spanish": "¿Qué hay de nuevo en tu mundo?",
+          "french": "Quoi de neuf de ton côté ?",
+          "german": "Was gibt's Neues in deiner Welt?",
+          "italian": "Cosa c'è di nuovo nel tuo mondo?",
+          "portuguese": "Quais são as novidades no seu mundo?",
+          "esperanto": "Kio estas nova en via mondo?"
+        },
+        {
+          "english": "How did that presentation you were nervous about go?",
+          "russian": "Как прошла та презентация, из-за которой ты так волновался?",
+          "spanish": "¿Cómo te fue en esa presentación por la que estabas nervioso?",
+          "french": "Comment s'est passée cette présentation qui te stressait ?",
+          "german": "Wie lief die Präsentation, wegen der du so nervös warst?",
+          "italian": "Com'è andata quella presentazione per cui eri nervoso?",
+          "portuguese": "Como foi aquela apresentação com a qual você estava nervoso(a)?",
+          "esperanto": "Kiel iris tiu prezento, pri kiu vi estis nervoza?"
+        },
+        {
+          "english": "Are you still working on that home renovation?",
+          "russian": "Ты все еще делаешь ремонт в доме?",
+          "spanish": "¿Sigues trabajando en la renovación de tu casa?",
+          "french": "Tu travailles toujours sur la rénovation de ta maison ?",
+          "german": "Arbeitest du immer noch an der Hausrenovierung?",
+          "italian": "Stai ancora lavorando alla ristrutturazione della casa?",
+          "portuguese": "Você ainda está trabalhando na reforma da casa?",
+          "esperanto": "Ĉu vi ankoraŭ laboras pri tiu hejma renovigo?"
+        },
+        {
+          "english": "How is the family doing?",
+          "russian": "Как поживает семья?",
+          "spanish": "¿Cómo está la familia?",
+          "french": "Comment va la famille ?",
+          "german": "Wie geht es der Familie?",
+          "italian": "Come sta la famiglia?",
+          "portuguese": "Como está a família?",
+          "esperanto": "Kiel fartas la familio?"
+        },
+        {
+          "english": "Have you caught up on any good shows recently?",
+          "russian": "Посмотрел какие-нибудь хорошие сериалы недавно?",
+          "spanish": "¿Has visto alguna serie buena últimamente?",
+          "french": "As-tu regardé de bonnes séries récemment ?",
+          "german": "Hast du in letzter Zeit gute Serien gesehen?",
+          "italian": "Hai visto qualche bella serie tv di recente?",
+          "portuguese": "Você assistiu a alguma série boa recentemente?",
+          "esperanto": "Ĉu vi spektis bonajn seriojn lastatempe?"
+        },
+        {
+          "english": "Did you end up going on that trip last weekend?",
+          "russian": "Ты в итоге поехал в ту поездку на прошлых выходных?",
+          "spanish": "¿Al final fuiste a ese viaje el fin de semana pasado?",
+          "french": "Es-tu finalement parti en voyage le week-end dernier ?",
+          "german": "Bist du letztes Wochenende nun eigentlich verreist?",
+          "italian": "Alla fine ci sei andato in quel viaggio lo scorso fine settimana?",
+          "portuguese": "Você acabou indo viajar no último fim de semana?",
+          "esperanto": "Ĉu vi fine iris en tiun vojaĝon pasintsemajne?"
+        },
+        {
+          "english": "How are things shaping up for your new launch?",
+          "russian": "Как продвигаются дела с вашим новым запуском?",
+          "spanish": "¿Cómo van cobrando forma las cosas para tu nuevo lanzamiento?",
+          "french": "Comment se présentent les choses pour ton nouveau lancement ?",
+          "german": "Wie läuft es mit eurem neuen Launch?",
+          "italian": "Come si stanno mettendo le cose per il tuo nuovo lancio?",
+          "portuguese": "Como estão indo os preparativos para o seu novo lançamento?",
+          "esperanto": "Kiel aferoj formiĝas por via nova lanĉo?"
+        },
+        {
+          "english": "Is life treating you well these days?",
+          "russian": "Жизнь тебя радует в последнее время?",
+          "spanish": "¿Te trata bien la vida en estos días?",
+          "french": "La vie te sourit ces temps-ci ?",
+          "german": "Meint das Leben es gut mit dir zurzeit?",
+          "italian": "La vita ti sorride in questo periodo?",
+          "portuguese": "A vida está te tratando bem ultimamente?",
+          "esperanto": "Ĉu la vivo traktas vin bone nun?"
+        },
+        {
+          "english": "What's been keeping you busy lately?",
+          "russian": "Что отнимает у тебя больше всего времени в последнее время?",
+          "spanish": "¿Qué te ha mantenido ocupado últimamente?",
+          "french": "Qu'est-ce qui t'occupe tant ces derniers temps ?",
+          "german": "Was hat dich in letzter Zeit so auf Trab gehalten?",
+          "italian": "Cosa ti ha tenuto impegnato ultimamente?",
+          "portuguese": "O que tem te mantido ocupado(a) ultimamente?",
+          "esperanto": "Kio okupigis vin lastatempe?"
+        }
+      ]
+    }
+  ]
+}

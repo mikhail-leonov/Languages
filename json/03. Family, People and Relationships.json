@@ -1,0 +1,719 @@
+{
+  "categories": [
+    {
+      "name": "Family, People and Relationships",
+      "phrases": [
+        {
+          "english": "family",
+          "russian": "семья",
+          "spanish": "familia",
+          "french": "famille",
+          "german": "Familie",
+          "portuguese": "família",
+          "italian": "famiglia",
+          "esperanto": "familio"
+        },
+        {
+          "english": "mother",
+          "russian": "мать",
+          "spanish": "madre",
+          "french": "mère",
+          "german": "Mutter",
+          "portuguese": "mãe",
+          "italian": "madre",
+          "esperanto": "patrino"
+        },
+        {
+          "english": "father",
+          "russian": "отец",
+          "spanish": "padre",
+          "french": "père",
+          "german": "Vater",
+          "portuguese": "pai",
+          "italian": "padre",
+          "esperanto": "patro"
+        },
+        {
+          "english": "parents",
+          "russian": "родители",
+          "spanish": "padres",
+          "french": "parents",
+          "german": "Eltern",
+          "portuguese": "pais",
+          "italian": "genitori",
+          "esperanto": "gepatroj"
+        },
+        {
+          "english": "mum",
+          "russian": "мама",
+          "spanish": "mamá",
+          "french": "maman",
+          "german": "Mama",
+          "portuguese": "mamã",
+          "italian": "mamma",
+          "esperanto": "panjo"
+        },
+        {
+          "english": "dad",
+          "russian": "папа",
+          "spanish": "papá",
+          "french": "papa",
+          "german": "Papa",
+          "portuguese": "papá",
+          "italian": "papà",
+          "esperanto": "paĉjo"
+        },
+        {
+          "english": "son",
+          "russian": "сын",
+          "spanish": "hijo",
+          "french": "fils",
+          "german": "Sohn",
+          "portuguese": "filho",
+          "italian": "figlio",
+          "esperanto": "filo"
+        },
+        {
+          "english": "daughter",
+          "russian": "дочь",
+          "spanish": "hija",
+          "french": "fille",
+          "german": "Tochter",
+          "portuguese": "filha",
+          "italian": "figlia",
+          "esperanto": "filino"
+        },
+        {
+          "english": "child",
+          "russian": "ребёнок",
+          "spanish": "niño",
+          "french": "enfant",
+          "german": "Kind",
+          "portuguese": "criança",
+          "italian": "bambino",
+          "esperanto": "infano"
+        },
+        {
+          "english": "children",
+          "russian": "дети",
+          "spanish": "niños",
+          "french": "enfants",
+          "german": "Kinder",
+          "portuguese": "crianças",
+          "italian": "bambini",
+          "esperanto": "infanoj"
+        },
+        {
+          "english": "brother",
+          "russian": "брат",
+          "spanish": "hermano",
+          "french": "frère",
+          "german": "Bruder",
+          "portuguese": "irmão",
+          "italian": "fratello",
+          "esperanto": "frato"
+        },
+        {
+          "english": "sister",
+          "russian": "сестра",
+          "spanish": "hermana",
+          "french": "sœur",
+          "german": "Schwester",
+          "portuguese": "irmã",
+          "italian": "sorella",
+          "esperanto": "fratino"
+        },
+        {
+          "english": "siblings",
+          "russian": "братья и сёстры",
+          "spanish": "hermanos",
+          "french": "frères et sœurs",
+          "german": "Geschwister",
+          "portuguese": "irmãos",
+          "italian": "fratelli",
+          "esperanto": "gefratoj"
+        },
+        {
+          "english": "grandmother",
+          "russian": "бабушка",
+          "spanish": "abuela",
+          "french": "grand-mère",
+          "german": "Großmutter",
+          "portuguese": "avó",
+          "italian": "nonna",
+          "esperanto": "avino"
+        },
+        {
+          "english": "grandfather",
+          "russian": "дедушка",
+          "spanish": "abuelo",
+          "french": "grand-père",
+          "german": "Großvater",
+          "portuguese": "avô",
+          "italian": "nonno",
+          "esperanto": "avo"
+        },
+        {
+          "english": "grandparents",
+          "russian": "бабушка и дедушка",
+          "spanish": "abuelos",
+          "french": "grands-parents",
+          "german": "Großeltern",
+          "portuguese": "avós",
+          "italian": "nonni",
+          "esperanto": "geavoj"
+        },
+        {
+          "english": "grandson",
+          "russian": "внук",
+          "spanish": "nieto",
+          "french": "petit-fils",
+          "german": "Enkel",
+          "portuguese": "neto",
+          "italian": "nipote",
+          "esperanto": "nepo"
+        },
+        {
+          "english": "granddaughter",
+          "russian": "внучка",
+          "spanish": "nieta",
+          "french": "petite-fille",
+          "german": "Enkelin",
+          "portuguese": "neta",
+          "italian": "nipote",
+          "esperanto": "nepino"
+        },
+        {
+          "english": "grandchild",
+          "russian": "внук/внучка",
+          "spanish": "nieto",
+          "french": "petit-enfant",
+          "german": "Enkelkind",
+          "portuguese": "neto",
+          "italian": "nipote",
+          "esperanto": "nepo" 
+        },
+        {
+          "english": "uncle",
+          "russian": "дядя",
+          "spanish": "tío",
+          "french": "oncle",
+          "german": "Onkel",
+          "portuguese": "tio",
+          "italian": "zio",
+          "esperanto": "onklo"
+        },
+        {
+          "english": "aunt",
+          "russian": "тётя",
+          "spanish": "tía",
+          "french": "tante",
+          "german": "Tante",
+          "portuguese": "tia",
+          "italian": "zia",
+          "esperanto": "onklino"
+        },
+        {
+          "english": "nephew",
+          "russian": "племянник",
+          "spanish": "sobrino",
+          "french": "neveu",
+          "german": "Neffe",
+          "portuguese": "sobrinho",
+          "italian": "nipote",
+          "esperanto": "nevo"
+        },
+        {
+          "english": "niece",
+          "russian": "племянница",
+          "spanish": "sobrina",
+          "french": "nièce",
+          "german": "Nichte",
+          "portuguese": "sobrinha",
+          "italian": "nipote",
+          "esperanto": "nevino"
+        },
+        {
+          "english": "cousin (male)",
+          "russian": "двоюродный брат",
+          "spanish": "primo",
+          "french": "cousin",
+          "german": "Cousin",
+          "portuguese": "primo",
+          "italian": "cugino",
+          "esperanto": "kuzo"
+        },
+        {
+          "english": "cousin (female)",
+          "russian": "двоюродная сестра",
+          "spanish": "prima",
+          "french": "cousine",
+          "german": "Cousine",
+          "portuguese": "prima",
+          "italian": "cugina",
+          "esperanto": "kuzino"
+        },
+        {
+          "english": "husband",
+          "russian": "муж",
+          "spanish": "marido",
+          "french": "mari",
+          "german": "Ehemann",
+          "portuguese": "marido",
+          "italian": "marito",
+          "esperanto": "edzo"
+        },
+        {
+          "english": "wife",
+          "russian": "жена",
+          "spanish": "esposa",
+          "french": "femme",
+          "german": "Ehefrau",
+          "portuguese": "esposa",
+          "italian": "moglie",
+          "esperanto": "edzino"
+        },
+        {
+          "english": "spouse",
+          "russian": "супруг(а)",
+          "spanish": "cónyuge",
+          "french": "conjoint",
+          "german": "Ehepartner",
+          "portuguese": "cônjuge",
+          "italian": "coniuge",
+          "esperanto": "edz(in)o" 
+        },
+        {
+          "english": "partner",
+          "russian": "партнёр",
+          "spanish": "pareja",
+          "french": "partenaire",
+          "german": "Partner",
+          "portuguese": "parceiro",
+          "italian": "partner",
+          "esperanto": "partnero"
+        },
+        {
+          "english": "boyfriend",
+          "russian": "парень",
+          "spanish": "novio",
+          "french": "petit ami",
+          "german": "Freund",
+          "portuguese": "namorado",
+          "italian": "ragazzo",
+          "esperanto": "koramiko"
+        },
+        {
+          "english": "girlfriend",
+          "russian": "девушка",
+          "spanish": "novia",
+          "french": "petite amie",
+          "german": "Freundin",
+          "portuguese": "namorada",
+          "italian": "ragazza",
+          "esperanto": "koramikino"
+        },
+        {
+          "english": "fiancé",
+          "russian": "жених",
+          "spanish": "prometido",
+          "french": "fiancé",
+          "german": "Verlobter",
+          "portuguese": "noivo",
+          "italian": "fidanzato",
+          "esperanto": "fianĉo"
+        },
+        {
+          "english": "fiancée",
+          "russian": "невеста",
+          "spanish": "prometida",
+          "french": "fiancée",
+          "german": "Verlobte",
+          "portuguese": "noiva",
+          "italian": "fidanzata",
+          "esperanto": "fianĉino"
+        },
+        {
+          "english": "father-in-law",
+          "russian": "тесть / свёкор",
+          "spanish": "suegro",
+          "french": "beau-père",
+          "german": "Schwiegervater",
+          "portuguese": "sogro",
+          "italian": "suocero",
+          "esperanto": "bopatro"
+        },
+        {
+          "english": "mother-in-law",
+          "russian": "тёща / свекровь",
+          "spanish": "suegra",
+          "french": "belle-mère",
+          "german": "Schwiegermutter",
+          "portuguese": "sogra",
+          "italian": "suocera",
+          "esperanto": "bopatrino"
+        },
+        {
+          "english": "brother-in-law",
+          "russian": "шурин / деверь",
+          "spanish": "cuñado",
+          "french": "beau-frère",
+          "german": "Schwager",
+          "portuguese": "cunhado",
+          "italian": "cognato",
+          "esperanto": "bofrato"
+        },
+        {
+          "english": "sister-in-law",
+          "russian": "золовка / невестка",
+          "spanish": "cuñada",
+          "french": "belle-sœur",
+          "german": "Schwägerin",
+          "portuguese": "cunhada",
+          "italian": "cognata",
+          "esperanto": "bofratino"
+        },
+        {
+          "english": "son-in-law",
+          "russian": "зять",
+          "spanish": "yerno",
+          "french": "gendre",
+          "german": "Schwiegersohn",
+          "portuguese": "genro",
+          "italian": "genero",
+          "esperanto": "bofilo"
+        },
+        {
+          "english": "daughter-in-law",
+          "russian": "невестка",
+          "spanish": "nuera",
+          "french": "belle-fille",
+          "german": "Schwiegertochter",
+          "portuguese": "nora",
+          "italian": "nuora",
+          "esperanto": "bofilino"
+        },
+        {
+          "english": "stepmother",
+          "russian": "мачеха",
+          "spanish": "madrastra",
+          "french": "belle-mère",
+          "german": "Stiefmutter",
+          "portuguese": "madrasta",
+          "italian": "matrigna",
+          "esperanto": "duonpatrino"
+        },
+        {
+          "english": "stepfather",
+          "russian": "отчим",
+          "spanish": "padrastro",
+          "french": "beau-père",
+          "german": "Stiefvater",
+          "portuguese": "padrasto",
+          "italian": "patrigno",
+          "esperanto": "duonpatro"
+        },
+        {
+          "english": "stepson",
+          "russian": "пасынок",
+          "spanish": "hijastro",
+          "french": "beau-fils",
+          "german": "Stiefsohn",
+          "portuguese": "enteado",
+          "italian": "figliastro",
+          "esperanto": "duonfilo"
+        },
+        {
+          "english": "stepdaughter",
+          "russian": "падчерица",
+          "spanish": "hijastra",
+          "french": "belle-fille",
+          "german": "Stieftochter",
+          "portuguese": "enteada",
+          "italian": "figliastra",
+          "esperanto": "duonfilino"
+        },
+        {
+          "english": "baby",
+          "russian": "малыш",
+          "spanish": "bebé",
+          "french": "bébé",
+          "german": "Baby",
+          "portuguese": "bebé",
+          "italian": "neonato",
+          "esperanto": "bebo"
+        },
+        {
+          "english": "twins",
+          "russian": "близнецы",
+          "spanish": "gemelos",
+          "french": "jumeaux",
+          "german": "Zwillinge",
+          "portuguese": "gémeos",
+          "italian": "gemelli",
+          "esperanto": "ĝemeloj"
+        },
+        {
+          "english": "man",
+          "russian": "мужчина",
+          "spanish": "hombre",
+          "french": "homme",
+          "german": "Mann",
+          "portuguese": "homem",
+          "italian": "uomo",
+          "esperanto": "viro"
+        },
+        {
+          "english": "woman",
+          "russian": "женщина",
+          "spanish": "mujer",
+          "french": "femme",
+          "german": "Frau",
+          "portuguese": "mulher",
+          "italian": "donna",
+          "esperanto": "virino"
+        },
+        {
+          "english": "boy",
+          "russian": "мальчик",
+          "spanish": "chico",
+          "french": "garçon",
+          "german": "Junge",
+          "portuguese": "menino",
+          "italian": "ragazzo",
+          "esperanto": "knabo"
+        },
+        {
+          "english": "girl",
+          "russian": "девочка",
+          "spanish": "chica",
+          "french": "fille",
+          "german": "Mädchen",
+          "portuguese": "menina",
+          "italian": "ragazza",
+          "esperanto": "knabino"
+        },
+        {
+          "english": "person",
+          "russian": "человек",
+          "spanish": "persona",
+          "french": "personne",
+          "german": "Person",
+          "portuguese": "pessoa",
+          "italian": "persona",
+          "esperanto": "persono"
+        },
+        {
+          "english": "people",
+          "russian": "люди",
+          "spanish": "gente",
+          "french": "gens",
+          "german": "Leute",
+          "portuguese": "pessoas",
+          "italian": "gente",
+          "esperanto": "homoj" 
+        },
+        {
+          "english": "adult",
+          "russian": "взрослый",
+          "spanish": "adulto",
+          "french": "adulte",
+          "german": "Erwachsener",
+          "portuguese": "adulto",
+          "italian": "adulto",
+          "esperanto": "plenkreskulo"
+        },
+        {
+          "english": "teenager",
+          "russian": "подросток",
+          "spanish": "adolescente",
+          "french": "adolescent",
+          "german": "Teenager",
+          "portuguese": "adolescente",
+          "italian": "adolescente",
+          "esperanto": "adoleskanto" 
+        },
+        {
+          "english": "friend",
+          "russian": "друг",
+          "spanish": "amigo",
+          "french": "ami",
+          "german": "Freund",
+          "portuguese": "amigo",
+          "italian": "amico",
+          "esperanto": "amiko"
+        },
+        {
+          "english": "best friend",
+          "russian": "лучший друг",
+          "spanish": "mejor amigo",
+          "french": "meilleur ami",
+          "german": "bester Freund",
+          "portuguese": "melhor amigo",
+          "italian": "migliore amico",
+          "esperanto": "plej bona amiko"
+        },
+        {
+          "english": "neighbour",
+          "russian": "сосед",
+          "spanish": "vecino",
+          "french": "voisin",
+          "german": "Nachbar",
+          "portuguese": "vizinho",
+          "italian": "vicino",
+          "esperanto": "najbaro"
+        },
+        {
+          "english": "colleague",
+          "russian": "коллега",
+          "spanish": "colega",
+          "french": "collègue",
+          "german": "Kollege",
+          "portuguese": "colega",
+          "italian": "collega",
+          "esperanto": "kolego"
+        },
+        {
+          "english": "boss",
+          "russian": "начальник",
+          "spanish": "jefe",
+          "french": "patron",
+          "german": "Chef",
+          "portuguese": "chefe",
+          "italian": "capo",
+          "esperanto": "ĉefo"
+        },
+        {
+          "english": "stranger",
+          "russian": "незнакомец",
+          "spanish": "desconocido",
+          "french": "inconnu",
+          "german": "Fremder",
+          "portuguese": "desconhecido",
+          "italian": "sconosciuto",
+          "esperanto": "nekonato"
+        },
+        {
+          "english": "I'm married.",
+          "russian": "Я женат.",
+          "spanish": "Estoy casado.",
+          "french": "Je suis marié.",
+          "german": "Ich bin verheiratet.",
+          "portuguese": "Sou casado.",
+          "italian": "Sono sposato.",
+          "esperanto": "Mi estas edziĝinta."
+        },
+        {
+          "english": "I'm single.",
+          "russian": "Я холост.",
+          "spanish": "Estoy soltero.",
+          "french": "Je suis célibataire.",
+          "german": "Ich bin ledig.",
+          "portuguese": "Sou solteiro.",
+          "italian": "Sono single.",
+          "esperanto": "Mi estas fraŭlo." 
+        },
+        {
+          "english": "I'm divorced.",
+          "russian": "Я в разводе.",
+          "spanish": "Estoy divorciado.",
+          "french": "Je suis divorcé.",
+          "german": "Ich bin geschieden.",
+          "portuguese": "Sou divorciado.",
+          "italian": "Sono divorziato.",
+          "esperanto": "Mi estas eksedziĝinta." 
+        },
+        {
+          "english": "We're engaged.",
+          "russian": "Мы помолвлены.",
+          "spanish": "Estamos prometidos.",
+          "french": "Nous sommes fiancés.",
+          "german": "Wir sind verlobt.",
+          "portuguese": "Estamos noivos.",
+          "italian": "Siamo fidanzati.",
+          "esperanto": "Ni estas fianĉiĝintaj." 
+        },
+        {
+          "english": "Are you married?",
+          "russian": "Ты женат?",
+          "spanish": "¿Estás casado?",
+          "french": "Es-tu marié ?",
+          "german": "Bist du verheiratet?",
+          "portuguese": "És casado?",
+          "italian": "Sei sposato?",
+          "esperanto": "Ĉu vi estas edziĝinta?"
+        },
+        {
+          "english": "Do you have children?",
+          "russian": "У тебя есть дети?",
+          "spanish": "¿Tienes hijos?",
+          "french": "As-tu des enfants ?",
+          "german": "Hast du Kinder?",
+          "portuguese": "Tens filhos?",
+          "italian": "Hai figli?",
+          "esperanto": "Ĉu vi havas infanojn?"
+        },
+        {
+          "english": "I have two children.",
+          "russian": "У меня двое детей.",
+          "spanish": "Tengo dos hijos.",
+          "french": "J'ai deux enfants.",
+          "german": "Ich habe zwei Kinder.",
+          "portuguese": "Tenho dois filhos.",
+          "italian": "Ho due figli.",
+          "esperanto": "Mi havas du infanojn."
+        },
+        {
+          "english": "I have a brother and a sister.",
+          "russian": "У меня есть брат и сестра.",
+          "spanish": "Tengo un hermano y una hermana.",
+          "french": "J'ai un frère et une sœur.",
+          "german": "Ich habe einen Bruder und eine Schwester.",
+          "portuguese": "Tenho um irmão e uma irmã.",
+          "italian": "Ho un fratello e una sorella.",
+          "esperanto": "Mi havas fraton kaj fratinon."
+        },
+        {
+          "english": "This is my wife.",
+          "russian": "Это моя жена.",
+          "spanish": "Esta es mi esposa.",
+          "french": "Voici ma femme.",
+          "german": "Das ist meine Frau.",
+          "portuguese": "Esta é a minha esposa.",
+          "italian": "Questa è mia moglie.",
+          "esperanto": "Ĉi tio estas mia edzino."
+        },
+        {
+          "english": "This is my husband.",
+          "russian": "Это мой муж.",
+          "spanish": "Este es mi marido.",
+          "french": "Voici mon mari.",
+          "german": "Das ist mein Mann.",
+          "portuguese": "Este é o meu marido.",
+          "italian": "Questo è mio marito.",
+          "esperanto": "Ĉi tio estas mia edzo."
+        },
+        {
+          "english": "This is my friend.",
+          "russian": "Это мой друг.",
+          "spanish": "Este es mi amigo.",
+          "french": "Voici mon ami.",
+          "german": "Das ist mein Freund.",
+          "portuguese": "Este é o meu amigo.",
+          "italian": "Questo è il mio amico.",
+          "esperanto": "Ĉi tio estas mia amiko."
+        },
+        {
+          "english": "I live with my family.",
+          "russian": "Я живу с семьёй.",
+          "spanish": "Vivo con mi familia.",
+          "french": "Je vis avec ma famille.",
+          "german": "Ich lebe mit meiner Familie.",
+          "portuguese": "Vivo com a minha família.",
+          "italian": "Vivo con la mia famiglia.",
+          "esperanto": "Mi loĝas kun mia familio."
+        }
+      ]
+    }
+  ]
+}

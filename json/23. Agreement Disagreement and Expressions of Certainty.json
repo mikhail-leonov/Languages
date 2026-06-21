@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Agreement, Disagreement & Expressions of Certainty",
+      "phrases": [
+        {
+          "english": "Absolutely, I couldn't agree more!",
+          "russian": "Абсолютно, не могу не согласиться!",
+          "spanish": "¡Absolutamente, no podría estar más de acuerdo!",
+          "french": "Absolument, je ne pourrais pas être plus d'accord !",
+          "german": "Absolut, ich könnte nicht mehr zustimmen!",
+          "italian": "Assolutamente, non potrei essere più d'accordo!",
+          "portuguese": "Absolutamente, não poderia estar mais de acordo!",
+          "esperanto": "Absolute, mi plene konsentas!"
+        },
+        {
+          "english": "You took the words right out of my mouth.",
+          "russian": "Ты снял у меня это с языка.",
+          "spanish": "Me quitaste las palabras de la boca.",
+          "french": "Tu m'as enlevé les mots de la bouche.",
+          "german": "Du nimmst mir die Worte aus dem Mund.",
+          "italian": "Mi hai tolto le parole di bocca.",
+          "portuguese": "Você tirou as palavras da minha boca.",
+          "esperanto": "Vi elprenis la vortojn el mia buŝo."
+        },
+        {
+          "english": "That is spot on!",
+          "russian": "В самую точку!",
+          "spanish": "¡Eso es totalmente acertado!",
+          "french": "C'est tout à fait ça !",
+          "german": "Das ist vollkommen richtig!",
+          "italian": "Centrato in pieno!",
+          "portuguese": "Na mosca! / Exatamente isso!",
+          "esperanto": "Tio estas tute ĝusta!"
+        },
+        {
+          "english": "I am one hundred percent behind you on this.",
+          "russian": "Я на все сто процентов поддерживаю тебя в этом.",
+          "spanish": "Estoy cien por ciento contigo en esto.",
+          "french": "Je suis à cent pour cent derrière toi là-dessus.",
+          "german": "Ich stehe in dieser Sache zu einhundert Prozent hinter dir.",
+          "italian": "Sono al cento per cento con te su questo.",
+          "portuguese": "Estou cem por cento com você nisso.",
+          "esperanto": "Mi estas cent procentoj kun vi pri tio."
+        },
+        {
+          "english": "Exactly, my thoughts precisely!",
+          "russian": "Вот именно, точь-в-точь мои мысли!",
+          "spanish": "¡Exacto, exactamente mis pensamientos!",
+          "french": "Exactement, c'est tout à fait ma pensée !",
+          "german": "Exakt, genau meine Gedanken!",
+          "italian": "Esatto, i miei stessi pensieri!",
+          "portuguese": "Exatamente, meus pensamentos exatos!",
+          "esperanto": "Ĝuste, miaj pensoj precize!"
+        },
+        {
+          "english": "You hit the nail on the head.",
+          "russian": "Ты попал прямо в яблочко.",
+          "spanish": "Has dado en el clavo.",
+          "french": "Tu as frappé dans le mille.",
+          "german": "Du hast den Nagel auf den Kopf getroffen.",
+          "italian": "Hai colpito nel segno.",
+          "portuguese": "Você acertou em cheio.",
+          "esperanto": "Vi trafis la najlon sur la kapon."
+        },
+        {
+          "english": "Without a doubt, that is completely true.",
+          "russian": "Без сомнения, это чистая правда.",
+          "spanish": "Sin lugar a dudas, eso es completamente cierto.",
+          "french": "Sans aucun doute, c'est tout à fait vrai.",
+          "german": "Ohne Zweifel, das ist absolut wahr.",
+          "italian": "Senza dubbio, questo è completamente vero.",
+          "portuguese": "Sem dúvida, isso é totalmente verdade.",
+          "esperanto": "Sen dubo, tio estas tute vera."
+        },
+        {
+          "english": "I second that motion!",
+          "russian": "Я поддерживаю это предложение!",
+          "spanish": "¡Apoyo la moción!",
+          "french": "Je soutiens cette proposition !",
+          "german": "Ich schließe mich dem an!",
+          "italian": "Appoggio la mozione!",
+          "portuguese": "Apoiado! / Eu apoio a moção!",
+          "esperanto": "Mi subtenas tiun proponon!"
+        },
+        {
+          "english": "That makes perfect sense to me.",
+          "russian": "Это имеет для меня полный смысл.",
+          "spanish": "Eso tiene perfecto sentido para mí.",
+          "french": "Cela me paraît tout à fait logique.",
+          "german": "Das ergibt für mich absolut Sinn.",
+          "italian": "Questo ha perfettamente senso per me.",
+          "portuguese": "Isso faz todo o sentido para mim.",
+          "esperanto": "Tio havas perfektan sencon por mi."
+        },
+        {
+          "english": "Couldn't have said it better myself!",
+          "russian": "Лучше и сам бы не сказал!",
+          "spanish": "¡No lo hubiera podido decir mejor!",
+          "french": "Je n'aurais pas pu mieux dire !",
+          "german": "Das hätte ich selbst nicht besser sagen können!",
+          "italian": "Non avrei saputo dirlo meglio!",
+          "portuguese": "Não poderia ter dito melhor!",
+          "esperanto": "Mi mem ne povus diri pli bone!"
+        },
+        {
+          "english": "I am in complete agreement with your assessment.",
+          "russian": "Я полностью согласен с вашей оценкой.",
+          "spanish": "Estoy completamente de acuerdo con su evaluación.",
+          "french": "Je suis en total accord avec votre évaluation.",
+          "german": "Ich stimme Ihrer Einschätzung vollkommen zu.",
+          "italian": "Sono completamente d'accordo con la sua valutazione.",
+          "portuguese": "Estou em total acordo com a sua avaliação.",
+          "esperanto": "Mi estas plene en konsento kun via takso."
+        },
+        {
+          "english": "That is a very valid point.",
+          "russian": "Это очень весомый аргумент.",
+          "spanish": "Ese es un punto muy válido.",
+          "french": "C'est un point très pertinent.",
+          "german": "Das ist ein sehr valider Punkt.",
+          "italian": "Questo è un punto molto valido.",
+          "portuguese": "Esse é um ponto muito válido.",
+          "esperanto": "Tio estas tre valida punkto."
+        },
+        {
+          "english": "I share your perspective on this matter.",
+          "russian": "Я разделяю ваш взгляд на этот вопрос.",
+          "spanish": "Comparto su perspectiva sobre este asunto.",
+          "french": "Je partage votre point de vue sur cette question.",
+          "german": "Ich teile Ihre Sichtweise in dieser Angelegenheit.",
+          "italian": "Condivido la sua prospettiva su questa materia.",
+          "portuguese": "Compartilho da sua perspectiva sobre este assunto.",
+          "esperanto": "Mi dividas vian perspektivon pri ĉi tiu afero."
+        },
+        {
+          "english": "Your reasoning is entirely sound.",
+          "russian": "Ваши рассуждения совершенно здравые.",
+          "spanish": "Su razonamiento es completamente sólido.",
+          "french": "Votre raisonnement est tout à fait valable.",
+          "german": "Ihre Argumentation ist vollkommen schlüssig.",
+          "italian": "Il suo ragionamento è del tutto solido.",
+          "portuguese": "O seu raciocínio é totalmente sensato.",
+          "esperanto": "Via rezonado estas tute solida."
+        },
+        {
+          "english": "I concur with your conclusions.",
+          "russian": "Я согласен с вашими выводами.",
+          "spanish": "Coincido con sus conclusiones.",
+          "french": "Je partage vos conclusions.",
+          "german": "Ich stimme Ihren Schlussfolgerungen zu.",
+          "italian": "Concordo con le sue conclusioni.",
+          "portuguese": "Concordo com as suas conclusões.",
+          "esperanto": "Mi konsentas kun viaj konkludoj."
+        },
+        {
+          "english": "I believe we are entirely aligned on this.",
+          "russian": "Полагаю, мы здесь полностью единодушны.",
+          "spanish": "Creo que estamos completamente alineados en esto.",
+          "french": "Je pense que nous sommes entièrement sur la même longueur d'onde.",
+          "german": "Ich glaube, wir sind uns hierbei vollkommen einig.",
+          "italian": "Credo que siamo completamente allineati su questo.",
+          "portuguese": "Acredito que estamos totalmente alinhados nisso.",
+          "esperanto": "Mi kredas ke ni estas tute akordaj pri tio."
+        },
+        {
+          "english": "That seems to be the most logical outcome.",
+          "russian": "Это кажется наиболее логичным исходом.",
+          "spanish": "Ese parece ser el resultado más lógico.",
+          "french": "Cela semble être l'issue la plus logique.",
+          "german": "Das scheint das logischste Ergebnis zu sein.",
+          "italian": "Questo sembra essere il risultato più logico.",
+          "portuguese": "Esse parece ser o resultado mais lógico.",
+          "esperanto": "Tio ŝajnas esti la plej logika rezulto."
+        },
+        {
+          "english": "I am happy to assent to those terms.",
+          "russian": "Я рад дать согласие на эти условия.",
+          "spanish": "Me complace aceptar esos términos.",
+          "french": "Je suis heureux d'accepter ces conditions.",
+          "german": "Ich stimme diesen Bedingungen gerne zu.",
+          "italian": "Sono felice di acconsentire a questi termini.",
+          "portuguese": "Estou feliz em concordar com esses termos.",
+          "esperanto": "Mi ĝojas akcepti tiujn terminojn."
+        },
+        {
+          "english": "Your proposal has my full backing.",
+          "russian": "Ваше предложение имеет мою полную поддержку.",
+          "spanish": "Su propuesta cuenta con mi total respaldo.",
+          "french": "Votre proposition a tout mon soutien.",
+          "german": "Ihr Vorschlag hat meine volle Unterstützung.",
+          "italian": "La sua proposta ha il mio totale appoggio.",
+          "portuguese": "Sua proposta tem o meu total apoio.",
+          "esperanto": "Via propono havas mian plenan subtenon."
+        },
+        {
+          "english": "Indeed, that is precisely how I see it as well.",
+          "russian": "Действительно, именно так я это тоже вижу.",
+          "spanish": "De hecho, así es exactamente como lo veo yo también.",
+          "french": "En effet, c'est précisément ainsi que je le vois aussi.",
+          "german": "In der Tat, genau so sehe ich das auch.",
+          "italian": "In effetti, è proprio così che la vedo anch'io.",
+          "portuguese": "De fato, é exatamente assim que eu vejo também.",
+          "esperanto": "Efektive, tiel precize mi ankaŭ vidas ĝin."
+        },
+        {
+          "english": "I see where you're coming from, but I have a different view.",
+          "russian": "Я понимаю вашу логику, но у меня другой взгляд.",
+          "spanish": "Entiendo de dónde viene, pero tengo una visión diferente.",
+          "french": "Je vois ce que vous voulez dire, mais j'ai un avis différent.",
+          "german": "Ich verstehe Ihren Standpunkt, aber ich sehe das anders.",
+          "italian": "Capisco il suo punto di vista, ma ho un'opinione diversa.",
+          "portuguese": "Entendo o seu ponto de vista, mas tenho uma visão diferente.",
+          "esperanto": "Mi komprenas vian vidpunkton, sed mi havas alian opinion."
+        },
+        {
+          "english": "I beg to differ on this specific point.",
+          "russian": "Позволю себе не согласиться по этому конкретному пункту.",
+          "spanish": "Permítame discrepar en este punto específico.",
+          "french": "Je me permets de ne pas être d'accord sur ce point précis.",
+          "german": "In diesem spezifischen Punkt muss ich Ihnen widersprechen.",
+          "italian": "Mi permetto di dissentire su questo punto specifico.",
+          "portuguese": "Permito-me discordar neste ponto específico.",
+          "esperanto": "Mi permesas al mi malkonsenti pri ĉi tiu specifa punkto."
+        },
+        {
+          "english": "That is an interesting angle, but have we considered the alternative?",
+          "russian": "Это интересный ракурс, но рассматривали ли мы альтернативу?",
+          "spanish": "Es un ángulo interesante, ¿pero hemos considerado la alternativa?",
+          "french": "C'est un angle intéressant, mais a-t-on envisagé l'alternative ?",
+          "german": "Das ist ein interessanter Blickwinkel, aber haben wir die Alternative bedacht?",
+          "italian": "È un punto di vista interessante, ma abbiamo considerato l'alternativa?",
+          "portuguese": "Esse é um ângulo interessante, mas já consideramos a alternativa?",
+          "esperanto": "Tio estas interesa angulo, sed ĉu ni konsideris la alternativon?"
+        },
+        {
+          "english": "I'm afraid I can't quite agree with that logic.",
+          "russian": "Боюсь, я не совсем могу согласиться с этой логикой.",
+          "spanish": "Me temo que no puedo estar de acuerdo con esa lógica.",
+          "french": "Je crains de ne pas être tout à fait d'accord avec cette logique.",
+          "german": "Ich kann dieser Logik leider nicht ganz zustimmen.",
+          "italian": "Temo di non poter concordare con questa logica.",
+          "portuguese": "Receio não poder concordar totalmente com essa lógica.",
+          "esperanto": "Mi timas ke mi ne tute povas konsenti kun tiu logiko."
+        },
+        {
+          "english": "Respectfully, I am of a different opinion.",
+          "russian": "При всем уважении, я придерживаюсь другого мнения.",
+          "spanish": "Respetuosamente, soy de una opinión diferente.",
+          "french": "Respectueusement, je suis d'un avis différent.",
+          "german": "Respektvoll muss ich sagen, dass ich anderer Meinung bin.",
+          "italian": "Con tutto il rispetto, sono di un parere diverso.",
+          "portuguese": "Respeitosamente, sou de uma opinião diferente.",
+          "esperanto": "Kun respekto, mi havas alian opinion."
+        },
+        {
+          "english": "I understand your point, but I see it a bit differently.",
+          "russian": "Я понимаю вашу мысль, но вижу это немного иначе.",
+          "spanish": "Entiendo su punto, pero lo veo de manera un poco diferente.",
+          "french": "Je comprends votre point de vue, mais je vois les choses un peu différemment.",
+          "german": "Ich verstehe Ihren Punkt, aber ich sehe das etwas anders.",
+          "italian": "Capisco il suo punto, ma la vedo in modo leggermente diverso.",
+          "portuguese": "Entendo o seu ponto, mas vejo isso de forma um pouco diferente.",
+          "esperanto": "Mi komprenas vian punkton, sed mi vidas ĝin iom alie."
+        },
+        {
+          "english": "That might be true, however, there is another side to it.",
+          "russian": "Возможно это и так, однако есть и другая сторона.",
+          "spanish": "Eso podría ser cierto, sin embargo, hay otra cara de la moneda.",
+          "french": "Cela est peut-être vrai, cependant, il y a un autre côté à cela.",
+          "german": "Das mag wahr sein, aber es gibt noch eine andere Seite.",
+          "italian": "Questo potrebbe essere vero, tuttavia c'è un altro lato della medaglia.",
+          "portuguese": "Isso pode ser verdade, no entanto, há um outro lado.",
+          "esperanto": "Tio eble estas vera, tamen estas alia flanko."
+        },
+        {
+          "english": "I have a few reservations about that conclusion.",
+          "russian": "У меня есть некоторые сомнения насчет этого вывода.",
+          "spanish": "Tengo algunas reservas sobre esa conclusión.",
+          "french": "J'ai quelques réserves quant à cette conclusion.",
+          "german": "Ich habe einige Vorbehalte gegenüber dieser Schlussfolgerung.",
+          "italian": "Ho alcune riserve su questa conclusione.",
+          "portuguese": "Tenho algumas reservas sobre essa conclusão.",
+          "esperanto": "Mi havas kelkajn rezervojn pri tiu konkludo."
+        },
+        {
+          "english": "I'm not entirely convinced that is the best approach.",
+          "russian": "Я не совсем уверен, что это лучший подход.",
+          "spanish": "No estoy del todo convencido de que sea el mejor enfoque.",
+          "french": "Je ne suis pas entièrement convaincu que ce soit la meilleure approche.",
+          "german": "Ich bin nicht ganz überzeugt, dass dies der beste Ansatz ist.",
+          "italian": "Non sono del tutto convinto che questo sia l'approccio migliore.",
+          "portuguese": "Não estou totalmente convencido(a) de que essa seja a melhor abordagem.",
+          "esperanto": "Mi ne estas tute konvinkita ke tio estas la plej bona aliro."
+        },
+        {
+          "english": "Let's agree to disagree on this issue.",
+          "russian": "Давайте останемся каждый при своем мнении по этому вопросу.",
+          "spanish": "Aceptemos estar en desacuerdo sobre este tema.",
+          "french": "Restons-en là sur ce désaccord.",
+          "german": "Einigen wir uns darauf, uneins zu sein.",
+          "italian": "Accettiamo di non essere d'accordo su questo punto.",
+          "portuguese": "Vamos concordar em discordar sobre este assunto.",
+          "esperanto": "Ni konsentu malkonsenti pri ĉi tiu afero."
+        },
+        {
+          "english": "I am completely certain about this.",
+          "russian": "Я полностью в этом уверен.",
+          "spanish": "Estoy completamente seguro de esto.",
+          "french": "Je suis tout à fait sûr de cela.",
+          "german": "Ich bin mir dessen absolut sicher.",
+          "italian": "Sono completamente sicuro di questo.",
+          "portuguese": "Estou completamente seguro(a) disso.",
+          "esperanto": "Mi estas tute certa pri tio."
+        },
+        {
+          "english": "There is absolutely no doubt in my mind.",
+          "russian": "В моей голове нет абсолютно никаких сомнений.",
+          "spanish": "No tengo absolutamente ninguna duda.",
+          "french": "Il n'y a absolument aucun doute dans mon esprit.",
+          "german": "Es gibt absolut keinen Zweifel in meinem Kopf.",
+          "italian": "Non ho assolutamente alcun dubbio nella mia mente.",
+          "portuguese": "Não há absolutamente nenhuma dúvida na minha mente.",
+          "esperanto": "Estas absolute neniu dubo en mia menso."
+        },
+        {
+          "english": "It is a proven fact.",
+          "russian": "Это доказанный факт.",
+          "spanish": "Es un hecho comprobado.",
+          "french": "C'est un fait prouvé.",
+          "german": "Das ist eine bewiesene Tatsache.",
+          "italian": "È un fatto provato.",
+          "portuguese": "É um fato comprovado.",
+          "esperanto": "Ĝi estas pruvita fakto."
+        },
+        {
+          "english": "I can guarantee you that this is the case.",
+          "russian": "Я могу гарантировать вам, что дело обстоит именно так.",
+          "spanish": "Le puedo garantizar que este es el caso.",
+          "french": "Je peux vous garantir que c'est le cas.",
+          "german": "Ich kann Ihnen garantieren, dass dies der Fall ist.",
+          "italian": "Le posso garantire che le cose stanno così.",
+          "portuguese": "Posso garantir-lhe que este é o caso.",
+          "esperanto": "Mi povas garantii al vi ke tiel estas la kazo."
+        },
+        {
+          "english": "Beyond a shadow of a doubt, this will work.",
+          "russian": "Без тени сомнения, это сработает.",
+          "spanish": "Sin un ápice de duda, esto funcionará.",
+          "french": "Sans l'ombre d'un doute, cela fonctionnera.",
+          "german": "Ohne den Hauch eines Zweifels wird das funktionieren.",
+          "italian": "Oltre ogni ragionevole dubbio, questo funzionerà.",
+          "portuguese": "Sem sombra de dúvidas, isso vai funcionar.",
+          "esperanto": "Sen ombro de dubo, tio funkcios."
+        },
+        {
+          "english": "It goes without saying that this is true.",
+          "russian": "Само собой разумеется, что это правда.",
+          "spanish": "Ni qué decir tiene que esto es verdad.",
+          "french": "Il va sans dire que c'est vrai.",
+          "german": "Es versteht sich von selbst, dass das wahr ist.",
+          "italian": "Va da sé che questo è vero.",
+          "portuguese": "Não é preciso dizer que isso é verdade.",
+          "esperanto": "Memkompreneble tio estas vera."
+        },
+        {
+          "english": "That is an undeniable reality.",
+          "russian": "Это неоспоримая реальность.",
+          "spanish": "Esa es una realidad innegable.",
+          "french": "C'est une réalité indéniable.",
+          "german": "Das ist eine unbestreitbare Realität.",
+          "italian": "Questa è una realtà innegabile.",
+          "portuguese": "Essa é uma realidade inegável.",
+          "esperanto": "Tio estas neiniebla realaĵo."
+        },
+        {
+          "english": "I am absolutely positive.",
+          "russian": "Я абсолютно уверен.",
+          "spanish": "Estoy absolutamente seguro.",
+          "french": "J'en suis absolument certain.",
+          "german": "Ich bin mir absolut sicher.",
+          "italian": "Sono assolutamente sicuro.",
+          "portuguese": "Estou absolutamente certo(a).",
+          "esperanto": "Mi estas absolute certa."
+        },
+        {
+          "english": "Rest assured, everything is under control.",
+          "russian": "Будьте уверены, все под контролем.",
+          "spanish": "Descuide, todo está bajo control.",
+          "french": "Soyez tranquille, tout est sous contrôle.",
+          "german": "Seien Sie beruhigt, alles ist unter Kontrolle.",
+          "italian": "Stia tranquillo, è tutto sotto controllo.",
+          "portuguese": "Fique tranquilo(a), está tudo sob controle.",
+          "esperanto": "Estu trankvila, ĉio estas sub kontrolo."
+        },
+        {
+          "english": "It is crystal clear that this is correct.",
+          "russian": "Совершенно очевидно, что это правильно.",
+          "spanish": "Está cristalino que esto es correcto.",
+          "french": "Il est clair comme de l'eau de roche que c'est correct.",
+          "german": "Es ist glasklar, dass das korrekt ist.",
+          "italian": "È chiaro come il sole che questo sia corretto.",
+          "portuguese": "Está cristalino que isto está correto.",
+          "esperanto": "Estas klare kiel kristalo ke tio estas ĝusta."
+        },
+        {
+          "english": "As far as I know, that should be correct.",
+          "russian": "Насколько мне известно, это должно быть верно.",
+          "spanish": "Que yo sepa, eso debería ser correcto.",
+          "french": "Pour autant que je sache, cela devrait être correct.",
+          "german": "Soweit ich weiß, sollte das korrekt sein.",
+          "italian": "Per quanto ne so, dovrebbe essere corretto.",
+          "portuguese": "Até onde eu sei, isso deve estar correto.",
+          "esperanto": "Laŭ mia scio, tio devus esti ĝusta."
+        },
+        {
+          "english": "It is highly likely to happen.",
+          "russian": "Это весьма вероятно произойдет.",
+          "spanish": "Es muy probable que suceda.",
+          "french": "Il est très probable que cela se produise.",
+          "german": "Es ist sehr wahrscheinlich, dass das passiert.",
+          "italian": "È altamente probabile che accada.",
+          "portuguese": "É altamente provável que aconteça.",
+          "esperanto": "Estas tre verŝajne ke tio okazos."
+        },
+        {
+          "english": "I am fairly confident in this outcome.",
+          "russian": "Я вполне уверен в таком исходе.",
+          "spanish": "Estoy bastante confiado en este resultado.",
+          "french": "Je suis assez confiant quant à cette issue.",
+          "german": "Ich bin ziemlich zuversichtlich, was dieses Ergebnis angeht.",
+          "italian": "Sono abbastanza fiducioso in questo risultato.",
+          "portuguese": "Estou bastante confiante neste resultado.",
+          "esperanto": "Mi estas sufiĉe memfida pri ĉi tiu rezulto."
+        },
+        {
+          "english": "It seems highly probable under the circumstances.",
+          "russian": "В данных обстоятельствах это кажется весьма вероятным.",
+          "spanish": "Parece muy probable dadas las circunstancias.",
+          "french": "Cela semble hautement probable dans les circonstances actuelles.",
+          "german": "Unter den gegebenen Umständen erscheint es sehr wahrscheinlich.",
+          "italian": "Sembra altamente probabile date le circostanze.",
+          "portuguese": "Parece altamente provável dadas as circunstâncias.",
+          "esperanto": "Ŝajnas tre verŝajne sub la cirkonstancoj."
+        },
+        {
+          "english": "To the best of my knowledge, yes.",
+          "russian": "Насколько мне известно, да.",
+          "spanish": "A mi leal saber y entender, sí.",
+          "french": "À ma connaissance, oui.",
+          "german": "Nach bestem Wissen und Gewissen, ja.",
+          "italian": "Per quanto ne sappia, sì.",
+          "portuguese": "Tanto quanto sei, sim.",
+          "esperanto": "Laŭ mia scio, jes."
+        },
+        {
+          "english": "I strongly suspect that is the reason.",
+          "russian": "Я сильно подозреваю, что причина именно в этом.",
+          "spanish": "Sospecho fuertemente que esa es la razón.",
+          "french": "Je soupçonne fortement que c'est la raison.",
+          "german": "Ich vermute stark, dass das der Grund ist.",
+          "italian": "Sospetto fortemente che questo sia il motivo.",
+          "portuguese": "Suspeito fortemente que essa seja a razão.",
+          "esperanto": "Mi forte suspektas ke tio estas la kialo."
+        },
+        {
+          "english": "All signs point to a positive result.",
+          "russian": "Все признаки указывают на положительный результат.",
+          "spanish": "Todos los indicios apuntan a un resultado positivo.",
+          "french": "Tous les signes indiquent un résultat positif.",
+          "german": "Alle Anzeichen deuten auf ein positives Ergebnis hin.",
+          "italian": "Tutti i segnali indicano un risultato positivo.",
+          "portuguese": "Todos os sinais apontam para um resultado positivo.",
+          "esperanto": "Ĉiuj signoj montras al pozitiva rezulto."
+        },
+        {
+          "english": "There is a very strong chance of success.",
+          "russian": "Шансы на успех очень велики.",
+          "spanish": "Hay una probabilidad muy alta de éxito.",
+          "french": "Il y a de très fortes chances de réussite.",
+          "german": "Es besteht eine sehr große Chance auf Erfolg.",
+          "italian": "C'è un'ottima probabilità di successo.",
+          "portuguese": "Há uma chance muito forte de sucesso.",
+          "esperanto": "Estas tre forta ŝanco de sukceso."
+        },
+        {
+          "english": "I would venture to say that is accurate.",
+          "russian": "Я бы осмелился сказать, что это точно.",
+          "spanish": "Me atrevería a decir que eso es exacto.",
+          "french": "Je me risquerais à dire que c'est exact.",
+          "german": "Ich würde behaupten, dass das zutrifft.",
+          "italian": "Mi azzarderei a dire che è esatto.",
+          "portuguese": "Eu arriscaria dizer que isso é correto.",
+          "esperanto": "Mi riskus diri ke tio estas ĝusta."
+        },
+        {
+          "english": "It appears to be the most plausible explanation.",
+          "russian": "Это кажется наиболее правдоподобным объяснением.",
+          "spanish": "Parece ser la explicación más plausible.",
+          "french": "Cela semble être l'explication la plus plausible.",
+          "german": "Dies scheint die plausibelste Erklärung zu sein.",
+          "italian": "Sembra essere la spiegazione più plausibile.",
+          "portuguese": "Parece ser a explicação mais plausível.",
+          "esperanto": "Ŝajnas esti la plej kredinda klarigo."
+        }
+      ]
+    }
+  ]
+}

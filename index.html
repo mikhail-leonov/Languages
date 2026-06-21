@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Languages</title>
+  <link rel="stylesheet" href="public/css/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="public/fonts/common/fraunces.css">
+  <link rel="stylesheet" href="public/css/app.css">
+</head>
+<body>
+
+  <!-- ===================== masthead ===================== -->
+  <header class="masthead">
+    <div class="container-fluid px-4 py-3 d-flex align-items-center justify-content-between gap-3 flex-wrap">
+      <div class="wm">Languages v1.0.0
+        <small data-i18n="app_sub">Phrases trials</small>
+      </div>
+
+      <div class="d-flex align-items-center gap-2 flex-wrap">
+        <span class="dbpill empty" id="dbPill" data-i18n="pill_empty">No phrasebook loaded</span>
+
+        <!-- interface-language switcher -->
+        <div class="dropdown">
+          <button class="btn btn-parch dropdown-toggle" id="uiLangBtn" type="button"
+                  data-bs-toggle="dropdown" aria-expanded="false">
+            <span id="uiLangLabel">English</span>
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" id="uiLangMenu"></ul>
+        </div>
+
+        <button class="btn btn-ink" id="dataBtn" data-i18n="nav_database">Database</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================== main stage ===================== -->
+  <main class="container-fluid px-4 py-4" id="main"></main>
+
+  <!-- hidden file input used by Import -->
+  <input type="file" id="fileInput" accept="application/json,.json" class="file-hidden">
+
+  <!-- ===================== database offcanvas ===================== -->
+  <div class="offcanvas offcanvas-end" tabindex="-1" id="dbCanvas" aria-labelledby="dbCanvasLabel" style="width:min(460px,92vw);">
+    <div class="offcanvas-header border-bottom">
+      <h5 class="offcanvas-title serif" id="dbCanvasLabel" data-i18n="oc_title">Database</h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <p class="hintline" data-i18n="oc_intro">Phrasebooks live in an in-browser database (IndexedDB). Nothing leaves your device, and your library is here when you return.</p>
+
+      <div class="leaf mb-3">
+        <div class="leaf-head"><span class="eyebrow" data-i18n="oc_status">Status</span></div>
+        <div class="leaf-body">
+          <div id="dbStatus"></div>
+        </div>
+      </div>
+
+      <div class="d-grid gap-2">
+        <button class="btn btn-ink" id="importBtn" data-i18n="oc_import">Import JSON into database</button>
+        <button class="btn btn-parch" id="exampleBtn" data-i18n="oc_example">Load the example phrasebook</button>
+        <button class="btn btn-parch" id="exportBtn" data-i18n="oc_export">Export database to JSON</button>
+        <button class="btn btn-parch" id="clearBtn" data-i18n="oc_empty_db">Empty the database</button>
+      </div>
+
+      <div class="small mt-3" id="dbMsg" aria-live="polite"></div>
+
+      <div class="mt-4">
+        <div class="eyebrow mb-2" data-i18n="oc_shape">Expected JSON shape</div>
+        <pre class="leaf p-3 mb-0" style="font-size:12px;overflow:auto;"><code>{
+  "categories": [
+    {
+      "name": "Greetings",
+      "phrases": [
+        { "english": "Hello", "french": "Bonjour", "german": "Hallo" }
+      ]
+    }
+  ]
+}</code></pre>
+      </div>
+    </div>
+  </div>
+
+
+
+  <script src="public/js/bootstrap/bootstrap.min.js"></script>
+  <script src="public/js/lng/en.js"></script>
+  <script src="public/js/lng/ru.js"></script>
+  <script src="public/js/lng/es.js"></script>
+  <script src="public/js/lng/fr.js"></script>
+  <script src="public/js/lng/de.js"></script>
+  <script src="public/js/lng/it.js"></script>
+  <script src="public/js/lng/pt.js"></script>
+  <script src="public/js/lng/sp.js"></script>
+  <script src="public/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Phones, Wi-Fi & Technology",
+      "phrases": [
+        {
+          "english": "Excuse me, what is the current Wi-Fi password for this venue?",
+          "russian": "Извините, какой сейчас пароль от Wi-Fi в этом заведении?",
+          "spanish": "Disculpe, ¿cuál es la contraseña de Wi-Fi actual de este establecimiento?",
+          "french": "Excusez-moi, quel est le mot de passe Wi-Fi actuel de cet établissement ?",
+          "german": "Entschuldigung, wie lautet das aktuelle WLAN-Passwort für diesen Ort?",
+          "italian": "Scusi, qual è la password del Wi-Fi attuale per questo locale?",
+          "portuguese": "Com licença, qual é a senha do Wi-Fi atual deste local?",
+          "esperanto": "Pardonu, kio estas la nuna Wi-Fi pasvorto por ĉi tiu ejo?"
+        },
+        {
+          "english": "I am having trouble connecting to the local wireless network.",
+          "russian": "У меня возникли проблемы с подключением к местной беспроводной сети.",
+          "spanish": "Tengo problemas para conectarme a la red inalámbrica local.",
+          "french": "J'ai du mal à me connecter au réseau sans fil local.",
+          "german": "Ich habe Probleme, mich mit dem lokalen WLAN-Netzwerk zu verbinden.",
+          "italian": "Ho problemi a connettermi alla rete wireless locale.",
+          "portuguese": "Estou com problemas para me conectar à rede sem fio local.",
+          "esperanto": "Mi havas problemojn konektiĝi al la loka sendrata reto."
+        },
+        {
+          "english": "Is there a specific login page that needs to pop up first?",
+          "russian": "Должна ли сначала появиться определенная страница авторизации?",
+          "spanish": "¿Hay alguna página de inicio de sesión específica que deba aparecer primero?",
+          "french": "Y a-t-il une page de connexion spécifique qui doit s'afficher d'abord ?",
+          "german": "Gibt es eine bestimmte Anmeldeseite, die zuerst geladen werden muss?",
+          "italian": "C'è una pagina di accesso specifica che dovrebbe apparire per prima?",
+          "portuguese": "Tem alguma página de login específica que precisa aparecer primeiro?",
+          "esperanto": "Ĉu estas specifa ensalutpaĝo, kiu devas aperi unue?"
+        },
+        {
+          "english": "The internet connection here is incredibly slow and unstable.",
+          "russian": "Интернет-соединение здесь невероятно медленное и нестабильное.",
+          "spanish": "La conexión a internet aquí es increíblemente lenta e inestable.",
+          "french": "La connexion internet ici est incroyablement lente et instable.",
+          "german": "Die Internetverbindung hier ist unglaublich langsam und instabil.",
+          "italian": "La connessione internet qui è incredibilmente lenta e instabile.",
+          "portuguese": "A conexão de internet aqui está incrivelmente lenta e instável.",
+          "esperanto": "La interreta konekto ĉi tie estas nekredeble malrapida kaj malstabila."
+        },
+        {
+          "english": "Does this establishment offer a free public Wi-Fi hotspot?",
+          "russian": "Предлагает ли это заведение бесплатную общественную точку доступа Wi-Fi?",
+          "spanish": "¿Este establecimiento ofrece un punto de acceso Wi-Fi público gratuito?",
+          "french": "Cet établissement propose-t-il un point d'accès Wi-Fi public gratuit ?",
+          "german": "Bietet dieses Geschäft einen kostenlosen öffentlichen WLAN-Hotspot an?",
+          "italian": "Questo locale offre un hotspot Wi-Fi pubblico gratuito?",
+          "portuguese": "Este estabelecimento oferece ponto de acesso Wi-Fi público gratuito?",
+          "esperanto": "Ĉu ĉi tiu establo ofertas senpagan publikan Wi-Fi-ripon?"
+        },
+        {
+          "english": "I keep getting disconnected from the network every few minutes.",
+          "russian": "Меня постоянно отключает от сети каждые несколько минут.",
+          "spanish": "Me desconecto de la red a cada rato, cada pocos minutos.",
+          "french": "Je me fais déconnecter du réseau toutes les quelques minutes.",
+          "german": "Ich werde alle paar Minuten automatisch vom Netzwerk getrennt.",
+          "italian": "Continuo a disconnettermi dalla rete ogni pochi minuti.",
+          "portuguese": "Fico caindo da rede a cada poucos minutos.",
+          "esperanto": "Mi daŭre malkonektiĝas de la reto ĉiujn kelkajn minutojn."
+        },
+        {
+          "english": "Is the Wi-Fi router currently working, or is it down?",
+          "russian": "Wi-Fi роутер сейчас работает или он отключен?",
+          "spanish": "¿El router de Wi-Fi está funcionando actualmente o está caído?",
+          "french": "Le routeur Wi-Fi fonctionne-t-il actuellement ou est-il en panne ?",
+          "german": "Funktioniert der WLAN-Router momentan oder ist er ausgefallen?",
+          "italian": "Il router Wi-Fi funziona al momento o è fuori servizio?",
+          "portuguese": "O roteador do Wi-Fi está funcionando agora ou caiu?",
+          "esperanto": "Ĉu la Wi-Fi-ruzilo funkcias nuntempe aŭ ĉu ĝi estas rompita?"
+        },
+        {
+          "english": "Could you please restart the modem to fix the connection?",
+          "russian": "Не могли бы вы перезагрузить модем, чтобы исправить подключение?",
+          "spanish": "¿Podría reiniciar el módem para solucionar la conexión, por favor?",
+          "french": "Pourriez-vous redémarrer le modem pour rétablir la connexion, s'il vous plaît ?",
+          "german": "Könnten Sie bitte den Modem neu starten, um die Verbindung zu reparieren?",
+          "italian": "Potrebbe riavviare il modem per sistemare la connessione, per favore?",
+          "portuguese": "Você poderia reiniciar o modem para consertar a conexão, por favor?",
+          "esperanto": "Ĉu vi bonvolus restartigi la modem-on por ripari la konekton?"
+        },
+        {
+          "english": "My phone shows full signal bars, but nothing is loading.",
+          "russian": "На моем телефоне отображаются все палочки сети, но ничего не загружается.",
+          "spanish": "Mi teléfono muestra todas las barras de señal, pero no carga nada.",
+          "french": "Mon téléphone affiche toutes les barres de réseau, mais rien ne se charge.",
+          "german": "Mein Handy zeigt vollen Empfang an, aber es lädt nichts.",
+          "italian": "Il mio telefono mostra il segnale al massimo, ma non carica nulla.",
+          "portuguese": "Meu celular mostra sinal cheio, mas não carrega nada.",
+          "esperanto": "Mia telefono montras plenan signalforton, sed nenio ŝarĝiĝas."
+        },
+        {
+          "english": "Is there a wired ethernet connection available that I can use?",
+          "russian": "Есть ли возможность использовать проводное подключение Ethernet?",
+          "spanish": "¿Hay alguna conexión ethernet por cable disponible que pueda usar?",
+          "french": "Y a-t-il une connexion ethernet filaire disponible que je puisse utiliser ?",
+          "german": "Gibt es eine kabelgebundene Ethernet-Verbindung, die ich nutzen kann?",
+          "italian": "C'è una connessione ethernet via cavo disponibile che posso usare?",
+          "portuguese": "Tem alguma conexão de rede via cabo ethernet disponível que eu possa usar?",
+          "esperanto": "Ĉu estas kabla Ethernet-konekto disponebla, kiun mi povas uzi?"
+        },
+        {
+          "english": "My phone battery is completely dead; do you have a spare charger?",
+          "russian": "Батарея моего телефона полностью разряжена; у вас есть запасное зарядное устройство?",
+          "spanish": "La batería de mi teléfono está completamente agotada; ¿tiene un cargador de repuesto?",
+          "french": "La batterie de mon téléphone est complètement déchargée ; avez-vous un chargeur de secours ?",
+          "german": "Mein Handy-Akku ist komplett leer. Haben Sie ein Ersatzladegerät da?",
+          "italian": "La batteria del mio telefono è completamente scarica; ha un caricabatterie in più?",
+          "portuguese": "A bateria do meu celular acabou totalmente; você tem um carregador sobrando?",
+          "esperanto": "La baterio de mia telefono estas tute malplena; ĉu vi havas rezervan ŝargilon?"
+        },
+        {
+          "english": "Is there an available wall outlet where I can plug in my device?",
+          "russian": "Есть ли свободная розетка, куда я могу подключить свое устройство?",
+          "spanish": "¿Hay algún enchufe de pared disponible donde pueda conectar mi dispositivo?",
+          "french": "Y a-t-il une prise murale disponible où je peux brancher mon appareil ?",
+          "german": "Gibt es hier eine freie Steckdose, an der ich mein Gerät anschließen kann?",
+          "italian": "C'è una presa a muro disponibile dove posso collegare il mio dispositivo?",
+          "portuguese": "Tem alguma tomada livre onde eu possa ligar o meu aparelho?",
+          "esperanto": "Ĉu estas havebla mura elektreto, kie mi povas konekti mian aparaton?"
+        },
+        {
+          "english": "Could I borrow your portable power bank for just a few minutes?",
+          "russian": "Могу ли я одолжить ваш портативный аккумулятор (пауэрбанк) всего на пару минут?",
+          "spanish": "¿Podría prestarme su batería portátil solo por unos minutos?",
+          "french": "Pourrais-je vous emprunter votre batterie externe juste pour quelques minutes ?",
+          "german": "Könnte ich mir Ihre Powerbank für ein paar Minuten ausleihen?",
+          "italian": "Potrei prendere in prestito il suo power bank portatile solo per pochi minuti?",
+          "portuguese": "Poderia me emprestar o seu carregador portátil por apenas alguns minutos?",
+          "esperanto": "Ĉu mi povus prunti vian porteblan powerbank nur por kelkaj minutoj?"
+        },
+        {
+          "english": "I am expecting an urgent phone call in about ten minutes.",
+          "russian": "Я ожидаю срочный телефонный звонок примерно через десять минут.",
+          "spanish": "Estoy esperando una llamada telefónica urgente en unos diez minutos.",
+          "french": "J'attends un appel téléphonique urgent d'ici une dizaine de minutes.",
+          "german": "Ich erwarte in etwa zehn Minuten einen dringenden Telefonanruf.",
+          "italian": "Aspetto una telefonata urgente tra circa dieci minuti.",
+          "portuguese": "Estou esperando uma ligação urgente daqui a uns dez minutos.",
+          "esperanto": "Mi atendas urĝan telefonvokon post ĉirkaŭ dek minutoj."
+        },
+        {
+          "english": "I'm sorry, you are breaking up completely; I can't hear you.",
+          "russian": "Извини, ты полностью пропадаешь, я тебя вообще не слышу.",
+          "spanish": "Lo siento, te estás cortando por completo; no te oigo.",
+          "french": "Désolé, ça coupe complètement ; je ne t'entends pas.",
+          "german": "Tut mir leid, du hast totale Aussetzer. Ich kann dich überhaupt nicht hören.",
+          "italian": "Scusa, la linea va continuamente a scatti; non ti sento per niente.",
+          "portuguese": "Desculpe, sua voz está cortando toda; não consigo te ouvir.",
+          "esperanto": "Mi bedaŭras, vi tute falas; mi ne povas aŭdi vin."
+        },
+        {
+          "english": "Let me step outside real quick to get better cell reception.",
+          "russian": "Дай мне быстро выйти на улицу, чтобы поймать лучшую связь.",
+          "spanish": "Déjame salir afuera un momento para tener mejor cobertura móvil.",
+          "french": "Laisse-moi sortir un instant pour avoir une meilleure réception.",
+          "german": "Ich gehe kurz vor die Tür, um besseren Handyempfang zu haben.",
+          "italian": "Esco un attimo fuori per avere una ricezione migliore.",
+          "portuguese": "Deixa eu dar uma saidinha rapidinho para pegar um sinal melhor de celular.",
+          "esperanto": "Lasu min rapideliri por havi pli bonan poŝtelefonan ricevon."
+        },
+        {
+          "english": "My phone is charging incredibly slow on this specific cable.",
+          "russian": "Мой телефон заряжается невероятно медленно с этим кабелем.",
+          "spanish": "Mi teléfono se está cargando increíblemente lento con este cable específico.",
+          "french": "Mon téléphone charge incroyablement lentement avec ce câble particulier.",
+          "german": "Mein Handy lädt mit diesem speziellen Kabel unglaublich langsam.",
+          "italian": "Il mio telefono si carica incredibilmente piano con questo cavo specifico.",
+          "portuguese": "Meu celular está carregando incrivelmente devagar com este cabo específico.",
+          "esperanto": "Mia telefono ŝarĝiĝas nekredeble malrapide per ĉi tiu specifa kablo."
+        },
+        {
+          "english": "I accidentally dialed the wrong number; I apologize for that.",
+          "russian": "Я случайно набрал не тот номер, прошу прощения за это.",
+          "spanish": "Marqué el número equivocado por error; le pido disculpas.",
+          "french": "J'ai composé le mauvais numéro par erreur ; je m'en excuse.",
+          "german": "Ich habe mich versehentlich ungewählt; entschuldigen Sie bitte.",
+          "italian": "Ho sbagliato numero per errore; mi scuso per l'inconveniente.",
+          "portuguese": "Disquei o número errado sem querer; peço desculpas por isso.",
+          "esperanto": "Mi hazarde markis la malĝustan numeron; mi pardonpetas pro tio."
+        },
+        {
+          "english": "Could you please send me that address via a text message?",
+          "russian": "Не могли бы вы прислать мне этот адрес в смс-сообщении?",
+          "spanish": "¿Podría enviarme esa dirección por mensaje de texto, por favor?",
+          "french": "Pourriez-vous m'envoyer cette adresse par SMS, s'il vous plaît ?",
+          "german": "Könnten Sie mir diese Adresse bitte per SMS schicken?",
+          "italian": "Potrebbe inviarmi quell'indirizzo tramite un messaggio di testo, per favore?",
+          "portuguese": "Você poderia me mandar aquele endereço por mensagem de texto, por favor?",
+          "esperanto": "Ĉu vi bonvolus sendi al mi tiun adreson per teksta mesaĝo?"
+        },
+        {
+          "english": "I need to put my phone on silent mode during the presentation.",
+          "russian": "Мне нужно поставить телефон на беззвучный режим во время презентации.",
+          "spanish": "Necesito poner mi teléfono en modo silencio durante la presentación.",
+          "french": "Je dois mettre mon téléphone en mode silencieux pendant la présentation.",
+          "german": "Ich muss mein Handy während des Vortrags auf lautlos stellen.",
+          "italian": "Devo mettere il telefono in modalità silenziosa durante la presentazione.",
+          "portuguese": "Preciso colocar meu celular no modo silencioso durante a apresentação.",
+          "esperanto": "Mi bezonas meti mian telefonon en silentan reĝimon dum la prezentado."
+        },
+        {
+          "english": "I need to download the official application from the app store.",
+          "russian": "Мне нужно скачать официальное приложение из магазина приложений.",
+          "spanish": "Necesito descargar la aplicación oficial de la tienda de aplicaciones.",
+          "french": "Je dois télécharger l'application officielle depuis la boutique d'applications.",
+          "german": "Ich muss die offizielle App aus dem App Store herunterladen.",
+          "italian": "Devo scaricare l'applicazione ufficiale dall'app store.",
+          "portuguese": "Preciso baixar o aplicativo oficial na loja de aplicativos.",
+          "esperanto": "Mi bezonas elŝuti la oficialan aplikaĵon el la app-vendejo."
+        },
+        {
+          "english": "This app keeps crashing every single time I try to open it.",
+          "russian": "Это приложение постоянно вылетает каждый раз, когда я пытаюсь его открыть.",
+          "spanish": "Esta aplicación se cierra sola cada vez que intento abrirla.",
+          "french": "Cette application plante systématiquement à chaque fois que j'essaie de l'ouvrir.",
+          "german": "Diese App stürzt jedes Mal ab, wenn ich versuche, sie zu öffnen.",
+          "italian": "Questa applicazione continua a bloccarsi ogni volta che provo ad aprirla.",
+          "portuguese": "Este aplicativo fica fechando sozinho toda vez que tento abrir.",
+          "esperanto": "Ĉi tiu apo kraŝas ĉiufoje kiam mi provas malfermi ĝin."
+        },
+        {
+          "english": "I completely forgot my password and need to reset it.",
+          "russian": "Я совсем забыл свой пароль, и мне нужно его сбросить.",
+          "spanish": "Olvidé por completo mi contraseña y necesito restablecerla.",
+          "french": "J'ai complètement oublié mon mot de passe et je dois le réinitialiser.",
+          "german": "Ich habe mein Passwort komplett vergessen und muss es zurücksetzen.",
+          "italian": "Ho dimenticato completamente la mia password e devo reimpostarla.",
+          "portuguese": "Esqueci totalmente a minha senha e preciso redefinir.",
+          "esperanto": "Mi tute forgesis mian pasvorton kaj bezonas restarigi ĝin."
+        },
+        {
+          "english": "Do I need to update my operating system to run this feature?",
+          "russian": "Нужно ли мне обновлять операционную систему, чтобы запустить эту функцию?",
+          "spanish": "¿Necesito actualizar mi sistema operativo para usar esta función?",
+          "french": "Dois-je mettre à jour mon système d'exploitation pour utiliser cette fonctionnalité ?",
+          "german": "Muss ich mein Betriebssystem aktualisieren, um diese Funktion nutzen zu können?",
+          "italian": "Devo aggiornare il mio sistema operativo per usare questa funzione?",
+          "portuguese": "Preciso atualizar meu sistema operacional para rodar esse recurso?",
+          "esperanto": "Ĉu mi bezonas ĝisdatigi mian operaciumon por uzi ĉi tiun funkcion?"
+        },
+        {
+          "english": "How do I turn off the push notifications for this app?",
+          "russian": "Как мне отключить пуш-уведомления для этого приложения?",
+          "spanish": "¿Cómo desactivo las notificaciones push para esta aplicación?",
+          "french": "Comment désactiver les notifications push pour cette application ?",
+          "german": "Wie schalte ich die Push-Benachrichtigungen für diese App aus?",
+          "italian": "Come faccio a disattivare le notifiche push per questa app?",
+          "portuguese": "Como eu faço para desativar as notificações push deste aplicativo?",
+          "esperanto": "Kiel mi malŝaltas la puŝajn sciigojn por ĉi tiu apo?"
+        },
+        {
+          "english": "I am trying to sync my data across all my active devices.",
+          "russian": "Я пытаюсь синхронизировать свои данные на всех моих активных устройствах.",
+          "spanish": "Estoy intentando sincronizar mis datos en todos mis dispositivos activos.",
+          "french": "J'essaie de synchroniser mes données sur tous mes appareils actifs.",
+          "german": "Ich versuche, meine Daten auf all meinen aktiven Geräten zu synchronisieren.",
+          "italian": "Sto cercando di sincronizzare i miei dati su tutti i miei dispositivi attivi.",
+          "portuguese": "Estou tentando sincronizar meus dados em todos os meus dispositivos ativos.",
+          "esperanto": "Mi provas sinkronigi miajn datumojn tra ĉiuj miaj aktivaj aparatoj."
+        },
+        {
+          "english": "Is it safe to link my credit card to this mobile account?",
+          "russian": "Безопасно ли привязывать кредитную карту к этому мобильному аккаунту?",
+          "spanish": "¿Es seguro vincular mi tarjeta de crédito a esta cuenta móvil?",
+          "french": "Est-il sûr d'associer ma carte bancaire à ce compte mobile ?",
+          "german": "Ist es sicher, meine Kreditkarte mit diesem mobilen Konto zu verknüpfen?",
+          "italian": "È sicuro collegare la mia carta di credito a questo account mobile?",
+          "portuguese": "É seguro associar o meu cartão de crédito a esta conta móvel?",
+          "esperanto": "Ĉu estas sekure ligi mian kreditkarton al ĉi tiu poŝa konto?"
+        },
+        {
+          "english": "I need to clear my browser cache to see the updates.",
+          "russian": "Мне нужно очистить кэш браузера, чтобы увидеть обновления.",
+          "spanish": "Necesito borrar la caché de mi navegador para ver las actualizaciones.",
+          "french": "Je dois vider le cache de mon navigateur pour voir les mises à jour.",
+          "german": "Ich muss meinen Browser-Cache leeren, um die Updates zu sehen.",
+          "italian": "Devo svuotare la cache del browser per vedere gli aggiornamenti.",
+          "portuguese": "Preciso limpar o cache do meu navegador para ver as atualizações.",
+          "esperanto": "Mi bezonas malplenigi la kaŝmemoron de mia retumilo por vidi la ĝisdatigojn."
+        },
+        {
+          "english": "Can I log into my profile on more than one device at once?",
+          "russian": "Могу ли я войти в свой профиль более чем на одном устройстве одновременно?",
+          "spanish": "¿Puedo iniciar sesión en mi perfil en más de un dispositivo a la vez?",
+          "french": "Puis-je me connecter à mon profil sur plus d'un appareil à la fois ?",
+          "german": "Kann ich mich gleichzeitig auf mehr als einem Gerät in mein Profil einloggen?",
+          "italian": "Posso accedere al mio profilo su più di un dispositivo contemporaneamente?",
+          "portuguese": "Posso entrar no meu perfil em mais de um dispositivo ao mesmo tempo?",
+          "esperanto": "Ĉu mi povas ensaluti al mia profilo sur pli ol unu aparato samtempe?"
+        },
+        {
+          "english": "The software update is taking an absolute eternity to finish.",
+          "russian": "Обновление программного обеспечения занимает целую вечность.",
+          "spanish": "La actualización de software está tardando una eternidad absoluta en terminar.",
+          "french": "La mise à jour logicielle met une éternité absolue à se terminer.",
+          "german": "Das Software-Update dauert gefühlt eine Ewigkeit.",
+          "italian": "L'aggiornamento del software sta impiegando un'eternità assoluta per finire.",
+          "portuguese": "A atualização do software está demorando uma eternidade absoluta para terminar.",
+          "esperanto": "La programara ĝisdatigo daŭras absolute eterne por fini."
+        },
+        {
+          "english": "My laptop screen completely froze, and it won't respond to anything.",
+          "russian": "Экран моего ноутбука полностью завис, и он ни на что не реагирует.",
+          "spanish": "La pantalla de mi portátil se congeló por completo y no responde a nada.",
+          "french": "L'écran de mon ordinateur portable a complètement gelé et il ne répond plus à rien.",
+          "german": "Mein Laptop-Bildschirm ist komplett eingefroren und reagiert auf nichts mehr.",
+          "italian": "Lo schermo del mio laptop è completamente bloccato e non risponde a nulla.",
+          "portuguese": "A tela do meu notebook travou totalmente e não responde a nada.",
+          "esperanto": "La ekrano de mia tekkomputilo tute frostiĝis kaj ĝi ne respondas al io ajn."
+        },
+        {
+          "english": "Do you know how to connect this tablet to the Bluetooth speaker?",
+          "russian": "Вы знаете, как подключить этот планшет к Bluetooth-колонке?",
+          "spanish": "¿Sabe cómo conectar esta tableta al altavoz Bluetooth?",
+          "french": "Savez-vous comment connecter cette tablette à l'enceinte Bluetooth ?",
+          "german": "Weißt du, wie man dieses Tablet mit dem Bluetooth-Lautsprecher verbindet?",
+          "italian": "Sa come collegare questo tablet all'altoparlante Bluetooth?",
+          "portuguese": "Você sabe como conectar este tablet na caixa de som Bluetooth?",
+          "esperanto": "Ĉu vi scias kiel konekti ĉi tiun tabulkomputilon al la Bluetooth-parolilo?"
+        },
+        {
+          "english": "The volume button on my device seems to be physically stuck.",
+          "russian": "Кнопка громкости на моем устройстве, похоже, физически заела.",
+          "spanish": "El botón de volumen de mi dispositivo parece estar atascado físicamente.",
+          "french": "Le bouton de volume de mon appareil semble être physiquement coincé.",
+          "german": "Die Lautstärketaste an meinem Gerät scheint physisch zu klemmen.",
+          "italian": "Il pulsante del volume sul mio dispositivo sembra essere incastrato.",
+          "portuguese": "O botão de volume do meu aparelho parece estar travado fisicamente.",
+          "esperanto": "La laŭtovolum-butono sur mia aparato ŝajnas fizike blokita."
+        },
+        {
+          "english": "I accidentally spilled a little bit of water on my keyboard.",
+          "russian": "Я случайно пролил немного воды на свою клавиатуру.",
+          "spanish": "Derramé un poco de agua en mi teclado por accidente.",
+          "french": "J'ai accidentellement renversé un peu d'eau sur mon clavier.",
+          "german": "Ich habe versehentlich ein bisschen Wasser über meine Tastatur geschüttet.",
+          "italian": "Ho accidentalmente versato un po' d'acqua sulla tastiera.",
+          "portuguese": "Derrubei um pouco de água no meu teclado sem querer.",
+          "esperanto": "Mi hazarde verŝis iom da akvo sur mian klavaron."
+        },
+        {
+          "english": "This device is overheating significantly; I should turn it off.",
+          "russian": "Это устройство сильно перегревается; мне следует его выключить.",
+          "spanish": "Este dispositivo se está sobrecalentando significativamente; debería apagarlo.",
+          "french": "Cet appareil surchauffe de manière importante ; je devrais l'éteindre.",
+          "german": "Dieses Gerät überhitzt stark. Ich sollte es besser ausschalten.",
+          "italian": "Questo dispositivo si sta surriscaldando notevolmente; dovrei spegnerlo.",
+          "portuguese": "Este aparelho está esquentando muito; é melhor eu desligar.",
+          "esperanto": "Ĉi tiu aparato forte varmiĝas; mi devus malŝalti ĝin."
+        },
+        {
+          "english": "Where can I find a replacement charging cable for this model?",
+          "russian": "Где я могу найти запасной кабель для зарядки этой модели?",
+          "spanish": "¿Dónde puedo encontrar un cable de carga de repuesto para este modelo?",
+          "french": "Où puis-je trouver un câble de charge de rechange pour ce modèle ?",
+          "german": "Wo finde ich ein Ersatz-Ladekabel für dieses Modell?",
+          "italian": "Dove posso trovare un cavo di ricarica sostitutivo per questo modello?",
+          "portuguese": "Onde posso encontrar um cabo de carregador reserva para este modelo?",
+          "esperanto": "Kie mi povas trovi anstataŭan ŝargan kablon por ĉi tiu modelo?"
+        },
+        {
+          "english": "My computer is making a strange, loud humming noise today.",
+          "russian": "Мой компьютер сегодня издает странный громкий гул.",
+          "spanish": "Mi ordenador está haciendo un ruido extraño y fuerte como un zumbido hoy.",
+          "french": "Mon ordinateur fait un bruit de bourdonnement étrange et fort aujourd'hui.",
+          "german": "Mein Computer macht heute ein seltsames, lautes Brummgeräusch.",
+          "italian": "Il mio computer sta facendo uno strano e forte ronzio oggi.",
+          "portuguese": "Meu computador está fazendo um barulho estranho e alto de zumbido hoje.",
+          "esperanto": "Mia komputilo faras strangan, laŭtan zumadon hodiaŭ."
+        },
+        {
+          "english": "The touch screen on my phone is not registering my finger taps.",
+          "russian": "Сенсорный экран моего телефона не реагирует на нажатия пальцев.",
+          "spanish": "La pantalla táctil de mi teléfono no registra los toques de mis dedos.",
+          "french": "L'écran tactile de mon téléphone ne détecte pas mes pressions de doigts.",
+          "german": "Der Touchscreen meines Handys reagiert nicht auf meine Fingertipps.",
+          "italian": "Lo schermo touch del mio telefono non rileva il tocco delle dita.",
+          "portuguese": "A tela touch do meu celular não está reconhecendo os meus toques.",
+          "esperanto": "La tuŝekrano de mia telefono ne rekonas miajn fingrojn."
+        },
+        {
+          "english": "I need to plug in a USB flash drive to transfer these files.",
+          "russian": "Мне нужно подключить USB-флешку, чтобы перенести эти файлы.",
+          "spanish": "Necesito conectar una memoria USB para transferir estos archivos.",
+          "french": "Je dois brancher une clé USB pour transférer ces fichiers.",
+          "german": "Ich muss einen USB-Stick anschließen, um diese Dateien zu übertragen.",
+          "italian": "Devo inserire una chiave USB per trasferire questi file.",
+          "portuguese": "Preciso conectar um pen drive para transferir estes arquivos.",
+          "esperanto": "Mi bezonas konekti USB-memoron por transdoni ĉi tiujn dosierojn."
+        },
+        {
+          "english": "Is there a local repair shop that can fix a cracked screen?",
+          "russian": "Есть ли здесь местная мастерская, где могут починить треснувший экран?",
+          "spanish": "¿Hay algún taller de reparación local que pueda arreglar una pantalla rota?",
+          "french": "Y a-t-il un atelier de réparation local qui peut réparer un écran fissuré ?",
+          "german": "Gibt es hier eine Werkstatt vor Ort, die ein kaputtes Display reparieren kann?",
+          "italian": "C'è un centro riparazioni in zona in grado di riparare uno schermo rotto?",
+          "portuguese": "Tem alguma assistência técnica local que conserte tela quebrada?",
+          "esperanto": "Ĉu estas loka riparejo, kiu povas ripari fenditan ekranon?"
+        },
+        {
+          "english": "I am completely out of storage space on my internal drive.",
+          "russian": "У меня на внутреннем диске абсолютно закончилось свободное место.",
+          "spanish": "Me he quedado totalmente sin espacio de almacenamiento en mi disco interno.",
+          "french": "Je n'ai absolument plus d'espace de stockage sur mon disque interne.",
+          "german": "Ich habe absolut keinen Speicherplatz mehr auf meinem internen Laufwerk.",
+          "italian": "Ho esaurito completamente lo spazio di archiviazione sul mio disco interno.",
+          "portuguese": "Estou totalmente sem espaço de armazenamento no meu disco interno.",
+          "esperanto": "Mi tute elĉerpis la stokan spacon sur mia interna disko."
+        },
+        {
+          "english": "How do I back up my photos directly to the cloud storage?",
+          "russian": "Как мне сделать резервную копию фотографий прямо в облачное хранилище?",
+          "spanish": "¿Cómo hago una copia de seguridad de mis fotos directamente en la nube?",
+          "french": "Comment sauvegarder mes photos directement sur le stockage cloud ?",
+          "german": "Wie sichere ich meine Fotos direkt im Cloud-Speicher?",
+          "italian": "Come faccio a fare il backup delle mie foto direttamente sullo spazio cloud?",
+          "portuguese": "Como eu faço o backup das minhas fotos direto no armazenamento em nuvem?",
+          "esperanto": "Kiel mi sekurkopias miajn fotojn rekte al la nuba stokado?"
+        },
+        {
+          "english": "Could you please email me those large project files as a ZIP?",
+          "russian": "Не могли бы вы отправить мне эти большие файлы проекта по электронной почте в формате ZIP?",
+          "spanish": "¿Podría enviarme esos archivos grandes del proyecto por correo en un archivo ZIP, por favor?",
+          "french": "Pourriez-vous m'envoyer ces gros fichiers de projet par e-mail sous forme de fichier ZIP, s'il vous plaît ?",
+          "german": "Könnten Sie mir diese großen Projektdateien bitte als ZIP-Datei per E-Mail schicken?",
+          "italian": "Potrebbe inviarmi via email quei file di progetto pesanti in formato ZIP, per favore?",
+          "portuguese": "Você poderia me mandar por e-mail esses arquivos grandes do projeto compactados em ZIP, por favor?",
+          "esperanto": "Ĉu vi bonvolus retpoŝte sendi al mi tiujn grandajn projektajn dosierojn kiel ZIP?"
+        },
+        {
+          "english": "I can't seem to find where this file downloaded on my device.",
+          "russian": "Я никак не могу найти, куда этот файл скачался на моем устройстве.",
+          "spanish": "No encuentro dónde se descargó este archivo en mi dispositivo.",
+          "french": "Je n'arrive pas à trouver où ce fichier s'est téléchargé sur mon appareil.",
+          "german": "Ich kann anscheinend nicht finden, wohin diese Datei auf meinem Gerät heruntergeladen wurde.",
+          "italian": "Non riesco a trovare dove sia stato scaricato questo file sul mio dispositivo.",
+          "portuguese": "Não estou conseguindo achar onde esse arquivo foi baixado no meu aparelho.",
+          "esperanto": "Mi ŝajne ne povas trovi kie ĉi tiu dosiero elŝutiĝis sur mia aparato."
+        },
+        {
+          "english": "This video file format is not supported by my current media player.",
+          "russian": "Этот формат видеофайла не поддерживается моим текущим проигрывателем.",
+          "spanish": "El formato de este archivo de video no es compatible con mi reproductor multimedia actual.",
+          "french": "Ce format de fichier vidéo n'est pas pris en charge par mon lecteur multimédia actuel.",
+          "german": "Dieses Video-Dateiformat wird von meinem aktuellen Mediaplayer nicht unterstützt.",
+          "italian": "Questo formato di file video non è supportato dal mio lettore multimediale attuale.",
+          "portuguese": "Este formato de arquivo de vídeo não é compatível com o meu reprodutor de mídia atual.",
+          "esperanto": "Ĉi tiu video-dosiera formato ne estas subtenata de mia nuna plurmedia ludilo."
+        },
+        {
+          "english": "I need to permanently delete these old documents to free up space.",
+          "russian": "Мне нужно навсегда удалить эти старые документы, чтобы освободить место.",
+          "spanish": "Necesito eliminar permanentemente estos documentos antiguos para liberar espacio.",
+          "french": "Je dois supprimer définitivement ces vieux documents pour libérer de l'espace.",
+          "german": "Ich muss diese alten Dokumente endgültig löschen, um Speicherplatz freizumachen.",
+          "italian": "Devo eliminare definitivamente questi vecchi documenti per liberare spazio.",
+          "portuguese": "Preciso apagar permanentemente estes documentos antigos para liberar espaço.",
+          "esperanto": "Mi bezonas definitive forigi ĉi tiujn malnovajn dokumentojn por liberigi spacon."
+        },
+        {
+          "english": "Is it possible to recover a file that I accidentally deleted?",
+          "russian": "Можно ли восстановить файл, который я случайно удалил?",
+          "spanish": "¿Es posible recuperar un archivo que borré por accidente?",
+          "french": "Est-il possible de récupérer un fichier que j'ai supprimé par erreur ?",
+          "german": "Kann man eine Datei wiederherstellen, die ich versehentlich gelöscht habe?",
+          "italian": "È possibile recuperare un file che ho cancellato per sbaglio?",
+          "portuguese": "É possível recuperar um arquivo que eu deletei sem querer?",
+          "esperanto": "Ĉu eblas reakiri dosieron, kiun mi hazarde forigis?"
+        },
+        {
+          "english": "Let me share this folder with you so you can access the data.",
+          "russian": "Позволь мне открыть доступ к этой папке, чтобы ты мог получить данные.",
+          "spanish": "Déjame compartir esta carpeta contigo para que puedas acceder a los datos.",
+          "french": "Laisse-moi partager ce dossier avec toi pour que tu puisses accéder aux données.",
+          "german": "Ich gebe diesen Ordner für dich frei, damit du auf die Daten zugreifen kannst.",
+          "italian": "Condivido questa cartella con te così puoi accedere ai dati.",
+          "portuguese": "Deixa eu compartilhar esta pasta com você para que possa acessar os dados.",
+          "esperanto": "Lasu min dividi ĉi tiun dosierujon kun vi por ke vi povu aliri la datumojn."
+        },
+        {
+          "english": "The file size is way too big to send as an email attachment.",
+          "russian": "Размер файла слишком велик, чтобы отправить его вложении к письму.",
+          "spanish": "El tamaño del archivo es demasiado grande para enviarlo como adjunto por correo electrónico.",
+          "french": "La taille du fichier est bien trop grande pour l'envoyer en pièce jointe par e-mail.",
+          "german": "Die Datei ist viel zu groß, um sie als E-Mail-Anhang zu versenden.",
+          "italian": "La dimensione del file è decisamente troppo grande per inviarlo come allegato email.",
+          "portuguese": "O tamanho do arquivo é grande demais para enviar como anexo de e-mail.",
+          "esperanto": "La dosiera grandeco estas tro granda por sendi kiel retpoŝtan aldonaĵon."
+        },
+        {
+          "english": "Make sure to save a copy of this file onto an external drive.",
+          "russian": "Обязательно сохраните копию этого файла на внешний диск.",
+          "spanish": "Asegúrate de guardar una copia de este archivo en una unidad externa.",
+          "french": "Assurez-vous de sauvegarder une copie de ce fichier sur un disque externe.",
+          "german": "Achten Sie darauf, eine Kopie dieser Datei auf einem externen Laufwerk zu speichern.",
+          "italian": "Assicurati di salvare una copia di questo file su un disco esterno.",
+          "portuguese": "Não esqueça de salvar uma cópia deste arquivo em um disco externo.",
+          "esperanto": "Certigu konservi kopion de ĉi tiu dosiero sur ekstera disko."
+        }
+      ]
+    }
+  ]
+}

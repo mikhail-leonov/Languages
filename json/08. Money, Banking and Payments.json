@@ -1,0 +1,589 @@
+{
+  "categories": [
+    {
+      "name": "Money, Banking and Payments",
+      "phrases": [
+        {
+          "english": "money",
+          "russian": "деньги",
+          "spanish": "dinero",
+          "french": "argent",
+          "german": "Geld",
+          "portuguese": "dinheiro",
+          "italian": "denaro",
+          "esperanto": "mono"
+        },
+        {
+          "english": "cash",
+          "russian": "наличные",
+          "spanish": "efectivo",
+          "french": "espèces",
+          "german": "Bargeld",
+          "portuguese": "numerário",
+          "italian": "contanti",
+          "esperanto": "kontantmono"
+        },
+        {
+          "english": "coin",
+          "russian": "монета",
+          "spanish": "moneda",
+          "french": "pièce",
+          "german": "Münze",
+          "portuguese": "moeda",
+          "italian": "moneta",
+          "esperanto": "monero"
+        },
+        {
+          "english": "banknote",
+          "russian": "банкнота",
+          "spanish": "billete",
+          "french": "billet",
+          "german": "Geldschein",
+          "portuguese": "nota",
+          "italian": "banconota",
+          "esperanto": "monbileto"
+        },
+        {
+          "english": "change (returned)",
+          "russian": "сдача",
+          "spanish": "cambio",
+          "french": "monnaie",
+          "german": "Wechselgeld",
+          "portuguese": "troco",
+          "italian": "resto",
+          "esperanto": "restmono"
+        },
+        {
+          "english": "currency",
+          "russian": "валюта",
+          "spanish": "moneda",
+          "french": "monnaie",
+          "german": "Währung",
+          "portuguese": "moeda",
+          "italian": "valuta",
+          "esperanto": "valuto"
+        },
+        {
+          "english": "price",
+          "russian": "цена",
+          "spanish": "precio",
+          "french": "prix",
+          "german": "Preis",
+          "portuguese": "preço",
+          "italian": "prezzo",
+          "esperanto": "prezo"
+        },
+        {
+          "english": "receipt",
+          "russian": "чек",
+          "spanish": "recibo",
+          "french": "reçu",
+          "german": "Quittung",
+          "portuguese": "recibo",
+          "italian": "ricevuta",
+          "esperanto": "kvitanco"
+        },
+        {
+          "english": "euro",
+          "russian": "евро",
+          "spanish": "euro",
+          "french": "euro",
+          "german": "Euro",
+          "portuguese": "euro",
+          "italian": "euro",
+          "esperanto": "eŭro"
+        },
+        {
+          "english": "dollar",
+          "russian": "доллар",
+          "spanish": "dólar",
+          "french": "dollar",
+          "german": "Dollar",
+          "portuguese": "dólar",
+          "italian": "dollaro",
+          "esperanto": "dolaro"
+        },
+        {
+          "english": "pound",
+          "russian": "фунт",
+          "spanish": "libra",
+          "french": "livre",
+          "german": "Pfund",
+          "portuguese": "libra",
+          "italian": "sterlina",
+          "esperanto": "pundo"
+        },
+        {
+          "english": "cent",
+          "russian": "цент",
+          "spanish": "céntimo",
+          "french": "centime",
+          "german": "Cent",
+          "portuguese": "cêntimo",
+          "italian": "centesimo",
+          "esperanto": "cendo"
+        },
+        {
+          "english": "bank",
+          "russian": "банк",
+          "spanish": "banco",
+          "french": "banque",
+          "german": "Bank",
+          "portuguese": "banco",
+          "italian": "banca",
+          "esperanto": "banko"
+        },
+        {
+          "english": "ATM",
+          "russian": "банкомат",
+          "spanish": "cajero automático",
+          "french": "distributeur",
+          "german": "Geldautomat",
+          "portuguese": "multibanco",
+          "italian": "bancomat",
+          "esperanto": "bankomato"
+        },
+        {
+          "english": "credit card",
+          "russian": "кредитная карта",
+          "spanish": "tarjeta de crédito",
+          "french": "carte de crédit",
+          "german": "Kreditkarte",
+          "portuguese": "cartão de crédito",
+          "italian": "carta di credito",
+          "esperanto": "kreditkarto"
+        },
+        {
+          "english": "debit card",
+          "russian": "дебетовая карта",
+          "spanish": "tarjeta de débito",
+          "french": "carte de débit",
+          "german": "Debitkarte",
+          "portuguese": "cartão de débito",
+          "italian": "carta di debito",
+          "esperanto": "debita karto"
+        },
+        {
+          "english": "account",
+          "russian": "счёт",
+          "spanish": "cuenta",
+          "french": "compte",
+          "german": "Konto",
+          "portuguese": "conta",
+          "italian": "conto",
+          "esperanto": "konto"
+        },
+        {
+          "english": "PIN",
+          "russian": "ПИН-код",
+          "spanish": "PIN",
+          "french": "code PIN",
+          "german": "PIN",
+          "portuguese": "PIN",
+          "italian": "PIN",
+          "esperanto": "PIN-kodo"
+        },
+        {
+          "english": "exchange rate",
+          "russian": "обменный курс",
+          "spanish": "tipo de cambio",
+          "french": "taux de change",
+          "german": "Wechselkurs",
+          "portuguese": "taxa de câmbio",
+          "italian": "tasso di cambio",
+          "esperanto": "interŝanĝokurzo"
+        },
+        {
+          "english": "currency exchange",
+          "russian": "обмен валюты",
+          "spanish": "casa de cambio",
+          "french": "bureau de change",
+          "german": "Wechselstube",
+          "portuguese": "câmbio",
+          "italian": "cambio valuta",
+          "esperanto": "valutŝanĝejo"
+        },
+        {
+          "english": "tip",
+          "russian": "чаевые",
+          "spanish": "propina",
+          "french": "pourboire",
+          "german": "Trinkgeld",
+          "portuguese": "gorjeta",
+          "italian": "mancia",
+          "esperanto": "trinkmono"
+        },
+        {
+          "english": "fee",
+          "russian": "комиссия",
+          "spanish": "comisión",
+          "french": "frais",
+          "german": "Gebühr",
+          "portuguese": "taxa",
+          "italian": "commissione",
+          "esperanto": "kotizo"
+        },
+        {
+          "english": "discount",
+          "russian": "скидка",
+          "spanish": "descuento",
+          "french": "réduction",
+          "german": "Rabatt",
+          "portuguese": "desconto",
+          "italian": "sconto",
+          "esperanto": "rabato"
+        },
+        {
+          "english": "tax",
+          "russian": "налог",
+          "spanish": "impuesto",
+          "french": "taxe",
+          "german": "Steuer",
+          "portuguese": "imposto",
+          "italian": "tassa",
+          "esperanto": "imposto"
+        },
+        {
+          "english": "VAT",
+          "russian": "НДС",
+          "spanish": "IVA",
+          "french": "TVA",
+          "german": "Mehrwertsteuer",
+          "portuguese": "IVA",
+          "italian": "IVA",
+          "esperanto": "AVD"
+        },
+        {
+          "english": "invoice",
+          "russian": "счёт-фактура",
+          "spanish": "factura",
+          "french": "facture",
+          "german": "Rechnung",
+          "portuguese": "fatura",
+          "italian": "fattura",
+          "esperanto": "fakturo"
+        },
+        {
+          "english": "How much is it?",
+          "russian": "Сколько это стоит?",
+          "spanish": "¿Cuánto es?",
+          "french": "Combien ça fait ?",
+          "german": "Wie viel kostet das?",
+          "portuguese": "Quanto é?",
+          "italian": "Quant'è?",
+          "esperanto": "Kiom ĝi kostas?"
+        },
+        {
+          "english": "How much do I owe you?",
+          "russian": "Сколько я вам должен?",
+          "spanish": "¿Cuánto le debo?",
+          "french": "Combien je vous dois ?",
+          "german": "Wie viel schulde ich Ihnen?",
+          "portuguese": "Quanto lhe devo?",
+          "italian": "Quanto le devo?",
+          "esperanto": "Kiom mi ŝuldas al vi?"
+        },
+        {
+          "english": "Can I pay by card?",
+          "russian": "Можно оплатить картой?",
+          "spanish": "¿Puedo pagar con tarjeta?",
+          "french": "Puis-je payer par carte ?",
+          "german": "Kann ich mit Karte zahlen?",
+          "portuguese": "Posso pagar com cartão?",
+          "italian": "Posso pagare con la carta?",
+          "esperanto": "Ĉu mi povas pagi per karto?"
+        },
+        {
+          "english": "Do you accept credit cards?",
+          "russian": "Вы принимаете кредитные карты?",
+          "spanish": "¿Aceptan tarjetas de crédito?",
+          "french": "Acceptez-vous les cartes de crédit ?",
+          "german": "Akzeptieren Sie Kreditkarten?",
+          "portuguese": "Aceitam cartões de crédito?",
+          "italian": "Accettate carte di credito?",
+          "esperanto": "Ĉu vi akceptas kreditkartojn?"
+        },
+        {
+          "english": "Do you take contactless?",
+          "russian": "Вы принимаете бесконтактную оплату?",
+          "spanish": "¿Aceptan pago sin contacto?",
+          "french": "Acceptez-vous le sans contact ?",
+          "german": "Nehmen Sie kontaktlos?",
+          "portuguese": "Aceitam pagamento sem contacto?",
+          "italian": "Accettate il contactless?",
+          "esperanto": "Ĉu vi akceptas sennorman pagmanieron?"
+        },
+        {
+          "english": "I'll pay in cash.",
+          "russian": "Я заплачу наличными.",
+          "spanish": "Pago en efectivo.",
+          "french": "Je paie en espèces.",
+          "german": "Ich zahle bar.",
+          "portuguese": "Pago em dinheiro.",
+          "italian": "Pago in contanti.",
+          "esperanto": "Mi pagos kontante."
+        },
+        {
+          "english": "Cash or card?",
+          "russian": "Наличными или картой?",
+          "spanish": "¿Efectivo o tarjeta?",
+          "french": "Espèces ou carte ?",
+          "german": "Bar oder Karte?",
+          "portuguese": "Dinheiro ou cartão?",
+          "italian": "Contanti o carta?",
+          "esperanto": "Kontante aŭ per karto?"
+        },
+        {
+          "english": "Here you are.",
+          "russian": "Вот, пожалуйста.",
+          "spanish": "Aquí tiene.",
+          "french": "Voici.",
+          "german": "Hier, bitte.",
+          "portuguese": "Aqui está.",
+          "italian": "Ecco a lei.",
+          "esperanto": "Jen."
+        },
+        {
+          "english": "Keep the change.",
+          "russian": "Сдачи не надо.",
+          "spanish": "Quédese con el cambio.",
+          "french": "Gardez la monnaie.",
+          "german": "Stimmt so.",
+          "portuguese": "Fique com o troco.",
+          "italian": "Tenga il resto.",
+          "esperanto": "Retenu la restmonon."
+        },
+        {
+          "english": "Can I have a receipt?",
+          "russian": "Можно чек?",
+          "spanish": "¿Me da un recibo?",
+          "french": "Puis-je avoir un reçu ?",
+          "german": "Kann ich eine Quittung haben?",
+          "portuguese": "Pode dar-me um recibo?",
+          "italian": "Posso avere la ricevuta?",
+          "esperanto": "Ĉu mi povas ricevi kvitancon?"
+        },
+        {
+          "english": "Do you have change?",
+          "russian": "У вас есть сдача?",
+          "spanish": "¿Tiene cambio?",
+          "french": "Avez-vous de la monnaie ?",
+          "german": "Haben Sie Wechselgeld?",
+          "portuguese": "Tem troco?",
+          "italian": "Ha da cambiare?",
+          "esperanto": "Ĉu vi havas monŝanĝon?"
+        },
+        {
+          "english": "Can you break this note?",
+          "russian": "Можете разменять эту купюру?",
+          "spanish": "¿Puede cambiarme este billete?",
+          "french": "Pouvez-vous me faire la monnaie de ce billet ?",
+          "german": "Können Sie diesen Schein wechseln?",
+          "portuguese": "Pode trocar-me esta nota?",
+          "italian": "Può cambiarmi questa banconota?",
+          "esperanto": "Ĉu vi povas ŝanĝi ĉi tiun monbileton?"
+        },
+        {
+          "english": "Is there a fee?",
+          "russian": "Есть ли комиссия?",
+          "spanish": "¿Hay comisión?",
+          "french": "Y a-t-il des frais ?",
+          "german": "Gibt es eine Gebühr?",
+          "portuguese": "Há alguma taxa?",
+          "italian": "C'è una commissione?",
+          "esperanto": "Ĉu estas kotizo?"
+        },
+        {
+          "english": "It's too expensive.",
+          "russian": "Это слишком дорого.",
+          "spanish": "Es demasiado caro.",
+          "french": "C'est trop cher.",
+          "german": "Das ist zu teuer.",
+          "portuguese": "É demasiado caro.",
+          "italian": "È troppo caro.",
+          "esperanto": "Ĝi estas tro multekosta."
+        },
+        {
+          "english": "That's cheap.",
+          "russian": "Это дёшево.",
+          "spanish": "Es barato.",
+          "french": "C'est bon marché.",
+          "german": "Das ist billig.",
+          "portuguese": "É barato.",
+          "italian": "È economico.",
+          "esperanto": "Tio estas malmultekosta."
+        },
+        {
+          "english": "on sale",
+          "russian": "на распродаже",
+          "spanish": "en oferta",
+          "french": "en solde",
+          "german": "im Angebot",
+          "portuguese": "em promoção",
+          "italian": "in offerta",
+          "esperanto": "en vendo"
+        },
+        {
+          "english": "It's free.",
+          "russian": "Это бесплатно.",
+          "spanish": "Es gratis.",
+          "french": "C'est gratuit.",
+          "german": "Das ist kostenlos.",
+          "portuguese": "É grátis.",
+          "italian": "È gratis.",
+          "esperanto": "Ĝi estas senpaga."
+        },
+        {
+          "english": "That comes to twenty euros.",
+          "russian": "Итого двадцать евро.",
+          "spanish": "Son veinte euros.",
+          "french": "Ça fait vingt euros.",
+          "german": "Das macht zwanzig Euro.",
+          "portuguese": "Dá vinte euros.",
+          "italian": "Fanno venti euro.",
+          "esperanto": "Tio estas dudek eŭroj."
+        },
+        {
+          "english": "I don't have enough money.",
+          "russian": "У меня недостаточно денег.",
+          "spanish": "No tengo suficiente dinero.",
+          "french": "Je n'ai pas assez d'argent.",
+          "german": "Ich habe nicht genug Geld.",
+          "portuguese": "Não tenho dinheiro suficiente.",
+          "italian": "Non ho abbastanza soldi.",
+          "esperanto": "Mi ne havas sufiĉe da mono."
+        },
+        {
+          "english": "Where is the bank?",
+          "russian": "Где банк?",
+          "spanish": "¿Dónde está el banco?",
+          "french": "Où est la banque ?",
+          "german": "Wo ist die Bank?",
+          "portuguese": "Onde fica o banco?",
+          "italian": "Dov'è la banca?",
+          "esperanto": "Kie estas la banko?"
+        },
+        {
+          "english": "Where is the nearest ATM?",
+          "russian": "Где ближайший банкомат?",
+          "spanish": "¿Dónde está el cajero más cercano?",
+          "french": "Où est le distributeur le plus proche ?",
+          "german": "Wo ist der nächste Geldautomat?",
+          "portuguese": "Onde fica o multibanco mais próximo?",
+          "italian": "Dov'è il bancomat più vicino?",
+          "esperanto": "Kie estas la plej proksima bankomato?"
+        },
+        {
+          "english": "I'd like to withdraw money.",
+          "russian": "Я хочу снять деньги.",
+          "spanish": "Quiero sacar dinero.",
+          "french": "Je voudrais retirer de l'argent.",
+          "german": "Ich möchte Geld abheben.",
+          "portuguese": "Quero levantar dinheiro.",
+          "italian": "Vorrei prelevare dei soldi.",
+          "esperanto": "Mi ŝatus eltiri monon."
+        },
+        {
+          "english": "I'd like to open an account.",
+          "russian": "Я хочу открыть счёт.",
+          "spanish": "Quiero abrir una cuenta.",
+          "french": "Je voudrais ouvrir un compte.",
+          "german": "Ich möchte ein Konto eröffnen.",
+          "portuguese": "Quero abrir uma conta.",
+          "italian": "Vorrei aprire un conto.",
+          "esperanto": "Mi ŝatus malfermi konton."
+        },
+        {
+          "english": "The ATM took my card.",
+          "russian": "Банкомат забрал мою карту.",
+          "spanish": "El cajero se tragó mi tarjeta.",
+          "french": "Le distributeur a avalé ma carte.",
+          "german": "Der Automat hat meine Karte einbehalten.",
+          "portuguese": "O multibanco engoliu o meu cartão.",
+          "italian": "Il bancomat ha trattenuto la mia carta.",
+          "esperanto": "La bankomato prenis mian karton."
+        },
+        {
+          "english": "My card was declined.",
+          "russian": "Мою карту отклонили.",
+          "spanish": "Mi tarjeta fue rechazada.",
+          "french": "Ma carte a été refusée.",
+          "german": "Meine Karte wurde abgelehnt.",
+          "portuguese": "O meu cartão foi recusado.",
+          "italian": "La mia carta è stata rifiutata.",
+          "esperanto": "Mia karto estis malakceptita."
+        },
+        {
+          "english": "My card is blocked.",
+          "russian": "Моя карта заблокирована.",
+          "spanish": "Mi tarjeta está bloqueada.",
+          "french": "Ma carte est bloquée.",
+          "german": "Meine Karte ist gesperrt.",
+          "portuguese": "O meu cartão está bloqueado.",
+          "italian": "La mia carta è bloccata.",
+          "esperanto": "Mia karto estas blokita."
+        },
+        {
+          "english": "The payment didn't go through.",
+          "russian": "Платёж не прошёл.",
+          "spanish": "El pago no se realizó.",
+          "french": "Le paiement n'est pas passé.",
+          "german": "Die Zahlung ist fehlgeschlagen.",
+          "portuguese": "O pagamento não foi efetuado.",
+          "italian": "Il pagamento non è andato a buon fine.",
+          "esperanto": "La pago ne sukcesis."
+        },
+        {
+          "english": "Enter your PIN.",
+          "russian": "Введите ПИН-код.",
+          "spanish": "Introduzca su PIN.",
+          "french": "Saisissez votre code PIN.",
+          "german": "Geben Sie Ihre PIN ein.",
+          "portuguese": "Introduza o seu PIN.",
+          "italian": "Inserisca il PIN.",
+          "esperanto": "Enigu vian PIN-kodon."
+        },
+        {
+          "english": "Sign here.",
+          "russian": "Распишитесь здесь.",
+          "spanish": "Firme aquí.",
+          "french": "Signez ici.",
+          "german": "Unterschreiben Sie hier.",
+          "portuguese": "Assine aqui.",
+          "italian": "Firmi qui.",
+          "esperanto": "Subskribu ĉi tie."
+        },
+        {
+          "english": "What's the exchange rate?",
+          "russian": "Какой обменный курс?",
+          "spanish": "¿Cuál es el tipo de cambio?",
+          "french": "Quel est le taux de change ?",
+          "german": "Wie ist der Wechselkurs?",
+          "portuguese": "Qual é a taxa de câmbio?",
+          "italian": "Qual è il tasso di cambio?",
+          "esperanto": "Kio estas la interŝanĝokurzo?"
+        },
+        {
+          "english": "I'd like to exchange money.",
+          "russian": "Я хочу обменять деньги.",
+          "spanish": "Quiero cambiar dinero.",
+          "french": "Je voudrais changer de l'argent.",
+          "german": "Ich möchte Geld wechseln.",
+          "portuguese": "Quero trocar dinheiro.",
+          "italian": "Vorrei cambiare dei soldi.",
+          "esperanto": "Mi ŝatus interŝanĝi monon."
+        },
+        {
+          "english": "Can I exchange dollars for euros?",
+          "russian": "Можно обменять доллары на евро?",
+          "spanish": "¿Puedo cambiar dólares por euros?",
+          "french": "Puis-je changer des dollars en euros ?",
+          "german": "Kann ich Dollar in Euro wechseln?",
+          "portuguese": "Posso trocar dólares por euros?",
+          "italian": "Posso cambiare dollari in euro?",
+          "esperanto": "Ĉu mi povas interŝanĝi dolarojn al eŭroj?"
+        }
+      ]
+    }
+  ]
+}

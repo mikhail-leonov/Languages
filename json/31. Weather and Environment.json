@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Weather & Environment",
+      "phrases": [
+        {
+          "english": "What an absolutely gorgeous day it is outside!",
+          "russian": "Какая на улице просто великолепная погода!",
+          "spanish": "¡Qué día tan absolutamente maravilloso hace afuera!",
+          "french": "Quel jour absolument magnifique dehors !",
+          "german": "Was für ein absolut herrlicher Tag es draußen ist!",
+          "italian": "Che giornata assolutamente meravigliosa c'è fuori!",
+          "portuguese": "Que dia absolutamente lindo está lá fora!",
+          "esperanto": "Kia absolute belega tago estas ekstere!"
+        },
+        {
+          "english": "The weather is simply perfect today.",
+          "russian": "Погода сегодня просто идеальная.",
+          "spanish": "El clima está simplemente perfecto hoy.",
+          "french": "Le temps est tout simplement parfait aujourd'hui.",
+          "german": "Das Wetter ist heute einfach perfekt.",
+          "italian": "Il tempo è semplicemente perfetto oggi.",
+          "portuguese": "O tempo está simplesmente perfeito hoje.",
+          "esperanto": "La vetero estas simple perfekta hodiaŭ."
+        },
+        {
+          "english": "It is a beautiful, crisp morning out there.",
+          "russian": "Там такое прекрасное, свежее (прохладное) утро.",
+          "spanish": "Es una mañana hermosa y fresca allá afuera.",
+          "french": "C'est une belle matinée fraîche dehors.",
+          "german": "Es ist ein wunderschöner, klarer Morgen da draußen.",
+          "italian": "È una bellissima e fresca mattina là fuori.",
+          "portuguese": "Está uma manhã linda e fresca lá fora.",
+          "esperanto": "Estas bela, freŝa mateno ekstere."
+        },
+        {
+          "english": "There isn't a single cloud in the sky.",
+          "russian": "На небе ни единого облачка.",
+          "spanish": "No hay ni una sola nube en el cielo.",
+          "french": "Il n'y a pas un seul nuage dans le ciel.",
+          "german": "Es ist keine einzige Wolke am Himmel.",
+          "italian": "Non c'è nemmeno una nuvola in cielo.",
+          "portuguese": "Não tem uma única nuvem no céu.",
+          "esperanto": "Estas nenia nubo en la ĉielo."
+        },
+        {
+          "english": "The sun is shining, and it feels wonderful.",
+          "russian": "Светит солнце, и это прекрасное чувство.",
+          "spanish": "El sol está brillando y se siente de maravilla.",
+          "french": "Le soleil brille et c'est un sentiment formidable.",
+          "german": "Die Sonne scheint und es fühlt sich herrlich an.",
+          "italian": "Il sole splende e si sta meravigliosamente.",
+          "portuguese": "O sol está brilhando e a sensação é maravilhosa.",
+          "esperanto": "La suno brilas, kaj ĝi sentiĝas mirinde."
+        },
+        {
+          "english": "We couldn't have asked for a better day!",
+          "russian": "Лучшего дня и пожелать нельзя было!",
+          "spanish": "¡No habríamos podido pedir un día mejor!",
+          "french": "On n'aurait pas pu rêver d'une meilleure journée !",
+          "german": "Besseres Wetter hätten wir uns nicht wünschen können!",
+          "italian": "Non avremmo potuto chiedere una giornata migliore!",
+          "portuguese": "Não poderíamos ter pedido um dia melhor!",
+          "esperanto": "Ni ne povus peti pli bonan tagon!"
+        },
+        {
+          "english": "It is a lovely, mild afternoon for a walk.",
+          "russian": "Прекрасный, мягкий (теплый) день для прогулки.",
+          "spanish": "Es una tarde encantadora y templada para dar un paseo.",
+          "french": "C'est une belle après-midi douce pour une promenade.",
+          "german": "Es ist ein schöner, milder Nachmittag für einen Spaziergang.",
+          "italian": "È un pomeriggio piacevole e mite per una passeggiata.",
+          "portuguese": "Está uma tarde linda e agradável para uma caminhada.",
+          "esperanto": "Estas agrabla, milda posttagmezo por promeno."
+        },
+        {
+          "english": "The air feels incredibly fresh after the rain.",
+          "russian": "После дождя воздух кажется невероятно свежим.",
+          "spanish": "El aire se siente increíblemente fresco después de la lluvia.",
+          "french": "L'air est incroyablement frais après la pluie.",
+          "german": "Die Luft fühlt sich nach dem Regen unglaublich frisch an.",
+          "italian": "L'aria è incredibilmente fresca dopo la pioggia.",
+          "portuguese": "O ar está incrivelmente fresco depois da chuva.",
+          "esperanto": "La aero sentiĝas nekredeble freŝa post la pluvo."
+        },
+        {
+          "english": "It is completely a picture-perfect spring day.",
+          "russian": "Это просто идеальный, как с картинки, весенний день.",
+          "spanish": "Es un día de primavera absolutamente de postal.",
+          "french": "C'est une journée de printemps absolument digne d'une carte postale.",
+          "german": "Es ist ein absolut bilderbuchhafter Frühlingstag.",
+          "italian": "È una giornata primaverile da cartolina a tutti gli effetti.",
+          "portuguese": "É um dia de primavera absolutamente perfeito, de cinema.",
+          "esperanto": "Estas tute bildkarta printempa tago."
+        },
+        {
+          "english": "I love it when the weather is this pleasant.",
+          "russian": "Обожаю, когда погода такая приятная.",
+          "spanish": "Me encanta cuando el clima está así de agradable.",
+          "french": "J'adore quand le temps est aussi agréable.",
+          "german": "Ich liebe es, wenn das Wetter so angenehm ist.",
+          "italian": "Adoro quando il tempo è così piacevole.",
+          "portuguese": "Eu amo quando o tempo está gostoso assim.",
+          "esperanto": "Mi amas kiam la vetero estas tiel agrabla."
+        },
+        {
+          "english": "It is absolutely scorching outside today!",
+          "russian": "На улице сегодня просто ужасная жара!",
+          "spanish": "¡Hace un calor absolutamente abrasador afuera hoy!",
+          "french": "Il fait une chaleur absolument écrasante dehors aujourd'hui !",
+          "german": "Draußen ist es heute absolut kochend heiß!",
+          "italian": "Fuori si muore di caldo oggi!",
+          "portuguese": "Está absolutamente escaldante lá fora hoje!",
+          "esperanto": "Estas absolute brulvarma ekstere hodiaŭ!"
+        },
+        {
+          "english": "The heat is completely stifling in this room.",
+          "russian": "В этой комнате совершенно удушающая жара.",
+          "spanish": "El calor es completamente sofocante en esta habitación.",
+          "french": "La chaleur est complètement étouffante dans cette pièce.",
+          "german": "Die Hitze in diesem Raum ist absolut drückend.",
+          "italian": "Il caldo è completamente soffocante in questa stanza.",
+          "portuguese": "O calor está completamente sufocante neste quarto.",
+          "esperanto": "La varmego estas tute sufoka en ĉi tiu ĉambro."
+        },
+        {
+          "english": "It is incredibly humid, and I am melting.",
+          "russian": "Невероятная влажность, я просто таю.",
+          "spanish": "Está increíblemente húmedo y me estoy derritiendo.",
+          "french": "C'est incroyablement humide et je suis en train de fondre.",
+          "german": "Es ist unglaublich schwül und ich schmelze dahin.",
+          "italian": "C'è un'umidità incredibile e sto liquefacendomi.",
+          "portuguese": "Está incrivelmente úmido e eu estou derretendo.",
+          "esperanto": "Estas nekredeble humide, kaj mi fandiĝas."
+        },
+        {
+          "english": "You could literally fry an egg on the sidewalk.",
+          "russian": "На тротуаре можно буквально пожарить яичницу.",
+          "spanish": "Literalmente se podría freír un huevo en la acera.",
+          "french": "On pourrait littéralement faire cuire un œuf sur le trottoir.",
+          "german": "Man könnte buchstäblich ein Ei auf dem Gehweg braten.",
+          "italian": "Si potrebbe letteralmente friggere un uovo sul marciapiede.",
+          "portuguese": "Dá para fritar um ovo no asfalto, literalmente.",
+          "esperanto": "Oni povus laŭvorte friti ovon sur la trotuaro."
+        },
+        {
+          "english": "The humidity is through the roof right now.",
+          "russian": "Влажность сейчас просто зашкаливает.",
+          "spanish": "La humedad está por las nubes en este momento.",
+          "french": "L'humidité bat des records en ce moment.",
+          "german": "Die Luftfeuchtigkeit ist im Moment extrem hoch.",
+          "italian": "L'umidità è alle stelle in questo momento.",
+          "portuguese": "A umidade está nas alturas agora.",
+          "esperanto": "La humideco estas ĉe la pinto nun."
+        },
+        {
+          "english": "I am completely drenched in sweat from just standing here.",
+          "russian": "Я уже весь мокрый от пота, просто стоя здесь.",
+          "spanish": "Estoy completamente empapado en sudor de solo estar parado aquí.",
+          "french": "Je suis complètement trempé de sueur juste à rester planté là.",
+          "german": "Ich bin komplett nassgeschwitzt, nur vom hier Stehen.",
+          "italian": "Sono completamente fradicio di sudore solo a stare qui fermo.",
+          "portuguese": "Estou completamente encharcado de suor só de ficar parado aqui.",
+          "esperanto": "Mi estas tute trempita en ŝvito nur de stari ĉi tie."
+        },
+        {
+          "english": "It feels like a literal oven out there today.",
+          "russian": "Там сегодня ощущение, будто в настоящей печи.",
+          "spanish": "Hoy parece un verdadero horno allá afuera.",
+          "french": "On se croirait littéralement dans un four dehors aujourd'hui.",
+          "german": "Das fühlt sich draußen heute an wie in einem Backofen.",
+          "italian": "Sembra un forno vero e proprio là fuori oggi.",
+          "portuguese": "Parece um forno de verdade lá fora hoje.",
+          "esperanto": "Ĝi sentiĝas kiel vera forno ekstere hodiaŭ."
+        },
+        {
+          "english": "There is absolutely no breeze to cool things down.",
+          "russian": "Нет абсолютно никакого ветерка, чтобы хоть немного охладиться.",
+          "spanish": "No hay absolutamente nada de brisa para refrescar.",
+          "french": "Il n'y a absolument aucun souffle d'air pour rafraîchir l'atmosphère.",
+          "german": "Es geht absolut kein Lüftchen, das für Abkühlung sorgt.",
+          "italian": "Non c'è un filo di vento per rinfrescare l'ambiente.",
+          "portuguese": "Não tem absolutamente nenhum vento para refrescar.",
+          "esperanto": "Estas absolute nenia venteto por malvarmigi."
+        },
+        {
+          "english": "I desperately need to find some air conditioning.",
+          "russian": "Мне срочно (отчаянно) нужно найти кондиционер.",
+          "spanish": "Necesito desesperadamente encontrar algo de aire acondicionado.",
+          "french": "J'ai un besoin désespéré de trouver de l'air conditionné.",
+          "german": "Ich muss dringend irgendwo eine Klimaanlage finden.",
+          "italian": "Ho un disperato bisogno de trovare un po' di aria condizionata.",
+          "portuguese": "Preciso desesperadamente achar um ar-condicionado.",
+          "esperanto": "Mi desperate bezonas trovi klimatizilon."
+        },
+        {
+          "english": "This oppressive heat is totally draining my energy.",
+          "russian": "Эта гнетущая жара совершенно лишает меня сил.",
+          "spanish": "Este calor opresivo me está quitando totalmente la energía.",
+          "french": "Cette chaleur étouffante me vide complètement de mon énergie.",
+          "german": "Diese drückende Hitze raubt mir völlig die Energie.",
+          "italian": "Questo caldo opprimente mi sta togliendo tutte le forze.",
+          "portuguese": "Esse calor opressivo está sugando todas as minhas energias.",
+          "esperanto": "Ĉi tiu subprema varmego tute elĉerpas mian energion."
+        },
+        {
+          "english": "It is absolutely freezing out there today!",
+          "russian": "Там сегодня просто жуткий холод (мороз)!",
+          "spanish": "¡Hace un frío absoluto allá afuera hoy!",
+          "french": "Il fait un froid de canard dehors aujourd'hui !",
+          "german": "Es ist absolut eiskalt draußen heute!",
+          "italian": "Si gela letteralmente là fuori oggi!",
+          "portuguese": "Está congelando lá fora hoje!",
+          "esperanto": "Estas absolute glacie malvarme ekstere hodiaŭ!"
+        },
+        {
+          "english": "It is raining cats and dogs right now.",
+          "russian": "Сейчас льет как из ведра.",
+          "spanish": "Está lloviendo a cántaros en este momento.",
+          "french": "Il pleut des cordes en ce moment.",
+          "german": "Es regnet Bindfäden im Moment.",
+          "italian": "Sta piovendo a dirotto in questo momento.",
+          "portuguese": "Está chovendo canivetes agora.",
+          "esperanto": "Pluvas kiel el sitelo nun."
+        },
+        {
+          "english": "The weather today is incredibly gloomy and dreary.",
+          "russian": "Погода сегодня невероятно хмурая и тоскливая.",
+          "spanish": "El clima de hoy está increíblemente gris y lúgubre.",
+          "french": "Le temps est incroyablement sombre et maussade aujourd'hui.",
+          "german": "Das Wetter heute ist unglaublich trüb und trostlos.",
+          "italian": "Il tempo oggi è incredibilmente cupo e uggioso.",
+          "portuguese": "O tempo hoje está incrivelmente cinzento e deprimente.",
+          "esperanto": "La vetero hodiaŭ estas nekredeble griza kaj malgaja."
+        },
+        {
+          "english": "It is a biting, bitter cold afternoon.",
+          "russian": "Сегодня пронизывающий, жутко холодный день.",
+          "spanish": "Es una tarde de un frío cortante y amargo.",
+          "french": "C'est une après-midi d'un froid glacial et mordant.",
+          "german": "Es ist ein bitterkalter, schneidender Nachmittag.",
+          "italian": "È un pomeriggio di freddo pungente e intenso.",
+          "portuguese": "Está uma tarde de frio congelante e cortante.",
+          "esperanto": "Estas morda, amare malvarma posttagmezo."
+        },
+        {
+          "english": "The wind is absolutely howling outside my window.",
+          "russian": "За моим окном просто воет ветер.",
+          "spanish": "El viento está aullando absolutamente afuera de mi ventana.",
+          "french": "Le vent hurle littéralement sous ma fenêtre.",
+          "german": "Der Wind heult absolut laut vor meinem Fenster.",
+          "italian": "Il vento sta letteralmente urlando fuori dalla mia finestra.",
+          "portuguese": "O vento está uivando forte lá fora na minha janela.",
+          "esperanto": "La vento absolute hurlas ekstere de mia fenestro."
+        },
+        {
+          "english": "It is completely pouring down rain out there.",
+          "russian": "Там вовсю льет сильный дождь.",
+          "spanish": "Está lloviendo a mares allá afuera.",
+          "french": "Il pleut à verse dehors.",
+          "german": "Draußen gießt es in Strömen.",
+          "italian": "Sta venendo giù il mondo là fuori.",
+          "portuguese": "Está caindo o maior toró lá fora.",
+          "esperanto": "Pluvegas ekstere."
+        },
+        {
+          "english": "The sky is a solid, miserable sheet of gray.",
+          "russian": "Небо затянуто сплошной унылой серой пеленой.",
+          "spanish": "El cielo es una capa gris, densa y deprimente.",
+          "french": "Le ciel est une chape de plomb grise et triste.",
+          "german": "Der Himmel ist eine einzige, triste graue Decke.",
+          "italian": "Il cielo è una coltre grigia e deprimente.",
+          "portuguese": "O céu está um tapete cinzento e melancólico.",
+          "esperanto": "La ĉielo estas solida, mizera griza tavolo."
+        },
+        {
+          "english": "It's a bit damp and chilly, so bundle up!",
+          "russian": "На улице сыро и зябко, так что одевайтесь теплее!",
+          "spanish": "Está un poco húmedo y frío, ¡así que abrígate bien!",
+          "french": "C'est un peu humide et frais, alors couvrez-vous bien !",
+          "german": "Es ist etwas feucht und kühl, also zieh dich warm an!",
+          "italian": "È un po' umido e freddo, quindi copriti bene!",
+          "portuguese": "Está um pouco úmido e frio, então se agasalhe!",
+          "esperanto": "Estas iom malseka kaj malvarmeta, do varmigu vin!"
+        },
+        {
+          "english": "The roads are completely slick from the freezing rain.",
+          "russian": "Дороги совершенно скользкие из-за ледяного дождя.",
+          "spanish": "Las carreteras están completamente resbaladizas por la lluvia helada.",
+          "french": "Les routes sont glissantes à cause de la pluie verglaçante.",
+          "german": "Die Straßen sind durch den Gefrierregen spiegelglatt.",
+          "italian": "Le strade sono completamente scivolose per la pioggia gelata.",
+          "portuguese": "As estradas estão super escorregadias por causa da chuva congelante.",
+          "esperanto": "La vojoj estas tute glitaj pro la glaciiĝanta pluvo."
+        },
+        {
+          "english": "This cold weather is chilling me right to the bone.",
+          "russian": "Этот холод пробирает меня прямо до костей.",
+          "spanish": "Este clima frío me está calando hasta los huesos.",
+          "french": "Ce froid me glace jusqu'aux os.",
+          "german": "Dieses kalte Wetter geht mir durch und durch bis in die Knochen.",
+          "italian": "Questo freddo mi sta penetrando dritto nelle ossa.",
+          "portuguese": "Esse frio está me cortando até os ossos.",
+          "esperanto": "Ĉi tiu malvarma vetero malvarmumas min ĝis la ostoj."
+        },
+        {
+          "english": "The leaves are starting to turn beautiful colors.",
+          "russian": "Листья начинают окрашиваться в красивые цвета.",
+          "spanish": "Las hojas están empezando a tomar colores hermosos.",
+          "french": "Les feuilles commencent à prendre de magnifiques couleurs.",
+          "german": "Die Blätter fangen an, sich wunderschön zu verfärben.",
+          "italian": "Le foglie stanno iniziando a prendere dei bellissimi colori.",
+          "portuguese": "As folhas estão mudando para cores lindas.",
+          "esperanto": "La folioj komencas fariĝi belaj koloroj."
+        },
+        {
+          "english": "It looks like we are in for a very harsh winter.",
+          "russian": "Похоже, нас ждет очень суровая зима.",
+          "spanish": "Parece que nos espera un invierno muy duro.",
+          "french": "On dirait qu'on va avoir un hiver très rude.",
+          "german": "Es sieht so aus, als stünde uns ein sehr harter Winter bevor.",
+          "italian": "Sembra che ci aspetti un inverno molto rigido.",
+          "portuguese": "Parece que vamos encarar um inverno bem rigoroso.",
+          "esperanto": "Ŝajnas ke nin atendas tre malmilda vintro."
+        },
+        {
+          "english": "Spring is finally in the air after months of cold.",
+          "russian": "После стольких месяцев холода наконец-то пахнет весной.",
+          "spanish": "Por fin se siente la primavera en el aire tras meses de frío.",
+          "french": "Le printemps est enfin là après des mois de froid.",
+          "german": "Nach Monaten der Kälte liegt endlich Frühling in der Luft.",
+          "italian": "C'è finalmente aria di primavera dopo mesi di freddo.",
+          "portuguese": "A primavera finalmente está no ar depois de meses de frio.",
+          "esperanto": "Printempo fine estas en la aero post monatoj da malvarmo."
+        },
+        {
+          "english": "According to the forecast, it's supposed to clear up later.",
+          "russian": "Согласно прогнозу, позже должно проясниться.",
+          "spanish": "Según el pronóstico, se supone que se despejará más tarde.",
+          "french": "Selon les prévisions, ça devrait se dégager plus tard.",
+          "german": "Dem Wetterbericht nach soll es sich später aufklären.",
+          "italian": "Secondo le previsioni, dovrebbe schiarirsi più tardi.",
+          "portuguese": "De acordo com a previsão, deve melhorar mais tarde.",
+          "esperanto": "Laŭ la prognozo, ĝi devus klarigi poste."
+        },
+        {
+          "english": "The weather report is predicting heavy snow tonight.",
+          "russian": "Прогноз погоды обещает сильный снегопад сегодня ночью.",
+          "spanish": "El informe del clima predice fuertes nevadas para esta noche.",
+          "french": "Le bulletin météo prévoit de fortes chutes de neige pour ce soir.",
+          "german": "Der Wetterbericht sagt für heute Nacht starken Schneefall voraus.",
+          "italian": "Il bollettino meteo prevede forte neve per stanotte.",
+          "portuguese": "A previsão do tempo está indicando neve pesada para hoje à noite.",
+          "esperanto": "La veterprognozo antaŭdiras fortan neĝadon ĉi-nokte."
+        },
+        {
+          "english": "It seems like summer has arrived completely overnight.",
+          "russian": "Кажется, лето наступило буквально за одну ночь.",
+          "spanish": "Parece que el verano llegó por completo de la noche a la mañana.",
+          "french": "On dirait que l'été est arrivé d'un coup d'un seul.",
+          "german": "Es kommt einem so vor, als wäre der Sommer über Nacht gekommen.",
+          "italian": "Sembra che l'estate sia arrivata da un giorno all'altro.",
+          "portuguese": "Parece que o verão chegou totalmente da noite para o dia.",
+          "esperanto": "Ŝajnas ke somero alvenis tute subite."
+        },
+        {
+          "english": "The days are finally starting to get a bit longer.",
+          "russian": "Дни наконец-то начинают становиться немного длиннее.",
+          "spanish": "Los días finalmente están empezando a hacerse un poco más largos.",
+          "french": "Les jours commencent enfin à rallonger un peu.",
+          "german": "Die Tage werden jetzt endlich wieder etwas länger.",
+          "italian": "I giorni stanno finalmente iniziando ad allungarsi un po'.",
+          "portuguese": "Os dias finalmente estão começando a ficar mais longos.",
+          "esperanto": "La tagoj fine komencas iom plilongiĝi."
+        },
+        {
+          "english": "We are expecting a massive storm system tomorrow afternoon.",
+          "russian": "Завтра во второй половине дня мы ожидаем сильный циклон (шторм).",
+          "spanish": "Esperamos un sistema de tormentas masivo mañana por la tarde.",
+          "french": "On attend un front tempétueux impressionnant demain après-midi.",
+          "german": "Wir erwarten morgen Nachmittag eine gewaltige Sturmfront.",
+          "italian": "Ci aspettiamo una forte perturbazione domani pomeriggio.",
+          "portuguese": "Estamos esperando uma tempestade enorme amanhã à tarde.",
+          "esperanto": "Ni atendas masivan ŝtorman sistemon morgaŭ posttagmeze."
+        },
+        {
+          "english": "The temperature is supposed to drop significantly tonight.",
+          "russian": "Ожидается, что сегодня ночью температура значительно упадет.",
+          "spanish": "Se supone que la temperatura bajará considerablemente esta noche.",
+          "french": "La température devrait baisser considérablement cette nuit.",
+          "german": "Die Temperatur soll heute Nacht deutlich sinken.",
+          "italian": "La temperatura dovrebbe scendere di molto stasera.",
+          "portuguese": "A temperatura deve cair bastante hoje à noite.",
+          "esperanto": "La temperaturo devus signife malaltiĝi ĉi-nokte."
+        },
+        {
+          "english": "This is typical unpredictable autumn weather for you.",
+          "russian": "Вот она — типичная непредсказуемая осенняя погода.",
+          "spanish": "Esta es la típica e impredecible meteorología de otoño.",
+          "french": "C'est bien le temps d'automne, toujours imprévisible.",
+          "german": "Das ist mal wieder das typisch unberechenbare Herbstwetter.",
+          "italian": "Questo è il classico tempo autunnale imprevedibile.",
+          "portuguese": "Esse é o típico tempo instável de outono.",
+          "esperanto": "Jen la tipa neprognozeble aŭtuna vetero."
+        },
+        {
+          "english": "The scenery around here is absolutely breathtaking.",
+          "russian": "Пейзажи вокруг здесь просто захватывают дух.",
+          "spanish": "El paisaje por aquí es absolutamente impresionante.",
+          "french": "Le paysage par ici est absolument à couper le souffle.",
+          "german": "Die Landschaft hier herum ist absolut atemberaubend.",
+          "italian": "Il paesaggio da queste parti è assolutamente mozzafiato.",
+          "portuguese": "A paisagem por aqui é absolutamente de tirar o fôlego.",
+          "esperanto": "La pejzaĝo ĉi tie estas absolute mirinda."
+        },
+        {
+          "english": "The air quality is feeling very poor today due to the smog.",
+          "russian": "Из-за смога качество воздуха сегодня кажется очень плохим.",
+          "spanish": "La calidad del aire se nota muy deficiente hoy debido al smog.",
+          "french": "La qualité de l'air est très mauvaise aujourd'hui à cause du smog.",
+          "german": "Die Luftqualität ist heute wegen des Smogs sehr schlecht.",
+          "italian": "La qualità dell'aria è pessima oggi a causa dello smog.",
+          "portuguese": "A qualidade do ar está bem ruim hoje por causa da poluição.",
+          "esperanto": "La aerokvalito sentiĝas tre malbona hodiaŭ pro la smogo."
+        },
+        {
+          "english": "Look at how beautiful the sunset is tonight!",
+          "russian": "Посмотри, какой красивый закат сегодня вечером!",
+          "spanish": "¡Mira qué hermoso está el atardecer hoy!",
+          "french": "Regarde comme le coucher de soleil est magnifique ce soir !",
+          "german": "Schau mal, wie wunderschön der Sonnenuntergang heute Abend ist!",
+          "italian": "Guarda com'è bello il tramonto stasera!",
+          "portuguese": "Olha que lindo o pôr do sol hoje à noite!",
+          "esperanto": "Rigardu kiel bela estas la sunsubiro ĉi-vespere!"
+        },
+        {
+          "english": "The environment is incredibly peaceful and serene here.",
+          "russian": "Природа здесь невероятно тихая и безмятежная.",
+          "spanish": "El entorno es increíblemente pacífico y sereno aquí.",
+          "french": "L'environnement est incroyablement paisible et serein ici.",
+          "german": "Die Umgebung hier ist unglaublich friedlich und idyllisch.",
+          "italian": "L'ambiente qui è incredibilmente pacifico e sereno.",
+          "portuguese": "O ambiente aqui é incrivelmente pacífico e sereno.",
+          "esperanto": "La medio ĉi tie estas nekredeble paca kaj serena."
+        },
+        {
+          "english": "The local ecosystem is filled with diverse wildlife.",
+          "russian": "Местная экосистема богата разнообразной дикой природой.",
+          "spanish": "El ecosistema local está lleno de una fauna diversa.",
+          "french": "L'écosystème local regorge d'une faune et d'une flore variées.",
+          "german": "Das lokale Ökosystem ist voller vielfältiger Wildtiere.",
+          "italian": "L'ecosistema locale è ricco di fauna selvatica variegata.",
+          "portuguese": "O ecossistema local é cheio de uma vida selvagem diversa.",
+          "esperanto": "La loka ekosistemo estas plena de diversa natura bestaro."
+        },
+        {
+          "english": "We need to do more to protect our natural surroundings.",
+          "russian": "Нам нужно делать больше для защиты нашей окружающей среды.",
+          "spanish": "Necesitamos hacer más para proteger nuestro entorno natural.",
+          "french": "Nous devons faire plus pour protéger notre environnement naturel.",
+          "german": "Wir müssen mehr tun, um unsere natürliche Umgebung zu schützen.",
+          "italian": "Dobbiamo fare di più per proteggere l'ambiente naturale che ci circonda.",
+          "portuguese": "Precisamos fazer mais para proteger o nosso meio ambiente.",
+          "esperanto": "Ni bezonas fari pli por protekti nian naturan ĉirkaŭaĵon."
+        },
+        {
+          "english": "The pollution in the river is highly concerning.",
+          "russian": "Загрязнение реки вызывает серьезную озабоченность.",
+          "spanish": "La contaminación en el río es sumamente preocupante.",
+          "french": "La pollution de la rivière est très inquiétante.",
+          "german": "Die Verschmutzung des Flusses ist höchst besorgniserregend.",
+          "italian": "L'inquinamento del fiume è fortemente preoccupante.",
+          "portuguese": "A poluição no rio é extremamente preocupante.",
+          "esperanto": "La poluado en la rivero estas tre maltrankviliga."
+        },
+        {
+          "english": "This park is a beautiful green space in the middle of the city.",
+          "russian": "Этот парк — прекрасный зеленый уголок посреди города.",
+          "spanish": "Este parque es un hermoso espacio verde en medio de la ciudad.",
+          "french": "Ce parc est un bel espace vert en plein milieu de la ville.",
+          "german": "Dieser Park ist eine schöne grüne Oase mitten in der Stadt.",
+          "italian": "Questo parco è un bellissimo spazio verde nel mezzo della città.",
+          "portuguese": "Este parque é uma linda área verde no meio da cidade.",
+          "esperanto": "Ĉi tiu parko estas bela verda spaco meze de la urbo."
+        },
+        {
+          "english": "The landscape changes completely depending on the season.",
+          "russian": "Пейзаж полностью меняется в зависимости от времени года.",
+          "spanish": "El paisaje cambia por completo según la estación.",
+          "french": "Le paysage change du tout au tout selon la saison.",
+          "german": "Die Landschaft verändert sich je nach Jahreszeit komplett.",
+          "italian": "Il paesaggio cambia completamente a seconda della stagione.",
+          "portuguese": "A paisagem muda completamente dependendo da estação do ano.",
+          "esperanto": "La pejzaĝo tute ŝanĝiĝas depende de la sezono."
+        },
+        {
+          "english": "Nature has an incredible way of reclaiming old spaces.",
+          "russian": "У природы есть удивительная способность возвращать себе старые пространства.",
+          "spanish": "La naturaleza tiene una forma increíble de recuperar los viejos espacios.",
+          "french": "La nature a une manière incroyable de reprendre ses droits sur les espaces abandonnés.",
+          "german": "Die Natur hat eine faszinierende Art, sich alte Räume zurückzuholen.",
+          "italian": "La natura ha un modo incredibile di riprendersi i vecchi spazi.",
+          "portuguese": "A natureza tem uma capacidade incrível de recuperar espaços antigos.",
+          "esperanto": "Naturo havas nekredeblan manieron reklami malnovajn spacojn."
+        }
+      ]
+    }
+  ]
+}

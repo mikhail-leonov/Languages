@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Communication Aids & Language Barriers",
+      "phrases": [
+        {
+          "english": "Could you please repeat that a bit slower?",
+          "russian": "Не могли бы вы повторить это немного медленнее?",
+          "spanish": "¿Podría repetir eso un poco más despacio, por favor?",
+          "french": "Pourriez-vous répéter cela un peu plus lentement, s'il vous plaît ?",
+          "german": "Könnten Sie das bitte etwas langsamer wiederholen?",
+          "italian": "Potrebbe ripetere un po' più lentamente, per favore?",
+          "portuguese": "Você poderia repetir isso um pouco mais devagar, por favor?",
+          "esperanto": "Ĉu vi povus ripeti tion iom pli malrapide?"
+        },
+        {
+          "english": "I'm sorry, I didn't quite catch that last part.",
+          "russian": "Извините, я не совсем расслышал последнюю часть.",
+          "spanish": "Lo siento, no entendí bien esa última parte.",
+          "french": "Désolé, je n'ai pas tout à fait saisi la dernière partie.",
+          "german": "Tut mir leid, ich habe den letzten Teil nicht ganz mitbekommen.",
+          "italian": "Scusa, non ho capito bene l'ultima parte.",
+          "portuguese": "Desculpe, eu não entendi muito bem essa última parte.",
+          "esperanto": "Pardonon, mi ne tute kaptis la lastan parton."
+        },
+        {
+          "english": "Would you mind saying that once more?",
+          "russian": "Вы не могли бы сказать это еще раз?",
+          "spanish": "¿Le importaría decir eso una vez más?",
+          "french": "Cela vous dérangerait-il de redire cela une nouvelle fois ?",
+          "german": "Würde es Ihnen etwas ausmachen, das noch einmal zu sagen?",
+          "italian": "Le dispiacerebbe dirlo ancora una volta?",
+          "portuguese": "Você se importaria de dizer isso mais uma vez?",
+          "esperanto": "Ĉu vi bonus diri tion denove?"
+        },
+        {
+          "english": "Could you spell that out for me, please?",
+          "russian": "Не могли бы вы произнести это по буквам, пожалуйста?",
+          "spanish": "¿Podría deletrearme eso, por favor?",
+          "french": "Pourriez-vous m'épeler cela, s'il vous plaît ?",
+          "german": "Könnten Sie mir das bitte buchstabieren?",
+          "italian": "Potrebbe compitarlo per me, per favore?",
+          "portuguese": "Você poderia soletrar isso para mim, por favor?",
+          "esperanto": "Ĉu vi povus literumi tion por mi, bonvolu?"
+        },
+        {
+          "english": "I want to make sure I understand—could you rephrase that?",
+          "russian": "Я хочу убедиться, что все понял — не могли бы вы перефразировать?",
+          "spanish": "Quiero asegurarme de entender; ¿podría reformular eso?",
+          "french": "Je veux m'assurer de bien comprendre — pourriez-vous reformuler cela ?",
+          "german": "Ich möchte sichergehen, dass ich das verstehe – könnten Sie das anders formulieren?",
+          "italian": "Voglio assicurarmi di aver capito: potrebbe riformularlo?",
+          "portuguese": "Quero ter certeza de que entendi — você poderia reformular isso?",
+          "esperanto": "Mi volas certiĝi ke mi komprenas — ĉu vi povus reformuli tion?"
+        },
+        {
+          "english": "Did you mean [X] or [Y]?",
+          "russian": "Вы имели в виду [X] или [Y]?",
+          "spanish": "¿Te referías a [X] o a [Y]?",
+          "french": "Tu voulais dire [X] ou [Y] ?",
+          "german": "Meinten Sie [X] oder [Y]?",
+          "italian": "Intendevi [X] o [Y]?",
+          "portuguese": "Você quis dizer [X] ou [Y]?",
+          "esperanto": "Ĉu vi volis diri [X] aŭ [Y]?"
+        },
+        {
+          "english": "Could you write that down for me?",
+          "russian": "Не могли бы вы записать это для меня?",
+          "spanish": "¿Podría escribirme eso?",
+          "french": "Pourriez-vous me l'écrire ?",
+          "german": "Könnten Sie mir das aufschreiben?",
+          "italian": "Potrebbe scrivermelo?",
+          "portuguese": "Você poderia escrever isso para mim?",
+          "esperanto": "Ĉu vi povus skribi tion por mi?"
+        },
+        {
+          "english": "Sorry, what was that last word?",
+          "russian": "Извините, какое было последнее слово?",
+          "spanish": "Perdón, ¿cuál fue la última palabra?",
+          "french": "Désolé, quel était ce dernier mot ?",
+          "german": "Entschuldigung, wie hieß das letzte Wort?",
+          "italian": "Scusa, qual era l'ultima parola?",
+          "portuguese": "Desculpe, qual foi a última palavra?",
+          "esperanto": "Pardonon, kiu estis tiu lasta vorto?"
+        },
+        {
+          "english": "Could you explain what you mean by that?",
+          "russian": "Не могли бы вы объяснить, что вы имеете в виду под этим?",
+          "spanish": "¿Podría explicar qué quiere decir con eso?",
+          "french": "Pourriez-vous expliquer ce que vous entendez par là ?",
+          "german": "Könnten Sie erklären, was Sie damit meinen?",
+          "italian": "Potrebbe spiegare cosa intende con questo?",
+          "portuguese": "Você poderia explicar o que quer dizer com isso?",
+          "esperanto": "Ĉu vi povus klarigi, kion vi volas diri per tio?"
+        },
+        {
+          "english": "I'm not entirely sure I follow your meaning.",
+          "russian": "Я не совсем уверен, что понимаю вашу мысль.",
+          "spanish": "No estoy del todo seguro de entender lo que quieres decir.",
+          "french": "Je ne suis pas tout à fait sûr de vous suivre.",
+          "german": "Ich bin mir nicht ganz sicher, ob ich Sie richtig verstehe.",
+          "italian": "Non sono del tutto sicuro di seguirti.",
+          "portuguese": "Não tenho certeza absoluta se estou entendendo o seu raciocínio.",
+          "esperanto": "Mi ne estas tute certa ke mi komprenas vian sencon."
+        },
+        {
+          "english": "I am still learning English, so please bear with me.",
+          "russian": "Я все еще учу английский, поэтому, пожалуйста, проявите терпение.",
+          "spanish": "Todavía estoy aprendiendo inglés, así que tenga paciencia conmigo, por favor.",
+          "french": "J'apprends encore l'anglais, alors soyez indulgent, s'il vous plaît.",
+          "german": "Ich lerne noch Englisch, bitte haben Sie etwas Geduld mit mir.",
+          "italian": "Sto ancora imparando l'inglese, quindi per favore abbiate pazienza.",
+          "portuguese": "Ainda estou aprendendo inglês, então, por favor, tenha paciência comigo.",
+          "esperanto": "Mi ankoraŭ lernas la anglan, do bonvolu esti pacienca kun mi."
+        },
+        {
+          "english": "I understand a lot more than I can speak.",
+          "russian": "Я понимаю гораздо больше, чем могу сказать.",
+          "spanish": "Entiendo mucho más de lo que puedo hablar.",
+          "french": "Je comprends beaucoup mieux que je ne parle.",
+          "german": "Ich verstehe viel mehr, als ich sprechen kann.",
+          "italian": "Capisco molto più di quanto riesca a parlare.",
+          "portuguese": "Eu entendo muito mais do que consigo falar.",
+          "esperanto": "Mi komprenas multe pli ol mi povas paroli."
+        },
+        {
+          "english": "My vocabulary is a bit limited in this subject.",
+          "russian": "Мой словарный запас в этой теме немного ограничен.",
+          "spanish": "Mi vocabulario es un poco limitado en este tema.",
+          "french": "Mon vocabulaire est un peu limité sur ce sujet.",
+          "german": "Mein Wortschatz ist auf diesem Gebiet etwas begrenzt.",
+          "italian": "Il mio vocabolario è un po' limitato su questo argomento.",
+          "portuguese": "Meu vocabulário é um pouco limitado neste assunto.",
+          "esperanto": "Mia vortprovizo estas iom limigita pri ĉi tiu temo."
+        },
+        {
+          "english": "Could we use simpler terms, please?",
+          "russian": "Мы могли бы использовать более простые слова, пожалуйста?",
+          "spanish": "¿Podríamos usar términos más simples, por favor?",
+          "french": "Pourrions-nous utiliser des termes plus simples, s'il vous plaît ?",
+          "german": "Könnten wir bitte einfachere Ausdrücke verwenden?",
+          "italian": "Potremmo usare termini più semplici, per favore?",
+          "portuguese": "Poderíamos usar termos mais simples, por favor?",
+          "esperanto": "Ĉu ni povus uzi pli simplajn terminojn, bonvolu?"
+        },
+        {
+          "english": "I am struggling to find the right words right now.",
+          "russian": "Мне сейчас трудно подобрать правильные слова.",
+          "spanish": "Me está costando encontrar las palabras adecuadas en este momento.",
+          "french": "J'ai du mal à trouver les mots justes en ce moment.",
+          "german": "Es fällt mir gerade schwer, die richtigen Worte zu finden.",
+          "italian": "Faccio fatica a trovare le parole giuste in questo momento.",
+          "portuguese": "Estou com dificuldades para encontrar as palavras certas agora.",
+          "esperanto": "Mi baraktas trovi la ĝustajn vortojn nun."
+        },
+        {
+          "english": "Please correct my pronunciation if I make a mistake.",
+          "russian": "Пожалуйста, исправляйте мое произношение, если я ошибаюсь.",
+          "spanish": "Por favor, corrija mi pronunciación si cometo un error.",
+          "french": "N'hésitez pas à corriger ma prononciation si je fais une erreur.",
+          "german": "Bitte korrigieren Sie meine Aussprache, wenn ich einen Fehler mache.",
+          "italian": "Per favore, correggi la mia pronuncia se faccio un errore.",
+          "portuguese": "Por favor, corrija a minha pronúncia se eu cometer um erro.",
+          "esperanto": "Bonvolu korekti mian prononcon se mi eraras."
+        },
+        {
+          "english": "I might need a moment to translate that in my head.",
+          "russian": "Мне может понадобиться минутка, чтобы перевести это в уме.",
+          "spanish": "Puede que necesite un momento para traducir eso en mi cabeza.",
+          "french": "J'aurai peut-être besoin d'un moment pour traduire ça dans ma tête.",
+          "german": "Ich brauche vielleicht einen Moment, um das im Kopf zu übersetzen.",
+          "italian": "Potrei aver bisogno di un attimo per tradurlo nella mia testa.",
+          "portuguese": "Talvez eu precise de um momento para traduzir isso na minha cabeça.",
+          "esperanto": "Mi eble bezonos momenton por traduki tion en mia kapo."
+        },
+        {
+          "english": "English is not my native language, as you can probably tell.",
+          "russian": "Английский — не мой родной язык, как вы, наверное, уже заметили.",
+          "spanish": "El inglés no es mi lengua materna, como probablemente se habrá dado cuenta.",
+          "french": "L'anglais n'est pas ma langue maternelle, comme vous vous en doutez sûrement.",
+          "german": "Englisch ist nicht meine Muttersprache, wie Sie wahrscheinlich merken.",
+          "italian": "L'inglese non è la mia lingua madre, come probabilmente avrai notato.",
+          "portuguese": "O inglês não é minha língua nativa, como você provavelmente já percebeu.",
+          "esperanto": "La angla ne estas mia denaska lingvo, kiel vi verŝajne rimarkas."
+        },
+        {
+          "english": "I am practicing my speaking skills at the moment.",
+          "russian": "В данный момент я практикую свои навыки разговорной речи.",
+          "spanish": "Estoy practicando mis habilidades de conversación en este momento.",
+          "french": "Je pratique mon expression orale en ce moment.",
+          "german": "Ich übe im Moment meine Sprechfertigkeit.",
+          "italian": "Al momento sto praticando la mia produzione orale.",
+          "portuguese": "Estou praticando minha conversação no momento.",
+          "esperanto": "Mi praktikas miajn parolkapablojn nun."
+        },
+        {
+          "english": "I find it a bit difficult to follow fast conversations.",
+          "russian": "Мне немного трудно следить за быстрой речью.",
+          "spanish": "Me resulta un poco difícil seguir conversaciones rápidas.",
+          "french": "J'ai un peu de mal à suivre les conversations rapides.",
+          "german": "Es fällt mir etwas schwer, schnellen Gesprächen zu folgen.",
+          "italian": "Trovo un po' difficile seguire le conversazioni veloci.",
+          "portuguese": "Acho um pouco difícil acompanhar conversas rápidas.",
+          "esperanto": "Mi trovas iom malfacile sekvi rapidajn konversaciojn."
+        },
+        {
+          "english": "Let me pull up a translation app real quick.",
+          "russian": "Я сейчас быстренько открою приложение-переводчик.",
+          "spanish": "Déjame abrir una aplicación de traducción rápido.",
+          "french": "Laisse-moi ouvrir une appli de traduction deux secondes.",
+          "german": "Ich öffne mal ganz schnell eine Übersetzungs-App.",
+          "italian": "Fammi aprire un attimo un'app di traduzione.",
+          "portuguese": "Deixe-me abrir um aplicativo de tradução rapidinho.",
+          "esperanto": "Lasu min malfermi tradukprogramon tuj."
+        },
+        {
+          "english": "Could you type that into this translator for me?",
+          "russian": "Не могли бы вы набрать это в переводчике для меня?",
+          "spanish": "¿Podrías escribir eso en este traductor por mí?",
+          "french": "Pourriez-vous taper cela dans ce traducteur pour moi ?",
+          "german": "Könnten Sie das bitte kurz in diesen Übersetzer eintippen?",
+          "italian": "Potresti digitarlo in questo traduttore per me?",
+          "portuguese": "Você poderia digitar isso neste tradutor para mim?",
+          "esperanto": "Ĉu vi povus tajpi tion en ĉi tiun tradukilon por mi?"
+        },
+        {
+          "english": "Just a second, let me check the definition of that word.",
+          "russian": "Секунду, дайте мне проверить значение этого слова.",
+          "spanish": "Un segundo, déjame revisar la definición de esa palabra.",
+          "french": "Un instant, je vérifie la définition de ce mot.",
+          "german": "Moment, ich schaue kurz nach der Definition dieses Wortes.",
+          "italian": "Un attimo, fammi controllare la definizione di quella parola.",
+          "portuguese": "Só um segundo, deixe-me checar a definição dessa palavra.",
+          "esperanto": "Nur momenton, lasu min kontroli la difinon de tiu vorto."
+        },
+        {
+          "english": "How do you say [Word] in English?",
+          "russian": "Как будет [Слово] по-английски?",
+          "spanish": "¿Cómo se dice [Palabra] en inglés?",
+          "french": "Comment dit-on [Mot] en anglais ?",
+          "german": "Wie sagt man [Wort] auf Englisch?",
+          "italian": "Come si dice [Parola] in inglese?",
+          "portuguese": "Como se diz [Palavra] em inglês?",
+          "esperanto": "Kiel vi diras [Vorto] en la angla?"
+        },
+        {
+          "english": "Does this translation look accurate to you?",
+          "russian": "Этот перевод кажется вам точным?",
+          "spanish": "¿Te parece precisa esta traducción?",
+          "french": "Cette traduction te semble-t-elle correcte ?",
+          "german": "Sieht diese Übersetzung für Sie korrekt aus?",
+          "italian": "Questa traduzione ti sembra accurata?",
+          "portuguese": "Esta tradução parece correta para você?",
+          "esperanto": "Ĉu tiu traduko ŝajnas al vi ĝusta?"
+        },
+        {
+          "english": "I am using an app to help me communicate today.",
+          "russian": "Сегодня я использую приложение, чтобы общаться.",
+          "spanish": "Estoy usando una aplicación para ayudarme a comunicarme hoy.",
+          "french": "J'utilise une application pour m'aider à communiquer aujourd'hui.",
+          "german": "Ich benutze heute eine App, die mir beim Kommunizieren hilft.",
+          "italian": "Oggi sto usando un'applicazione per aiutarmi a comunicare.",
+          "portuguese": "Estou usando um aplicativo para me ajudar a comunicar hoje.",
+          "esperanto": "Mi uzas programon por helpi min komuniki hodiaŭ."
+        },
+        {
+          "english": "Could you show me what that means on your screen?",
+          "russian": "Не могли бы вы показать мне на своем экране, что это значит?",
+          "spanish": "¿Podrías mostrarme qué significa eso en tu pantalla?",
+          "french": "Pourriez-vous me montrer ce que ça signifie sur votre écran ?",
+          "german": "Könnten Sie mir auf Ihrem Bildschirm zeigen, was das bedeutet?",
+          "italian": "Potresti mostrarmi cosa significa sullo schermo?",
+          "portuguese": "Você poderia me mostrar o que isso significa na sua tela?",
+          "esperanto": "Ĉu vi povus montri al mi kion tio signifas sur via ekrano?"
+        },
+        {
+          "english": "Let me see if I can translate my thoughts correctly.",
+          "russian": "Дайте посмотреть, смогу ли я правильно выразить свои мысли на другом языке.",
+          "spanish": "Déjame ver si puedo traducir mis pensamientos correctamente.",
+          "french": "Laisse-moi voir si je peux traduire mes pensées correctement.",
+          "german": "Mal sehen, ob ich meine Gedanken richtig übersetzen kann.",
+          "italian": "Vediamo se riesco a tradurre correttamente i miei pensieri.",
+          "portuguese": "Deixe-me ver se consigo traduzir meus pensamentos corretamente.",
+          "esperanto": "Lasu min vidi ĉu mi povas traduki miajn pensojn ĝuste."
+        },
+        {
+          "english": "This app says [Phrase]—is that the correct way to say it?",
+          "russian": "Это приложение выдает [Фраза] — так правильно говорить?",
+          "spanish": "Esta aplicación dice [Frase], ¿es la forma correcta de decirlo?",
+          "french": "Cette appli dit [Phrase] — est-ce la bonne façon de le dire ?",
+          "german": "Diese App sagt [Phrase] – ist das so richtig ausgedrückt?",
+          "italian": "Questa applicazione dice [Frase]: è il modo corretto di dirlo?",
+          "portuguese": "Este aplicativo diz [Frase] — essa é a maneira correta de dizer?",
+          "esperanto": "Ĉi tiu programo diras [Frazo] — ĉu tio estas la ĝusta maniero diri ĝin?"
+        },
+        {
+          "english": "Thank you for your patience while I look this up.",
+          "russian": "Спасибо за ваше терпение, пока я это ищу.",
+          "spanish": "Gracias por su paciencia mientras busco esto.",
+          "french": "Merci de votre patience pendant que je cherche ceci.",
+          "german": "Vielen Dank für Ihre Geduld, während ich das nachschlage.",
+          "italian": "Grazie per la pazienza mentre cerco questa cosa.",
+          "portuguese": "Obrigado pela sua paciência enquanto eu procuro isso.",
+          "esperanto": "Dankon pro via pacienco dum mi serĉas ĉi tion."
+        },
+        {
+          "english": "Okay, I think I completely understand now.",
+          "russian": "Хорошо, теперь я вроде бы все понял.",
+          "spanish": "Bien, creo que ahora lo entiendo perfectamente.",
+          "french": "D'accord, je pense avoir complètement compris maintenant.",
+          "german": "Okay, ich glaube, jetzt habe ich es vollkommen verstanden.",
+          "italian": "Ok, penso di aver capito perfettamente ora.",
+          "portuguese": "Ok, acho que entendi perfeitamente agora.",
+          "esperanto": "Bone, mi pensas ke mi nun tute komprenas."
+        },
+        {
+          "english": "Just to confirm, we are meeting at [Time], correct?",
+          "russian": "Просто чтобы подтвердить: мы встречаемся в [Время], верно?",
+          "spanish": "Solo para confirmar, nos reuniremos a las [Hora], ¿correcto?",
+          "french": "Juste pour confirmer, nous nous voyons à [Heure], c'est bien ça ?",
+          "german": "Nur zur Bestätigung: Wir treffen uns um [Uhrzeit], richtig?",
+          "italian": "Solo per conferma, ci incontriamo alle [Ora], giusto?",
+          "portuguese": "Só para confirmar, nos encontraremos às [Hora], correto?",
+          "esperanto": "Nur por konfirmi, ni renkontiĝas je [Horo], ĉu ĝuste?"
+        },
+        {
+          "english": "So, what you're saying is [Summary]—is that right?",
+          "russian": "То есть вы говорите, что [Суть] — верно?",
+          "spanish": "Entonces, lo que estás diciendo es [Resumen], ¿es correcto?",
+          "french": "Donc, ce que vous dites c'est [Résumé] — c'est bien ça ?",
+          "german": "Was Sie also sagen, ist [Zusammenfassung] – stimmt das?",
+          "italian": "Quindi, quello che stai dicendo è [Sintesi], corretto?",
+          "portuguese": "Então, o que você está dizendo é [Resumo] — está correto?",
+          "esperanto": "Do, kion vi diras estas [Resumo] — ĉu ĝuste?"
+        },
+        {
+          "english": "Got it, that makes perfect sense to me now.",
+          "russian": "Понял, теперь в этом есть полный смысл.",
+          "spanish": "Entendido, eso ahora tiene perfecto sentido para mí.",
+          "french": "Compris, c'est tout à fait clair pour moi maintenant.",
+          "german": "Verstanden, das ergibt jetzt absolut Sinn für mich.",
+          "italian": "Capito, adesso per me ha perfettamente senso.",
+          "portuguese": "Entendido, agora isso faz todo o sentido para mim.",
+          "esperanto": "Komprenite, tio nun havas perfektan sencon por mi."
+        },
+        {
+          "english": "I see exactly what you mean.",
+          "russian": "Я прекрасно понимаю, что вы имеете в виду.",
+          "spanish": "Entiendo exactamente a qué te refieres.",
+          "french": "Je vois exactement ce que tu veux dire.",
+          "german": "Ich verstehe genau, was Sie meinen.",
+          "italian": "Capisco esattamente cosa intendi.",
+          "portuguese": "Entendo exatamente o que você quer dizer.",
+          "esperanto": "Mi vidas precize kion vi volas diri."
+        },
+        {
+          "english": "Are we on the same page about this?",
+          "russian": "Мы одинаково смотрим на этот вопрос?",
+          "spanish": "¿Estamos de acuerdo en esto?",
+          "french": "Est-ce qu'on est sur la même longueur d'onde à ce sujet ?",
+          "german": "Sind wir uns da einig? / Sind wir auf derselben Wellenlänge?",
+          "italian": "Siamo sulla stessa pagina riguardo a questo?",
+          "portuguese": "Estamos na mesma página sobre isso?",
+          "esperanto": "Ĉu ni estas sur la sama paĝo pri tio?"
+        },
+        {
+          "english": "Let me double-check that I have the correct details.",
+          "russian": "Давайте я перепроверю, верны ли у меня данные.",
+          "spanish": "Déjame verificar que tengo los datos correctos.",
+          "french": "Laissez-moi double-vérifier que j'ai les bonnes informations.",
+          "german": "Lassen Sie mich kurz überprüfen, ob ich die richtigen Details habe.",
+          "italian": "Fammi ricontrollare di avere i dettagli corretti.",
+          "portuguese": "Deixe-me checar duas vezes se tenho os detalhes corretos.",
+          "esperanto": "Lasu min duoble kontroli ĉu mi havas la ĝustajn detalojn."
+        },
+        {
+          "english": "I understand what you want me to do next.",
+          "russian": "Я понял, что мне нужно делать дальше.",
+          "spanish": "Entiendo lo que quieres que haga a continuación.",
+          "french": "Je comprends ce que vous voulez que je fasse ensuite.",
+          "german": "Ich weiß, was ich als Nächstes tun soll.",
+          "italian": "Ho capito cosa vuoi che io faccia ora.",
+          "portuguese": "Entendi o que você quer que eu faça a seguir.",
+          "esperanto": "Mi komprenas kion vi volas ke mi faru poste."
+        },
+        {
+          "english": "Thank you for clarifying that for me.",
+          "russian": "Спасибо, что прояснили это для меня.",
+          "spanish": "Gracias por aclararme eso.",
+          "french": "Merci d'avoir clarifié cela pour moi.",
+          "german": "Vielen Dank, dass Sie das für mich aufgeklärt haben.",
+          "italian": "Grazie per avermelo chiarito.",
+          "portuguese": "Obrigado por esclarecer isso para mim.",
+          "esperanto": "Dankon pro klarigi tion por mi."
+        },
+        {
+          "english": "Loud and clear, I will get right on it.",
+          "russian": "Вас понял, сейчас же займусь этим.",
+          "spanish": "Fuerte y claro, me pongo a ello de inmediato.",
+          "french": "Cinq sur cinq, je m'en occupe tout de suite.",
+          "german": "Laut und deutlich, ich mache mich sofort ran.",
+          "italian": "Ricevuto forte e chiaro, me ne occupo subito.",
+          "portuguese": "Alto e claro, vou cuidar disso agora mesmo.",
+          "esperanto": "Laŭte kaj klare, mi tuj okupiĝos pri ĝi."
+        },
+        {
+          "english": "Please feel free to interrupt and correct my English.",
+          "russian": "Пожалуйста, не стесняйтесь перебивать и исправлять мой английский.",
+          "spanish": "Por favor, siéntase libre de interrumpirme y corregir mi inglés.",
+          "french": "N'hésitez pas à m'interrompre pour corriger mon anglais.",
+          "german": "Bitte unterbrechen Sie mich ruhig, um mein Englisch zu korrigieren.",
+          "italian": "Non esitare a interrompermi e a correggere il mio inglese.",
+          "portuguese": "Por favor, sinta-se à vontade para me interromper e corrigir meu inglês.",
+          "esperanto": "Bonvolu senti vin libera interrompi kaj korekti mian anglan."
+        },
+        {
+          "english": "How do you pronounce this word properly?",
+          "russian": "Как правильно произносится это слово?",
+          "spanish": "¿Cómo se pronuncia correctamente esta palabra?",
+          "french": "Comment prononce-t-on ce mot correctement ?",
+          "german": "Wie spricht man dieses Wort richtig aus?",
+          "italian": "Come si pronuncia correttamente questa parola?",
+          "portuguese": "Como se pronuncia essa palavra corretamente?",
+          "esperanto": "Kiel oni prononcas ĉi tiun vorton ĝuste?"
+        },
+        {
+          "english": "Is [Phrase] the natural way to say this?",
+          "russian": "[Фраза] — это естественный способ сказать это?",
+          "spanish": "¿Es [Frase] la forma natural de decir esto?",
+          "french": "Est-ce que [Phrase] est la façon naturelle de dire ça ?",
+          "german": "Klingt [Phrase] auf Englisch natürlich?",
+          "italian": "[Frase] è il modo più naturale per dirlo?",
+          "portuguese": "[Frase] é a maneira natural de dizer isso?",
+          "esperanto": "Ĉu [Frazo] estas la natura maniero diri ĉi tion?"
+        },
+        {
+          "english": "Please let me know if I sound too formal.",
+          "russian": "Пожалуйста, скажите мне, если я звучу слишком официально.",
+          "spanish": "Por favor, avíseme si sueno demasiado formal.",
+          "french": "Dites-moi si j'ai l'air trop formel, s'il vous plaît.",
+          "german": "Sagen Sie mir bitte Bescheid, wenn ich zu formell klinge.",
+          "italian": "Fammi sapere se sembro troppo formale.",
+          "portuguese": "Por favor, me avise se eu parecer formal demais.",
+          "esperanto": "Bonvolu sciigi min se mi sonas tro formala."
+        },
+        {
+          "english": "What is a more common idiom for this situation?",
+          "russian": "Какое выражение здесь используется чаще всего?",
+          "spanish": "¿Cuál es un modismo más común para esta situación?",
+          "french": "Quelle est l'expression idiomatique la plus courante dans cette situation ?",
+          "german": "Gibt es für diese Situation eine gängigere Redewendung?",
+          "italian": "Qual è un modo di dire più comune in questa situazione?",
+          "portuguese": "Qual é uma expressão idiomática mais comum para esta situação?",
+          "esperanto": "Kio estas pli ofta idiotismo por ĉi tiu situacio?"
+        },
+        {
+          "english": "Go ahead and fix my grammar whenever you need to.",
+          "russian": "Смело исправляйте мою грамматику в любой момент.",
+          "spanish": "Adelante, corrige mi gramática siempre que lo necesites.",
+          "french": "Vas-y, corrige ma grammaire chaque fois que c'est nécessaire.",
+          "german": "Korrigieren Sie meine Grammatik ruhig, wann immer es nötig ist.",
+          "italian": "Tranquillo, correggi la mia grammatica ogni volta che serve.",
+          "portuguese": "Pode corrigir a minha gramática sempre que precisar.",
+          "esperanto": "Kuraĝe korektu mian gramatikon kiam ajn necese."
+        },
+        {
+          "english": "I welcome any feedback you have on my language skills.",
+          "russian": "Я буду рад любым замечаниям по поводу моего уровня языка.",
+          "spanish": "Agradezco cualquier comentario sobre mis habilidades con el idioma.",
+          "french": "Tous vos retours sur mes compétences linguistiques sont les bienvenus.",
+          "german": "Ich freue mich über jedes Feedback zu meinen Sprachkenntnissen.",
+          "italian": "Qualsiasi feedback sulle mie competenze linguistiche è benvenuto.",
+          "portuguese": "Qualquer feedback sobre minhas habilidades no idioma será muito bem-vindo.",
+          "esperanto": "Mi bonvenigas ajnan komenton pri miaj lingvokapabloj."
+        },
+        {
+          "english": "Is there a shorter way to express that idea?",
+          "russian": "Есть ли более короткий способ выразить эту мысль?",
+          "spanish": "¿Hay una manera más corta de expresar esa idea?",
+          "french": "Y a-t-il une façon plus courte d'exprimer cette idée ?",
+          "german": "Gibt es eine kürzere Möglichkeit, diesen Gedanken auszudrücken?",
+          "italian": "C'è un modo più breve per esprimere questa idea?",
+          "portuguese": "Existe uma maneira mais curta de expressar essa ideia?",
+          "esperanto": "Ĉu estas pli mallonga maniero esprimi tiun ideon?"
+        },
+        {
+          "english": "Did I use that word in the right context?",
+          "russian": "Я использовал это слово в правильном контексте?",
+          "spanish": "¿Usé esa palabra en el contexto adecuado?",
+          "french": "Ai-je utilisé ce mot dans le bon contexte ?",
+          "german": "Habe ich dieses Wort im richtigen Kontext verwendet?",
+          "italian": "Ho usato quella parola nel contesto giusto?",
+          "portuguese": "Eu usei essa palavra no contexto certo?",
+          "esperanto": "Ĉu mi uzis tiun vorton en la ĝusta kunteksto?"
+        },
+        {
+          "english": "I really appreciate you helping me improve my English.",
+          "russian": "Я очень благодарен вам за то, что помогаете мне улучшать английский.",
+          "spanish": "Realmente agradezco que me ayudes a mejorar mi inglés.",
+          "french": "J'apprécie vraiment que tu m'aides à améliorer mon anglais.",
+          "german": "Ich weiß es wirklich zu schätzen, dass Sie mir helfen, mein Englisch zu verbessern.",
+          "italian": "Ti ringrazio molto per l'aiuto nel migliorare il mio inglese.",
+          "portuguese": "Eu realmente agradeço por você me ajudar a melhorar meu inglês.",
+          "esperanto": "Mi vere aprezas ke vi helpas min plibonigi mian anglan."
+        }
+      ]
+    }
+  ]
+}

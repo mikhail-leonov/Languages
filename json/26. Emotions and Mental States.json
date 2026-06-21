@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Emotions & Mental States",
+      "phrases": [
+        {
+          "english": "I am absolutely thrilled about this opportunity!",
+          "russian": "Я в полном восторге от этой возможности!",
+          "spanish": "¡Estoy absolutamente encantado con esta oportunidad!",
+          "french": "Je suis absolument ravi de cette opportunité !",
+          "german": "Ich bin absolut begeistert von dieser Gelegenheit!",
+          "italian": "Sono assolutamente entusiasta di questa opportunità!",
+          "portuguese": "Estou absolutamente radiante com esta oportunidade!",
+          "esperanto": "Mi estas absolute ravita pri ĉi tiu ŝanco!"
+        },
+        {
+          "english": "I'm walking on sunshine today.",
+          "russian": "Я сегодня просто на седьмом небе от счастья.",
+          "spanish": "Hoy siento que camino sobre nubes.",
+          "french": "Je suis sur un petit nuage aujourd'hui.",
+          "german": "Ich könnte heute die ganze Welt umarmen.",
+          "italian": "Oggi mi sento al settimo cielo.",
+          "portuguese": "Estou flutuando de alegria hoje.",
+          "esperanto": "Mi marŝas sur sunbrilo hodiaŭ."
+        },
+        {
+          "english": "That news has put me in the best mood.",
+          "russian": "Эта новость подняла мне настроение до максимума.",
+          "spanish": "Esa noticia me ha puesto del mejor humor.",
+          "french": "Cette nouvelle m'a mis de super bonne humeur.",
+          "german": "Diese Nachricht hat mir die allerbeste Laune verpasst.",
+          "italian": "Questa notizia mi ha messo del migliore umore.",
+          "portuguese": "Essa notícia me deixou no melhor dos humores.",
+          "esperanto": "Tiu novaĵo metis min en la plej bonan humoron."
+        },
+        {
+          "english": "I am genuinely bursting with excitement!",
+          "russian": "Я искренне лопаюсь от восторга!",
+          "spanish": "¡Literalmente reboso de emoción!",
+          "french": "Je déborde vraiment d'excitation !",
+          "german": "Ich platze vor Aufregung!",
+          "italian": "Sto sinceramente scoppiando di emozione!",
+          "portuguese": "Estou genuinamente explodindo de emoção!",
+          "esperanto": "Mi sincere eksplodas de ekscitiĝo!"
+        },
+        {
+          "english": "I feel incredibly content with where things stand.",
+          "russian": "Я чувствую себя невероятно удовлетворенным тем, как идут дела.",
+          "spanish": "Me siento increíblemente satisfecho con la situación actual.",
+          "french": "Je me sens incroyablement satisfait de la tournure des choses.",
+          "german": "Ich bin unheimlich zufrieden mit dem aktuellen Stand der Dinge.",
+          "italian": "Mi sento incredibilmente soddisfatto di come stanno le cose.",
+          "portuguese": "Sinto-me incrivelmente satisfeito(a) com a situação atual.",
+          "esperanto": "Mi sentas min nekredeble kontenta pri la nuna stato."
+        },
+        {
+          "english": "That brings a massive smile to my face.",
+          "russian": "От этого у меня на лице появляется широкая улыбка.",
+          "spanish": "Eso me saca una enorme sonrisa.",
+          "french": "Ça me donne un immense sourire.",
+          "german": "Das zaubert mir ein riesiges Lächeln ins Gesicht.",
+          "italian": "Questo mi stampa un gran sorriso in faccia.",
+          "portuguese": "Isso coloca um sorriso enorme no meu rosto.",
+          "esperanto": "Tio alportas grandegan rideton al mia vizaĝo."
+        },
+        {
+          "english": "I am completely energized and ready to take this on.",
+          "russian": "Я полон энергии и готов за это взяться.",
+          "spanish": "Estoy completamente lleno de energía y listo para asumir esto.",
+          "french": "Je suis plein d'énergie et prêt à m'y attaquer.",
+          "german": "Ich bin voller Energie und bereit, das anzupacken.",
+          "italian": "Sono completamente carico e pronto ad affrontare questa cosa.",
+          "portuguese": "Estou totalmente cheio(a) de energia e pronto(a) para encarar isso.",
+          "esperanto": "Mi estas tute energiigita kaj preta por tion entrepreni."
+        },
+        {
+          "english": "I couldn't be happier even if I tried.",
+          "russian": "Я не мог бы быть счастливее, даже если бы попытался.",
+          "spanish": "No podría estar más feliz ni aunque lo intentara.",
+          "french": "Je ne pourrais pas être plus heureux même si j'essayais.",
+          "german": "Ich könnte unmöglich noch glücklicher sein.",
+          "italian": "Non potrei essere più felice di così.",
+          "portuguese": "Não poderia estar mais feliz, mesmo se tentasse.",
+          "esperanto": "Mi ne povus esti pli feliĉa eĉ se mi provus."
+        },
+        {
+          "english": "I'm feeling deeply grateful for this moment.",
+          "russian": "Я чувствую глубокую благодарность за этот момент.",
+          "spanish": "Me siento profundamente agradecido por este momento.",
+          "french": "Je me sens profondément reconnaissant pour ce moment.",
+          "german": "Ich bin für diesen Moment zutiefst dankbar.",
+          "italian": "Mi sento profondamente grato per questo momento.",
+          "portuguese": "Estou me sentindo profundamente grato(a) por este momento.",
+          "esperanto": "Mi sentas min profunde dankema pro ĉi tiu momento."
+        },
+        {
+          "english": "That is absolutely wonderful to hear!",
+          "russian": "Это просто прекрасно слышать!",
+          "spanish": "¡Es absolutamente maravilloso escuchar eso!",
+          "french": "C'est absolument merveilleux à entendre !",
+          "german": "Das ist absolut wunderbar zu hören!",
+          "italian": "È assolutamente fantastico sentirlo!",
+          "portuguese": "Isso é absolutamente maravilhoso de se ouvir!",
+          "esperanto": "Tio estas absolute mirinda aŭdi!"
+        },
+        {
+          "english": "I'm feeling a bit down in the dumps today.",
+          "russian": "Я сегодня немного хандрю.",
+          "spanish": "Hoy me siento un poco deprimido.",
+          "french": "Je me sens un peu cafardeux aujourd'hui.",
+          "german": "Ich bin heute ein bisschen trübsinnig.",
+          "italian": "Oggi mi sento un po' giù di morale.",
+          "portuguese": "Estou me sentindo um pouco na fossa hoje.",
+          "esperanto": "Mi sentas min iom malgaja hodiaŭ."
+        },
+        {
+          "english": "I am utterly devastated by this news.",
+          "russian": "Я совершенно опустошен этими новостями.",
+          "spanish": "Estoy completamente destrozado por esta noticia.",
+          "french": "Je suis totalement anéanti par cette nouvelle.",
+          "german": "Diese Nachricht hat mich völlig am Boden zerstört.",
+          "italian": "Sono completamente devastato da questa notizia.",
+          "portuguese": "Estou totalmente arrasado(a) com esta notícia.",
+          "esperanto": "Mi estas tute devastita pro ĉi tiu novaĵo."
+        },
+        {
+          "english": "I'm just not feeling like myself right now.",
+          "russian": "Я просто сам не свой сейчас.",
+          "spanish": "Simplemente no me siento yo mismo en este momento.",
+          "french": "Je ne me sens pas vraiment moi-même en ce moment.",
+          "german": "Ich fühle mich gerade einfach nicht wie ich selbst.",
+          "italian": "In questo momento non mi sento proprio me stesso.",
+          "portuguese": "Eu simplesmente não estou me sentindo eu mesmo(a) agora.",
+          "esperanto": "Mi simple ne sentas min kiel mi mem nun."
+        },
+        {
+          "english": "I feel a heavy weight on my chest.",
+          "russian": "Я чувствую тяжесть на душе.",
+          "spanish": "Siento un peso enorme en el pecho.",
+          "french": "Je ressens un poids lourd sur la poitrine.",
+          "german": "Ich spüre eine schwere Last auf meiner Brust.",
+          "italian": "Sento un peso pesante sul petto.",
+          "portuguese": "Sinto um peso enorme no meu peito.",
+          "esperanto": "Mi sentas pezan ŝarĝon sur mia brusto."
+        },
+        {
+          "english": "I am deeply saddened to hear about that.",
+          "russian": "Мне глубоко грустно слышать об этом.",
+          "spanish": "Me entristece profundamente enterarme de eso.",
+          "french": "Cela m'attriste profondément d'apprendre cela.",
+          "german": "Es macht mich zutiefst traurig, das zu hören.",
+          "italian": "Sono profondamente rattristato nel sentirlo.",
+          "portuguese": "Fico profundamente triste ao saber disso.",
+          "esperanto": "Mi estas profunde malĝojigita aŭdi pri tio."
+        },
+        {
+          "english": "I'm running completely on empty at the moment.",
+          "russian": "В данный момент я полностью истощен.",
+          "spanish": "Estoy funcionando completamente en vacío en este momento.",
+          "french": "Je suis complètement à plat en ce moment.",
+          "german": "Ich laufe im Moment völlig auf Kette.",
+          "italian": "Al momento sono completamente a secco di energie.",
+          "portuguese": "Estou funcionando completamente no limite agora.",
+          "esperanto": "Mi funkcias tute senenergie nun."
+        },
+        {
+          "english": "I just need some quiet time to process everything.",
+          "russian": "Мне просто нужно немного побыть в тишине, чтобы все переварить.",
+          "spanish": "Solo necesito un tiempo a solas para procesar todo.",
+          "french": "J'ai juste besoin d'un moment de calme pour tout assimiler.",
+          "german": "Ich brauche einfach etwas Ruhe, um das alles zu verarbeiten.",
+          "italian": "Ho solo bisogno di un po' di tranquillità per elaborare tutto.",
+          "portuguese": "Só preciso de um tempo em silêncio para processar tudo.",
+          "esperanto": "Mi nur bezonas iom da trankvila tempo por prilabori ĉion."
+        },
+        {
+          "english": "I am feeling incredibly lonely lately.",
+          "russian": "В последнее время я чувствую себя невероятно одиноко.",
+          "spanish": "Me he sentido increíblemente solo últimamente.",
+          "french": "Je me sens incroyablement seul ces derniers temps.",
+          "german": "Ich fühle mich in letzter Zeit unheimlich einsam.",
+          "italian": "Mi sento incredibilmente solo ultimamente.",
+          "portuguese": "Tenho me sentido incrivelmente sozinho(a) ultimamente.",
+          "esperanto": "Mi sentas min nekredeble sola lastatempe."
+        },
+        {
+          "english": "My heart completely goes out to them.",
+          "russian": "Мое сердце всем сердцем сопереживает им.",
+          "spanish": "Mi corazón está totalmente con ellos.",
+          "french": "De tout cœur avec eux.",
+          "german": "Mein tiefstes Mitgefühl gilt ihnen.",
+          "italian": "Il mio cuore è totalmente con loro.",
+          "portuguese": "O meu coração está totalmente com eles.",
+          "esperanto": "Mia koro tute estas kun ili."
+        },
+        {
+          "english": "I'm struggling to find much motivation today.",
+          "russian": "Мне сегодня трудно найти хоть какую-то мотивацию.",
+          "spanish": "Me cuesta encontrar motivación el día de hoy.",
+          "french": "J'ai du mal à trouver de la motivation aujourd'hui.",
+          "german": "Ich tue mich heute schwer, mich zu motivieren.",
+          "italian": "Oggi faccio fatica a trovare la motivazione.",
+          "portuguese": "Estou lutando para encontrar motivação hoje.",
+          "esperanto": "Mi baraktas trovi iom da motivado hodiaŭ."
+        },
+        {
+          "english": "I am incredibly stressed out about this deadline.",
+          "russian": "Я невероятно напряжен из-за этого дедлайна.",
+          "spanish": "Estoy increíblemente estresado por esta fecha límite.",
+          "french": "Je stress énormément à cause de cette date limite.",
+          "german": "Ich bin wegen dieser Deadline wahnsinnig gestresst.",
+          "italian": "Sono incredibilmente stressato per questa scadenza.",
+          "portuguese": "Estou incrivelmente estressado(a) com este prazo.",
+          "esperanto": "Mi estas nekredeble streĉita pro ĉi tiu limdato."
+        },
+        {
+          "english": "I feel completely overwhelmed by everything on my plate.",
+          "russian": "Я чувствую себя абсолютно заваленным делами.",
+          "spanish": "Me siento completamente abrumado con todo lo que tengo pendiente.",
+          "french": "Je me sens complètement submergé par tout ce que j'ai à faire.",
+          "german": "Ich fühle mich von allem, was ich um die Ohren habe, völlig überfordert.",
+          "italian": "Mi sento completamente sopraffatto da tutto quello che ho da fare.",
+          "portuguese": "Sinto-me completamente sobrecarregado(a) com tudo o que tenho para fazer.",
+          "esperanto": "Mi sentas min tute superŝutita de ĉio, kion mi havas farenda."
+        },
+        {
+          "english": "My anxiety is through the roof right now.",
+          "russian": "Моя тревожность сейчас просто зашкаливает.",
+          "spanish": "Mi ansiedad está por las nubes en este momento.",
+          "french": "Mon anxiété est au plafond en ce moment.",
+          "german": "Meine Angst ist im Moment auf dem absoluten Höchststand.",
+          "italian": "La mia ansia è alle stelle in questo momento.",
+          "portuguese": "Minha ansiedade está nas alturas agora.",
+          "esperanto": "Mia angoro estas ĉe la pinto nun."
+        },
+        {
+          "english": "I'm feeling a bit panicky about the presentation.",
+          "russian": "У меня небольшая паника из-за презентации.",
+          "spanish": "Siento un poco de pánico por la presentación.",
+          "french": "Je panique un peu à cause de la présentation.",
+          "german": "Wegen der Präsentation packt mich ein bisschen die Panik.",
+          "italian": "Ho un po' di panico per la presentazione.",
+          "portuguese": "Estou sentindo um pouco de pânico com a apresentação.",
+          "esperanto": "Mi sentas iom panikiĝi pri la prezentado."
+        },
+        {
+          "english": "I can't seem to quiet my mind tonight.",
+          "russian": "Кажется, я никак не могу успокоить свои мысли сегодня вечером.",
+          "spanish": "Parece que no puedo calmar mi mente esta noche.",
+          "french": "Je n'arrive pas à calmer mes pensées ce soir.",
+          "german": "Ich kriege meinen Kopf heute Nacht einfach nicht frei.",
+          "italian": "Sembra che non riesca a calmare i pensieri stasera.",
+          "portuguese": "Parece que não consigo aquietar a minha mente esta noite.",
+          "esperanto": "Mi ŝajne ne povas trankviligi mian menson ĉi-vespere."
+        },
+        {
+          "english": "I feel like I'm completely drowning in work.",
+          "russian": "Такое ощущение, что я полностью тону в работе.",
+          "spanish": "Siento que me estoy ahogando por completo en el trabajo.",
+          "french": "J'ai l'impression de me noyer complètement sous le travail.",
+          "german": "Ich habe das Gefühl, komplett in Arbeit zu versinken.",
+          "italian": "Mi sembra di affogare completamente nel lavoro.",
+          "portuguese": "Sinto que estou completamente afundando em trabalho.",
+          "esperanto": "Mi sentas ke mi tute dronas en laboro."
+        },
+        {
+          "english": "I am a bit on edge at the moment.",
+          "russian": "Я сейчас немного на взводе.",
+          "spanish": "Estoy un poco impaciente en este momento.",
+          "french": "Je suis un peu sur les nerfs en ce moment.",
+          "german": "Ich bin im Moment etwas gereizt.",
+          "italian": "Sono un po' sul chi vive al momento.",
+          "portuguese": "Estou um pouco tenso(a) no momento.",
+          "esperanto": "Mi estas iom agacita nun."
+        },
+        {
+          "english": "This situation is making me incredibly uneasy.",
+          "russian": "Эта ситуация вызывает у меня крайнее беспокойство.",
+          "spanish": "Esta situación me hace sentir increíblemente incómodo.",
+          "french": "Cette situation me met incroyablement mal à l'aise.",
+          "german": "Diese Situation bereitet mir extremes Unbehagen.",
+          "italian": "Questa situazione mi rende incredibilmente inquieto.",
+          "portuguese": "Esta situação está me deixando incrivelmente inquieto(a).",
+          "esperanto": "Ĉi tiu situacio igas min nekredeble maltrankvila."
+        },
+        {
+          "english": "I'm feeling very frantic and scattered.",
+          "russian": "Я чувствую себя очень суетливым и рассеянным.",
+          "spanish": "Me siento muy frenético y disperso.",
+          "french": "Je me sens très agité et éparpillé.",
+          "german": "Ich fühle mich total hektisch und unkonzentriert.",
+          "italian": "Mi sento molto frenetico e disorientato.",
+          "portuguese": "Estou me sentindo muito frenético(a) e disperso(a).",
+          "esperanto": "Mi sentas min tre frenetika kaj disa."
+        },
+        {
+          "english": "I really need to take a step back and breathe.",
+          "russian": "Мне действительно нужно сделать шаг назад и выдохнуть.",
+          "spanish": "Realmente necesito dar un paso atrás y respirar.",
+          "french": "J'ai vraiment besoin de prendre du recul et de souffler.",
+          "german": "Ich muss echt mal einen Schritt zurücktreten und durchatmen.",
+          "italian": "Ho davvero bisogno di fare un passo indietro e respirare.",
+          "portuguese": "Eu realmente preciso dar um passo atrás e respirar.",
+          "esperanto": "Mi vere bezonas fari paŝon malantaŭen kaj spiri."
+        },
+        {
+          "english": "I am deeply frustrated by this lack of progress.",
+          "russian": "Я глубоко разочарован этим отсутствием прогресса.",
+          "spanish": "Estoy profundamente frustrado por esta falta de progreso.",
+          "french": "Je suis profondément frustré par ce manque de progrès.",
+          "german": "Ich bin über diesen mangelnden Fortschritt zutiefst frustriert.",
+          "italian": "Sono profondamente frustrato da questa mancanza di progressi.",
+          "portuguese": "Estou profundamente frustrado(a) com essa falta de progresso.",
+          "esperanto": "Mi estas profunde frustrita pro ĉi tiu manko de progreso."
+        },
+        {
+          "english": "That really rubs me the wrong way.",
+          "russian": "Это меня реально раздражает / гладит против шерсти.",
+          "spanish": "Eso realmente me molesta.",
+          "french": "Ça me prend vraiment à rebrousse-poil.",
+          "german": "Das geht mir gehörig gegen den Strich.",
+          "italian": "Questa cosa mi urta davvero i nervi.",
+          "portuguese": "Isso realmente me irrita.",
+          "esperanto": "Tio vere iritas min."
+        },
+        {
+          "english": "I am absolutely furious about how this was handled.",
+          "russian": "Я в абсолютной ярости от того, как с этим обошлись.",
+          "spanish": "Estoy absolutamente furioso por cómo se manejó esto.",
+          "french": "Je suis absolument furieux de la façon dont cela a été géré.",
+          "german": "Ich bin absolut wütend darüber, wie das gehandhabt wurde.",
+          "italian": "Sono assolutamente furioso per come è stata gestita la cosa.",
+          "portuguese": "Estou absolutamente furioso(a) com a forma como isso foi conduzido.",
+          "esperanto": "Mi estas absolute furioza pri kiel tio estis traktita."
+        },
+        {
+          "english": "I'm losing my patience with this situation.",
+          "russian": "Мое терпение по отношению к этой ситуации заканчивается.",
+          "spanish": "Estoy perdiendo la paciencia con esta situación.",
+          "french": "Je perds patience avec cette situation.",
+          "german": "Ich verliere langsam die Geduld mit dieser Situation.",
+          "italian": "Sto perdendo la pazienza con questa situazione.",
+          "portuguese": "Estou perdendo a paciência com esta situação.",
+          "esperanto": "Mi perdas paciencon kun ĉi tiu situacio."
+        },
+        {
+          "english": "That is incredibly annoying to deal with.",
+          "russian": "С этим невероятно раздражает иметь дело.",
+          "spanish": "Es increíblemente molesto lidiar con eso.",
+          "french": "C'est incroyablement agaçant à gérer.",
+          "german": "Es ist unheimlich nervig, sich damit rumschlagen zu müssen.",
+          "italian": "È incredibilmente fastidioso doverci fare i conti.",
+          "portuguese": "É incrivelmente irritante lidar com isso.",
+          "esperanto": "Tio estas nekredeble ĝena por trakti."
+        },
+        {
+          "english": "I am highly irritated by these constant interruptions.",
+          "russian": "Меня жутко раздражают эти постоянные прерывания.",
+          "spanish": "Me irritan mucho estas interrupciones constantes.",
+          "french": "Ces interruptions constantes m'irritent au plus haut point.",
+          "german": "Ich bin von diesen ständigen Unterbrechungen extrem genervt.",
+          "italian": "Sono fortemente irritato da queste continue interruzioni.",
+          "portuguese": "Estou altamente irritado(a) com essas interrupções constantes.",
+          "esperanto": "Mi estas tre iritita pro ĉi tiuj konstantaj interrompoj."
+        },
+        {
+          "english": "I'm a bit resentful about the unfair treatment.",
+          "russian": "Обидно из-за такого несправедливого отношения.",
+          "spanish": "Siento un poco de resentimiento por el trato injusto.",
+          "french": "Je ressens un peu de rancœur face à ce traitement injuste.",
+          "german": "Ich bin wegen der ungerechten Behandlung etwas verbittert.",
+          "italian": "Provo un po' di risentimento per il trattamento ingiusto.",
+          "portuguese": "Estou com um pouco de ressentimento por causa desse tratamento injusto.",
+          "esperanto": "Mi estas iom rankora pri la maljusta traktado."
+        },
+        {
+          "english": "I need to vent before I completely blow off steam.",
+          "russian": "Мне нужно выговориться, пока я окончательно не взорвался.",
+          "spanish": "Necesito desahogarme antes de estallar por completo.",
+          "french": "J'ai besoin de vider mon sac avant de péter un plomb.",
+          "german": "Ich muss mich erst mal auskotzen, bevor mir der Kragen platzt.",
+          "italian": "Ho bisogno di sfogarmi prima di esplodere del tutto.",
+          "portuguese": "Preciso desabafar antes de soltar os cachorros completamente.",
+          "esperanto": "Mi bezonas senŝargiĝi antaŭ ol mi tute eksplodos."
+        },
+        {
+          "english": "That completely crossed the line.",
+          "russian": "Это абсолютно перешло все границы.",
+          "spanish": "Eso cruzó completamente la línea.",
+          "french": "Ça a complètement dépassé les bornes.",
+          "german": "Das hat absolut die Grenze überschritten.",
+          "italian": "Questo ha completamente superato il limite.",
+          "portuguese": "Isso passou completamente dos limites.",
+          "esperanto": "Tio tute transiris la limon."
+        },
+        {
+          "english": "I am just so fed up with these excuses.",
+          "russian": "Я просто сыт по горло этими оправданиями.",
+          "spanish": "Ya estoy harto de estas excusas.",
+          "french": "Je n'en peux plus de ces excuses.",
+          "german": "Ich habe diese Ausreden einfach so satt.",
+          "italian": "Ne ho fin sopra i capelli di queste scuse.",
+          "portuguese": "Estou tão de saco cheio dessas desculpas.",
+          "esperanto": "Mi estas tiel laca de ĉi tiuj pretekstoj."
+        },
+        {
+          "english": "I am completely conflicted about what to do next.",
+          "russian": "Я в полном замешательстве насчет того, что делать дальше.",
+          "spanish": "Estoy completamente en conflicto sobre qué hacer después.",
+          "french": "Je suis complètement partagé sur ce qu'il faut faire ensuite.",
+          "german": "Ich bin völlig hin- und hergerissen, was ich als Nächstes tun soll.",
+          "italian": "Sono completamente combattuto su cosa fare dopo.",
+          "portuguese": "Estou completamente conflitado(a) sobre o que fazer a seguir.",
+          "esperanto": "Mi estas tute konfliktita pri kion fari poste."
+        },
+        {
+          "english": "I'm feeling a bit lost and unsure of myself.",
+          "russian": "Я чувствую себя немного потерянным и неуверенным в себе.",
+          "spanish": "Me siento un poco perdido y inseguro de mí mismo.",
+          "french": "Je me sens un peu perdu et peu sûr de moi.",
+          "german": "Ich fühle mich gerade etwas verloren und unsicher.",
+          "italian": "Mi sento un po' perso e insicuro di me stesso.",
+          "portuguese": "Estou me sentindo um pouco perdido(a) e inseguro(a) de mim mesmo(a).",
+          "esperanto": "Mi sentas min iom perdita kaj necerta pri mi."
+        },
+        {
+          "english": "I am totally bewildered by this decision.",
+          "russian": "Я совершенно сбит с толку этим решением.",
+          "spanish": "Estoy totalmente desconcertado por esta decisión.",
+          "french": "Je suis totalement abasourdi par cette décision.",
+          "german": "Diese Entscheidung macht mich völlig fassungslos.",
+          "italian": "Sono del tutto sbalordito da questa decisione.",
+          "portuguese": "Estou totalmente perplexo(a) com esta decisão.",
+          "esperanto": "Mi estas tute konfuzita pro ĉi tiu decido."
+        },
+        {
+          "english": "I have some serious doubts about this plan.",
+          "russian": "У меня есть серьезные сомнения по поводу этого плана.",
+          "spanish": "Tengo serias dudas sobre este plan.",
+          "french": "J'ai de sérieux doutes sur ce plan.",
+          "german": "Ich habe ernsthafte Zweifel an diesem Plan.",
+          "italian": "Ho dei seri dubbi su questo piano.",
+          "portuguese": "Tenho sérias dúvidas sobre este plano.",
+          "esperanto": "Mi havas seriozajn dubojn pri ĉi tiu plano."
+        },
+        {
+          "english": "I am completely in the dark here.",
+          "russian": "Я здесь в полной неизвестности.",
+          "spanish": "Estoy completamente a oscuras aquí.",
+          "french": "Je suis complètement dans le flou ici.",
+          "german": "Ich tappe hier völlig im Dunkeln.",
+          "italian": "Sono completamente al buio qui.",
+          "portuguese": "Estou completamente no escuro aqui.",
+          "esperanto": "Mi estas tute en la mallumo ĉi tie."
+        },
+        {
+          "english": "I'm second-guessing my choices right now.",
+          "russian": "Прямо сейчас я сомневаюсь в правильности своего выбора.",
+          "spanish": "Estoy cuestionando mis elecciones en este momento.",
+          "french": "Je remets en question mes choix en ce moment.",
+          "german": "Ich stelle meine Entscheidungen gerade selbst infrage.",
+          "italian": "Sto mettendo in dubbio le mie scelte in questo momento.",
+          "portuguese": "Estou duvidando das minhas escolhas no momento.",
+          "esperanto": "Mi dubas pri miaj elektoj nun."
+        },
+        {
+          "english": "That left me completely puzzled, to be honest.",
+          "russian": "Если честно, это оставило меня в полном недоумении.",
+          "spanish": "Para ser sincero, eso me dejó completamente perplejo.",
+          "french": "Pour être honnête, cela m'a laissé complètement perplexe.",
+          "german": "Um ehrlich zu sein, hat mich das völlig ratlos zurückgelassen.",
+          "italian": "A essere onesti, questo mi ha lasciato del tutto confuso.",
+          "portuguese": "Para ser sincero(a), isso me deixou completamente intrigado(a).",
+          "esperanto": "Sincere dirite, tio lasis min tute perpleksa."
+        },
+        {
+          "english": "I am torn between these two options.",
+          "russian": "Я разрываюсь между этими двумя вариантами.",
+          "spanish": "Estoy dividido entre estas dos opciones.",
+          "french": "Je suis déchiré entre ces deux options.",
+          "german": "Ich bin zwischen diesen beiden Optionen hin- und hergerissen.",
+          "italian": "Sono strappato tra queste due opzioni.",
+          "portuguese": "Estou dividido(a) entre estas duas opções.",
+          "esperanto": "Mi estas ŝirita inter ĉi tiuj du opcioj."
+        },
+        {
+          "english": "I'm a bit skeptical about the proposed timeline.",
+          "russian": "Я немного скептически отношусь к предложенным срокам.",
+          "spanish": "Soy un poco escéptico sobre el cronograma propuesto.",
+          "french": "Je suis un peu sceptique quant au calendrier proposé.",
+          "german": "Ich bin bezüglich des vorgeschlagenen Zeitplans etwas skeptisch.",
+          "italian": "Sono un po' scettico sulla tempistica proposta.",
+          "portuguese": "Estou um pouco cético(a) em relação ao cronograma proposto.",
+          "esperanto": "Mi estas iom skeptika pri la proponita templinio."
+        },
+        {
+          "english": "I just can't seem to wrap my head around this.",
+          "russian": "Я просто никак не могу уложить это у себя в голове.",
+          "spanish": "Simplemente no parece que pueda asimilar esto.",
+          "french": "Je n'arrive tout simplement pas à comprendre ça.",
+          "german": "Das will mir einfach nicht in den Kopf gehen.",
+          "italian": "Proprio non riesco a capacitarmi di questa cosa.",
+          "portuguese": "Parece que simplesmente não consigo entender isso.",
+          "esperanto": "Mi simple ne povas kompreni ĉi tion."
+        }
+      ]
+    }
+  ]
+}

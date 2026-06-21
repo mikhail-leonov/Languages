@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Time Management & Urgency",
+      "phrases": [
+        {
+          "english": "We need this done as soon as humanly possible.",
+          "russian": "Нам нужно сделать это как можно скорее.",
+          "spanish": "Necesitamos tener esto listo lo antes humanamente posible.",
+          "french": "Nous avons besoin que ce soit fait le plus rapidement possible.",
+          "german": "Wir müssen das so schnell wie menschenmöglich erledigen.",
+          "italian": "Dobbiamo farlo il prima umanamente possibile.",
+          "portuguese": "Precisamos disso pronto o mais rápido humanamente possível.",
+          "esperanto": "Ni bezonas ĉi tion fari kiel eble plej baldaŭ."
+        },
+        {
+          "english": "This matter requires your immediate attention.",
+          "russian": "Этот вопрос требует вашего немедленного внимания.",
+          "spanish": "Este asunto requiere su atención inmediata.",
+          "french": "Cette affaire requiert votre attention immédiate.",
+          "german": "Diese Angelegenheit erfordert Ihre sofortige Aufmerksamkeit.",
+          "italian": "Questa questione richiede la tua attenzione immediata.",
+          "portuguese": "Este assunto requer sua atenção imediata.",
+          "esperanto": "Ĉi tiu afero postulas vian tujan atenton."
+        },
+        {
+          "english": "The clock is ticking, and we are running out of time.",
+          "russian": "Время идет, и у нас заканчивается время.",
+          "spanish": "El reloj avanza y nos estamos quedando sin tiempo.",
+          "french": "L'horloge tourne et nous manquons de temps.",
+          "german": "Die Uhr tickt und uns läuft die Zeit davon.",
+          "italian": "Il tempo corre e stiamo esaurendo il tempo a disposizione.",
+          "portuguese": "O tempo está correndo e estamos ficando sem tempo.",
+          "esperanto": "La horloĝo tiktakas, kaj la tempo elĉerpiĝas."
+        },
+        {
+          "english": "This is a time-sensitive issue that cannot wait.",
+          "russian": "Это срочный вопрос, который не может ждать.",
+          "spanish": "Este es un asunto urgente que no puede esperar.",
+          "french": "C'est une question urgente qui ne peut pas attendre.",
+          "german": "Dies ist eine zeitkritische Angelegenheit, die nicht warten kann.",
+          "italian": "Questa è una questione urgente che non può aspettare.",
+          "portuguese": "Esta é uma questão urgente que não pode esperar.",
+          "esperanto": "Ĉi tio estas temp-sentema afero, kiu ne povas atendi."
+        },
+        {
+          "english": "We are working against a very tight deadline here.",
+          "russian": "Мы работаем в условиях очень жесткого дедлайна.",
+          "spanish": "Estamos trabajando con un plazo muy ajustado aquí.",
+          "french": "Nous travaillons avec un délai très serré ici.",
+          "german": "Wir arbeiten hier gegen eine sehr knappe Deadline.",
+          "italian": "Stiamo lavorando con una scadenza molto stretta qui.",
+          "portuguese": "Estamos trabalhando com um prazo muito apertado aqui.",
+          "esperanto": "Ni laboras kun tre strikta limdato ĉi tie."
+        },
+        {
+          "english": "Drop everything else; this is our top priority.",
+          "russian": "Бросайте все остальное; это наш главный приоритет.",
+          "spanish": "Deja todo lo demás; esta es nuestra máxima prioridad.",
+          "french": "Laissez tout tomber ; c'est notre priorité absolue.",
+          "german": "Lassen Sie alles andere stehen und liegen; das hat oberste Priorität.",
+          "italian": "Molla tutto il resto; questa è la nostra priorità assoluta.",
+          "portuguese": "Deixe tudo de lado; esta é a nossa prioridade máxima.",
+          "esperanto": "Forlasu ĉion alian; ĉi tio estas nia plej alta prioritato."
+        },
+        {
+          "english": "We need a quick turnaround on this specific task.",
+          "russian": "Нам нужно быстро выполнить эту конкретную задачу.",
+          "spanish": "Necesitamos una respuesta rápida en esta tarea específica.",
+          "french": "Nous avons besoin d'un traitement rapide pour cette tâche spécifique.",
+          "german": "Wir brauchen bei dieser spezifischen Aufgabe eine schnelle Erledigung.",
+          "italian": "Abbiamo bisogno di tempi di esecuzione rapidi per questo compito specifico.",
+          "portuguese": "Precisamos de um retorno rápido para esta tarefa específica.",
+          "esperanto": "Ni bezonas rapidan plenumon de ĉi tiu specifa tasko."
+        },
+        {
+          "english": "Every second counts if we want to make the launch.",
+          "russian": "Каждая секунда на счету, если мы хотим успеть к запуску.",
+          "spanish": "Cada segundo cuenta si queremos llegar al lanzamiento.",
+          "french": "Chaque seconde compte si nous voulons réussir le lancement.",
+          "german": "Jede Sekunde zählt, wenn wir den Launch schaffen wollen.",
+          "italian": "Ogni secondo conta se vogliamo arrivare al lancio.",
+          "portuguese": "Cada segundo conta se quisermos fazer o lançamento.",
+          "esperanto": "Ĉiu sekundo gravas se ni volas atingi la lanĉon."
+        },
+        {
+          "english": "This needs to be finalized by the end of the day.",
+          "russian": "Это должно быть завершено до конца дня.",
+          "spanish": "Esto debe estar finalizado para el final del día.",
+          "french": "Cela doit être finalisé avant la fin de la journée.",
+          "german": "Das muss bis Ende des Tages fertiggestellt sein.",
+          "italian": "Questo deve essere finalizzato entro la fine della giornata.",
+          "portuguese": "Isso precisa ser finalizado até o final do dia.",
+          "esperanto": "Ĉi tio devas esti finfarita antaŭ la fino de la tago."
+        },
+        {
+          "english": "There is absolutely no room for delay on this project.",
+          "russian": "В этом проекте абсолютно нет места для задержек.",
+          "spanish": "No hay absolutamente ningún margen para retrasos en este proyecto.",
+          "french": "Il n'y a absolument aucune marge pour le moindre retard sur ce projet.",
+          "german": "Bei diesem Projekt gibt es absolut keinen Spielraum für Verzögerungen.",
+          "italian": "Non c'è assolutamente spazio per ritardi in questo progetto.",
+          "portuguese": "Não há absolutamente nenhuma margem para atrasos neste projeto.",
+          "esperanto": "Estas absolute neniu loko por prokrasto en ĉi tiu projekto."
+        },
+        {
+          "english": "I'm afraid we are running a bit behind schedule.",
+          "russian": "Боюсь, мы немного отстаем от графика.",
+          "spanish": "Me temo que nos estamos retrasando un poco con el cronograma.",
+          "french": "Je crains que nous soyons un peu en retard sur le planning.",
+          "german": "Ich befürchte, wir hinken dem Zeitplan etwas hinterher.",
+          "italian": "Temo che siamo un po' in ritardo sulla tabella di marcia.",
+          "portuguese": "Receio que estejamos um pouco atrasados com o cronograma.",
+          "esperanto": "Mi timas ke ni iom postrestas malantaŭ la horaro."
+        },
+        {
+          "english": "Would it be possible to extend the deadline by two days?",
+          "russian": "Можно ли продлить дедлайн на два дня?",
+          "spanish": "¿Sería posible extender el plazo dos días?",
+          "french": "Serait-il possible de repousser la date limite de deux jours ?",
+          "german": "Wäre es möglich, die Frist um zwei Tage zu verlängern?",
+          "italian": "Sarebbe possibile estendere la scadenza di due giorni?",
+          "portuguese": "Seria possível estender o prazo por dois dias?",
+          "esperanto": "Ĉu estus eble etendi la limdaton je du tagoj?"
+        },
+        {
+          "english": "We hit a roadblock that is delaying our progress.",
+          "russian": "Мы столкнулись с препятствием, которое задерживает наш прогресс.",
+          "spanish": "Nos topamos con un obstáculo que está retrasando nuestro progreso.",
+          "french": "Nous avons rencontré un obstacle qui ralentit notre progression.",
+          "german": "Wir sind auf ein Hindernis gestoßen, das unseren Fortschritt verzögert.",
+          "italian": "Abbiamo riscontrato un ostacolo che sta rallentando i nostri progressi.",
+          "portuguese": "Encontramos um obstáculo que está atrasando o nosso progresso.",
+          "esperanto": "Ni trafis barilon kiu prokrastas nian progreson."
+        },
+        {
+          "english": "I need a little more time to finish this properly.",
+          "russian": "Мне нужно еще немного времени, чтобы закончить это как следует.",
+          "spanish": "Necesito un poco más de tiempo para terminar esto correctamente.",
+          "french": "J'ai besoin d'un peu plus de temps pour finir cela correctement.",
+          "german": "Ich brauche noch etwas Zeit, um das ordnungsgemäß fertigzustellen.",
+          "italian": "Ho bisogno di un altro po' di tempo per finire questo lavoro come si deve.",
+          "portuguese": "Preciso de um pouco mais de tempo para terminar isso direito.",
+          "esperanto": "Mi bezonas iom pli da tempo por fini ĉi tion ĝuste."
+        },
+        {
+          "english": "Due to unforeseen circumstances, this will be late.",
+          "russian": "Из-за непредвиденных обстоятельств это будет готово с опозданием.",
+          "spanish": "Debido a circunstancias imprevistas, esto se entregará tarde.",
+          "french": "En raison de circonstances imprévues, cela sera en retard.",
+          "german": "Aufgrund unvorhergesehener Umstände wird sich dies verzögern.",
+          "italian": "A causa di circostanze impreviste, questo subirà un ritardo.",
+          "portuguese": "Devido a circunstâncias imprevistas, isso vai atrasar.",
+          "esperanto": "Pro neatenditaj cirkonstancoj, ĉi tio malfruos."
+        },
+        {
+          "english": "We are experiencing some unexpected technical delays.",
+          "russian": "Мы столкнулись с неожиданными техническими задержками.",
+          "spanish": "Estamos experimentando algunos retrasos técnicos inesperados.",
+          "french": "Nous rencontrons des retards techniques imprévus.",
+          "german": "Wir haben es mit unerwarteten technischen Verzögerungen zu tun.",
+          "italian": "Stiamo riscontrando alcuni ritardi tecnici imprevisti.",
+          "portuguese": "Estamos enfrentando alguns atrasos técnicos inesperados.",
+          "esperanto": "Ni spertas kelkajn neatenditajn teknikajn prokrastojn."
+        },
+        {
+          "english": "Can we push this meeting back by half an hour?",
+          "russian": "Можем ли мы перенести эту встречу на полчаса назад?",
+          "spanish": "¿Podemos posponer esta reunión media hora?",
+          "french": "Pouvez-vous décaler cette réunion d'une demi-heure ?",
+          "german": "Können wir dieses Meeting um eine halbe Stunde nach hinten verschieben?",
+          "italian": "Possiamo posticipare questa riunione di mezz'ora?",
+          "portuguese": "Podemos adiar esta reunião em meia hora?",
+          "esperanto": "Ĉu ni povas prokrasti ĉi tiun kunvenon je duonhoro?"
+        },
+        {
+          "english": "I apologize, but I won't be able to make the original time.",
+          "russian": "Я прошу прощения, но не смогу прийти в назначенное время.",
+          "spanish": "Pido disculpas, pero no podré asistir a la hora original.",
+          "french": "Je m'excuse, mais je ne pourrai pas être là à l'heure prévue initialement.",
+          "german": "Ich entschuldige mich, aber ich werde es zur ursprünglichen Zeit nicht schaffen.",
+          "italian": "Mi scuso, ma non riuscirò a esserci per l'orario stabilito.",
+          "portuguese": "Peço desculpas, mas não poderei comparecer no horário original.",
+          "esperanto": "Mi pardonpetas, sed mi ne povos ĉeesti je la origina horo."
+        },
+        {
+          "english": "We need to reschedule this for early next week.",
+          "russian": "Нам нужно перенести это на начало следующей недели.",
+          "spanish": "Necesitamos reprogramar esto para principios de la próxima semana.",
+          "french": "Nous devons reprogrammer cela pour le début de la semaine prochaine.",
+          "german": "Wir müssen das auf Anfang nächster Woche verschieben.",
+          "italian": "Dobbiamo riprogrammare la cosa per l'inizio della prossima settimana.",
+          "portuguese": "Precisamos reagendar isso para o início da próxima semana.",
+          "esperanto": "Ni bezonas reprogrami ĉi tion por la komenco de la venonta semajno."
+        },
+        {
+          "english": "The project timeline has shifted significantly.",
+          "russian": "Сроки проекта значительно сдвинулись.",
+          "spanish": "El cronograma del proyecto ha cambiado significativamente.",
+          "french": "Le calendrier du projet a considérablement changé.",
+          "german": "Der Zeitplan des Projekts hat sich erheblich verschoben.",
+          "italian": "La tempistica del progetto è cambiata notevolmente.",
+          "portuguese": "O cronograma do projeto mudou significativamente.",
+          "esperanto": "La templinio de la projekto signife ŝanĝiĝis."
+        },
+        {
+          "english": "Let's lock in a time for our next call.",
+          "russian": "Давайте зафиксируем время для нашего следующего звонка.",
+          "spanish": "Fijemos una hora para nuestra próxima llamada.",
+          "french": "Bloquons un créneau pour notre prochain appel.",
+          "german": "Lass uns eine Zeit für unser nächstes Telefonat festmachen.",
+          "italian": "Fissiamo un orario per la nostra prossima chiamata.",
+          "portuguese": "Vamos fechar um horário para a nossa próxima chamada.",
+          "esperanto": "Ni fiksu tempon por nia venonta voko."
+        },
+        {
+          "english": "Are you available for a quick sync tomorrow morning?",
+          "russian": "Вы свободны для короткого созвона завтра утром?",
+          "spanish": "¿Estás disponible para una breve sincronización mañana por la mañana?",
+          "french": "Es-tu disponible pour un point rapide demain matin ?",
+          "german": "Haben Sie morgen früh Zeit für eine kurze Abstimmung?",
+          "italian": "Sei disponibile per un breve aggiornamento domani mattina?",
+          "portuguese": "Você está disponível para uma rápida sincronização amanhã de manhã?",
+          "esperanto": "Ĉu vi disponeblas por rapida sinkronigo morgaŭ matene?"
+        },
+        {
+          "english": "Please make sure to arrive precisely on time.",
+          "russian": "Пожалуйста, убедитесь, что прибудете точно вовремя.",
+          "spanish": "Por favor, asegúrese de llegar puntualmente.",
+          "french": "Veillez à arriver exactement à l'heure, s'il vous plaît.",
+          "german": "Bitte achten Sie darauf, pünktlich zu erscheinen.",
+          "italian": "Per favore, assicurati di arrivare puntuale.",
+          "portuguese": "Por favor, certifique-se de chegar exatamente no horário.",
+          "esperanto": "Bonvolu certigi ke vi alvenos precize ĝustatempe."
+        },
+        {
+          "english": "I have a hard stop at three o'clock today.",
+          "russian": "У меня железный дедлайн (нужно закончить) ровно в три часа сегодня.",
+          "spanish": "Tengo un compromiso ineludible a las tres hoy.",
+          "french": "J'ai un impératif à quinze heures aujourd'hui.",
+          "german": "Ich muss heute um Punkt drei Uhr Schluss machen.",
+          "italian": "Ho un termine tassativo alle tre oggi.",
+          "portuguese": "Tenho um compromisso inadiável às três horas hoje.",
+          "esperanto": "Mi havas nepravan finon je la tria hodiaŭ."
+        },
+        {
+          "english": "Let's pencil that in for Thursday afternoon.",
+          "russian": "Давайте предварительно наметим это на вторую половину четверга.",
+          "spanish": "Anotemos eso tentativamente para el jueves por la tarde.",
+          "french": "Notons ça pour jeudi après-midi.",
+          "german": "Lass uns das mal für Donnerstagnachmittag vormerken.",
+          "italian": "Mettiamolo in nota per giovedì pomeriggio.",
+          "portuguese": "Vamos agendar isso provisoriamente para quinta-feira à tarde.",
+          "esperanto": "Ni provizore notu tion por ĵaŭdo posttagmeze."
+        },
+        {
+          "english": "Does that time slot work for your schedule?",
+          "russian": "Подходит ли этот временной интервал вашему графику?",
+          "spanish": "¿Te viene bien ese horario?",
+          "french": "Est-ce que ce créneau horaire convient à votre emploi du temps ?",
+          "german": "Passt dieses Zeitfenster in Ihren Zeitplan?",
+          "italian": "Quella fascia oraria va bene per i tuoi impegni?",
+          "portuguese": "Esse horário funciona para a sua agenda?",
+          "esperanto": "Ĉu tiu tempo-fenestro konvenas al via horaro?"
+        },
+        {
+          "english": "I want to respect everyone's time, so let's begin.",
+          "russian": "Я хочу уважать время каждого, поэтому давайте начнем.",
+          "spanish": "Quiero respetar el tiempo de todos, así que empecemos.",
+          "french": "Je veux respecter le temps de chacun, alors commençons.",
+          "german": "Ich möchte die Zeit aller Beteiligten respektieren, also lassen Sie uns anfangen.",
+          "italian": "Voglio rispettare il tempo di tutti, quindi iniziamo.",
+          "portuguese": "Quero respeitar o tempo de todos, então vamos começar.",
+          "esperanto": "Mi volas respekti la tempon de ĉiuj, do ni komencu."
+        },
+        {
+          "english": "Let's book a room for the presentation.",
+          "russian": "Давайте забронируем переговорную для презентации.",
+          "spanish": "Reservemos una sala para la presentación.",
+          "french": "Réservons une salle pour la présentation.",
+          "german": "Lass uns einen Raum für die Präsentation buchen.",
+          "italian": "Prenotiamo una sala per la presentazione.",
+          "portuguese": "Vamos reservar uma sala para a apresentação.",
+          "esperanto": "Ni rezervu ĉambron por la prezentado."
+        },
+        {
+          "english": "I'm completely booked up for the rest of the week.",
+          "russian": "Я полностью занят до конца недели.",
+          "spanish": "Estoy completamente ocupado el resto de la semana.",
+          "french": "Je suis complètement pris pour le reste de la semaine.",
+          "german": "Ich bin für den Rest der Woche komplett ausgebucht.",
+          "italian": "Sono completamente occupato per il resto della settimana.",
+          "portuguese": "Estou totalmente sem horários para o resto da semana.",
+          "esperanto": "Mi estas tute okupita por la resto de la semajno."
+        },
+        {
+          "english": "We need to confirm the date before the weekend.",
+          "russian": "Нам нужно подтвердить дату до выходных.",
+          "spanish": "Necesitamos confirmar la fecha antes del fin de semana.",
+          "french": "Nous devons confirmer la date avant le week-end.",
+          "german": "Wir müssen das Datum noch vor dem Wochenende bestätigen.",
+          "italian": "Dobbiamo confermare la data prima del fine settimana.",
+          "portuguese": "Precisamos confirmar a data antes do fim de semana.",
+          "esperanto": "Ni bezonas konfirmi la daton antaŭ la semajnfino."
+        },
+        {
+          "english": "Let's focus on the low-hanging fruit first.",
+          "russian": "Давайте сначала сосредоточимся на самых простых задачах.",
+          "spanish": "Centrémonos primero en lo más fácil de resolver.",
+          "french": "Concentrons-nous d'abord sur les objectifs faciles à atteindre.",
+          "german": "Lasst uns zuerst um die am leichtesten zu lösenden Aufgaben kümmern.",
+          "italian": "Concentriamoci prima sulle cose più facili da risolvere.",
+          "portuguese": "Vamos focar primeiro nas tarefas mais fáceis de resolver.",
+          "esperanto": "Ni unue koncentriĝu pri la plej facile solvendaj taskoj."
+        },
+        {
+          "english": "We need to manage our time more efficiently.",
+          "russian": "Нам нужно управлять своим временем более эффективно.",
+          "spanish": "Necesitamos gestionar nuestro tiempo de manera más eficiente.",
+          "french": "Nous devons gérer notre temps plus efficacement.",
+          "german": "Wir müssen unsere Zeit effizienter einteilen.",
+          "italian": "Dobbiamo gestire il nostro tempo in modo più efficiente.",
+          "portuguese": "Precisamos gerenciar nosso tempo de forma mais eficiente.",
+          "esperanto": "Ni bezonas administri nian tempon pli efike."
+        },
+        {
+          "english": "Let's break this down into smaller, manageable steps.",
+          "russian": "Давайте разобьем это на более мелкие, выполнимые шаги.",
+          "spanish": "Dividamos esto en pasos más pequeños y manejables.",
+          "french": "Divisons cela en étapes plus petites et gérables.",
+          "german": "Lass uns das in kleinere, überschaubare Schritte unterteilen.",
+          "italian": "Scomponiamo la cosa in passaggi più piccoli e gestibili.",
+          "portuguese": "Vamos dividir isso em etapas menores e gerenciáveis.",
+          "esperanto": "Ni disrompu ĉi tion en pli malgrandajn, administreblajn paŝojn."
+        },
+        {
+          "english": "We should prioritize tasks based on their impact.",
+          "russian": "Нам следует расставлять приоритеты задач в зависимости от их значимости.",
+          "spanish": "Deberíamos priorizar las tareas en función de su impacto.",
+          "french": "Nous devrions prioriser les tâches en fonction de leur impact.",
+          "german": "Wir sollten Aufgaben nach ihrer Auswirkung priorisieren.",
+          "italian": "Dovremmo dare la priorità alle attività in base al loro impatto.",
+          "portuguese": "Devemos priorizar as tarefas com base no impacto delas.",
+          "esperanto": "Ni prioritatigu taskojn laŭ ilia efiko."
+        },
+        {
+          "english": "I am trying to better allocate my working hours.",
+          "russian": "Я пытаюсь лучше распределять свои рабочие часы.",
+          "spanish": "Estoy tratando de distribuir mejor mis horas de trabajo.",
+          "french": "J'essaie de mieux répartir mes heures de travail.",
+          "german": "Ich versuche, meine Arbeitsstunden besser aufzuteilen.",
+          "italian": "Sto cercando di allocare meglio le mie ore di lavoro.",
+          "portuguese": "Estou tentando alocar melhor as minhas horas de trabalho.",
+          "esperanto": "Mi provas pli bone distribui miajn laborhorojn."
+        },
+        {
+          "english": "Let's not waste time on minor details right now.",
+          "russian": "Давайте пока не будем тратить время на мелкие детали.",
+          "spanish": "No perdamos tiempo en detalles menores en este momento.",
+          "french": "Ne perdons pas de temps avec des détails mineurs pour l'instant.",
+          "german": "Lassen Sie uns im Moment keine Zeit mit Nebensächlichkeiten verschwenden.",
+          "italian": "Non perdiamo tempo in dettagli minori in questo momento.",
+          "portuguese": "Não vamos perder tempo com detalhes pequenos agora.",
+          "esperanto": "Ni ne malŝparu tempon pri negravaj detaloj nun."
+        },
+        {
+          "english": "We need to map out a clear timeline for this.",
+          "russian": "Нам нужно наметить четкие сроки для этого.",
+          "spanish": "Necesitamos trazar un cronograma claro para esto.",
+          "french": "Nous devons établir un calendrier clair pour cela.",
+          "german": "Wir müssen dafür einen klaren Zeitplan aufstellen.",
+          "italian": "Dobbiamo definire una cronologia chiara per questo.",
+          "portuguese": "Precisamos traçar um cronograma claro para isso.",
+          "esperanto": "Ni bezonas desegni klaran templinion por ĉi tio."
+        },
+        {
+          "english": "This task can wait until the core structure is built.",
+          "russian": "Эта задача может подождать, пока не будет создана основа.",
+          "spanish": "Esta tarea puede esperar hasta que se construya la estructura principal.",
+          "french": "Cette tâche peut attendre que la structure principale soit construite.",
+          "german": "Diese Aufgabe kann warten, bis das Grundgerüst steht.",
+          "italian": "Questa attività può attendere finché non viene creata la struttura principale.",
+          "portuguese": "Esta tarefa pode esperar até que a estrutura principal seja construída.",
+          "esperanto": "Ĉi tiu tasko povas atendi ĝis la ĉefa strukturo estos konstruita."
+        },
+        {
+          "english": "I am setting aside dedicated time for deep work.",
+          "russian": "Я выделяю специальное время для сосредоточенной работы.",
+          "spanish": "Estoy reservando tiempo dedicado para el trabajo profundo.",
+          "french": "Je réserve un temps dédié au travail de fond.",
+          "german": "Ich nehme mir feste Zeiten für konzentriertes Arbeiten.",
+          "italian": "Sto dedicando del tempo specifico al lavoro di concentrazione.",
+          "portuguese": "Estou reservando um tempo dedicado para trabalho focado.",
+          "esperanto": "Mi flankmetas dediĉitan tempon por profunda laboro."
+        },
+        {
+          "english": "Let's keep our eyes on the bigger picture here.",
+          "russian": "Давайте не забывать о общей картине.",
+          "spanish": "Mantengamos la vista en el panorama general.",
+          "french": "Gardons à l'esprit la vue d'ensemble.",
+          "german": "Wir sollten das große Ganze hier im Auge behalten.",
+          "italian": "Teniamo d'occhio il quadro generale.",
+          "portuguese": "Vamos manter o foco na visão geral aqui.",
+          "esperanto": "Ni tenu la okulojn sur la pli granda bildo ĉi tie."
+        },
+        {
+          "english": "Take all the time you need; there is no rush.",
+          "russian": "Не торопитесь, времени сколько угодно; спешки нет.",
+          "spanish": "Tómate todo el tiempo que necesites; no hay prisa.",
+          "french": "Prends tout le temps dont tu as besoin ; rien ne presse.",
+          "german": "Nehmen Sie sich alle Zeit, die Sie brauchen; es eilt nicht.",
+          "italian": "Prenditi tutto il tempo che ti serve; non c'è fretta.",
+          "portuguese": "Leve o tempo que precisar; não há pressa.",
+          "esperanto": "Prenu tiom da tempo kiom vi bezonas; ne urĝas."
+        },
+        {
+          "english": "This can easily wait until after the weekend.",
+          "russian": "Это вполне может подождать до окончания выходных.",
+          "spanish": "Esto puede esperar tranquilamente hasta después del fin de semana.",
+          "french": "Cela peut largement attendre après le week-end.",
+          "german": "Das kann leicht bis nach dem Wochenende warten.",
+          "italian": "Questo può tranquillamente aspettare dopo il fine settimana.",
+          "portuguese": "Isso pode tranquilamente esperar até depois do fim de semana.",
+          "esperanto": "Ĉi tio povas facile atendi ĝis post la semajnfino."
+        },
+        {
+          "english": "Whenever you get around to it is perfectly fine.",
+          "russian": "Когда у вас дойдут до этого руки, тогда и отлично.",
+          "spanish": "Está perfectamente bien cuando tengas tiempo para hacerlo.",
+          "french": "Quand tu auras le temps, ce sera parfait.",
+          "german": "Wann immer Sie dazu kommen, ist es völlig in Ordnung.",
+          "italian": "Quando avrai tempo andrà benissimo.",
+          "portuguese": "Quando você puder fazer isso, está ótimo.",
+          "esperanto": "Kiam ajn vi atingos tion, estas tute bone."
+        },
+        {
+          "english": "No pressure at all, take your time with it.",
+          "russian": "Никакого давления, не торопитесь с этим.",
+          "spanish": "No hay ninguna presión, tómate tu tiempo con ello.",
+          "french": "Pas de pression du tout, prends ton temps.",
+          "german": "Überhaupt kein Druck, lassen Sie sich ruhig Zeit damit.",
+          "italian": "Nessuna pressione, fai con calma.",
+          "portuguese": "Sem pressão nenhuma, leve o tempo que precisar.",
+          "esperanto": "Tute neniu premo, prenu vian tempon kun ĝi."
+        },
+        {
+          "english": "We have plenty of time to get this sorted out.",
+          "russian": "У нас полно времени, чтобы во всем разобраться.",
+          "spanish": "Tenemos mucho tiempo para solucionar esto.",
+          "french": "Nous avons amplement le temps de régler ça.",
+          "german": "Wir haben jede Menge Zeit, um das zu klären.",
+          "italian": "Abbiamo un sacco di tempo per sistemare la cosa.",
+          "portuguese": "Temos bastante tempo para resolver isso.",
+          "esperanto": "Ni havas multe da tempo por solvi ĉi tion."
+        },
+        {
+          "english": "This is a low-priority task for the current sprint.",
+          "russian": "Это низкоприоритетная задача на текущий спринт.",
+          "spanish": "Esta es una tarea de baja prioridad para el sprint actual.",
+          "french": "C'est une tâche de faible priorité pour le sprint actuel.",
+          "german": "Dies ist eine Aufgabe mit niedriger Priorität für den aktuellen Sprint.",
+          "italian": "Questa è un'attività a bassa priorità per lo sprint corrente.",
+          "portuguese": "Esta é uma tarefa de baixa prioridade para o sprint atual.",
+          "esperanto": "Ĉi tio estas malalt-prioritata tasko por la nuna sprint."
+        },
+        {
+          "english": "Don't worry about rushing through this process.",
+          "russian": "Не переживайте и не спешите в этом процессе.",
+          "spanish": "No te preocupes por apurar este proceso.",
+          "french": "Ne t'en fais pas, ne bâche pas ce processus.",
+          "german": "Keine Sorge, Sie müssen sich bei diesem Prozess nicht beeilen.",
+          "italian": "Non preoccuparti di affrettare questo processo.",
+          "portuguese": "Não se preocupe em correr com este processo.",
+          "esperanto": "Ne zorgu pri rapidi tra ĉi tiu procezo."
+        },
+        {
+          "english": "We can circle back to this whenever you are free.",
+          "russian": "Мы можем вернуться к этому, когда вы освободитесь.",
+          "spanish": "Podemos volver a esto cuando estés libre.",
+          "french": "Nous pourrons y revenir quand tu seras disponible.",
+          "german": "Wir können darauf zurückkommen, wann immer Sie Zeit haben.",
+          "italian": "Possiamo ritornare su questo punto quando sei libero.",
+          "portuguese": "Podemos voltar a falar disso quando você estiver livre.",
+          "esperanto": "Ni povas reveni al ĉi tio kiam ajn vi estas libera."
+        },
+        {
+          "english": "There is no immediate deadline for this request.",
+          "russian": "Для этого запроса нет срочного дедлайна.",
+          "spanish": "No hay un plazo inmediato para esta solicitud.",
+          "french": "Il n'y a pas de date limite immédiate pour cette demande.",
+          "german": "Für diese Anfrage gibt es keine dringende Frist.",
+          "italian": "Non c'è una scadenza immediata per questa richiesta.",
+          "portuguese": "Não há um prazo imediato para este pedido.",
+          "esperanto": "Ne estas tuja limdato por ĉi tiu peto."
+        },
+        {
+          "english": "Let's take a breather before we make a decision.",
+          "russian": "Давайте сделаем передышку, прежде чем принимать решение.",
+          "spanish": "Tomémonos un respiro antes de tomar una decisión.",
+          "french": "Prenons une petite pause avant de prendre une décision.",
+          "german": "Lass uns kurz durchatmen, bevor wir eine Entscheidung treffen.",
+          "italian": "Prendiamoci una pausa prima di prendere una decisione.",
+          "portuguese": "Vamos dar uma pausa antes de tomarmos uma decisão.",
+          "esperanto": "Ni paŭzu momenton antaŭ ol ni decidos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Flights & Airport Navigation",
+      "phrases": [
+        {
+          "english": "Hi, I need to check in for my international flight to Paris.",
+          "russian": "Здравствуйте, мне нужно зарегистрироваться на международный рейс в Париж.",
+          "spanish": "Hola, necesito registrarme para mi vuelo internacional a París.",
+          "french": "Bonjour, je dois m'enregistrer pour mon vol international à destination de Paris.",
+          "german": "Hallo, ich muss für meinen internationalen Flug nach Paris einchecken.",
+          "italian": "Buongiorno, devo effettuare il check-in per il mio volo internazionale per Parigi.",
+          "portuguese": "Olá, eu preciso fazer o check-in para o meu voo internacional para Paris.",
+          "esperanto": "Saluton, mi bezonas enregistriĝi por mia internacia flugo al Parizo."
+        },
+        {
+          "english": "Is there an additional fee for a second piece of checked luggage?",
+          "russian": "Взимается ли дополнительная плата за второе место регистрируемого багажа?",
+          "spanish": "¿Hay algún cargo adicional por una segunda pieza de equipaje facturado?",
+          "french": "Y a-t-il des frais supplémentaires pour un deuxième bagage enregistré ?",
+          "german": "Fällt für ein zweites aufgegebenes Gepäckstück eine zusätzliche Gebühr an?",
+          "italian": "C'è un supplemento per un secondo bagaglio da stiva?",
+          "portuguese": "Tem alguma taxa extra para despachar uma segunda mala?",
+          "esperanto": "Ĉu estas kroma kotizo por dua peco da registrita pakaĵo?"
+        },
+        {
+          "english": "Could I possibly switch my seat assignment to an exit row?",
+          "russian": "Могу ли я изменить свое место на ряд у аварийного выхода?",
+          "spanish": "¿Sería posible cambiar mi asiento a una fila de salida de emergencia?",
+          "french": "Serait-il possible de changer mon siège pour une rangée issue de secours ?",
+          "german": "Könnte ich eventuell auf einen Sitzplatz in einer Notausgangsreihe wechseln?",
+          "italian": "Sarebbe possibile cambiare il mio posto con uno nella fila dell'uscita di sicurezza?",
+          "portuguese": "Seria possível mudar meu assento para uma fileira da saída de emergência?",
+          "esperanto": "Ĉu eblus ŝanĝi mian sidlokon al elireja vico?"
+        },
+        {
+          "english": "Where can I find the automated self-service check-in kiosks?",
+          "russian": "Где я могу найти автоматы саморегистрации?",
+          "spanish": "¿Dónde puedo encontrar los quioscos de autoservicio para el registro?",
+          "french": "Où puis-je trouver les bornes d'enregistrement automatique libre-service ?",
+          "german": "Wo finde ich die Automaten für den Self-Service-Check-in?",
+          "italian": "Dove posso trovare i chioschi automatici per il check-in self-service?",
+          "portuguese": "Onde ficam os terminais de autoatendimento para fazer o check-in?",
+          "esperanto": "Kie mi povas trovi la aŭtomatajn memservajn enregistriĝajn kioskojn?"
+        },
+        {
+          "english": "My baggage is a few pounds overweight; can I pay the balance here?",
+          "russian": "Мой багаж весит на несколько фунтов больше нормы; могу ли я оплатить перевес здесь?",
+          "spanish": "Mi equipaje se pasa por unas pocas libras; ¿puedo pagar la diferencia aquí?",
+          "french": "Mon bagage dépasse le poids de quelques livres ; puis-je payer le supplément ici ?",
+          "german": "Mein Gepäck hat ein paar Pfund Übergewicht. Kann ich die Gebühr hier bezahlen?",
+          "italian": "Il mio bagaglio eccede il peso di poche libbre; posso pagare il supplemento qui?",
+          "portuguese": "Minha bagagem está com alguns quilos de excesso; posso pagar a taxa aqui?",
+          "esperanto": "Mia pakaĵo estas kelkajn funtojn tro peza; ĉu mi povas pagi la tropezon ĉi tie?"
+        },
+        {
+          "english": "I need to print a physical copy of my boarding pass, please.",
+          "russian": "Мне нужно распечатать бумажную копию посадочного талона, пожалуйста.",
+          "spanish": "Necesito imprimir una copia física de mi tarjeta de embarque, por favor.",
+          "french": "J'ai besoin d'imprimer une copie papier de ma carte d'embarquement, s'il vous plaît.",
+          "german": "Ich müsste bitte eine gedruckte Kopie meiner Bordkarte ausdrucken.",
+          "italian": "Ho bisogno di stampare una copia cartacea della mia carta d'imbarco, per favore.",
+          "portuguese": "Preciso imprimir uma cópia física do meu cartão de embarque, por favor.",
+          "esperanto": "Mi bezonas presi fizikan kopion de mia enirbileto, bonvolu."
+        },
+        {
+          "english": "Is my connecting flight’s luggage checked all the way through?",
+          "russian": "Зарегистрирован ли мой багаж до конечного пункта пересадочного рейса?",
+          "spanish": "¿Mi equipaje del vuelo de conexión está facturado directo hasta el destino final?",
+          "french": "Est-ce que mes bagages pour mon vol de correspondance sont enregistrés jusqu'à la destination finale ?",
+          "german": "Wird das Gepäck für meinen Anschlussflug direkt bis zum Zielflughafen durchgecheckt?",
+          "italian": "Il mio bagaglio per il volo in coincidenza è registrato fino alla destinazione finale?",
+          "portuguese": "A minha bagagem do voo de conexão vai direto para o destino final?",
+          "esperanto": "Ĉu mia pakaĵo por la konekta flugo estas registrita ĝis la fino?"
+        },
+        {
+          "english": "Where do I go to drop off oversized or fragile baggage?",
+          "russian": "Куда мне идти, чтобы сдать крупногабаритный или хрупкий багаж?",
+          "spanish": "¿A dónde tengo que ir para dejar el equipaje voluminoso o frágil?",
+          "french": "Où dois-je aller pour déposer des bagages hors format ou fragiles ?",
+          "german": "Wo muss ich hin, um Sperrgepäck oder zerbrechliches Gepäck aufzugeben?",
+          "italian": "Dove devo andare per consegnare i bagagli fuori misura o fragili?",
+          "portuguese": "Onde eu vou para despachar bagagem frágil ou fora do padrão?",
+          "esperanto": "Kien mi iru por deponi trograndan aŭ rompiĝeman pakaĵon?"
+        },
+        {
+          "english": "Can I link my frequent flyer mileage number to this ticket?",
+          "russian": "Могу ли я привязать номер программы лояльности к этому билету?",
+          "spanish": "¿Puedo vincular mi número de viajero frecuente a este billete?",
+          "french": "Puis-je associer mon numéro de programme de fidélité à ce billet ?",
+          "german": "Kann ich meine Vielfliegernummer mit diesem Ticket verknüpfen?",
+          "italian": "Posso associare il mio numero di frequent flyer a questo biglietto?",
+          "portuguese": "Posso associar o meu número de passageiro frequente a esta passagem?",
+          "esperanto": "Ĉu mi povas ligi mian oftan flugan numeron al ĉi tiu bileto?"
+        },
+        {
+          "english": "What is the maximum size allowed for a carry-on bag?",
+          "russian": "Каков максимально допустимый размер ручной клади?",
+          "spanish": "¿Cuál es el tamaño máximo permitido para el equipaje de mano?",
+          "french": "Quelle est la taille maximale autorisée pour un bagage à main ?",
+          "german": "Was sind die maximal zulässigen Maße für ein Handgepäckstück?",
+          "italian": "Quali sono le dimensioni massime consentite per un bagaglio a mano?",
+          "portuguese": "Qual é o tamanho máximo permitido para a bagagem de mão?",
+          "esperanto": "Kio estas la maksimuma permesata grandeco por manpakaĵo?"
+        },
+        {
+          "english": "How long is the estimated wait time for the main security line?",
+          "russian": "Каково примерное время ожидания в главной очереди на досмотр?",
+          "spanish": "¿De cuánto es el tiempo estimado de espera en la fila principal de seguridad?",
+          "french": "Quel est le temps d'attente estimé à la ligne de contrôle de sécurité principale ?",
+          "german": "Wie lange ist die ungefähre Wartezeit an der Hauptsicherheitskontrolle?",
+          "italian": "Qual è il tempo di attesa stimato per la fila principale dei controlli di sicurezza?",
+          "portuguese": "Qual é o tempo estimado de espera na fila principal do raio-X?",
+          "esperanto": "Kiom estas la taksita atendotempo por la ĉefa sekureca vico?"
+        },
+        {
+          "english": "Do I need to take my laptop and electronics out of my bag?",
+          "russian": "Нужно ли мне доставать ноутбук и электронику из сумки?",
+          "spanish": "¿Tengo que sacar el ordenador portátil y los aparatos electrónicos de la bolsa?",
+          "french": "Dois-je sortir mon ordinateur portable et mes appareils électroniques de mon sac ?",
+          "german": "Muss ich meinen Laptop und andere Elektronikgeräte aus der Tasche nehmen?",
+          "italian": "Devo tirare fuori il portatile e gli oggetti elettronici dalla borsa?",
+          "portuguese": "Preciso tirar o notebook e os eletrônicos da bolsa?",
+          "esperanto": "Ĉu mi bezonas elpreni mian tekkomputilon kaj elektronikaĵojn el mia sako?"
+        },
+        {
+          "english": "Should I remove my shoes and belt before walking through the scanner?",
+          "russian": "Надо ли мне снимать обувь и ремень перед проходом через сканер?",
+          "spanish": "¿Debería quitarme los zapatos y el cinturón antes de pasar por el escáner?",
+          "french": "Dois-je enlever mes chaussures et ma ceinture avant de passer sous le portique ?",
+          "german": "Sollte ich meine Schuhe und den Gürtel ausziehen, bevor ich durch den Scanner gehe?",
+          "italian": "Devo togliere le scarpe e la cintura prima di passare sotto il metal detector?",
+          "portuguese": "Preciso tirar os sapatos e o cinto antes de passar pelo scanner?",
+          "esperanto": "Ĉu mi devas forigi miajn ŝuojn kaj zonon antaŭ ol trairi la skanilon?"
+        },
+        {
+          "english": "Excuse me, where is the lane for priority or expedited screening?",
+          "russian": "Извините, где находится коридор для приоритетного или ускоренного досмотра?",
+          "spanish": "Disculpe, ¿dónde está el carril para el control prioritario o rápido?",
+          "french": "Excusez-moi, où se trouve la file pour le contrôle prioritaire ou accéléré ?",
+          "german": "Entschuldigung, wo ist der Zugang für die Priority- oder Express-Sicherheitskontrolle?",
+          "italian": "Scusi, dov'è la corsia per i controlli prioritari o fast-track?",
+          "portuguese": "Com licença, onde fica a fila de embarque prioritário ou fast track?",
+          "esperanto": "Pardonu, kie estas la vojo por prioritat aŭ rapidigita kontrolado?"
+        },
+        {
+          "english": "I have a medical device; who should I notify before screening?",
+          "russian": "У меня с собой медицинское устройство; кого мне предупредить перед досмотром?",
+          "spanish": "Llevo un dispositivo médico; ¿a quién debo avisar antes de pasar el control?",
+          "french": "J'ai un appareil médical ; qui dois-je informer avant le contrôle ?",
+          "german": "Ich habe ein medizinisches Gerät bei mir. Wen muss ich vor der Kontrolle informieren?",
+          "italian": "Ho un dispositivo medico; chi devo informare prima dei controlli?",
+          "portuguese": "Eu tenho um dispositivo médico; quem devo avisar antes da inspeção?",
+          "esperanto": "Mi havas medicinan aparaton; kiun mi sciigu antaŭ la kontrolado?"
+        },
+        {
+          "english": "Is this liquid container within the permitted volume limits?",
+          "russian": "Соответствует ли эта емкость с жидкостью разрешенному объему?",
+          "spanish": "¿Este contenedor de líquido está dentro de los límites de volumen permitidos?",
+          "french": "Est-ce que ce contenant de liquide respecte les limites de volume autorisées ?",
+          "german": "Liegt dieser Flüssigkeitsbehälter innerhalb der zulässigen Mengengrenzen?",
+          "italian": "Questo contenitore di liquido rientra nei limiti di volume consentiti?",
+          "portuguese": "Este frasco de líquido está dentro do limite de volume permitido?",
+          "esperanto": "Ĉu ĉi tiu likvaĵujo estas en la permesataj volumenaj limigoj?"
+        },
+        {
+          "english": "Where is the passport control and customs declaration desk?",
+          "russian": "Где находится паспортный контроль и стойка таможенной декларации?",
+          "spanish": "¿Dónde está el control de pasaportes y el mostrador de declaración de aduanas?",
+          "french": "Où se trouvent le contrôle des passeports et le bureau de déclaration des douanes ?",
+          "german": "Wo befinden sich die Passkontrolle und der Schalter für die Zollerklärung?",
+          "italian": "Dove sono il controllo passaporti e lo sportello della dichiarazione doganale?",
+          "portuguese": "Onde fica o controle de passaportes e a bancada de declaração alfandegária?",
+          "esperanto": "Kie estas la pasporta kontrolo kaj la dogandeklara tablo?"
+        },
+        {
+          "english": "I have nothing to declare; which line should I walk through?",
+          "russian": "Мне нечего декларировать; через какой коридор мне проходить?",
+          "spanish": "No tengo nada que declarar; ¿por qué fila debo pasar?",
+          "french": "Je n'ai rien à déclarer ; quelle file dois-je emprunter ?",
+          "german": "Ich habe nichts zu verzollen. Durch welchen Ausgang muss ich gehen?",
+          "italian": "Non ho nulla da dichiarare; quale corridoio devo seguire?",
+          "portuguese": "Não tenho nada a declarar; por qual corredor devo passar?",
+          "esperanto": "Mi havas nenion por deklari; per kiu vojo mi iru?"
+        },
+        {
+          "english": "Could you tell me where the international arrivals terminal is?",
+          "russian": "Не подскажете, где находится терминал международных прибытий?",
+          "spanish": "¿Podría decirme dónde está la terminal de llegadas internacionales?",
+          "french": "Pourriez-vous me dire où se trouve le terminal des arrivées internationales ?",
+          "german": "Könnten Sie mir sagen, wo das Terminal für internationale Ankünfte ist?",
+          "italian": "Saprebbe dirmi dove si trova il terminal degli arrivi internazionali?",
+          "portuguese": "Você poderia me dizer onde fica o terminal de desembarque internacional?",
+          "esperanto": "Ĉu vi povus diri al mi kie estas la internacia alvena terminalo?"
+        },
+        {
+          "english": "Please have your boarding documents ready for the agent.",
+          "russian": "Пожалуйста, подготовьте ваши посадочные документы для проверки агентом.",
+          "spanish": "Por favor, tenga listos sus documentos de embarque para el agente.",
+          "french": "Veuillez préparer vos documents d'embarquement pour l'agent.",
+          "german": "Bitte halten Sie Ihre Borddokumente für den Mitarbeiter bereit.",
+          "italian": "Siete pregati di tenere pronti i documenti d'imbarco per l'operatore.",
+          "portuguese": "Por favor, esteja com os seus documentos de embarque em mãos para apresentar ao agente.",
+          "esperanto": "Bonvolu pretigi viajn enir-dokumentojn por la agento."
+        },
+        {
+          "english": "Could you please direct me toward Departure Gate B14?",
+          "russian": "Не могли бы вы направить меня к выходу на посадку B14?",
+          "spanish": "¿Podría indicarme el camino hacia la puerta de salida B14, por favor?",
+          "french": "Pourriez-vous m'indiquer la direction de la porte d'embarquement B14, s'il vous plaît ?",
+          "german": "Könnten Sie mir bitte den Weg zu Flugsteig B14 zeigen?",
+          "italian": "Potrebbe indicarmi la direzione per il gate di partenza B14, per favore?",
+          "portuguese": "Você poderia me indicar onde fica o portão de embarque B14, por favor?",
+          "esperanto": "Ĉu vi bonvolus montri al mi la direkton al elirpordego B14?"
+        },
+        {
+          "english": "Do I need to take an airport shuttle train to reach Terminal 3?",
+          "russian": "Нужно ли мне садиться на монастырский поезд (шатл), чтобы добраться до Терминала 3?",
+          "spanish": "¿Tengo que tomar un tren lanzadera del aeropuerto para llegar a la Terminal 3?",
+          "french": "Dois-je prendre une navette ferroviaire de l'aéroport pour rejoindre le terminal 3 ?",
+          "german": "Muss ich den Shuttle-Zug des Flughafens nehmen, um zu Terminal 3 zu gelangen?",
+          "italian": "Devo prendere la navetta ferroviaria dell'aeroporto per raggiungere il Terminal 3?",
+          "portuguese": "Preciso pegar o trem expresso do aeroporto para chegar ao Terminal 3?",
+          "esperanto": "Ĉu mi bezonas preni flughavenan navetan trajnon por atingi Terminalon 3?"
+        },
+        {
+          "english": "Where is the nearest airline lounge located in this concourse?",
+          "russian": "Где в этом конкорсе/зале находится ближайший VIP-зал (лаунж) авиакомпании?",
+          "spanish": "¿Dónde está la sala VIP de la aerolínea más cercana en este vestíbulo?",
+          "french": "Où se trouve le salon de compagnie aérienne le plus proche dans cette jetée ?",
+          "german": "Wo befindet sich die nächste Airline-Lounge in diesem Abflugbereich?",
+          "italian": "Dove si trova la lounge dell'aerolinea più vicina in questa sala d'imbarco?",
+          "portuguese": "Onde fica a sala VIP da companhia aérea mais próxima neste saguão?",
+          "esperanto": "Kie estas la plej proksima aviadkompania salono en ĉi tiu halo?"
+        },
+        {
+          "english": "How long does it typically take to walk from here to Gate C9?",
+          "russian": "Сколько обычно занимает дорога пешком отсюда до выхода C9?",
+          "spanish": "¿Cuánto se tarda normalmente en caminar desde aquí hasta la puerta C9?",
+          "french": "Combien de temps faut-il généralement pour marcher d'ici jusqu'à la porte C9 ?",
+          "german": "Wie lange läuft man normalerweise von hier aus zu Flugsteig C9?",
+          "italian": "Quanto tempo ci vuole di solito a piedi da qui al gate C9?",
+          "portuguese": "Quanto tempo costuma levar para ir andando daqui até o portão C9?",
+          "esperanto": "Kiom da tempo kutime necesas piediri de ĉi tie al Pordego C9?"
+        },
+        {
+          "english": "Is there a duty-free shopping area near these gates?",
+          "russian": "Есть ли зона магазинов дьюти-фри рядом с этими выходами?",
+          "spanish": "¿Hay una zona de tiendas libres de impuestos cerca de estas puertas?",
+          "french": "Y a-t-il une zone de boutiques hors taxes à proximité de ces portes ?",
+          "german": "Gibt es in der Nähe dieser Flugsteige einen Duty-Free-Shoppingbereich?",
+          "italian": "C'è un'area per lo shopping duty-free vicino a questi gate?",
+          "portuguese": "Tem alguma área de freeshop perto desses portões?",
+          "esperanto": "Ĉu estas senimposta aĉetareo apud ĉi tiuj pordegoj?"
+        },
+        {
+          "english": "Excuse me, where can I find the nearest restroom or water fountain?",
+          "russian": "Извините, где я могу найти ближайший туалет или питьевой фонтанчик?",
+          "spanish": "Disculpe, ¿dónde puedo encontrar el baño o la fuente de agua más cercana?",
+          "french": "Excusez-moi, où puis-je trouver les toilettes ou la fontaine d'eau la plus proche ?",
+          "german": "Entschuldigung, wo finde ich die nächste Toilette oder einen Trinkbrunnen?",
+          "italian": "Scusi, dove posso trovare il bagno o la fontanella d'acqua più vicina?",
+          "portuguese": "Com licença, onde fica o banheiro ou o bebedouro mais próximo?",
+          "esperanto": "Pardonu, kie mi povas trovi la plej proksiman necesejon aŭ trinkfontanon?"
+        },
+        {
+          "english": "Are there any charging stations or power outlets near Gate 22?",
+          "russian": "Есть ли зарядные станции или розетки рядом с выходом 22?",
+          "spanish": "¿Hay estaciones de carga o tomas de corriente cerca de la puerta 22?",
+          "french": "Y a-t-il des stations de recharge ou des prises de courant près de la porte 22 ?",
+          "german": "Gibt es Ladestationen oder Steckdosen in der Nähe von Flugsteig 22?",
+          "italian": "Ci sono postazioni di ricarica o prese di corrente vicino al gate 22?",
+          "portuguese": "Tem totens de carregamento ou tomadas perto do portão 22?",
+          "esperanto": "Ĉu estas ŝargaj stacioj aŭ elektraj konektiloj apud Pordego 22?"
+        },
+        {
+          "english": "Which direction is the central food court from this corridor?",
+          "russian": "В каком направлении от этого коридора находится центральный фуд-корт?",
+          "spanish": "¿En qué dirección está la zona de restauración central desde este pasillo?",
+          "french": "Dans quelle direction se trouve l'espace restauration central depuis ce couloir ?",
+          "german": "In welcher Richtung liegt der zentrale Food-Court von diesem Gang aus?",
+          "italian": "In quale direzione si trova l'area ristorazione centrale da questo corridoio?",
+          "portuguese": "Para qual direção fica a praça de alimentação principal saindo deste corredor?",
+          "esperanto": "Kiu direkto estas la centra manĝejo de ĉi tiu koridoro?"
+        },
+        {
+          "english": "Is there a quiet currency exchange booth inside this terminal?",
+          "russian": "Есть ли в этом терминале тихий пункт обмена валюты?",
+          "spanish": "¿Hay una ventanilla de cambio de divisas tranquila dentro de esta terminal?",
+          "french": "Y a-t-il un bureau de change calme à l'intérieur de ce terminal ?",
+          "german": "Gibt es einen ruhigen Geldwechselstube in diesem Terminal?",
+          "italian": "C'è uno sportello di cambio valuta tranquillo all'interno di questo terminal?",
+          "portuguese": "Tem algum guichê de câmbio de moedas mais tranquilo dentro deste terminal?",
+          "esperanto": "Ĉu estas trankvila monŝanĝejo ene de ĉi tiu terminalo?"
+        },
+        {
+          "english": "Follow the overhead signage to navigate between concourses.",
+          "russian": "Следуйте указателям сверху, чтобы переходить между залами вылета.",
+          "spanish": "Siga los carteles indicadores superiores para desplazarse entre los vestíbulos.",
+          "french": "Suivez les panneaux suspendus pour vous déplacer entre les halls.",
+          "german": "Folgen Sie der Beschilderung an der Decke, um zwischen den Abflugbereichen zu wechseln.",
+          "italian": "Seguire le indicazioni in alto per spostarsi tra le sale d'imbarco.",
+          "portuguese": "Siga as placas suspensas para se deslocar entre os terminais.",
+          "esperanto": "Sekvu la superajn ŝildojn por navigi inter la haloj."
+        },
+        {
+          "english": "Is flight UA345 currently on schedule, or is it running late?",
+          "russian": "Рейс UA345 сейчас по расписанию или задерживается?",
+          "spanish": "¿El vuelo UA345 está en horario o viene retrasado?",
+          "french": "Le vol UA345 est-il à l'heure actuellement ou est-il en retard ?",
+          "german": "Ist Flug UA345 aktuell pünktlich oder hat er Verspätung?",
+          "italian": "Il volo UA345 è attualmente in orario o è in ritardo?",
+          "portuguese": "O voo UA345 está no horário planejado ou está atrasado?",
+          "esperanto": "Ĉu flugo UA345 estas nune laŭhorara, aŭ ĉu ĝi malfruas?"
+        },
+        {
+          "english": "My connecting flight was canceled; where do I go for rebooking?",
+          "russian": "Мой стыковочный рейс отменили; куда мне обратиться для переоформления билета?",
+          "spanish": "Mi vuelo de conexión fue cancelado; ¿a dónde voy para cambiar la reserva?",
+          "french": "Mon vol de correspondance a été annulé ; où dois-je aller pour modifier ma réservation ?",
+          "german": "Mein Anschlussflug wurde annulliert. Wo kann ich mich für eine Umbuchung hinwenden?",
+          "italian": "Il mio volo in coincidenza è stato cancellato; dove devo andare per la riprogrammazione?",
+          "portuguese": "Meu voo de conexão foi cancelado; onde vou para remarcar?",
+          "esperanto": "Mia konekta flugo estis nuligita; kien mi iru por re-rezervi?"
+        },
+        {
+          "english": "What gate has the flight to Chicago been reassigned to?",
+          "russian": "На какой выход был перенаправлен рейс в Чикаго?",
+          "spanish": "¿A qué puerta se ha reasignado el vuelo a Chicago?",
+          "french": "Vers quelle porte le vol pour Chicago a-t-il été réaffecté ?",
+          "german": "An welchen Flugsteig wurde der Flug nach Chicago verlegt?",
+          "italian": "A quale gate è stato riassegnato il volo per Chicago?",
+          "portuguese": "Para qual portão o voo para Chicago foi alterado?",
+          "esperanto": "Al kiu pordego estis reasignita la flugo al Ĉikago?"
+        },
+        {
+          "english": "Is there any updated information regarding the weather delay?",
+          "russian": "Есть ли какая-то новая информация касательно задержки из-за погодных условий?",
+          "spanish": "¿Hay alguna información actualizada sobre el retraso por el clima?",
+          "french": "Y a-t-il des informations récentes concernant le retard dû à la météo ?",
+          "german": "Gibt es aktuelle Informationen bezüglich der wetterbedingten Verzögerung?",
+          "italian": "Ci sono informazioni aggiornate sul ritardo dovuto al maltempo?",
+          "portuguese": "Tem alguma informação atualizada sobre o atraso devido ao mau tempo?",
+          "esperanto": "Ĉu estas ĝisdatigita informo pri la vetera prokrasto?"
+        },
+        {
+          "english": "This is the final boarding call for all passengers on flight 82.",
+          "russian": "Это последнее приглашение на посадку для всех пассажиров рейса 82.",
+          "spanish": "Llamada final de embarque para todos los pasajeros del vuelo 82.",
+          "french": "Ceci est le dernier appel d'embarquement pour les passagers du vol 82.",
+          "german": "Dies ist der letzte Aufruf für alle Passagiere des Fluges 82.",
+          "italian": "Questo è l'ultimo avviso di imbarco per tutti i passeggeri del volo 82.",
+          "portuguese": "Esta é a última chamada de embarque para os passageiros do voo 82.",
+          "esperanto": "Ĉi tio estas la fina enirvoko por ĉiuj pasaĝeroj de flugo 82."
+        },
+        {
+          "english": "I missed my flight; is there a standby list for the next one?",
+          "russian": "Я опоздал на свой рейс; есть ли лист ожидания на следующий?",
+          "spanish": "Perdí mi vuelo; ¿hay una lista de espera (standby) para el siguiente?",
+          "french": "J'ai raté mon vol ; y a-t-il une liste d'attente pour le prochain ?",
+          "german": "Ich habe meinen Flug verpasst. Gibt es eine Standby-Liste für den nächsten?",
+          "italian": "Ho perso il mio volo; c'è una lista d'attesa per il prossimo?",
+          "portuguese": "Perdi o meu voo; tem lista de espera para o próximo?",
+          "esperanto": "Mi maltrafis mian flugon; ĉu estas atenda listo por la sekva?"
+        },
+        {
+          "english": "Will the airline provide a voucher for food or accommodation?",
+          "russian": "Предоставит ли авиакомпания ваучер на еду или проживание?",
+          "spanish": "¿La aerolínea proporcionará un vale para comida o alojamiento?",
+          "french": "La compagnie aérienne fournira-t-elle un bon pour la nourriture ou l'hébergement ?",
+          "german": "Stellt die Fluggesellschaft einen Gutschein für Verpflegung oder eine Unterkunft aus?",
+          "italian": "La compagnia aerea fornirà un voucher per il cibo o l'alloggio?",
+          "portuguese": "A companhia aérea vai fornecer um voucher de alimentação ou hospedagem?",
+          "esperanto": "Ĉu la aviadkompanio provizos kuponon por manĝo aŭ loĝejo?"
+        },
+        {
+          "english": "The departure board shows that my flight is currently delayed.",
+          "russian": "На табло вылета указано, что мой рейс в настоящее время задерживается.",
+          "spanish": "La pantalla de salidas muestra que mi vuelo está retrasado actualmente.",
+          "french": "Le tableau des départs indique que mon vol est actuellement retardé.",
+          "german": "Die Abflugtafel zeigt an, dass mein Flug momentan verspätet ist.",
+          "italian": "Il tabellone delle partenze mostra che il mio volo è al momento in ritardo.",
+          "portuguese": "O painel de partidas mostra que o meu voo está atrasado no momento.",
+          "esperanto": "La elirpanelo montras ke mia flugo estas nuntempe prokrastita."
+        },
+        {
+          "english": "How long is the expected layover before our next departure?",
+          "russian": "Какова длительность ожидаемой пересадки перед следующим вылетом?",
+          "spanish": "¿De cuánto tiempo es la escala prevista antes de nuestra próxima salida?",
+          "french": "Combien de temps dure l'escale prévue avant notre prochain départ ?",
+          "german": "Wie lange ist die voraussichtliche Zwischenlandung bis zu unserem Weiterflug?",
+          "italian": "Quanto dura lo scalo previsto prima della nostra prossima partenza?",
+          "portuguese": "De quanto tempo será a nossa conexão antes da próxima partida?",
+          "esperanto": "Kiom daŭras la atendata transira tempo antaŭ nia sekva eliro?"
+        },
+        {
+          "english": "Please listen closely to the updated gate announcements.",
+          "russian": "Пожалуйста, внимательно слушайте объявления об изменении выходов на посадку.",
+          "spanish": "Por favor, escuche atentamente los avisos actualizados sobre las puertas.",
+          "french": "Veuillez écouter attentivement les annonces de changement de porte.",
+          "german": "Bitte achten Sie genau auf die aktualisierten Durchsagen zu den Flugsteigen.",
+          "italian": "Si prega di ascoltare attentamente gli annunci relativi ai cambi di gate.",
+          "portuguese": "Por favor, preste atenção aos anúncios de alteração de portão.",
+          "esperanto": "Bonvolu aŭskulti atente la ĝisdatigitajn pordegajn anoncojn."
+        },
+        {
+          "english": "Where can I find the baggage carousel for flight AA102?",
+          "russian": "Где я могу найти багажную ленту для рейса AA102?",
+          "spanish": "¿Dónde posso encontrar la cinta de equipaje del vuelo AA102?",
+          "french": "Où puis-je trouver le tapis à bagages pour le vol AA102 ?",
+          "german": "Wo finde ich das Gepäckband für Flug AA102?",
+          "italian": "Dove posso trovare il rullo bagagli per il volo AA102?",
+          "portuguese": "Onde fica a esteira de bagagem do voo AA102?",
+          "esperanto": "Kie mi povas trovi la pakaĵan karuselon por flugo AA102?"
+        },
+        {
+          "english": "My checked suitcase has not arrived on the luggage belt.",
+          "russian": "Мой зарегистрированный чемодан так и не появился на багажной ленте.",
+          "spanish": "Mi maleta facturada no ha salido en la cinta de equipaje.",
+          "french": "Ma valise enregistrée n'est pas arrivée sur le tapis roulant.",
+          "german": "Mein aufgegebener Koffer ist nicht auf dem Gepäckband angekommen.",
+          "italian": "La mia valigia registrata non è arrivata sul nastro dei bagagli.",
+          "portuguese": "A mala que eu despachei não apareceu na esteira de bagagens.",
+          "esperanto": "Mia registrita valizo ne alvenis sur la pakaĵan zonon."
+        },
+        {
+          "english": "Who do I speak to regarding damaged or missing baggage?",
+          "russian": "С кем мне поговорить по поводу поврежденного или утерянного багажа?",
+          "spanish": "¿Con quién debo hablar en relación con equipaje dañado o perdido?",
+          "french": "À qui dois-je m'adresser concernant des bagages endommagés ou manquants ?",
+          "german": "An wen muss ich mich wenden, wenn mein Gepäck beschädigt wurde oder fehlt?",
+          "italian": "Con chi devo parlare per un bagaglio danneggiato o smarrito?",
+          "portuguese": "Com quem eu falo sobre bagagem danificada ou extraviada?",
+          "esperanto": "Kun kiu mi parolu pri difektita aŭ mankanta pakaĵo?"
+        },
+        {
+          "english": "Could you direct me toward the ground transportation exit?",
+          "russian": "Не могли бы вы направить меня к выходу к наземному транспорту?",
+          "spanish": "¿Podría indicarme la salida hacia los medios de transporte terrestre?",
+          "french": "Pourriez-vous m'orienter vers la sortie des transports terrestres ?",
+          "german": "Könnten Sie mir den Weg zum Ausgang für Bodenverkehrsmittel zeigen?",
+          "italian": "Potrebbe indicarmi l'uscita per i trasporti di superficie?",
+          "portuguese": "Você poderia me indicar a saída para o transporte terrestre?",
+          "esperanto": "Ĉu vi povus montri al mi la eliron al la surtera transporto?"
+        },
+        {
+          "english": "Where is the designated pickup area for rideshare vehicles?",
+          "russian": "Где находится назначенная зона посадки для автомобилей такси по приложению (Uber/Lyft)?",
+          "spanish": "¿Dónde está la zona designada para la recogida de vehículos de transporte compartido (Uber/Lyft)?",
+          "french": "Où se trouve la zone de prise en charge désignée pour les véhicules de VTC ?",
+          "german": "Wo ist der ausgewiesene Abholbereich für Ridesharing-Fahrzeuge (z.B. Uber)?",
+          "italian": "Dov'è l'area di prelievo designata per i veicoli di ridesharing?",
+          "portuguese": "Onde fica a área designada para embarque de carros de aplicativo?",
+          "esperanto": "Kie estas la difinita prenareo por kunveturigaj veturiloj?"
+        },
+        {
+          "english": "Is there a direct train or subway line that connects to downtown?",
+          "russian": "Есть ли прямой поезд или линия метро, которая идет до центра города?",
+          "spanish": "¿Hay una línea directa de tren o metro que conecte con el centro de la ciudad?",
+          "french": "Y a-t-il une ligne directe de train ou de métro qui relie le centre-ville ?",
+          "german": "Gibt es eine direkte Zug- oder U-Bahn-Verbindung in die Innenstadt?",
+          "italian": "C'è una linea diretta del treno o della metropolitana che porta in centro?",
+          "portuguese": "Tem alguma linha direta de trem ou metrô que vai para o centro da cidade?",
+          "esperanto": "Ĉu estas rekta trajno aŭ metroa linio kiu konektas al la urbocentro?"
+        },
+        {
+          "english": "Where can I find the counters for the car rental agencies?",
+          "russian": "Где я могу найти стойки агентств по прокату автомобилей?",
+          "spanish": "¿Dónde puedo encontrar los mostradores de las agencias de alquiler de coches?",
+          "french": "Où puis-je trouver les comptoirs des agences de location de voitures ?",
+          "german": "Wo finde ich die Schalter der Autovermietungen?",
+          "italian": "Dove posso trovare gli sportelli delle agenzie di autonoleggio?",
+          "portuguese": "Onde ficam os balcões das locadoras de veículos?",
+          "esperanto": "Kie mi povas trovi la vendotablojn de la aŭtoluejoj?"
+        },
+        {
+          "english": "Excuse me, where is the official taxi stand for this airport?",
+          "russian": "Извините, где находится официальная стоянка такси этого аэропорта?",
+          "spanish": "Disculpe, ¿dónde está la parada oficial de taxis de este aeropuerto?",
+          "french": "Excusez-moi, où se trouve la station de taxis officielle de cet aéroport ?",
+          "german": "Entschuldigung, wo ist der offizielle Taxistand an diesem Flughafen?",
+          "italian": "Scusi, dov'è il posteggio dei taxi ufficiale di questo aeroporto?",
+          "portuguese": "Com licença, onde fica o ponto de táxi oficial deste aeroporto?",
+          "esperanto": "Pardonu, kie estas la oficiala taksiejo de ĉi tiu flughaveno?"
+        },
+        {
+          "english": "How much does the airport express bus ticket cost to the city?",
+          "russian": "Сколько стоит билет на экспресс-автобус из аэропорта до города?",
+          "spanish": "¿Cuánto cuesta el billete del autobús exprés del aeropuerto a la ciudad?",
+          "french": "Combien coûte le ticket de bus express de l'aéroport pour aller en ville ?",
+          "german": "Wie viel kostet ein Ticket für den Flughafen-Expressbus in die Stadt?",
+          "italian": "Quanto costa il biglietto dell'autobus express dall'aeroporto alla città?",
+          "portuguese": "Quanto custa a passagem do ônibus expresso do aeroporto para a cidade?",
+          "esperanto": "Kiom kostas la bileto por la flughavena ekspresbuso al la urbo?"
+        },
+        {
+          "english": "Welcome to your destination; please watch your step exiting.",
+          "russian": "Добро пожаловать в пункт назначения; пожалуйста, будьте осторожны при выходе.",
+          "spanish": "Bienvenido a su destino; por favor, tenga cuidado al salir.",
+          "french": "Bienvenue à destination ; s'il vous plaît, faites attention à la marche en sortant.",
+          "german": "Willkommen an Ihrem Reiseziel. Bitte achten Sie beim Aussteigen auf den Auftritt.",
+          "italian": "Benvenuti a destinazione; si prega di fare attenzione ai gradini uscendo.",
+          "portuguese": "Bem-vindo ao seu destino; por favor, cuidado com o degrau ao sair.",
+          "esperanto": "Bonvenon al via celloko; bonvolu atenti vian paŝon elirante."
+        }
+      ]
+    }
+  ]
+}

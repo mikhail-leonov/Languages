@@ -1,0 +1,603 @@
+{
+  "categories": [
+    {
+      "name": "Social Life, Plans and Hobbies",
+      "phrases": [
+        {
+          "english": "hobby",
+          "russian": "хобби",
+          "spanish": "afición",
+          "french": "passe-temps",
+          "german": "Hobby",
+          "portuguese": "passatempo",
+          "italian": "hobby"
+        },
+        {
+          "english": "free time",
+          "russian": "свободное время",
+          "spanish": "tiempo libre",
+          "french": "temps libre",
+          "german": "Freizeit",
+          "portuguese": "tempo livre",
+          "italian": "tempo libero"
+        },
+        {
+          "english": "music",
+          "russian": "музыка",
+          "spanish": "música",
+          "french": "musique",
+          "german": "Musik",
+          "portuguese": "música",
+          "italian": "musica"
+        },
+        {
+          "english": "reading",
+          "russian": "чтение",
+          "spanish": "lectura",
+          "french": "lecture",
+          "german": "Lesen",
+          "portuguese": "leitura",
+          "italian": "lettura"
+        },
+        {
+          "english": "sport",
+          "russian": "спорт",
+          "spanish": "deporte",
+          "french": "sport",
+          "german": "Sport",
+          "portuguese": "desporto",
+          "italian": "sport"
+        },
+        {
+          "english": "football",
+          "russian": "футбол",
+          "spanish": "fútbol",
+          "french": "football",
+          "german": "Fußball",
+          "portuguese": "futebol",
+          "italian": "calcio"
+        },
+        {
+          "english": "swimming",
+          "russian": "плавание",
+          "spanish": "natación",
+          "french": "natation",
+          "german": "Schwimmen",
+          "portuguese": "natação",
+          "italian": "nuoto"
+        },
+        {
+          "english": "running",
+          "russian": "бег",
+          "spanish": "correr",
+          "french": "course à pied",
+          "german": "Laufen",
+          "portuguese": "corrida",
+          "italian": "corsa"
+        },
+        {
+          "english": "cycling",
+          "russian": "велоспорт",
+          "spanish": "ciclismo",
+          "french": "cyclisme",
+          "german": "Radfahren",
+          "portuguese": "ciclismo",
+          "italian": "ciclismo"
+        },
+        {
+          "english": "dancing",
+          "russian": "танцы",
+          "spanish": "baile",
+          "french": "danse",
+          "german": "Tanzen",
+          "portuguese": "dança",
+          "italian": "ballo"
+        },
+        {
+          "english": "cooking",
+          "russian": "готовка",
+          "spanish": "cocina",
+          "french": "cuisine",
+          "german": "Kochen",
+          "portuguese": "cozinhar",
+          "italian": "cucina"
+        },
+        {
+          "english": "painting",
+          "russian": "рисование",
+          "spanish": "pintura",
+          "french": "peinture",
+          "german": "Malen",
+          "portuguese": "pintura",
+          "italian": "pittura"
+        },
+        {
+          "english": "photography",
+          "russian": "фотография",
+          "spanish": "fotografía",
+          "french": "photographie",
+          "german": "Fotografie",
+          "portuguese": "fotografia",
+          "italian": "fotografia"
+        },
+        {
+          "english": "video games",
+          "russian": "видеоигры",
+          "spanish": "videojuegos",
+          "french": "jeux vidéo",
+          "german": "Videospiele",
+          "portuguese": "videojogos",
+          "italian": "videogiochi"
+        },
+        {
+          "english": "travelling",
+          "russian": "путешествия",
+          "spanish": "viajar",
+          "french": "voyager",
+          "german": "Reisen",
+          "portuguese": "viajar",
+          "italian": "viaggiare"
+        },
+        {
+          "english": "hiking",
+          "russian": "поход",
+          "spanish": "senderismo",
+          "french": "randonnée",
+          "german": "Wandern",
+          "portuguese": "caminhada",
+          "italian": "escursionismo"
+        },
+        {
+          "english": "gym",
+          "russian": "спортзал",
+          "spanish": "gimnasio",
+          "french": "salle de sport",
+          "german": "Fitnessstudio",
+          "portuguese": "ginásio",
+          "italian": "palestra"
+        },
+        {
+          "english": "yoga",
+          "russian": "йога",
+          "spanish": "yoga",
+          "french": "yoga",
+          "german": "Yoga",
+          "portuguese": "ioga",
+          "italian": "yoga"
+        },
+        {
+          "english": "fishing",
+          "russian": "рыбалка",
+          "spanish": "pesca",
+          "french": "pêche",
+          "german": "Angeln",
+          "portuguese": "pesca",
+          "italian": "pesca"
+        },
+        {
+          "english": "gardening",
+          "russian": "садоводство",
+          "spanish": "jardinería",
+          "french": "jardinage",
+          "german": "Gärtnern",
+          "portuguese": "jardinagem",
+          "italian": "giardinaggio"
+        },
+        {
+          "english": "cinema",
+          "russian": "кино",
+          "spanish": "cine",
+          "french": "cinéma",
+          "german": "Kino",
+          "portuguese": "cinema",
+          "italian": "cinema"
+        },
+        {
+          "english": "movie",
+          "russian": "фильм",
+          "spanish": "película",
+          "french": "film",
+          "german": "Film",
+          "portuguese": "filme",
+          "italian": "film"
+        },
+        {
+          "english": "theatre",
+          "russian": "театр",
+          "spanish": "teatro",
+          "french": "théâtre",
+          "german": "Theater",
+          "portuguese": "teatro",
+          "italian": "teatro"
+        },
+        {
+          "english": "concert",
+          "russian": "концерт",
+          "spanish": "concierto",
+          "french": "concert",
+          "german": "Konzert",
+          "portuguese": "concerto",
+          "italian": "concerto"
+        },
+        {
+          "english": "museum",
+          "russian": "музей",
+          "spanish": "museo",
+          "french": "musée",
+          "german": "Museum",
+          "portuguese": "museu",
+          "italian": "museo"
+        },
+        {
+          "english": "party",
+          "russian": "вечеринка",
+          "spanish": "fiesta",
+          "french": "fête",
+          "german": "Party",
+          "portuguese": "festa",
+          "italian": "festa"
+        },
+        {
+          "english": "restaurant",
+          "russian": "ресторан",
+          "spanish": "restaurante",
+          "french": "restaurant",
+          "german": "Restaurant",
+          "portuguese": "restaurante",
+          "italian": "ristorante"
+        },
+        {
+          "english": "bar",
+          "russian": "бар",
+          "spanish": "bar",
+          "french": "bar",
+          "german": "Bar",
+          "portuguese": "bar",
+          "italian": "bar"
+        },
+        {
+          "english": "What do you like to do?",
+          "russian": "Что ты любишь делать?",
+          "spanish": "¿Qué te gusta hacer?",
+          "french": "Qu'est-ce que tu aimes faire ?",
+          "german": "Was machst du gern?",
+          "portuguese": "O que gostas de fazer?",
+          "italian": "Cosa ti piace fare?"
+        },
+        {
+          "english": "Are you free tonight?",
+          "russian": "Ты свободен сегодня вечером?",
+          "spanish": "¿Estás libre esta noche?",
+          "french": "Es-tu libre ce soir ?",
+          "german": "Hast du heute Abend Zeit?",
+          "portuguese": "Estás livre esta noite?",
+          "italian": "Sei libero stasera?"
+        },
+        {
+          "english": "Would you like to come?",
+          "russian": "Хочешь пойти с нами?",
+          "spanish": "¿Te gustaría venir?",
+          "french": "Aimerais-tu venir ?",
+          "german": "Möchtest du mitkommen?",
+          "portuguese": "Queres vir?",
+          "italian": "Ti va di venire?"
+        },
+        {
+          "english": "Let's go out.",
+          "russian": "Давай куда-нибудь сходим.",
+          "spanish": "Salgamos.",
+          "french": "Sortons.",
+          "german": "Lass uns ausgehen.",
+          "portuguese": "Vamos sair.",
+          "italian": "Usciamo."
+        },
+        {
+          "english": "What are you doing this weekend?",
+          "russian": "Что ты делаешь в выходные?",
+          "spanish": "¿Qué haces este fin de semana?",
+          "french": "Que fais-tu ce week-end ?",
+          "german": "Was machst du am Wochenende?",
+          "portuguese": "O que fazes este fim de semana?",
+          "italian": "Cosa fai questo weekend?"
+        },
+        {
+          "english": "Let's meet up.",
+          "russian": "Давай встретимся.",
+          "spanish": "Quedemos.",
+          "french": "Retrouvons-nous.",
+          "german": "Lass uns treffen.",
+          "portuguese": "Vamos encontrar-nos.",
+          "italian": "Vediamoci."
+        },
+        {
+          "english": "I'd love to.",
+          "russian": "С удовольствием.",
+          "spanish": "Me encantaría.",
+          "french": "Avec plaisir.",
+          "german": "Sehr gerne.",
+          "portuguese": "Adorava.",
+          "italian": "Mi piacerebbe molto."
+        },
+        {
+          "english": "Maybe another time.",
+          "russian": "Может, в другой раз.",
+          "spanish": "Quizás en otro momento.",
+          "french": "Peut-être une autre fois.",
+          "german": "Vielleicht ein anderes Mal.",
+          "portuguese": "Talvez noutra altura.",
+          "italian": "Magari un'altra volta."
+        },
+        {
+          "english": "Where shall we meet?",
+          "russian": "Где встретимся?",
+          "spanish": "¿Dónde quedamos?",
+          "french": "Où est-ce qu'on se retrouve ?",
+          "german": "Wo treffen wir uns?",
+          "portuguese": "Onde nos encontramos?",
+          "italian": "Dove ci vediamo?"
+        },
+        {
+          "english": "What time?",
+          "russian": "Во сколько?",
+          "spanish": "¿A qué hora?",
+          "french": "À quelle heure ?",
+          "german": "Um wie viel Uhr?",
+          "portuguese": "A que horas?",
+          "italian": "A che ora?"
+        },
+        {
+          "english": "Do you want to have dinner?",
+          "russian": "Хочешь поужинать?",
+          "spanish": "¿Quieres cenar?",
+          "french": "Veux-tu dîner ?",
+          "german": "Möchtest du essen gehen?",
+          "portuguese": "Queres jantar?",
+          "italian": "Vuoi cenare?"
+        },
+        {
+          "english": "Let's grab a coffee.",
+          "russian": "Давай выпьем кофе.",
+          "spanish": "Tomemos un café.",
+          "french": "Allons prendre un café.",
+          "german": "Lass uns einen Kaffee trinken.",
+          "portuguese": "Vamos tomar um café.",
+          "italian": "Andiamo a prendere un caffè."
+        },
+        {
+          "english": "Let's go to the cinema.",
+          "russian": "Пойдём в кино.",
+          "spanish": "Vamos al cine.",
+          "french": "Allons au cinéma.",
+          "german": "Lass uns ins Kino gehen.",
+          "portuguese": "Vamos ao cinema.",
+          "italian": "Andiamo al cinema."
+        },
+        {
+          "english": "I'll pick you up.",
+          "russian": "Я тебя заберу.",
+          "spanish": "Te recojo.",
+          "french": "Je passe te prendre.",
+          "german": "Ich hole dich ab.",
+          "portuguese": "Vou buscar-te.",
+          "italian": "Ti vengo a prendere."
+        },
+        {
+          "english": "See you later.",
+          "russian": "Увидимся позже.",
+          "spanish": "Hasta luego.",
+          "french": "À plus tard.",
+          "german": "Bis später.",
+          "portuguese": "Até logo.",
+          "italian": "A più tardi."
+        },
+        {
+          "english": "See you tomorrow.",
+          "russian": "До завтра.",
+          "spanish": "Hasta mañana.",
+          "french": "À demain.",
+          "german": "Bis morgen.",
+          "portuguese": "Até amanhã.",
+          "italian": "A domani."
+        },
+        {
+          "english": "I like music.",
+          "russian": "Мне нравится музыка.",
+          "spanish": "Me gusta la música.",
+          "french": "J'aime la musique.",
+          "german": "Ich mag Musik.",
+          "portuguese": "Gosto de música.",
+          "italian": "Mi piace la musica."
+        },
+        {
+          "english": "I love this.",
+          "russian": "Мне это очень нравится.",
+          "spanish": "Me encanta esto.",
+          "french": "J'adore ça.",
+          "german": "Ich liebe das.",
+          "portuguese": "Adoro isto.",
+          "italian": "Adoro questo."
+        },
+        {
+          "english": "I don't like it.",
+          "russian": "Мне это не нравится.",
+          "spanish": "No me gusta.",
+          "french": "Je n'aime pas ça.",
+          "german": "Das mag ich nicht.",
+          "portuguese": "Não gosto disto.",
+          "italian": "Non mi piace."
+        },
+        {
+          "english": "I prefer tea.",
+          "russian": "Я предпочитаю чай.",
+          "spanish": "Prefiero el té.",
+          "french": "Je préfère le thé.",
+          "german": "Ich bevorzuge Tee.",
+          "portuguese": "Prefiro chá.",
+          "italian": "Preferisco il tè."
+        },
+        {
+          "english": "It's fun.",
+          "russian": "Это весело.",
+          "spanish": "Es divertido.",
+          "french": "C'est amusant.",
+          "german": "Das macht Spaß.",
+          "portuguese": "É divertido.",
+          "italian": "È divertente."
+        },
+        {
+          "english": "It's boring.",
+          "russian": "Это скучно.",
+          "spanish": "Es aburrido.",
+          "french": "C'est ennuyeux.",
+          "german": "Das ist langweilig.",
+          "portuguese": "É aborrecido.",
+          "italian": "È noioso."
+        },
+        {
+          "english": "I'm interested in art.",
+          "russian": "Я интересуюсь искусством.",
+          "spanish": "Me interesa el arte.",
+          "french": "Je m'intéresse à l'art.",
+          "german": "Ich interessiere mich für Kunst.",
+          "portuguese": "Interesso-me por arte.",
+          "italian": "Mi interesso d'arte."
+        },
+        {
+          "english": "I agree.",
+          "russian": "Я согласен.",
+          "spanish": "Estoy de acuerdo.",
+          "french": "Je suis d'accord.",
+          "german": "Ich stimme zu.",
+          "portuguese": "Concordo.",
+          "italian": "Sono d'accordo."
+        },
+        {
+          "english": "I don't agree.",
+          "russian": "Я не согласен.",
+          "spanish": "No estoy de acuerdo.",
+          "french": "Je ne suis pas d'accord.",
+          "german": "Ich stimme nicht zu.",
+          "portuguese": "Não concordo.",
+          "italian": "Non sono d'accordo."
+        },
+        {
+          "english": "In my opinion...",
+          "russian": "По-моему...",
+          "spanish": "En mi opinión...",
+          "french": "À mon avis...",
+          "german": "Meiner Meinung nach...",
+          "portuguese": "Na minha opinião...",
+          "italian": "Secondo me..."
+        },
+        {
+          "english": "What's your favorite movie?",
+          "russian": "Какой твой любимый фильм?",
+          "spanish": "¿Cuál es tu película favorita?",
+          "french": "Quel est ton film préféré ?",
+          "german": "Was ist dein Lieblingsfilm?",
+          "portuguese": "Qual é o teu filme favorito?",
+          "italian": "Qual è il tuo film preferito?"
+        },
+        {
+          "english": "Cheers!",
+          "russian": "За здоровье!",
+          "spanish": "¡Salud!",
+          "french": "Santé !",
+          "german": "Prost!",
+          "portuguese": "Saúde!",
+          "italian": "Salute!"
+        },
+        {
+          "english": "Have fun!",
+          "russian": "Веселись!",
+          "spanish": "¡Diviértete!",
+          "french": "Amuse-toi bien !",
+          "german": "Viel Spaß!",
+          "portuguese": "Diverte-te!",
+          "italian": "Divertiti!"
+        },
+        {
+          "english": "Enjoy!",
+          "russian": "Приятного!",
+          "spanish": "¡Disfruta!",
+          "french": "Profite bien !",
+          "german": "Genieße es!",
+          "portuguese": "Aproveita!",
+          "italian": "Goditela!"
+        },
+        {
+          "english": "to go out",
+          "russian": "выходить",
+          "spanish": "salir",
+          "french": "sortir",
+          "german": "ausgehen",
+          "portuguese": "sair",
+          "italian": "uscire"
+        },
+        {
+          "english": "to meet",
+          "russian": "встречаться",
+          "spanish": "quedar",
+          "french": "se retrouver",
+          "german": "sich treffen",
+          "portuguese": "encontrar-se",
+          "italian": "incontrarsi"
+        },
+        {
+          "english": "to dance",
+          "russian": "танцевать",
+          "spanish": "bailar",
+          "french": "danser",
+          "german": "tanzen",
+          "portuguese": "dançar",
+          "italian": "ballare"
+        },
+        {
+          "english": "to sing",
+          "russian": "петь",
+          "spanish": "cantar",
+          "french": "chanter",
+          "german": "singen",
+          "portuguese": "cantar",
+          "italian": "cantare"
+        },
+        {
+          "english": "to play",
+          "russian": "играть",
+          "spanish": "jugar",
+          "french": "jouer",
+          "german": "spielen",
+          "portuguese": "jogar",
+          "italian": "giocare"
+        },
+        {
+          "english": "to relax",
+          "russian": "расслабляться",
+          "spanish": "relajarse",
+          "french": "se détendre",
+          "german": "sich entspannen",
+          "portuguese": "relaxar",
+          "italian": "rilassarsi"
+        },
+        {
+          "english": "to invite",
+          "russian": "приглашать",
+          "spanish": "invitar",
+          "french": "inviter",
+          "german": "einladen",
+          "portuguese": "convidar",
+          "italian": "invitare"
+        },
+        {
+          "english": "to celebrate",
+          "russian": "праздновать",
+          "spanish": "celebrar",
+          "french": "célébrer",
+          "german": "feiern",
+          "portuguese": "celebrar",
+          "italian": "festeggiare"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "categories": [
+    {
+      "name": "Dates, Days and the Calendar",
+      "phrases": [
+        {
+          "english": "Monday",
+          "russian": "понедельник",
+          "spanish": "lunes",
+          "french": "lundi",
+          "german": "Montag",
+          "portuguese": "segunda-feira",
+          "italian": "lunedì",
+          "esperanto": "lundo"
+        },
+        {
+          "english": "Tuesday",
+          "russian": "вторник",
+          "spanish": "martes",
+          "french": "mardi",
+          "german": "Dienstag",
+          "portuguese": "terça-feira",
+          "italian": "martedì",
+          "esperanto": "mardo"
+        },
+        {
+          "english": "Wednesday",
+          "russian": "среда",
+          "spanish": "miércoles",
+          "french": "mercredi",
+          "german": "Mittwoch",
+          "portuguese": "quarta-feira",
+          "italian": "mercoledì",
+          "esperanto": "merkredo"
+        },
+        {
+          "english": "Thursday",
+          "russian": "четверг",
+          "spanish": "jueves",
+          "french": "jeudi",
+          "german": "Donnerstag",
+          "portuguese": "quinta-feira",
+          "italian": "giovedì",
+          "esperanto": "ĵaŭdo"
+        },
+        {
+          "english": "Friday",
+          "russian": "пятница",
+          "spanish": "viernes",
+          "french": "vendredi",
+          "german": "Freitag",
+          "portuguese": "sexta-feira",
+          "italian": "venerdì",
+          "esperanto": "vendredo"
+        },
+        {
+          "english": "Saturday",
+          "russian": "суббота",
+          "spanish": "sábado",
+          "french": "samedi",
+          "german": "Samstag",
+          "portuguese": "sábado",
+          "italian": "sabato",
+          "esperanto": "sabato"
+        },
+        {
+          "english": "Sunday",
+          "russian": "воскресенье",
+          "spanish": "domingo",
+          "french": "dimanche",
+          "german": "Sonntag",
+          "portuguese": "domingo",
+          "italian": "domenica",
+          "esperanto": "dimanĉo"
+        },
+        {
+          "english": "January",
+          "russian": "январь",
+          "spanish": "enero",
+          "french": "janvier",
+          "german": "Januar",
+          "portuguese": "janeiro",
+          "italian": "gennaio",
+          "esperanto": "januaro"
+        },
+        {
+          "english": "February",
+          "russian": "февраль",
+          "spanish": "febrero",
+          "french": "février",
+          "german": "Februar",
+          "portuguese": "fevereiro",
+          "italian": "febbraio",
+          "esperanto": "februaro"
+        },
+        {
+          "english": "March",
+          "russian": "март",
+          "spanish": "marzo",
+          "french": "mars",
+          "german": "März",
+          "portuguese": "março",
+          "italian": "marzo",
+          "esperanto": "marto"
+        },
+        {
+          "english": "April",
+          "russian": "апрель",
+          "spanish": "abril",
+          "french": "avril",
+          "german": "April",
+          "portuguese": "abril",
+          "italian": "aprile",
+          "esperanto": "aprilo"
+        },
+        {
+          "english": "May",
+          "russian": "май",
+          "spanish": "mayo",
+          "french": "mai",
+          "german": "Mai",
+          "portuguese": "maio",
+          "italian": "maggio",
+          "esperanto": "majo"
+        },
+        {
+          "english": "June",
+          "russian": "июнь",
+          "spanish": "junio",
+          "french": "juin",
+          "german": "Juni",
+          "portuguese": "junho",
+          "italian": "giugno",
+          "esperanto": "junio"
+        },
+        {
+          "english": "July",
+          "russian": "июль",
+          "spanish": "julio",
+          "french": "juillet",
+          "german": "Juli",
+          "portuguese": "julho",
+          "italian": "luglio",
+          "esperanto": "julio"
+        },
+        {
+          "english": "August",
+          "russian": "август",
+          "spanish": "agosto",
+          "french": "août",
+          "german": "August",
+          "portuguese": "agosto",
+          "italian": "agosto",
+          "esperanto": "aŭgusto"
+        },
+        {
+          "english": "September",
+          "russian": "сентябрь",
+          "spanish": "septiembre",
+          "french": "septembre",
+          "german": "September",
+          "portuguese": "setembro",
+          "italian": "settembre",
+          "esperanto": "septembro"
+        },
+        {
+          "english": "October",
+          "russian": "октябрь",
+          "spanish": "octubre",
+          "french": "octobre",
+          "german": "Oktober",
+          "portuguese": "outubro",
+          "italian": "ottobre",
+          "esperanto": "oktobro"
+        },
+        {
+          "english": "November",
+          "russian": "ноябрь",
+          "spanish": "noviembre",
+          "french": "novembre",
+          "german": "November",
+          "portuguese": "novembro",
+          "italian": "novembre",
+          "esperanto": "novembro"
+        },
+        {
+          "english": "December",
+          "russian": "декабрь",
+          "spanish": "diciembre",
+          "french": "décembre",
+          "german": "Dezember",
+          "portuguese": "dezembro",
+          "italian": "dicembre",
+          "esperanto": "decembro"
+        },
+        {
+          "english": "today",
+          "russian": "сегодня",
+          "spanish": "hoy",
+          "french": "aujourd'hui",
+          "german": "heute",
+          "portuguese": "hoje",
+          "italian": "oggi",
+          "esperanto": "hodiaŭ"
+        },
+        {
+          "english": "tomorrow",
+          "russian": "завтра",
+          "spanish": "mañana",
+          "french": "demain",
+          "german": "morgen",
+          "portuguese": "amanhã",
+          "italian": "domani",
+          "esperanto": "morgaŭ"
+        },
+        {
+          "english": "yesterday",
+          "russian": "вчера",
+          "spanish": "ayer",
+          "french": "hier",
+          "german": "gestern",
+          "portuguese": "ontem",
+          "italian": "ieri",
+          "esperanto": "hieraŭ"
+        },
+        {
+          "english": "the day after tomorrow",
+          "russian": "послезавтра",
+          "spanish": "pasado mañana",
+          "french": "après-demain",
+          "german": "übermorgen",
+          "portuguese": "depois de amanhã",
+          "italian": "dopodomani",
+          "esperanto": "postmorgaŭ"
+        },
+        {
+          "english": "the day before yesterday",
+          "russian": "позавчера",
+          "spanish": "anteayer",
+          "french": "avant-hier",
+          "german": "vorgestern",
+          "portuguese": "anteontem",
+          "italian": "l'altro ieri",
+          "esperanto": "antaŭhieraŭ"
+        },
+        {
+          "english": "this morning",
+          "russian": "сегодня утром",
+          "spanish": "esta mañana",
+          "french": "ce matin",
+          "german": "heute Morgen",
+          "portuguese": "esta manhã",
+          "italian": "stamattina",
+          "esperanto": "hodiaŭ matene"
+        },
+        {
+          "english": "this afternoon",
+          "russian": "сегодня днём",
+          "spanish": "esta tarde",
+          "french": "cet après-midi",
+          "german": "heute Nachmittag",
+          "portuguese": "esta tarde",
+          "italian": "questo pomeriggio",
+          "esperanto": "hodiaŭ posttagmeze"
+        },
+        {
+          "english": "this evening",
+          "russian": "сегодня вечером",
+          "spanish": "esta noche",
+          "french": "ce soir",
+          "german": "heute Abend",
+          "portuguese": "esta noite",
+          "italian": "stasera",
+          "esperanto": "hodiaŭ vespere"
+        },
+        {
+          "english": "tonight",
+          "russian": "сегодня ночью",
+          "spanish": "esta noche",
+          "french": "cette nuit",
+          "german": "heute Nacht",
+          "portuguese": "esta noite",
+          "italian": "stanotte",
+          "esperanto": "hodiaŭ nokte"
+        },
+        {
+          "english": "day",
+          "russian": "день",
+          "spanish": "día",
+          "french": "jour",
+          "german": "Tag",
+          "portuguese": "dia",
+          "italian": "giorno",
+          "esperanto": "tago"
+        },
+        {
+          "english": "week",
+          "russian": "неделя",
+          "spanish": "semana",
+          "french": "semaine",
+          "german": "Woche",
+          "portuguese": "semana",
+          "italian": "settimana",
+          "esperanto": "semajno"
+        },
+        {
+          "english": "month",
+          "russian": "месяц",
+          "spanish": "mes",
+          "french": "mois",
+          "german": "Monat",
+          "portuguese": "mês",
+          "italian": "mese",
+          "esperanto": "monato"
+        },
+        {
+          "english": "year",
+          "russian": "год",
+          "spanish": "año",
+          "french": "année",
+          "german": "Jahr",
+          "portuguese": "ano",
+          "italian": "anno",
+          "esperanto": "jaro"
+        },
+        {
+          "english": "weekend",
+          "russian": "выходные",
+          "spanish": "fin de semana",
+          "french": "week-end",
+          "german": "Wochenende",
+          "portuguese": "fim de semana",
+          "italian": "fine settimana",
+          "esperanto": "semajnfino"
+        },
+        {
+          "english": "weekday",
+          "russian": "будний день",
+          "spanish": "día laborable",
+          "french": "jour de semaine",
+          "german": "Wochentag",
+          "portuguese": "dia útil",
+          "italian": "giorno feriale",
+          "esperanto": "labortago"
+        },
+        {
+          "english": "the date",
+          "russian": "дата",
+          "spanish": "la fecha",
+          "french": "la date",
+          "german": "das Datum",
+          "portuguese": "a data",
+          "italian": "la data",
+          "esperanto": "la dato"
+        },
+        {
+          "english": "season",
+          "russian": "время года",
+          "spanish": "estación",
+          "french": "saison",
+          "german": "Jahreszeit",
+          "portuguese": "estação",
+          "italian": "stagione",
+          "esperanto": "sezono"
+        },
+        {
+          "english": "public holiday",
+          "russian": "праздник",
+          "spanish": "día festivo",
+          "french": "jour férié",
+          "german": "Feiertag",
+          "portuguese": "feriado",
+          "italian": "giorno festivo",
+          "esperanto": "festotago"
+        },
+        {
+          "english": "birthday",
+          "russian": "день рождения",
+          "spanish": "cumpleaños",
+          "french": "anniversaire",
+          "german": "Geburtstag",
+          "portuguese": "aniversário",
+          "italian": "compleanno",
+          "esperanto": "naskiĝtago"
+        },
+        {
+          "english": "spring",
+          "russian": "весна",
+          "spanish": "primavera",
+          "french": "printemps",
+          "german": "Frühling",
+          "portuguese": "primavera",
+          "italian": "primavera",
+          "esperanto": "printempo"
+        },
+        {
+          "english": "summer",
+          "russian": "лето",
+          "spanish": "verano",
+          "french": "été",
+          "german": "Sommer",
+          "portuguese": "verão",
+          "italian": "estate",
+          "esperanto": "somero"
+        },
+        {
+          "english": "autumn",
+          "russian": "осень",
+          "spanish": "otoño",
+          "french": "automne",
+          "german": "Herbst",
+          "portuguese": "outono",
+          "italian": "autunno",
+          "esperanto": "aŭtuno"
+        },
+        {
+          "english": "winter",
+          "russian": "зима",
+          "spanish": "invierno",
+          "french": "hiver",
+          "german": "Winter",
+          "portuguese": "inverno",
+          "italian": "inverno",
+          "esperanto": "vintro"
+        },
+        {
+          "english": "this week",
+          "russian": "на этой неделе",
+          "spanish": "esta semana",
+          "french": "cette semaine",
+          "german": "diese Woche",
+          "portuguese": "esta semana",
+          "italian": "questa settimana",
+          "esperanto": "ĉi-semajne"
+        },
+        {
+          "english": "next week",
+          "russian": "на следующей неделе",
+          "spanish": "la próxima semana",
+          "french": "la semaine prochaine",
+          "german": "nächste Woche",
+          "portuguese": "na próxima semana",
+          "italian": "la prossima settimana",
+          "esperanto": "venontsemajne"
+        },
+        {
+          "english": "last week",
+          "russian": "на прошлой неделе",
+          "spanish": "la semana pasada",
+          "french": "la semaine dernière",
+          "german": "letzte Woche",
+          "portuguese": "na semana passada",
+          "italian": "la settimana scorsa",
+          "esperanto": "pasintsemajne"
+        },
+        {
+          "english": "next month",
+          "russian": "в следующем месяце",
+          "spanish": "el próximo mes",
+          "french": "le mois prochain",
+          "german": "nächsten Monat",
+          "portuguese": "no próximo mês",
+          "italian": "il mese prossimo",
+          "esperanto": "venontmonate"
+        },
+        {
+          "english": "last year",
+          "russian": "в прошлом году",
+          "spanish": "el año pasado",
+          "french": "l'année dernière",
+          "german": "letztes Jahr",
+          "portuguese": "no ano passado",
+          "italian": "l'anno scorso",
+          "esperanto": "pasintjare"
+        },
+        {
+          "english": "every day",
+          "russian": "каждый день",
+          "spanish": "todos los días",
+          "french": "tous les jours",
+          "german": "jeden Tag",
+          "portuguese": "todos os dias",
+          "italian": "ogni giorno",
+          "esperanto": "ĉiutage"
+        },
+        {
+          "english": "in two days",
+          "russian": "через два дня",
+          "spanish": "en dos días",
+          "french": "dans deux jours",
+          "german": "in zwei Tagen",
+          "portuguese": "daqui a dois dias",
+          "italian": "fra due giorni",
+          "esperanto": "post du tagoj"
+        },
+        {
+          "english": "in the morning",
+          "russian": "утром",
+          "spanish": "por la mañana",
+          "french": "le matin",
+          "german": "morgens",
+          "portuguese": "de manhã",
+          "italian": "di mattina",
+          "esperanto": "matene"
+        },
+        {
+          "english": "in the afternoon",
+          "russian": "днём",
+          "spanish": "por la tarde",
+          "french": "l'après-midi",
+          "german": "nachmittags",
+          "portuguese": "de tarde",
+          "italian": "di pomeriggio",
+          "esperanto": "posttagmeze"
+        },
+        {
+          "english": "in the evening",
+          "russian": "вечером",
+          "spanish": "por la noche",
+          "french": "le soir",
+          "german": "abends",
+          "portuguese": "à noite",
+          "italian": "di sera",
+          "esperanto": "vespere"
+        },
+        {
+          "english": "at night",
+          "russian": "ночью",
+          "spanish": "por la noche",
+          "french": "la nuit",
+          "german": "nachts",
+          "portuguese": "de noite",
+          "italian": "di notte",
+          "esperanto": "nokte"
+        },
+        {
+          "english": "noon",
+          "russian": "полдень",
+          "spanish": "el mediodía",
+          "french": "midi",
+          "german": "der Mittag",
+          "portuguese": "o meio-dia",
+          "italian": "il mezzogiorno",
+          "esperanto": "tagmezo"
+        },
+        {
+          "english": "midnight",
+          "russian": "полночь",
+          "spanish": "la medianoche",
+          "french": "minuit",
+          "german": "die Mitternacht",
+          "portuguese": "a meia-noite",
+          "italian": "la mezzanotte",
+          "esperanto": "noktomezo"
+        },
+        {
+          "english": "an hour",
+          "russian": "час",
+          "spanish": "una hora",
+          "french": "une heure",
+          "german": "eine Stunde",
+          "portuguese": "uma hora",
+          "italian": "un'ora",
+          "esperanto": "horo"
+        },
+        {
+          "english": "a minute",
+          "russian": "минута",
+          "spanish": "un minuto",
+          "french": "une minute",
+          "german": "eine Minute",
+          "portuguese": "um minuto",
+          "italian": "un minuto",
+          "esperanto": "minuto"
+        },
+        {
+          "english": "What time is it?",
+          "russian": "Который час?",
+          "spanish": "¿Qué hora es?",
+          "french": "Quelle heure est-il ?",
+          "german": "Wie spät ist es?",
+          "portuguese": "Que horas são?",
+          "italian": "Che ore sono?",
+          "esperanto": "Kioma horo estas?"
+        },
+        {
+          "english": "It's three o'clock.",
+          "russian": "Сейчас три часа.",
+          "spanish": "Son las tres.",
+          "french": "Il est trois heures.",
+          "german": "Es ist drei Uhr.",
+          "portuguese": "São três horas.",
+          "italian": "Sono le tre.",
+          "esperanto": "Estas la tria."
+        },
+        {
+          "english": "half past two",
+          "russian": "половина третьего",
+          "spanish": "las dos y media",
+          "french": "deux heures et demie",
+          "german": "halb drei",
+          "portuguese": "duas e meia",
+          "italian": "le due e mezza",
+          "esperanto": "du kaj duono"
+        },
+        {
+          "english": "a quarter to five",
+          "russian": "без четверти пять",
+          "spanish": "las cinco menos cuarto",
+          "french": "cinq heures moins le quart",
+          "german": "Viertel vor fünf",
+          "portuguese": "um quarto para as cinco",
+          "italian": "le cinque meno un quarto",
+          "esperanto": "kvarono ĝis la kvina"
+        },
+        {
+          "english": "at noon",
+          "russian": "в полдень",
+          "spanish": "al mediodía",
+          "french": "à midi",
+          "german": "mittags",
+          "portuguese": "ao meio-dia",
+          "italian": "a mezzogiorno",
+          "esperanto": "je tagmezo"
+        },
+        {
+          "english": "at midnight",
+          "russian": "в полночь",
+          "spanish": "a medianoche",
+          "french": "à minuit",
+          "german": "um Mitternacht",
+          "portuguese": "à meia-noite",
+          "italian": "a mezzanotte",
+          "esperanto": "je noktomezo"
+        },
+        {
+          "english": "early",
+          "russian": "рано",
+          "spanish": "temprano",
+          "french": "tôt",
+          "german": "früh",
+          "portuguese": "cedo",
+          "italian": "presto",
+          "esperanto": "frue"
+        },
+        {
+          "english": "late",
+          "russian": "поздно",
+          "spanish": "tarde",
+          "french": "tard",
+          "german": "spät",
+          "portuguese": "tarde",
+          "italian": "tardi",
+          "esperanto": "malfrue"
+        },
+        {
+          "english": "now",
+          "russian": "сейчас",
+          "spanish": "ahora",
+          "french": "maintenant",
+          "german": "jetzt",
+          "portuguese": "agora",
+          "italian": "adesso",
+          "esperanto": "nun"
+        },
+        {
+          "english": "soon",
+          "russian": "скоро",
+          "spanish": "pronto",
+          "french": "bientôt",
+          "german": "bald",
+          "portuguese": "em breve",
+          "italian": "tra poco",
+          "esperanto": "baldaŭ"
+        },
+        {
+          "english": "When?",
+          "russian": "Когда?",
+          "spanish": "¿Cuándo?",
+          "french": "Quand ?",
+          "german": "Wann?",
+          "portuguese": "Quando?",
+          "italian": "Quando?",
+          "esperanto": "Kiam?"
+        },
+        {
+          "english": "What day is it today?",
+          "russian": "Какой сегодня день?",
+          "spanish": "¿Qué día es hoy?",
+          "french": "Quel jour sommes-nous ?",
+          "german": "Welcher Tag ist heute?",
+          "portuguese": "Que dia é hoje?",
+          "italian": "Che giorno è oggi?",
+          "esperanto": "Kia tago estas hodiaŭ?"
+        },
+        {
+          "english": "What's the date today?",
+          "russian": "Какое сегодня число?",
+          "spanish": "¿Qué fecha es hoy?",
+          "french": "Quelle est la date aujourd'hui ?",
+          "german": "Welches Datum ist heute?",
+          "portuguese": "Que data é hoje?",
+          "italian": "Qual è la data di oggi?",
+          "esperanto": "Kia dato estas hodiaŭ?"
+        },
+        {
+          "english": "on Friday",
+          "russian": "в пятницу",
+          "spanish": "el viernes",
+          "french": "vendredi",
+          "german": "am Freitag",
+          "portuguese": "na sexta-feira",
+          "italian": "venerdì",
+          "esperanto": "vendrede"
+        },
+        {
+          "english": "Are you free on Monday?",
+          "russian": "Ты свободен в понедельник?",
+          "spanish": "¿Estás libre el lunes?",
+          "french": "Es-tu libre lundi ?",
+          "german": "Hast du am Montag Zeit?",
+          "portuguese": "Estás livre na segunda-feira?",
+          "italian": "Sei libero lunedì?",
+          "esperanto": "Ĉu vi estas libera lunde?"
+        },
+        {
+          "english": "Let's meet at three.",
+          "russian": "Давай встретимся в три.",
+          "spanish": "Quedamos a las tres.",
+          "french": "Retrouvons-nous à trois heures.",
+          "german": "Treffen wir uns um drei.",
+          "portuguese": "Encontramo-nos às três.",
+          "italian": "Vediamoci alle tre.",
+          "esperanto": "Ni renkontiĝu je la tria."
+        },
+        {
+          "english": "I have an appointment.",
+          "russian": "У меня встреча.",
+          "spanish": "Tengo una cita.",
+          "french": "J'ai un rendez-vous.",
+          "german": "Ich habe einen Termin.",
+          "portuguese": "Tenho uma marcação.",
+          "italian": "Ho un appuntamento.",
+          "esperanto": "Mi havas rendevuon."
+        }
+      ]
+    }
+  ]
+}

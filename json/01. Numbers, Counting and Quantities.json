@@ -1,0 +1,779 @@
+{
+  "categories": [
+    {
+      "name": "Numbers, Counting and Quantities",
+      "phrases": [
+        {
+          "english": "zero",
+          "russian": "ноль",
+          "spanish": "cero",
+          "french": "zéro",
+          "german": "null",
+          "portuguese": "zero",
+          "italian": "zero",
+          "esperanto": "nulo"
+        },
+        {
+          "english": "one",
+          "russian": "один",
+          "spanish": "uno",
+          "french": "un",
+          "german": "eins",
+          "portuguese": "um",
+          "italian": "uno",
+          "esperanto": "unu"
+        },
+        {
+          "english": "two",
+          "russian": "два",
+          "spanish": "dos",
+          "french": "deux",
+          "german": "zwei",
+          "portuguese": "dois",
+          "italian": "due",
+          "esperanto": "du"
+        },
+        {
+          "english": "three",
+          "russian": "три",
+          "spanish": "tres",
+          "french": "trois",
+          "german": "drei",
+          "portuguese": "três",
+          "italian": "tre",
+          "esperanto": "tri"
+        },
+        {
+          "english": "four",
+          "russian": "четыре",
+          "spanish": "cuatro",
+          "french": "quatre",
+          "german": "vier",
+          "portuguese": "quatro",
+          "italian": "quattro",
+          "esperanto": "kvar"
+        },
+        {
+          "english": "five",
+          "russian": "пять",
+          "spanish": "cinco",
+          "french": "cinq",
+          "german": "fünf",
+          "portuguese": "cinco",
+          "italian": "cinque",
+          "esperanto": "kvin"
+        },
+        {
+          "english": "six",
+          "russian": "шесть",
+          "spanish": "seis",
+          "french": "six",
+          "german": "sechs",
+          "portuguese": "seis",
+          "italian": "sei",
+          "esperanto": "ses"
+        },
+        {
+          "english": "seven",
+          "russian": "семь",
+          "spanish": "siete",
+          "french": "sept",
+          "german": "sieben",
+          "portuguese": "sete",
+          "italian": "sette",
+          "esperanto": "sep"
+        },
+        {
+          "english": "eight",
+          "russian": "восемь",
+          "spanish": "ocho",
+          "french": "huit",
+          "german": "acht",
+          "portuguese": "oito",
+          "italian": "otto",
+          "esperanto": "ok"
+        },
+        {
+          "english": "nine",
+          "russian": "девять",
+          "spanish": "nueve",
+          "french": "neuf",
+          "german": "neun",
+          "portuguese": "nove",
+          "italian": "nove",
+          "esperanto": "naŭ"
+        },
+        {
+          "english": "ten",
+          "russian": "десять",
+          "spanish": "diez",
+          "french": "dix",
+          "german": "zehn",
+          "portuguese": "dez",
+          "italian": "dieci",
+          "esperanto": "dek"
+        },
+        {
+          "english": "eleven",
+          "russian": "одиннадцать",
+          "spanish": "once",
+          "french": "onze",
+          "german": "elf",
+          "portuguese": "onze",
+          "italian": "undici",
+          "esperanto": "dek unu"
+        },
+        {
+          "english": "twelve",
+          "russian": "двенадцать",
+          "spanish": "doce",
+          "french": "douze",
+          "german": "zwölf",
+          "portuguese": "doze",
+          "italian": "dodici",
+          "esperanto": "dek du"
+        },
+        {
+          "english": "thirteen",
+          "russian": "тринадцать",
+          "spanish": "trece",
+          "french": "treize",
+          "german": "dreizehn",
+          "portuguese": "treze",
+          "italian": "tredici",
+          "esperanto": "dek tri"
+        },
+        {
+          "english": "fourteen",
+          "russian": "четырнадцать",
+          "spanish": "catorce",
+          "french": "quatorze",
+          "german": "vierzehn",
+          "portuguese": "catorze",
+          "italian": "quattordici",
+          "esperanto": "dek kvar"
+        },
+        {
+          "english": "fifteen",
+          "russian": "пятнадцать",
+          "spanish": "quince",
+          "french": "quinze",
+          "german": "fünfzehn",
+          "portuguese": "quinze",
+          "italian": "quindici",
+          "esperanto": "dek kvin"
+        },
+        {
+          "english": "sixteen",
+          "russian": "шестнадцать",
+          "spanish": "dieciséis",
+          "french": "seize",
+          "german": "sechzehn",
+          "portuguese": "dezasseis",
+          "italian": "sedici",
+          "esperanto": "dek ses"
+        },
+        {
+          "english": "seventeen",
+          "russian": "семнадцать",
+          "spanish": "diecisiete",
+          "french": "dix-sept",
+          "german": "siebzehn",
+          "portuguese": "dezassete",
+          "italian": "diciassette",
+          "esperanto": "dek sep"
+        },
+        {
+          "english": "eighteen",
+          "russian": "восемнадцать",
+          "spanish": "dieciocho",
+          "french": "dix-huit",
+          "german": "achtzehn",
+          "portuguese": "dezoito",
+          "italian": "diciotto",
+          "esperanto": "dek ok"
+        },
+        {
+          "english": "nineteen",
+          "russian": "девятнадцать",
+          "spanish": "diecinueve",
+          "french": "dix-neuf",
+          "german": "neunzehn",
+          "portuguese": "dezanove",
+          "italian": "diciannove",
+          "esperanto": "dek naŭ"
+        },
+        {
+          "english": "twenty",
+          "russian": "двадцать",
+          "spanish": "veinte",
+          "french": "vingt",
+          "german": "zwanzig",
+          "portuguese": "vinte",
+          "italian": "venti",
+          "esperanto": "dudek"
+        },
+        {
+          "english": "thirty",
+          "russian": "тридцать",
+          "spanish": "treinta",
+          "french": "trente",
+          "german": "dreißig",
+          "portuguese": "trinta",
+          "italian": "trenta",
+          "esperanto": "tridek"
+        },
+        {
+          "english": "forty",
+          "russian": "сорок",
+          "spanish": "cuarenta",
+          "french": "quarante",
+          "german": "vierzig",
+          "portuguese": "quarenta",
+          "italian": "quaranta",
+          "esperanto": "kvardek"
+        },
+        {
+          "english": "fifty",
+          "russian": "пятьдесят",
+          "spanish": "cincuenta",
+          "french": "cinquante",
+          "german": "fünfzig",
+          "portuguese": "cinquenta",
+          "italian": "cinquanta",
+          "esperanto": "kvindek"
+        },
+        {
+          "english": "sixty",
+          "russian": "шестьдесят",
+          "spanish": "sesenta",
+          "french": "soixante",
+          "german": "sechzig",
+          "portuguese": "sessenta",
+          "italian": "sessanta",
+          "esperanto": "sesdek"
+        },
+        {
+          "english": "seventy",
+          "russian": "семьдесят",
+          "spanish": "setenta",
+          "french": "soixante-dix",
+          "german": "siebzig",
+          "portuguese": "setenta",
+          "italian": "settanta",
+          "esperanto": "sepdek"
+        },
+        {
+          "english": "eighty",
+          "russian": "восемьдесят",
+          "spanish": "ochenta",
+          "french": "quatre-vingts",
+          "german": "achtzig",
+          "portuguese": "oitenta",
+          "italian": "ottanta",
+          "esperanto": "okdek"
+        },
+        {
+          "english": "ninety",
+          "russian": "девяносто",
+          "spanish": "noventa",
+          "french": "quatre-vingt-dix",
+          "german": "neunzig",
+          "portuguese": "noventa",
+          "italian": "novanta",
+          "esperanto": "naŭdek"
+        },
+        {
+          "english": "one hundred",
+          "russian": "сто",
+          "spanish": "cien",
+          "french": "cent",
+          "german": "hundert",
+          "portuguese": "cem",
+          "italian": "cento",
+          "esperanto": "cent"
+        },
+        {
+          "english": "two hundred",
+          "russian": "двести",
+          "spanish": "doscientos",
+          "french": "deux cents",
+          "german": "zweihundert",
+          "portuguese": "duzentos",
+          "italian": "duecento",
+          "esperanto": "ducent"
+        },
+        {
+          "english": "one thousand",
+          "russian": "тысяча",
+          "spanish": "mil",
+          "french": "mille",
+          "german": "tausend",
+          "portuguese": "mil",
+          "italian": "mille",
+          "esperanto": "mil"
+        },
+        {
+          "english": "one million",
+          "russian": "миллион",
+          "spanish": "un millón",
+          "french": "un million",
+          "german": "eine Million",
+          "portuguese": "um milhão",
+          "italian": "un milione",
+          "esperanto": "unu miliono"
+        },
+        {
+          "english": "first",
+          "russian": "первый",
+          "spanish": "primero",
+          "french": "premier",
+          "german": "erste",
+          "portuguese": "primeiro",
+          "italian": "primo",
+          "esperanto": "unua"
+        },
+        {
+          "english": "second",
+          "russian": "второй",
+          "spanish": "segundo",
+          "french": "deuxième",
+          "german": "zweite",
+          "portuguese": "segundo",
+          "italian": "secondo",
+          "esperanto": "dua"
+        },
+        {
+          "english": "third",
+          "russian": "третий",
+          "spanish": "tercero",
+          "french": "troisième",
+          "german": "dritte",
+          "portuguese": "terceiro",
+          "italian": "terzo",
+          "esperanto": "tria"
+        },
+        {
+          "english": "fourth",
+          "russian": "четвёртый",
+          "spanish": "cuarto",
+          "french": "quatrième",
+          "german": "vierte",
+          "portuguese": "quarto",
+          "italian": "quarto",
+          "esperanto": "kvara"
+        },
+        {
+          "english": "fifth",
+          "russian": "пятый",
+          "spanish": "quinto",
+          "french": "cinquième",
+          "german": "fünfte",
+          "portuguese": "quinto",
+          "italian": "quinto",
+          "esperanto": "kvina"
+        },
+        {
+          "english": "last",
+          "russian": "последний",
+          "spanish": "último",
+          "french": "dernier",
+          "german": "letzte",
+          "portuguese": "último",
+          "italian": "ultimo",
+          "esperanto": "lasta"
+        },
+        {
+          "english": "How many?",
+          "russian": "Сколько?",
+          "spanish": "¿Cuántos?",
+          "french": "Combien ?",
+          "german": "Wie viele?",
+          "portuguese": "Quantos?",
+          "italian": "Quanti?",
+          "esperanto": "Kiom?"
+        },
+        {
+          "english": "How much?",
+          "russian": "Сколько?",
+          "spanish": "¿Cuánto?",
+          "french": "Combien ?",
+          "german": "Wie viel?",
+          "portuguese": "Quanto?",
+          "italian": "Quanto?",
+          "esperanto": "Kiom?"
+        },
+        {
+          "english": "a lot / many",
+          "russian": "много",
+          "spanish": "mucho",
+          "french": "beaucoup",
+          "german": "viel",
+          "portuguese": "muito",
+          "italian": "molto",
+          "esperanto": "multe"
+        },
+        {
+          "english": "a little / a few",
+          "russian": "немного",
+          "spanish": "un poco",
+          "french": "un peu",
+          "german": "ein wenig",
+          "portuguese": "um pouco",
+          "italian": "un po'",
+          "esperanto": "iomete"
+        },
+        {
+          "english": "some",
+          "russian": "несколько",
+          "spanish": "algunos",
+          "french": "quelques-uns",
+          "german": "einige",
+          "portuguese": "alguns",
+          "italian": "alcuni",
+          "esperanto": "iuj"
+        },
+        {
+          "english": "nothing",
+          "russian": "ничего",
+          "spanish": "nada",
+          "french": "rien",
+          "german": "nichts",
+          "portuguese": "nada",
+          "italian": "niente",
+          "esperanto": "nenio"
+        },
+        {
+          "english": "everything",
+          "russian": "всё",
+          "spanish": "todo",
+          "french": "tout",
+          "german": "alles",
+          "portuguese": "tudo",
+          "italian": "tutto",
+          "esperanto": "ĉio"
+        },
+        {
+          "english": "more",
+          "russian": "больше",
+          "spanish": "más",
+          "french": "plus",
+          "german": "mehr",
+          "portuguese": "mais",
+          "italian": "più",
+          "esperanto": "pli"
+        },
+        {
+          "english": "less",
+          "russian": "меньше",
+          "spanish": "menos",
+          "french": "moins",
+          "german": "weniger",
+          "portuguese": "menos",
+          "italian": "meno",
+          "esperanto": "malpli"
+        },
+        {
+          "english": "enough",
+          "russian": "достаточно",
+          "spanish": "suficiente",
+          "french": "assez",
+          "german": "genug",
+          "portuguese": "suficiente",
+          "italian": "abbastanza",
+          "esperanto": "sufiĉe"
+        },
+        {
+          "english": "too much",
+          "russian": "слишком много",
+          "spanish": "demasiado",
+          "french": "trop",
+          "german": "zu viel",
+          "portuguese": "demasiado",
+          "italian": "troppo",
+          "esperanto": "tro multe"
+        },
+        {
+          "english": "half",
+          "russian": "половина",
+          "spanish": "la mitad",
+          "french": "la moitié",
+          "german": "die Hälfte",
+          "portuguese": "metade",
+          "italian": "metà",
+          "esperanto": "duono"
+        },
+        {
+          "english": "a quarter",
+          "russian": "четверть",
+          "spanish": "un cuarto",
+          "french": "un quart",
+          "german": "ein Viertel",
+          "portuguese": "um quarto",
+          "italian": "un quarto",
+          "esperanto": "kvarono"
+        },
+        {
+          "english": "a third",
+          "russian": "треть",
+          "spanish": "un tercio",
+          "french": "un tiers",
+          "german": "ein Drittel",
+          "portuguese": "um terço",
+          "italian": "un terzo",
+          "esperanto": "triono"
+        },
+        {
+          "english": "a pair",
+          "russian": "пара",
+          "spanish": "un par",
+          "french": "une paire",
+          "german": "ein Paar",
+          "portuguese": "um par",
+          "italian": "un paio",
+          "esperanto": "paro"
+        },
+        {
+          "english": "a dozen",
+          "russian": "дюжина",
+          "spanish": "una docena",
+          "french": "une douzaine",
+          "german": "ein Dutzend",
+          "portuguese": "uma dúzia",
+          "italian": "una dozzina",
+          "esperanto": "dekduo"
+        },
+        {
+          "english": "about / approximately",
+          "russian": "примерно",
+          "spanish": "aproximadamente",
+          "french": "environ",
+          "german": "ungefähr",
+          "portuguese": "aproximadamente",
+          "italian": "circa",
+          "esperanto": "ĉirkaŭ"
+        },
+        {
+          "english": "at least",
+          "russian": "по крайней мере",
+          "spanish": "al menos",
+          "french": "au moins",
+          "german": "mindestens",
+          "portuguese": "pelo menos",
+          "italian": "almeno",
+          "esperanto": "almenaŭ"
+        },
+        {
+          "english": "at most",
+          "russian": "самое большее",
+          "spanish": "como máximo",
+          "french": "au plus",
+          "german": "höchstens",
+          "portuguese": "no máximo",
+          "italian": "al massimo",
+          "esperanto": "maksimume"
+        },
+        {
+          "english": "more or less",
+          "russian": "более или менее",
+          "spanish": "más o menos",
+          "french": "plus ou moins",
+          "german": "mehr oder weniger",
+          "portuguese": "mais ou menos",
+          "italian": "più o meno",
+          "esperanto": "pli-malpli"
+        },
+        {
+          "english": "double",
+          "russian": "двойной",
+          "spanish": "el doble",
+          "french": "le double",
+          "german": "das Doppelte",
+          "portuguese": "o dobro",
+          "italian": "il doppio",
+          "esperanto": "duoblo"
+        },
+        {
+          "english": "once",
+          "russian": "один раз",
+          "spanish": "una vez",
+          "french": "une fois",
+          "german": "einmal",
+          "portuguese": "uma vez",
+          "italian": "una volta",
+          "esperanto": "unu fojo"
+        },
+        {
+          "english": "twice",
+          "russian": "два раза",
+          "spanish": "dos veces",
+          "french": "deux fois",
+          "german": "zweimal",
+          "portuguese": "duas vezes",
+          "italian": "due volte",
+          "esperanto": "du fojoj"
+        },
+        {
+          "english": "Count to ten.",
+          "russian": "Посчитай до десяти.",
+          "spanish": "Cuenta hasta diez.",
+          "french": "Compte jusqu'à dix.",
+          "german": "Zähl bis zehn.",
+          "portuguese": "Conta até dez.",
+          "italian": "Conta fino a dieci.",
+          "esperanto": "Kalkulu ĝis dek."
+        },
+        {
+          "english": "How old are you?",
+          "russian": "Сколько тебе лет?",
+          "spanish": "¿Cuántos años tienes?",
+          "french": "Quel âge as-tu ?",
+          "german": "Wie alt bist du?",
+          "portuguese": "Quantos anos tens?",
+          "italian": "Quanti anni hai?",
+          "esperanto": "Kiom da jaroj vi havas?"
+        },
+        {
+          "english": "I am thirty years old.",
+          "russian": "Мне тридцать лет.",
+          "spanish": "Tengo treinta años.",
+          "french": "J'ai trente ans.",
+          "german": "Ich bin dreißig Jahre alt.",
+          "portuguese": "Tenho trinta anos.",
+          "italian": "Ho trent'anni.",
+          "esperanto": "Mi havas tridek jarojn."
+        },
+        {
+          "english": "How much does it cost?",
+          "russian": "Сколько это стоит?",
+          "spanish": "¿Cuánto cuesta?",
+          "french": "Combien ça coûte ?",
+          "german": "Wie viel kostet das?",
+          "portuguese": "Quanto custa?",
+          "italian": "Quanto costa?",
+          "esperanto": "Kiom ĝi kostas?"
+        },
+        {
+          "english": "It costs ten euros.",
+          "russian": "Это стоит десять евро.",
+          "spanish": "Cuesta diez euros.",
+          "french": "Ça coûte dix euros.",
+          "german": "Das kostet zehn Euro.",
+          "portuguese": "Custa dez euros.",
+          "italian": "Costa dieci euro.",
+          "esperanto": "Ĝi kostas dek eŭrojn."
+        },
+        {
+          "english": "What's your phone number?",
+          "russian": "Какой у тебя номер телефона?",
+          "spanish": "¿Cuál es tu número de teléfono?",
+          "french": "Quel est ton numéro de téléphone ?",
+          "german": "Wie ist deine Telefonnummer?",
+          "portuguese": "Qual é o teu número de telefone?",
+          "italian": "Qual è il tuo numero di telefono?",
+          "esperanto": "Kio estas via telefona numero?"
+        },
+        {
+          "english": "the first time",
+          "russian": "первый раз",
+          "spanish": "la primera vez",
+          "french": "la première fois",
+          "german": "das erste Mal",
+          "portuguese": "a primeira vez",
+          "italian": "la prima volta",
+          "esperanto": "la unua fojo"
+        },
+        {
+          "english": "One more, please.",
+          "russian": "Ещё один, пожалуйста.",
+          "spanish": "Uno más, por favor.",
+          "french": "Un de plus, s'il vous plaît.",
+          "german": "Noch eins, bitte.",
+          "portuguese": "Mais um, por favor.",
+          "italian": "Un altro, per favore.",
+          "esperanto": "Unu pli, mi petas."
+        },
+        {
+          "english": "two of these",
+          "russian": "два таких",
+          "spanish": "dos de estos",
+          "french": "deux de ceux-ci",
+          "german": "zwei davon",
+          "portuguese": "dois destes",
+          "italian": "due di questi",
+          "esperanto": "du el ĉi tiuj"
+        },
+        {
+          "english": "three kilos",
+          "russian": "три килограмма",
+          "spanish": "tres kilos",
+          "french": "trois kilos",
+          "german": "drei Kilo",
+          "portuguese": "três quilos",
+          "italian": "tre chili",
+          "esperanto": "tri kilogramoj"
+        },
+        {
+          "english": "the total",
+          "russian": "итого",
+          "spanish": "el total",
+          "french": "le total",
+          "german": "die Summe",
+          "portuguese": "o total",
+          "italian": "il totale",
+          "esperanto": "la sumo"
+        },
+        {
+          "english": "plus",
+          "russian": "плюс",
+          "spanish": "más",
+          "french": "plus",
+          "german": "plus",
+          "portuguese": "mais",
+          "italian": "più",
+          "esperanto": "plus"
+        },
+        {
+          "english": "minus",
+          "russian": "минус",
+          "spanish": "menos",
+          "french": "moins",
+          "german": "minus",
+          "portuguese": "menos",
+          "italian": "meno",
+          "esperanto": "minus"
+        },
+        {
+          "english": "times (multiplied by)",
+          "russian": "умножить на",
+          "spanish": "por",
+          "french": "fois",
+          "german": "mal",
+          "portuguese": "vezes",
+          "italian": "per",
+          "esperanto": "oble"
+        },
+        {
+          "english": "divided by",
+          "russian": "разделить на",
+          "spanish": "dividido por",
+          "french": "divisé par",
+          "german": "geteilt durch",
+          "portuguese": "dividido por",
+          "italian": "diviso",
+          "esperanto": "dividite per"
+        },
+        {
+          "english": "equals",
+          "russian": "равно",
+          "spanish": "igual a",
+          "french": "égale",
+          "german": "gleich",
+          "portuguese": "igual a",
+          "italian": "uguale",
+          "esperanto": "egalas"
+        }
+      ]
+    }
+  ]
+}

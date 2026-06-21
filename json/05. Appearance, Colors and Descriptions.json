@@ -1,0 +1,899 @@
+{
+  "categories": [
+    {
+      "name": "Appearance, Colors and Descriptions",
+      "phrases": [
+        {
+          "english": "color",
+          "russian": "цвет",
+          "spanish": "color",
+          "french": "couleur",
+          "german": "Farbe",
+          "portuguese": "cor",
+          "italian": "colore",
+          "esperanto": "koloro"
+        },
+        {
+          "english": "red",
+          "russian": "красный",
+          "spanish": "rojo",
+          "french": "rouge",
+          "german": "rot",
+          "portuguese": "vermelho",
+          "italian": "rosso",
+          "esperanto": "ruĝa"
+        },
+        {
+          "english": "orange",
+          "russian": "оранжевый",
+          "spanish": "naranja",
+          "french": "orange",
+          "german": "orange",
+          "portuguese": "laranja",
+          "italian": "arancione",
+          "esperanto": "oranĝa"
+        },
+        {
+          "english": "yellow",
+          "russian": "жёлтый",
+          "spanish": "amarillo",
+          "french": "jaune",
+          "german": "gelb",
+          "portuguese": "amarelo",
+          "italian": "giallo",
+          "esperanto": "flava"
+        },
+        {
+          "english": "green",
+          "russian": "зелёный",
+          "spanish": "verde",
+          "french": "vert",
+          "german": "grün",
+          "portuguese": "verde",
+          "italian": "verde",
+          "esperanto": "verda"
+        },
+        {
+          "english": "blue",
+          "russian": "синий",
+          "spanish": "azul",
+          "french": "bleu",
+          "german": "blau",
+          "portuguese": "azul",
+          "italian": "blu",
+          "esperanto": "blua"
+        },
+        {
+          "english": "purple",
+          "russian": "фиолетовый",
+          "spanish": "morado",
+          "french": "violet",
+          "german": "lila",
+          "portuguese": "roxo",
+          "italian": "viola",
+          "esperanto": "purpura"
+        },
+        {
+          "english": "pink",
+          "russian": "розовый",
+          "spanish": "rosa",
+          "french": "rose",
+          "german": "rosa",
+          "portuguese": "cor-de-rosa",
+          "italian": "rosa",
+          "esperanto": "rozokolora"
+        },
+        {
+          "english": "brown",
+          "russian": "коричневый",
+          "spanish": "marrón",
+          "french": "marron",
+          "german": "braun",
+          "portuguese": "castanho",
+          "italian": "marrone",
+          "esperanto": "bruna"
+        },
+        {
+          "english": "black",
+          "russian": "чёрный",
+          "spanish": "negro",
+          "french": "noir",
+          "german": "schwarz",
+          "portuguese": "preto",
+          "italian": "nero",
+          "esperanto": "nigra"
+        },
+        {
+          "english": "white",
+          "russian": "белый",
+          "spanish": "blanco",
+          "french": "blanc",
+          "german": "weiß",
+          "portuguese": "branco",
+          "italian": "bianco",
+          "esperanto": "blanka"
+        },
+        {
+          "english": "grey",
+          "russian": "серый",
+          "spanish": "gris",
+          "french": "gris",
+          "german": "grau",
+          "portuguese": "cinzento",
+          "italian": "grigio",
+          "esperanto": "griza"
+        },
+        {
+          "english": "gold",
+          "russian": "золотой",
+          "spanish": "dorado",
+          "french": "doré",
+          "german": "golden",
+          "portuguese": "dourado",
+          "italian": "dorato",
+          "esperanto": "ora"
+        },
+        {
+          "english": "silver",
+          "russian": "серебряный",
+          "spanish": "plateado",
+          "french": "argenté",
+          "german": "silbern",
+          "portuguese": "prateado",
+          "italian": "argentato",
+          "esperanto": "arĝenta"
+        },
+        {
+          "english": "light (color)",
+          "russian": "светлый",
+          "spanish": "claro",
+          "french": "clair",
+          "german": "hell",
+          "portuguese": "claro",
+          "italian": "chiaro",
+          "esperanto": "hela"
+        },
+        {
+          "english": "dark (color)",
+          "russian": "тёмный",
+          "spanish": "oscuro",
+          "french": "foncé",
+          "german": "dunkel",
+          "portuguese": "escuro",
+          "italian": "scuro",
+          "esperanto": "malhela"
+        },
+        {
+          "english": "big",
+          "russian": "большой",
+          "spanish": "grande",
+          "french": "grand",
+          "german": "groß",
+          "portuguese": "grande",
+          "italian": "grande",
+          "esperanto": "granda"
+        },
+        {
+          "english": "small",
+          "russian": "маленький",
+          "spanish": "pequeño",
+          "french": "petit",
+          "german": "klein",
+          "portuguese": "pequeno",
+          "italian": "piccolo",
+          "esperanto": "malgranda"
+        },
+        {
+          "english": "tall",
+          "russian": "высокий",
+          "spanish": "alto",
+          "french": "grand",
+          "german": "groß",
+          "portuguese": "alto",
+          "italian": "alto",
+          "esperanto": "alta"
+        },
+        {
+          "english": "short (height)",
+          "russian": "низкий",
+          "spanish": "bajo",
+          "french": "petit",
+          "german": "klein",
+          "portuguese": "baixo",
+          "italian": "basso",
+          "esperanto": "malalta"
+        },
+        {
+          "english": "long",
+          "russian": "длинный",
+          "spanish": "largo",
+          "french": "long",
+          "german": "lang",
+          "portuguese": "comprido",
+          "italian": "lungo",
+          "esperanto": "longa"
+        },
+        {
+          "english": "short (length)",
+          "russian": "короткий",
+          "spanish": "corto",
+          "french": "court",
+          "german": "kurz",
+          "portuguese": "curto",
+          "italian": "corto",
+          "esperanto": "mallonga"
+        },
+        {
+          "english": "wide",
+          "russian": "широкий",
+          "spanish": "ancho",
+          "french": "large",
+          "german": "breit",
+          "portuguese": "largo",
+          "italian": "largo",
+          "esperanto": "larĝa"
+        },
+        {
+          "english": "narrow",
+          "russian": "узкий",
+          "spanish": "estrecho",
+          "french": "étroit",
+          "german": "eng",
+          "portuguese": "estreito",
+          "italian": "stretto",
+          "esperanto": "mal larĝa"
+        },
+        {
+          "english": "thick",
+          "russian": "толстый",
+          "spanish": "grueso",
+          "french": "épais",
+          "german": "dick",
+          "portuguese": "grosso",
+          "italian": "spesso",
+          "esperanto": "dika"
+        },
+        {
+          "english": "thin",
+          "russian": "тонкий",
+          "spanish": "delgado",
+          "french": "fin",
+          "german": "dünn",
+          "portuguese": "fino",
+          "italian": "sottile",
+          "esperanto": "maldika"
+        },
+        {
+          "english": "heavy",
+          "russian": "тяжёлый",
+          "spanish": "pesado",
+          "french": "lourd",
+          "german": "schwer",
+          "portuguese": "pesado",
+          "italian": "pesante",
+          "esperanto": "peza"
+        },
+        {
+          "english": "light (weight)",
+          "russian": "лёгкий",
+          "spanish": "ligero",
+          "french": "léger",
+          "german": "leicht",
+          "portuguese": "leve",
+          "italian": "leggero",
+          "esperanto": "malpeza"
+        },
+        {
+          "english": "huge",
+          "russian": "огромный",
+          "spanish": "enorme",
+          "french": "énorme",
+          "german": "riesig",
+          "portuguese": "enorme",
+          "italian": "enorme",
+          "esperanto": "ega"
+        },
+        {
+          "english": "tiny",
+          "russian": "крошечный",
+          "spanish": "diminuto",
+          "french": "minuscule",
+          "german": "winzig",
+          "portuguese": "minúsculo",
+          "italian": "minuscolo",
+          "esperanto": "eta"
+        },
+        {
+          "english": "round",
+          "russian": "круглый",
+          "spanish": "redondo",
+          "french": "rond",
+          "german": "rund",
+          "portuguese": "redondo",
+          "italian": "rotondo",
+          "esperanto": "ronda"
+        },
+        {
+          "english": "square",
+          "russian": "квадратный",
+          "spanish": "cuadrado",
+          "french": "carré",
+          "german": "quadratisch",
+          "portuguese": "quadrado",
+          "italian": "quadrato",
+          "esperanto": "kvadrata"
+        },
+        {
+          "english": "flat",
+          "russian": "плоский",
+          "spanish": "plano",
+          "french": "plat",
+          "german": "flach",
+          "portuguese": "plano",
+          "italian": "piatto",
+          "esperanto": "plata"
+        },
+        {
+          "english": "young",
+          "russian": "молодой",
+          "spanish": "joven",
+          "french": "jeune",
+          "german": "jung",
+          "portuguese": "jovem",
+          "italian": "giovane",
+          "esperanto": "juna"
+        },
+        {
+          "english": "old (person)",
+          "russian": "старый",
+          "spanish": "viejo",
+          "french": "vieux",
+          "german": "alt",
+          "portuguese": "velho",
+          "italian": "vecchio",
+          "esperanto": "maljuna"
+        },
+        {
+          "english": "beautiful",
+          "russian": "красивый",
+          "spanish": "hermoso",
+          "french": "beau",
+          "german": "schön",
+          "portuguese": "bonito",
+          "italian": "bello",
+          "esperanto": "bela"
+        },
+        {
+          "english": "handsome",
+          "russian": "красивый",
+          "spanish": "guapo",
+          "french": "beau",
+          "german": "gutaussehend",
+          "portuguese": "bonito",
+          "italian": "bello",
+          "esperanto": "bela" 
+        },
+        {
+          "english": "pretty",
+          "russian": "симпатичный",
+          "spanish": "bonito",
+          "french": "joli",
+          "german": "hübsch",
+          "portuguese": "bonito",
+          "italian": "carino",
+          "esperanto": "ĉarma"
+        },
+        {
+          "english": "ugly",
+          "russian": "уродливый",
+          "spanish": "feo",
+          "french": "laid",
+          "german": "hässlich",
+          "portuguese": "feio",
+          "italian": "brutto",
+          "esperanto": "malbela"
+        },
+        {
+          "english": "slim",
+          "russian": "стройный",
+          "spanish": "delgado",
+          "french": "mince",
+          "german": "schlank",
+          "portuguese": "magro",
+          "italian": "magro",
+          "esperanto": "svelta"
+        },
+        {
+          "english": "fat",
+          "russian": "толстый",
+          "spanish": "gordo",
+          "french": "gros",
+          "german": "dick",
+          "portuguese": "gordo",
+          "italian": "grasso",
+          "esperanto": "dika" 
+        },
+        {
+          "english": "strong",
+          "russian": "сильный",
+          "spanish": "fuerte",
+          "french": "fort",
+          "german": "stark",
+          "portuguese": "forte",
+          "italian": "forte",
+          "esperanto": "forta"
+        },
+        {
+          "english": "weak",
+          "russian": "слабый",
+          "spanish": "débil",
+          "french": "faible",
+          "german": "schwach",
+          "portuguese": "fraco",
+          "italian": "debole",
+          "esperanto": "malforta"
+        },
+        {
+          "english": "hair",
+          "russian": "волосы",
+          "spanish": "pelo",
+          "french": "cheveux",
+          "german": "Haare",
+          "portuguese": "cabelo",
+          "italian": "capelli",
+          "esperanto": "haroj" 
+        },
+        {
+          "english": "long hair",
+          "russian": "длинные волосы",
+          "spanish": "pelo largo",
+          "french": "cheveux longs",
+          "german": "lange Haare",
+          "portuguese": "cabelo comprido",
+          "italian": "capelli lunghi",
+          "esperanto": "longaj haroj"
+        },
+        {
+          "english": "short hair",
+          "russian": "короткие волосы",
+          "spanish": "pelo corto",
+          "french": "cheveux courts",
+          "german": "kurze Haare",
+          "portuguese": "cabelo curto",
+          "italian": "capelli corti",
+          "esperanto": "mallongaj haroj"
+        },
+        {
+          "english": "blond hair",
+          "russian": "светлые волосы",
+          "spanish": "pelo rubio",
+          "french": "cheveux blonds",
+          "german": "blonde Haare",
+          "portuguese": "cabelo loiro",
+          "italian": "capelli biondi",
+          "esperanto": "blondaj haroj"  
+        },
+        {
+          "english": "dark hair",
+          "russian": "тёмные волосы",
+          "spanish": "pelo oscuro",
+          "french": "cheveux bruns",
+          "german": "dunkle Haare",
+          "portuguese": "cabelo escuro",
+          "italian": "capelli scuri",
+          "esperanto": "malhelaj haroj"
+        },
+        {
+          "english": "curly hair",
+          "russian": "кудрявые волосы",
+          "spanish": "pelo rizado",
+          "french": "cheveux bouclés",
+          "german": "lockige Haare",
+          "portuguese": "cabelo encaracolado",
+          "italian": "capelli ricci",
+          "esperanto": "buklaj haroj"
+        },
+        {
+          "english": "straight hair",
+          "russian": "прямые волосы",
+          "spanish": "pelo liso",
+          "french": "cheveux raides",
+          "german": "glatte Haare",
+          "portuguese": "cabelo liso",
+          "italian": "capelli lisci",
+          "esperanto": "rektaj haroj"
+        },
+        {
+          "english": "eyes",
+          "russian": "глаза",
+          "spanish": "ojos",
+          "french": "yeux",
+          "german": "Augen",
+          "portuguese": "olhos",
+          "italian": "occhi",
+          "esperanto": "okuloj"
+        },
+        {
+          "english": "blue eyes",
+          "russian": "голубые глаза",
+          "spanish": "ojos azules",
+          "french": "yeux bleus",
+          "german": "blaue Augen",
+          "portuguese": "olhos azuis",
+          "italian": "occhi azzurri",
+          "esperanto": "bluaj okuloj"
+        },
+        {
+          "english": "brown eyes",
+          "russian": "карие глаза",
+          "spanish": "ojos marrones",
+          "french": "yeux marron",
+          "german": "braune Augen",
+          "portuguese": "olhos castanhos",
+          "italian": "occhi castani",
+          "esperanto": "brunaj okuloj"
+        },
+        {
+          "english": "green eyes",
+          "russian": "зелёные глаза",
+          "spanish": "ojos verdes",
+          "french": "yeux verts",
+          "german": "grüne Augen",
+          "portuguese": "olhos verdes",
+          "italian": "occhi verdi",
+          "esperanto": "verdaj okuloj"
+        },
+        {
+          "english": "beard",
+          "russian": "борода",
+          "spanish": "barba",
+          "french": "barbe",
+          "german": "Bart",
+          "portuguese": "barba",
+          "italian": "barba",
+          "esperanto": "barb"
+        },
+        {
+          "english": "bald",
+          "russian": "лысый",
+          "spanish": "calvo",
+          "french": "chauve",
+          "german": "kahl",
+          "portuguese": "careca",
+          "italian": "calvo",
+          "esperanto": "kalva"
+        },
+        {
+          "english": "glasses",
+          "russian": "очки",
+          "spanish": "gafas",
+          "french": "lunettes",
+          "german": "Brille",
+          "portuguese": "óculos",
+          "italian": "occhiali",
+          "esperanto": "okulvitroj"
+        },
+        {
+          "english": "What color is it?",
+          "russian": "Какого это цвета?",
+          "spanish": "¿De qué color es?",
+          "french": "De quelle couleur est-ce ?",
+          "german": "Welche Farbe hat es?",
+          "portuguese": "De que cor é?",
+          "italian": "Di che colore è?",
+          "esperanto": "Kian koloron ĝi havas?"
+        },
+        {
+          "english": "It's red.",
+          "russian": "Это красное.",
+          "spanish": "Es rojo.",
+          "french": "C'est rouge.",
+          "german": "Es ist rot.",
+          "portuguese": "É vermelho.",
+          "italian": "È rosso.",
+          "esperanto": "Ĝi estas ruĝa."
+        },
+        {
+          "english": "My favorite color is blue.",
+          "russian": "Мой любимый цвет — синий.",
+          "spanish": "Mi color favorito es el azul.",
+          "french": "Ma couleur préférée est le bleu.",
+          "german": "Meine Lieblingsfarbe ist Blau.",
+          "portuguese": "A minha cor favorita é o azul.",
+          "italian": "Il mio colore preferito è il blu.",
+          "esperanto": "Mia plej ŝatata koloro estas blua."
+        },
+        {
+          "english": "What does he look like?",
+          "russian": "Как он выглядит?",
+          "spanish": "¿Cómo es él?",
+          "french": "À quoi ressemble-t-il ?",
+          "german": "Wie sieht er aus?",
+          "portuguese": "Como é que ele é?",
+          "italian": "Com'è lui?",
+          "esperanto": "Kiel li aspektas?"
+        },
+        {
+          "english": "He is tall.",
+          "russian": "Он высокий.",
+          "spanish": "Él es alto.",
+          "french": "Il est grand.",
+          "german": "Er ist groß.",
+          "portuguese": "Ele é alto.",
+          "italian": "Lui è alto.",
+          "esperanto": "Li estas alta."
+        },
+        {
+          "english": "She has long hair.",
+          "russian": "У неё длинные волосы.",
+          "spanish": "Ella tiene el pelo largo.",
+          "french": "Elle a les cheveux longs.",
+          "german": "Sie hat lange Haare.",
+          "portuguese": "Ela tem cabelo comprido.",
+          "italian": "Lei ha i capelli lunghi.",
+          "esperanto": "Ŝi havas longajn harojn."
+        },
+        {
+          "english": "He has blue eyes.",
+          "russian": "У него голубые глаза.",
+          "spanish": "Él tiene los ojos azules.",
+          "french": "Il a les yeux bleus.",
+          "german": "Er hat blaue Augen.",
+          "portuguese": "Ele tem olhos azuis.",
+          "italian": "Lui ha gli occhi azzurri.",
+          "esperanto": "Li havas bluajn okulojn."
+        },
+        {
+          "english": "He wears glasses.",
+          "russian": "Он носит очки.",
+          "spanish": "Él lleva gafas.",
+          "french": "Il porte des lunettes.",
+          "german": "Er trägt eine Brille.",
+          "portuguese": "Ele usa óculos.",
+          "italian": "Lui porta gli occhiali.",
+          "esperanto": "Li portas okulvitrojn."
+        },
+        {
+          "english": "new",
+          "russian": "новый",
+          "spanish": "nuevo",
+          "french": "nouveau",
+          "german": "neu",
+          "portuguese": "novo",
+          "italian": "nuovo",
+          "esperanto": "nova"
+        },
+        {
+          "english": "old (thing)",
+          "russian": "старый",
+          "spanish": "viejo",
+          "french": "vieux",
+          "german": "alt",
+          "portuguese": "velho",
+          "italian": "vecchio",
+          "esperanto": "malnova" 
+        },
+        {
+          "english": "good",
+          "russian": "хороший",
+          "spanish": "bueno",
+          "french": "bon",
+          "german": "gut",
+          "portuguese": "bom",
+          "italian": "buono",
+          "esperanto": "bona"
+        },
+        {
+          "english": "bad",
+          "russian": "плохой",
+          "spanish": "malo",
+          "french": "mauvais",
+          "german": "schlecht",
+          "portuguese": "mau",
+          "italian": "cattivo",
+          "esperanto": "malbona"
+        },
+        {
+          "english": "clean",
+          "russian": "чистый",
+          "spanish": "limpio",
+          "french": "propre",
+          "german": "sauber",
+          "portuguese": "limpo",
+          "italian": "pulito",
+          "esperanto": "pura"
+        },
+        {
+          "english": "dirty",
+          "russian": "грязный",
+          "spanish": "sucio",
+          "french": "sale",
+          "german": "schmutzig",
+          "portuguese": "sujo",
+          "italian": "sporco",
+          "esperanto": "malpura"
+        },
+        {
+          "english": "hot",
+          "russian": "горячий",
+          "spanish": "caliente",
+          "french": "chaud",
+          "german": "heiß",
+          "portuguese": "quente",
+          "italian": "caldo",
+          "esperanto": "varma"
+        },
+        {
+          "english": "cold",
+          "russian": "холодный",
+          "spanish": "frío",
+          "french": "froid",
+          "german": "kalt",
+          "portuguese": "frio",
+          "italian": "freddo",
+          "esperanto": "malvarma"
+        },
+        {
+          "english": "hard",
+          "russian": "твёрдый",
+          "spanish": "duro",
+          "french": "dur",
+          "german": "hart",
+          "portuguese": "duro",
+          "italian": "duro",
+          "esperanto": "mola"
+        },
+        {
+          "english": "soft",
+          "russian": "мягкий",
+          "spanish": "blando",
+          "french": "mou",
+          "german": "weich",
+          "portuguese": "macio",
+          "italian": "morbido",
+          "esperanto": "mola"
+        },
+        {
+          "english": "full",
+          "russian": "полный",
+          "spanish": "lleno",
+          "french": "plein",
+          "german": "voll",
+          "portuguese": "cheio",
+          "italian": "pieno",
+          "esperanto": "plena"
+        },
+        {
+          "english": "empty",
+          "russian": "пустой",
+          "spanish": "vacío",
+          "french": "vide",
+          "german": "leer",
+          "portuguese": "vazio",
+          "italian": "vuoto",
+          "esperanto": "malplena"
+        },
+        {
+          "english": "expensive",
+          "russian": "дорогой",
+          "spanish": "caro",
+          "french": "cher",
+          "german": "teuer",
+          "portuguese": "caro",
+          "italian": "caro",
+          "esperanto": "multekosta"
+        },
+        {
+          "english": "cheap",
+          "russian": "дешёвый",
+          "spanish": "barato",
+          "french": "bon marché",
+          "german": "billig",
+          "portuguese": "barato",
+          "italian": "economico",
+          "esperanto": "malmultekosta"
+        },
+        {
+          "english": "fast",
+          "russian": "быстрый",
+          "spanish": "rápido",
+          "french": "rapide",
+          "german": "schnell",
+          "portuguese": "rápido",
+          "italian": "veloce",
+          "esperanto": "rapida"
+        },
+        {
+          "english": "slow",
+          "russian": "медленный",
+          "spanish": "lento",
+          "french": "lent",
+          "german": "langsam",
+          "portuguese": "lento",
+          "italian": "lento",
+          "esperanto": "malrapida"
+        },
+        {
+          "english": "easy",
+          "russian": "лёгкий",
+          "spanish": "fácil",
+          "french": "facile",
+          "german": "einfach",
+          "portuguese": "fácil",
+          "italian": "facile",
+          "esperanto": "facila"
+        },
+        {
+          "english": "difficult",
+          "russian": "трудный",
+          "spanish": "difícil",
+          "french": "difficile",
+          "german": "schwierig",
+          "portuguese": "difícil",
+          "italian": "difficile",
+          "esperanto": "malfacila"
+        },
+        {
+          "english": "dangerous",
+          "russian": "опасный",
+          "spanish": "peligroso",
+          "french": "dangereux",
+          "german": "gefährlich",
+          "portuguese": "perigoso",
+          "italian": "pericoloso",
+          "esperanto": "danĝera"
+        },
+        {
+          "english": "important",
+          "russian": "важный",
+          "spanish": "importante",
+          "french": "important",
+          "german": "wichtig",
+          "portuguese": "importante",
+          "italian": "importante",
+          "esperanto": "grava"
+        },
+        {
+          "english": "open",
+          "russian": "открытый",
+          "spanish": "abierto",
+          "french": "ouvert",
+          "german": "offen",
+          "portuguese": "aberto",
+          "italian": "aperto",
+          "esperanto": "malfermita"
+        },
+        {
+          "english": "closed",
+          "russian": "закрытый",
+          "spanish": "cerrado",
+          "french": "fermé",
+          "german": "geschlossen",
+          "portuguese": "fechado",
+          "italian": "chiuso",
+          "esperanto": "fermita"
+        },
+        {
+          "english": "same",
+          "russian": "одинаковый",
+          "spanish": "igual",
+          "french": "pareil",
+          "german": "gleich",
+          "portuguese": "igual",
+          "italian": "uguale",
+          "esperanto": "sama"
+        },
+        {
+          "english": "different",
+          "russian": "другой",
+          "spanish": "diferente",
+          "french": "différent",
+          "german": "anders",
+          "portuguese": "diferente",
+          "italian": "diverso",
+          "esperanto": "malsama"
+        }
+      ]
+    }
+  ]
+}

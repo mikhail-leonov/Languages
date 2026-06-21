@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Complaints & Customer Service Issues",
+      "phrases": [
+        {
+          "english": "I am writing to formally express my dissatisfaction with your service.",
+          "russian": "Я пишу, чтобы официально выразить свое неудовлетворение вашим обслуживанием.",
+          "spanish": "Le escribo para expresar formalmente mi insatisfacción con su servicio.",
+          "french": "Je vous écris pour exprimer formellement mon mécontentement face à vos services.",
+          "german": "Ich schreibe Ihnen, um offiziell meine Unzufriedenheit mit Ihrem Service zum Ausdruck zu bringen.",
+          "italian": "Scrivo per esprimere formalmente la mia insoddisfazione per il vostro servizio.",
+          "portuguese": "Estou escrevendo para expressar formalmente minha insatisfação com o seu serviço.",
+          "esperanto": "Mi skribas por formale esprimi mian malkontenton pri via servo."
+        },
+        {
+          "english": "I need to speak with a customer service manager immediately, please.",
+          "russian": "Мне нужно немедленно поговорить с менеджером по работе с клиентами, пожалуйста.",
+          "spanish": "Necesito hablar con un gerente de servicio al cliente de inmediato, por favor.",
+          "french": "Je dois parler à un responsable du service client immédiatement, s'il vous plaît.",
+          "german": "Ich muss bitte sofort mit einem Kundenservice-Manager sprechen.",
+          "italian": "Ho bisogno di parlare immediatamente con un responsabile del servizio clienti, per favore.",
+          "portuguese": "Preciso falar com um gerente do serviço de atendimento ao cliente imediatamente, por favor.",
+          "esperanto": "Mi bezonas tuj paroli kun manaĝero de klienta servo, bonvolu."
+        },
+        {
+          "english": "There appears to be a significant discrepancy with my recent order.",
+          "russian": "Похоже, в моем недавнем заказе есть существенное несоответствие.",
+          "spanish": "Parece haber una discrepancia significativa en mi pedido reciente.",
+          "french": "Il semble y avoir une divergence importante avec ma commande récente.",
+          "german": "Es scheint eine erhebliche Abweichung bei meiner jüngsten Bestellung zu geben.",
+          "italian": "Sembra esserci una notevole discrepanza con il mio ordine recente.",
+          "portuguese": "Parece haver uma divergência significativa no meu pedido recente.",
+          "esperanto": "Ŝajnas esti signifa malkongruo kun mia lasta mendo."
+        },
+        {
+          "english": "This product arrived completely damaged and is entirely unusable.",
+          "russian": "Этот товар пришел полностью поврежденным и абсолютно непригоден для использования.",
+          "spanish": "Este producto llegó completamente dañado y está totalmente inutilizable.",
+          "french": "Ce produit est arrivé complètement endommagé et est totalement inutilisable.",
+          "german": "Dieses Produkt kam völlig beschädigt an und ist absolut unbrauchbar.",
+          "italian": "Questo prodotto è arrivato completamente danneggiato ed è del tutto inutilizzabile.",
+          "portuguese": "Este produto chegou totalmente danificado e está completamente inutilizável.",
+          "esperanto": "Ĉi tiu produkto alvenis tute difektita kaj estas tute neuzebla."
+        },
+        {
+          "english": "I have been waiting for my delivery for over two weeks now.",
+          "russian": "Я жду свою доставку уже больше двух недель.",
+          "spanish": "Llevo más de dos semanas esperando mi entrega.",
+          "french": "Cela fait maintenant plus de deux semaines que j'attends ma livraison.",
+          "german": "Ich warte nun schon seit über zwei Wochen auf meine Lieferung.",
+          "italian": "Sto aspettando la consegna da oltre due settimane.",
+          "portuguese": "Estou esperando pela minha entrega há mais de duas semanas.",
+          "esperanto": "Mi atendis mian liveron jam pli ol du semajnojn."
+        },
+        {
+          "english": "The service I received today was completely unacceptable.",
+          "russian": "Обслуживание, которое я получил сегодня, было абсолютно неприемлемым.",
+          "spanish": "El servicio que recibí hoy fue completamente inaceptable.",
+          "french": "Le service que j'ai reçu aujourd'hui était tout à fait inacceptable.",
+          "german": "Der Service, den ich heute erhalten habe, war absolut inakzeptabel.",
+          "italian": "Il servizio che ho ricevuto oggi è stato del tutto inaccettabile.",
+          "portuguese": "O serviço que recebi hoje foi totalmente inaceitável.",
+          "esperanto": "La servo kiun mi ricevis hodiaŭ estis tute neakceptebla."
+        },
+        {
+          "english": "This item does not match the description provided on your website.",
+          "russian": "Этот товар не соответствует описанию, представленному на вашем сайте.",
+          "spanish": "Este artículo no coincide con la descripción proporcionada en su sitio web.",
+          "french": "Cet article ne correspond pas à la description fournie sur votre site internet.",
+          "german": "Dieser Artikel entspricht nicht der Beschreibung auf Ihrer Website.",
+          "italian": "Questo articolo non corrisponde alla descrizione fornita sul vostro sito web.",
+          "portuguese": "Este item não corresponde à descrição fornecida no seu site.",
+          "esperanto": "Ĉi tiu objekto ne kongruas kun la priskribo sur via retejo."
+        },
+        {
+          "english": "I was charged twice for a single transaction on my statement.",
+          "russian": "В моей выписке списана двойная плата за одну и ту же операцию.",
+          "spanish": "Me cobraron dos veces por una sola transacción en mi estado de cuenta.",
+          "french": "J'ai été débité deux fois pour une seule transaction sur mon relevé.",
+          "german": "Auf meinem Kontoauszug wurde eine einzelne Transaktion doppelt abgebucht.",
+          "italian": "Mi sono stati addebitati due importi per una singola transazione sull'estratto conto.",
+          "portuguese": "Fui cobrado duas vezes por uma única transação no meu extrato.",
+          "esperanto": "Mi estis ŝargita dufoje por ununura transakcio sur mia deklaro."
+        },
+        {
+          "english": "Your technician failed to show up during the scheduled time slot.",
+          "russian": "Ваш техник не явился в назначенное время.",
+          "spanish": "Su técnico no se presentó durante el horario programado.",
+          "french": "Votre technicien ne s'est pas présenté pendant le créneau horaire prévu.",
+          "german": "Ihr Techniker ist während des vereinbarten Zeitfensters nicht erschienen.",
+          "italian": "Il vostro tecnico non si è presentato nella fascia oraria programmata.",
+          "portuguese": "O técnico de vocês não compareceu no horário agendado.",
+          "esperanto": "Via teknikisto malsukcesis aperi dum la planita tempo."
+        },
+        {
+          "english": "I am extremely disappointed with the quality of this merchandise.",
+          "russian": "Я крайне разочарован качеством этого товара.",
+          "spanish": "Estoy sumamente decepcionado con la calidad de esta mercancía.",
+          "french": "Je suis extrêmement déçu de la qualité de cette marchandise.",
+          "german": "Ich bin von der Qualität dieser Ware äußerst enttäuscht.",
+          "italian": "Sono estremamente deluso dalla qualità di questa merce.",
+          "portuguese": "Estou extremamente desapontado com a qualidade desta mercadoria.",
+          "esperanto": "Mi estas ekstreme seniluziigita pri la kvalito de ĉi tiu varo."
+        },
+        {
+          "english": "I would like to request a full refund for this defective item.",
+          "russian": "Я бы хотел запросить полный возврат средств за этот бракованный товар.",
+          "spanish": "Me gustaría solicitar un reembolso completo por este artículo defectuoso.",
+          "french": "Je voudrais demander un remboursement complet pour cet article défectueux.",
+          "german": "Ich möchte eine vollständige Rückerstattung für diesen defekten Artikel beantragen.",
+          "italian": "Vorrei richiedere un rimborso completo per questo articolo difettoso.",
+          "portuguese": "Gostaria de solicitar o reembolso total por este item defeituoso.",
+          "esperanto": "Mi ŝatus peti plenan repagon por ĉi tiu difekta objekto."
+        },
+        {
+          "english": "I demand a complete replacement sent out via express delivery.",
+          "russian": "Я требую выслать замену в полном объеме экспресс-доставкой.",
+          "spanish": "Exijo que se envíe un reemplazo completo mediante entrega exprés.",
+          "french": "J'exige qu'un remplacement complet soit envoyé par livraison express.",
+          "german": "Ich fordere, dass ein vollständiger Ersatz per Expresslieferung verschickt wird.",
+          "italian": "Pretendo che venga inviato un articolo sostitutivo completo tramite consegna espressa.",
+          "portuguese": "Exijo que um produto substituto seja enviado por entrega expressa.",
+          "esperanto": "Mi postulas kompletan anstataŭaĵon senditan per ekspres-livero."
+        },
+        {
+          "english": "What kind of compensation can you offer for this massive delay?",
+          "russian": "Какую компенсацию вы можете предложить за эту огромную задержку?",
+          "spanish": "¿Qué tipo de compensación puede ofrecer por este enorme retraso?",
+          "french": "Quel type de compensation pouvez-vous offrir pour ce retard massif ?",
+          "german": "Welche Art von Entschädigung können Sie für diese enorme Verzögerung anbieten?",
+          "italian": "Che tipo di compensazione potete offrire per questo enorme ritardo?",
+          "portuguese": "Que tipo de compensação vocês podem oferecer por esse atraso enorme?",
+          "esperanto": "Kian kompenson vi povas oferti por ĉi tiu grandega prokrasto?"
+        },
+        {
+          "english": "I expect a formal apology and a waiver of the service fee.",
+          "russian": "Я ожидаю официальных извинений и отмены платы за обслуживание.",
+          "spanish": "Espero una disculpa formal y la exoneración de la tarifa de servicio.",
+          "french": "J'attends des excuses officielles et une exonération des frais de service.",
+          "german": "Ich erwarte eine formelle Entschuldigung und den Erlass der Servicegebühr.",
+          "italian": "Mi aspetto delle scuse formali e l'annullamento del costo del servizio.",
+          "portuguese": "Espero um pedido de desculpas formal e a isenção da taxa de serviço.",
+          "esperanto": "Mi atendas formalan pardonpeton kaj rezignon de la servokotizo."
+        },
+        {
+          "english": "Please credit my account for the amount that was overcharged.",
+          "russian": "Пожалуйста, верните на мой счет сумму, которая была излишне списана.",
+          "spanish": "Por favor, abone a mi cuenta la cantidad cobrada de más.",
+          "french": "Veuillez créditer mon compte du montant qui a été surfacturé.",
+          "german": "Bitte schreiben Sie meinem Konto den zu viel berechneten Betrag gut.",
+          "italian": "Per favore, accreditate sul mio conto l'importo addebitato in eccesso.",
+          "portuguese": "Por favor, credite na minha conta o valor cobrado a mais.",
+          "esperanto": "Bonvolu krediti mian konton pro la troŝargita sumo."
+        },
+        {
+          "english": "I am returning this item and I expect you to cover the shipping.",
+          "russian": "Я возвращаю этот товар и ожидаю, что вы оплатите доставку.",
+          "spanish": "Voy a devolver este artículo y espero que ustedes cubran los gastos de envío.",
+          "french": "Je retourne cet article et je m'attends à ce que vous preniez en charge les frais de port.",
+          "german": "Ich sende diesen Artikel zurück und erwarte, dass Sie die Versandkosten übernehmen.",
+          "italian": "Sto restituendo questo articolo e mi aspetto che copriate le spese di spedizione.",
+          "portuguese": "Estou devolvendo este item e espero que vocês arquem com o frete.",
+          "esperanto": "Mi redonas ĉi tiun objekton kaj mi atendas, ke vi kovru la sendokostojn."
+        },
+        {
+          "english": "I want to cancel my subscription and receive a prorated refund.",
+          "russian": "Я хочу отменить подписку и получить пропорциональный возврат средств.",
+          "spanish": "Quiero cancelar mi suscripción y recibir un reembolso prorrateado.",
+          "french": "Je souhaite annuler mon abonnement et recevoir un remboursement proratisé.",
+          "german": "Ich möchte mein Abonnement kündigen und eine anteilige Rückerstattung erhalten.",
+          "italian": "Voglio annullare il mio abbonamento e ricevere un rimborso proporzionale.",
+          "portuguese": "Quero cancelar minha assinatura e receber um reembolso proporcional ao período restante.",
+          "esperanto": "Mi volas nuligi mian abonon kaj ricevi proporcian repagon."
+        },
+        {
+          "english": "This error on your part warrants a significant discount on my bill.",
+          "russian": "Эта ошибка с вашей стороны дает основание для существенной скидки на мой счет.",
+          "spanish": "Este error por su parte justifica un descuento significativo en mi factura.",
+          "french": "Cette erreur de votre part justifie une remise importante sur ma facture.",
+          "german": "Dieser Fehler Ihrerseits rechtfertigt einen erheblichen Rabatt auf meiner Rechnung.",
+          "italian": "Questo errore da parte vostra giustifica uno sconto significativo sulla mia fattura.",
+          "portuguese": "Este erro da parte de vocês justifica um desconto significativo na minha fatura.",
+          "esperanto": "Ĉi tiu eraro de via flanko pravigas signifan rabaton sur mia fakturo."
+        },
+        {
+          "english": "I would like to exchange this broken unit for a completely new one.",
+          "russian": "Я бы хотел обменять это сломанное устройство на абсолютно новое.",
+          "spanish": "Me gustaría cambiar esta unidad rota por una completamente nueva.",
+          "french": "Je voudrais échanger cet appareil cassé contre un modèle complètement neuf.",
+          "german": "Ich möchte dieses defekte Gerät gegen ein völlig neues umtauschen.",
+          "italian": "Vorrei sostituire questa unità rotta con una completamente nuova.",
+          "portuguese": "Gostaria de trocar este aparelho quebrado por um totalmente novo.",
+          "esperanto": "Mi ŝatus interŝanĝi ĉi tiun rompitan aparaton kontraŭ tute nova."
+        },
+        {
+          "english": "If this cannot be resolved today, I will demand a chargeback.",
+          "russian": "Если это не решится сегодня, я буду требовать принудительную отмену платежа через банк.",
+          "spanish": "Si esto no se puede resolver hoy, exigiré un contracargo.",
+          "french": "Si cela ne peut pas être résolu aujourd'hui, je demanderai une rétrofacturation.",
+          "german": "Wenn dies heute nicht gelöst werden kann, werde ich eine Rückbuchung verlangen.",
+          "italian": "Se la questione non può essere risolta oggi, richiederò un chargeback.",
+          "portuguese": "Se isso não puder ser resolvido hoje, vou solicitar um estorno no cartão.",
+          "esperanto": "Se tio ne povas esti solvita hodiaŭ, mi postulos reprenon de pago."
+        },
+        {
+          "english": "I have already spoken to three different agents and got no help.",
+          "russian": "Я уже поговорил с тремя разными операторами, и мне никто не помог.",
+          "spanish": "Ya he hablado con tres agentes diferentes y no he recibido ayuda.",
+          "french": "J'ai déjà parlé à trois conseillers différents et je n'ai obtenu aucune aide.",
+          "german": "Ich habe bereits mit drei verschiedenen Mitarbeitern gesprochen und keine Hilfe erhalten.",
+          "italian": "Ho già parlato con tre operatori diversi senza ricevere alcun aiuto.",
+          "portuguese": "Já falei com três atendentes diferentes e não obtive ajuda.",
+          "esperanto": "Mi jam parolis kun tri malsamaj agentoj kaj ricevis neniun helpon."
+        },
+        {
+          "english": "This continuous runaround is completely unacceptable to me.",
+          "russian": "Эти постоянные отговорки и перенаправления абсолютно для меня неприемлемы.",
+          "spanish": "Que me traigan dando vueltas continuamente de este modo es completamente inaceptable para mí.",
+          "french": "Ce renvoi incessant d'un service à l'autre est tout à fait inacceptable pour moi.",
+          "german": "Dieses ständige Vertrösten ist für mich absolut inakzeptabel.",
+          "italian": "Questo continuo rimpallo è del tutto inaccettabile per me.",
+          "portuguese": "Esse jogo de empurra contínuo é totalmente inaceitável para mim.",
+          "esperanto": "Ĉi tiu daŭra ĉirkaŭiro estas tute neakceptebla por mi."
+        },
+        {
+          "english": "I will be forced to take my business elsewhere if this isn't fixed.",
+          "russian": "Я буду вынужден уйти к конкурентам, если это не будет исправлено.",
+          "spanish": "Me veré obligado a llevar mi negocio a otra parte si esto no se soluciona.",
+          "french": "Je serai obligé d'aller voir ailleurs si ce problème n'est pas réglé.",
+          "german": "Ich werde mich gezwungen sehen, zur Konkurrenz zu wechseln, wenn das nicht behoben wird.",
+          "italian": "Sarò costretto a rivolgermi altrove se la situazione non viene sistemata.",
+          "portuguese": "Serei forçado a deixar de ser cliente se isso não for resolvido.",
+          "esperanto": "Mi estos devigata forporti mian negocon aliloken se tio ne estos riparita."
+        },
+        {
+          "english": "I demand to know why this issue has taken so long to resolve.",
+          "russian": "Я требую объяснить, почему решение этой проблемы заняло так много времени.",
+          "spanish": "Exijo saber por qué se ha tardado tanto en resolver este problema.",
+          "french": "Je demande à savoir pourquoi ce problème a mis tant de temps à être résolu.",
+          "german": "Ich fordere zu erfahren, warum die Behebung dieses Problems so lange gedauert hat.",
+          "italian": "Pretendo di sapere perché ci è voluto così tanto tempo per risolvere questo problema.",
+          "portuguese": "Exijo saber por que este problema está demorando tanto para ser resolvido.",
+          "esperanto": "Mi postulas scii kial ĉi tiu problemo daŭris tiom longe por solvi."
+        },
+        {
+          "english": "This completely contradicts what your representative told me yesterday.",
+          "russian": "Это полностью противоречит тому, что ваш представитель сказал мне вчера.",
+          "spanish": "Esto contradice por completo lo que su representante me dijo ayer.",
+          "french": "Cela contredit complètement ce que votre conseiller m'a dit hier.",
+          "german": "Das widerspricht völlig dem, was mir Ihr Mitarbeiter gestern gesagt hat.",
+          "italian": "Questo contraddice completamente quanto mi ha detto ieri il vostro rappresentante.",
+          "portuguese": "Isso contradiz totalmente o que o representante de vocês me disse ontem.",
+          "esperanto": "Ĉi tio tute kontraŭdiras kion via reprezentanto diris al mi hieraŭ."
+        },
+        {
+          "english": "I am losing precious time and money due to this system outage.",
+          "russian": "Я теряю драгоценное время и деньги из-за этого сбоя в системе.",
+          "spanish": "Estoy perdiendo tiempo y dinero valiosos debido a esta caída del sistema.",
+          "french": "Je perds un temps précieux et de l'argent à cause de cette panne de système.",
+          "german": "Aufgrund dieses Systemausfalls verliere ich wertvolle Zeit und Geld.",
+          "italian": "Sto perdendo tempo e denaro preziosi a causa di questa interruzione del sistema.",
+          "portuguese": "Estou perdendo tempo e dinheiro preciosos devido a essa queda no sistema.",
+          "esperanto": "Mi perdas valoran tempon kaj monon pro ĉi tiu sistema elrompo."
+        },
+        {
+          "english": "Your automated system keeps disconnecting my calls, which is infuriating.",
+          "russian": "Ваша автоматическая система постоянно сбрасывает мои звонки, это просто бесит.",
+          "spanish": "Su sistema automatizado no para de cortar mis llamadas, lo cual es desesperante.",
+          "french": "Votre système automatisé ne cesse de raccrocher mes appels, ce qui est exaspérant.",
+          "german": "Ihr automatisiertes System legt ständig bei meinen Anrufen auf, was absolut nervtötend ist.",
+          "italian": "Il vostro sistema automatico continua a interrompere le mie chiamate, il che è esasperante.",
+          "portuguese": "O sistema automatizado de vocês fica caindo minhas chamadas, o que é enfurecedor.",
+          "esperanto": "Via aŭtomata sistemo daŭre interrompas miajn vokojn, kio estas furioziga."
+        },
+        {
+          "english": "This is a blatant breach of the agreement we originally signed.",
+          "russian": "Это вопиющее нарушение соглашения, которое мы изначально подписали.",
+          "spanish": "Esto es una violación flagrante del acuerdo que firmamos originalmente.",
+          "french": "Il s'agit d'une violation flagrante de l'accord que nous avons initialement signé.",
+          "german": "Dies ist ein offensichtlicher Bruch der Vereinbarung, die wir ursprünglich unterzeichnet haben.",
+          "italian": "Questa è una palese violazione dell'accordo che abbiamo firmato originariamente.",
+          "portuguese": "Isso é uma violação flagrante do contrato que assinamos originalmente.",
+          "esperanto": "Ĉi tio estas evidenta rompo de la interkonsento, kiun ni origine subskribis."
+        },
+        {
+          "english": "I am incredibly frustrated by the complete lack of communication.",
+          "russian": "Я невероятно расстроен полным отсутствием обратной связи.",
+          "spanish": "Estoy increíblemente frustrado por la falta total de comunicación.",
+          "french": "Je suis incroyablement frustré par le manque total de communication.",
+          "german": "Ich bin unfassbar frustriert über den völligen Mangel an Kommunikation.",
+          "italian": "Sono incredibilmente frustrato dalla totale mancanza di comunicazione.",
+          "portuguese": "Estou incrivelmente frustrado com a total falta de comunicação.",
+          "esperanto": "Mi estas nekredeble frustrita pro la kompleta manko de komunikado."
+        },
+        {
+          "english": "I will be leaving a highly negative review detailing this experience.",
+          "russian": "Я оставлю крайне негативный отзыв с подробным описанием этого случая.",
+          "spanish": "Dejaré una reseña muy negativa detallando esta experiencia.",
+          "french": "Je laisserai un avis très négatif détaillant cette expérience.",
+          "german": "Ich werde eine äußerst negative Bewertung hinterlassen, die diese Erfahrung detailliert beschreibt.",
+          "italian": "Lascerò una recensione altamente negativa descrivendo dettagliatamente questa esperienza.",
+          "portuguese": "Vou deixar uma avaliação muito negativa detalhando essa experiência.",
+          "esperanto": "Mi lasos tre negativan recenzon detale priskribantan ĉi tiun sperton."
+        },
+        {
+          "english": "Who exactly is the person responsible for handling my case file?",
+          "russian": "Кто конкретно является лицом, ответственным за ведение моего дела?",
+          "spanish": "¿Quién es exactamente la persona responsable de llevar mi expediente?",
+          "french": "Qui est exactement la personne responsable du traitement de mon dossier ?",
+          "german": "Wer genau ist die Person, die für die Bearbeitung meines Falls zuständig ist?",
+          "italian": "Chi è esattamente la persona responsabile della gestione della mia pratica?",
+          "portuguese": "Quem exatamente é a pessoa responsável por cuidar do meu caso?",
+          "esperanto": "Kiu ekzakte estas la persono respondeca pri traktado de mia dosiero?"
+        },
+        {
+          "english": "Can you provide me with a formal reference number for this complaint?",
+          "russian": "Можете ли вы предоставить мне официальный номер обращения по этой жалобе?",
+          "spanish": "¿Puede proporcionarme un número de referencia oficial para esta reclamación?",
+          "french": "Pouvez-vous me fournir un numéro de référence officiel pour cette réclamation ?",
+          "german": "Können Sie mir eine offizielle Vorgangsnummer für diese Beschwerde geben?",
+          "italian": "Può fornirmi un numero di riferimento ufficiale per questo reclamo?",
+          "portuguese": "Você pode me fornecer um número de protocolo oficial para esta reclamação?",
+          "esperanto": "Ĉu vi povas provizi al mi oficialan referencan numeron por ĉi tiu plendo?"
+        },
+        {
+          "english": "When precisely can I expect a direct follow-up phone call from you?",
+          "russian": "Когда именно мне ожидать от вас прямого ответного звонка?",
+          "spanish": "¿Cuándo exactamente puedo esperar una llamada telefónica directa de seguimiento por su parte?",
+          "french": "Quand précisément puis-je attendre un appel téléphonique de suivi direct de votre part ?",
+          "german": "Wann genau kann ich mit einem direkten Rückruf von Ihnen rechnen?",
+          "italian": "Quando di preciso posso aspettarmi una telefonata di follow-up diretta da parte vostra?",
+          "portuguese": "Quando exatamente posso esperar um telefonema de retorno direto de vocês?",
+          "esperanto": "Kiam precize mi povas atendi rektan sekvan telefonalvokon de vi?"
+        },
+        {
+          "english": "I want a written confirmation of everything we just agreed upon.",
+          "russian": "Я хочу получить письменное подтверждение всего, о чем мы только что договорились.",
+          "spanish": "Quiero una confirmación por escrito de todo lo que acabamos de acordar.",
+          "french": "Je veux une confirmation écrite de tout ce que nous venons d'accepter.",
+          "german": "Ich möchte eine schriftliche Bestätigung über alles, was wir gerade vereinbart haben.",
+          "italian": "Voglio una conferma scritta di tutto ciò che abbiamo appena concordato.",
+          "portuguese": "Quero uma confirmação por escrito de tudo o que acabamos de combinar.",
+          "esperanto": "Mi volas skriban konfirmon pri ĉio, kion ni ĵus interkonsentis."
+        },
+        {
+          "english": "How long does your official internal investigation process typically take?",
+          "russian": "Сколько обычно занимает ваш официальный процесс внутреннего расследования?",
+          "spanish": "¿Cuánto tiempo suele tardar su proceso oficial de investigación interna?",
+          "french": "Combien de temps dure généralement votre processus officiel d'enquête interne ?",
+          "german": "Wie lange dauert Ihr offizieller interner Untersuchungsprozess normalerweise?",
+          "italian": "Quanto tempo richiede di solito il vostro processo di indagine interna ufficiale?",
+          "portuguese": "Quanto tempo costuma demorar o processo oficial de investigação interna de vocês?",
+          "esperanto": "Kiom da tempo kutime daŭras via oficiala interna esplorprocezo?"
+        },
+        {
+          "english": "Please keep me updated on the status of this issue via email.",
+          "russian": "Пожалуйста, держите меня в курсе статуса этой проблемы по электронной почте.",
+          "spanish": "Por favor, manténgame informado sobre el estado de este problema por correo electrónico.",
+          "french": "Veuillez me tenir informé de l'évolution de ce problème par e-mail.",
+          "german": "Bitte halten Sie mich über den Status dieses Problems per E-Mail auf dem Laufenden.",
+          "italian": "Per favore, mi tenga aggiornato sullo stato di questo problema tramite e-mail.",
+          "portuguese": "Por favor, me mantenha atualizado sobre o andamento deste problema por e-mail.",
+          "esperanto": "Bonvolu teni min ĝisdatigita pri la stato de ĉi tiu problemo per retpoŝto."
+        },
+        {
+          "english": "I need a concrete timeline for when my refund will be processed.",
+          "russian": "Мне нужны конкретные сроки того, когда мой возврат будет обработан.",
+          "spanish": "Necesito un plazo concreto de cuándo se procesará mi reembolso.",
+          "french": "J'ai besoin d'un délai concret pour le traitement de mon remboursement.",
+          "german": "Ich brauche einen konkreten Zeitrahmen dafür, wann meine Rückerstattung bearbeitet wird.",
+          "italian": "Ho bisogno di una tempistica concreta su quando verrà elaborato il mio rimborso.",
+          "portuguese": "Preciso de um prazo concreto de quando o meu reembolso será processado.",
+          "esperanto": "Mi bezonas konkretan templinigon pri kiam mia repago estos prilaborita."
+        },
+        {
+          "english": "Is there a direct extension number where I can reach you tomorrow?",
+          "russian": "Есть ли прямой добавочный номер, по которому я могу связаться с вами завтра?",
+          "spanish": "¿Hay un número de extensión directo donde pueda localizarlo mañana?",
+          "french": "Y a-t-il un numéro de ligne directe où je peux vous joindre demain ?",
+          "german": "Gibt es eine direkte Durchwahl, unter der ich Sie morgen erreichen kann?",
+          "italian": "C'è un numero di interno diretto al quale posso contattarla domani?",
+          "portuguese": "Existe um número de ramal direto onde eu possa falar com você amanhã?",
+          "esperanto": "Ĉu estas rekta etenda numero, per kiu mi povas atingi vin morgaŭ?"
+        },
+        {
+          "english": "I want to make sure this incident is properly logged in your system.",
+          "russian": "Я хочу убедиться, что этот инцидент должным образом зафиксирован в вашей системе.",
+          "spanish": "Quiero asegurarme de que este incidente quede debidamente registrado en su sistema.",
+          "french": "Je veux m'assurer que cet incident est correctement enregistré dans votre système.",
+          "german": "Ich möchte sicherstellen, dass dieser Vorfall ordnungsgemäß in Ihrem System erfasst wird.",
+          "italian": "Voglio assicurarmi che questo incidente sia adeguatamente registrato nel vostro sistema.",
+          "portuguese": "Quero ter certeza de que este incidente foi devidamente registrado no sistema de vocês.",
+          "esperanto": "Mi volas certigi, ke ĉi tiu okazaĵo estas ĝuste registrita en via sistemo."
+        },
+        {
+          "english": "Who is your immediate supervisor that I can escalate this matter to?",
+          "russian": "Кто ваш непосредственный руководитель, которому я могу передать этот вопрос?",
+          "spanish": "¿Quién es su supervisor inmediato con el que puedo elevar este asunto?",
+          "french": "Qui est votre supérieur direct à qui je peux remonter cette affaire ?",
+          "german": "Wer ist Ihr direkter Vorgesetzter, an den ich diese Angelegenheit weiterleiten kann?",
+          "italian": "Chi è il suo supervisore diretto a cui posso inoltrare la questione?",
+          "portuguese": "Quem é o seu supervisor imediato para quem posso encaminhar este assunto?",
+          "esperanto": "Kiu estas via tuja superulo, al kiu mi povas suprenigi ĉi tiun aferon?"
+        },
+        {
+          "english": "Thank you for taking ownership of this problem and fixing it.",
+          "russian": "Спасибо, что взяли на себя ответственность за эту проблему и устранили ее.",
+          "spanish": "Gracias por hacerse cargo de este problema y solucionarlo.",
+          "french": "Merci d'avoir pris en charge ce problème et de l'avoir résolu.",
+          "german": "Vielen Dank, dass Sie sich dieses Problems angenommen und es behoben haben.",
+          "italian": "Grazie per essersi preso carico di questo problema e averlo risolto.",
+          "portuguese": "Obrigado por assumir a responsabilidade por este problema e resolvê-lo.",
+          "esperanto": "Dankon pro transpreno de ĉi tiu problemo kaj ĝia solvo."
+        },
+        {
+          "english": "I am satisfied with the alternative solution you have proposed.",
+          "russian": "Я удовлетворен альтернативным решением, которое вы предложили.",
+          "spanish": "Estoy satisfecho con la solución alternativa que ha propuesto.",
+          "french": "Je suis satisfait de la solution alternative que vous avez proposée.",
+          "german": "Ich bin mit der von Ihnen vorgeschlagenen Alternativlösung zufrieden.",
+          "italian": "Sono soddisfatto della soluzione alternativa che ha proposto.",
+          "portuguese": "Estou satisfeito com a solução alternativa que você propôs.",
+          "esperanto": "Mi estas kontenta pri la alternativa solvo, kiun vi proponis."
+        },
+        {
+          "english": "As long as the refund clears by Friday, we are completely square.",
+          "russian": "Если возврат поступит до пятницы, мы в полном расчете.",
+          "spanish": "Mientras el reembolso se liquide para el viernes, estamos completamente en paz.",
+          "french": "Tant que le remboursement est validé d'ici vendredi, nous sommes quittes.",
+          "german": "Solange die Rückerstattung bis Freitag eingeht, sind wir quitt.",
+          "italian": "Finché il rimborso viene accreditato entro venerdì, siamo a posto.",
+          "portuguese": "Desde que o reembolso caia até sexta-feira, estamos totalmente quits.",
+          "esperanto": "Se la repago alvenos ĝis vendredo, ni estos tute kvitaj."
+        },
+        {
+          "english": "I appreciate you taking the time to thoroughly investigate this for me.",
+          "russian": "Я ценю, что вы нашли время, чтобы тщательно расследовать это для меня.",
+          "spanish": "Le agradezco que se haya tomado el tiempo de investigar esto a fondo por mí.",
+          "french": "Je vous remercie d'avoir pris le temps de mener une enquête approfondie pour moi.",
+          "german": "Ich weiß es zu schätzen, dass Sie sich die Zeit genommen haben, dies gründlich für mich zu untersuchen.",
+          "italian": "Apprezzo che abbia dedicato del tempo a indagare a fondo sulla questione per me.",
+          "portuguese": "Agradeço por você dedicar seu tempo para investigar isso a fundo para mim.",
+          "esperanto": "Mi aprezas, ke vi prenis tempon por funde esplori ĉi tion por mi."
+        },
+        {
+          "english": "Let's consider this specific matter officially closed and resolved.",
+          "russian": "Давайте считать этот конкретный вопрос официально закрытым и решенным.",
+          "spanish": "Consideremos este asunto específico oficialmente cerrado y resuelto.",
+          "french": "Considérons cette affaire précise comme officiellement close et réglée.",
+          "german": "Betrachten wir diese Angelegenheit als offiziell abgeschlossen und gelöst.",
+          "italian": "Consideriamo questa specifica questione ufficialmente chiusa e risolta.",
+          "portuguese": "Vamos considerar este assunto específico oficialmente encerrado e resolvido.",
+          "esperanto": "Ni konsideru ĉi tiun specifan aferon oficiale fermita kaj solvita."
+        },
+        {
+          "english": "Thank you for processing that replacement order so quickly.",
+          "russian": "Спасибо за столь быстрое оформление заказа на замену.",
+          "spanish": "Gracias por procesar ese pedido de reemplazo tan rápido.",
+          "french": "Merci d'avoir traité cette commande de remplacement si rapidement.",
+          "german": "Vielen Dank, dass Sie die Ersatzbestellung so schnell bearbeitet haben.",
+          "italian": "Grazie per aver elaborato l'ordine di sostituzione così rapidamente.",
+          "portuguese": "Obrigado por processar esse pedido de substituição tão rápido.",
+          "esperanto": "Dankon pro tiel rapida prilaborado de tiu anstataŭa mendo."
+        },
+        {
+          "english": "I am glad we were able to reach a mutually acceptable agreement.",
+          "russian": "Я рад, что мы смогли прийти к взаимоприемлемому соглашению.",
+          "spanish": "Me alegra que hayamos podido llegar a un acuerdo mutuamente aceptable.",
+          "french": "Je suis heureux que nous ayons pu parvenir à un accord mutuellement acceptable.",
+          "german": "Ich freue mich, dass wir eine für beide Seiten akzeptable Einigung erzielen konnten.",
+          "italian": "Sono felice che siamo riusciti a raggiungere un accordo reciprocamente accettabile.",
+          "portuguese": "Fico feliz que tenhamos conseguido chegar a um acordo mutuamente aceitável.",
+          "esperanto": "Mi ĝojas, ke ni povis atingi reciproke akcepteblan interkonsenton."
+        },
+        {
+          "english": "The credit has successfully appeared on my account, thank you.",
+          "russian": "Сумма возврата успешно поступила на мой счет, спасибо.",
+          "spanish": "El crédito ha aparecido correctamente en mi cuenta, gracias.",
+          "french": "Le crédit est bien apparu sur mon compte, merci.",
+          "german": "Die Gutschrift ist erfolgreich auf meinem Konto eingegangen, vielen Dank.",
+          "italian": "L'accredito è apparso con successo sul mio conto, grazie.",
+          "portuguese": "O crédito apareceu com sucesso na minha conta, obrigado.",
+          "esperanto": "La kredito sukcese aperis sur mia konto, dankon."
+        },
+        {
+          "english": "Your prompt assistance in resolving this issue is highly appreciated.",
+          "russian": "Ваша оперативная помощь в решении этого вопроса очень высоко ценится.",
+          "spanish": "Su pronta asistencia para resolver este problema es muy apreciada.",
+          "french": "Votre aide rapide pour résoudre ce problème est très appréciée.",
+          "german": "Ihre schnelle Unterstützung bei der Lösung dieses Problems wird sehr geschätzt.",
+          "italian": "La vostra tempestiva assistenza nel risolvere questo problema è molto apprezzata.",
+          "portuguese": "A vossa ajuda rápida para resolver este problema é muito apreciada.",
+          "esperanto": "Via tuja helpo en solvado de ĉi tiu problemo estas tre aprezata."
+        },
+        {
+          "english": "Excellent customer service on your part to turn this situation around.",
+          "russian": "Отличная работа с клиентами с вашей стороны, чтобы исправить эту ситуацию.",
+          "spanish": "Excelente servicio al cliente por su parte para darle la vuelta a esta situación.",
+          "french": "Excellent service client de votre part pour redresser la situation.",
+          "german": "Hervorragender Kundenservice Ihrerseits, um diese Situation zu retten.",
+          "italian": "Eccellente servizio clienti da parte vostra per ribaltare questa situazione.",
+          "portuguese": "Excelente atendimento ao cliente da parte de vocês para reverter essa situação.",
+          "esperanto": "Bonega klienta servo de via flanko por turni ĉi tiun situacion."
+        }
+      ]
+    }
+  ]
+}

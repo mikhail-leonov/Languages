@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Dining & Ordering",
+      "phrases": [
+        {
+          "english": "Hi, I’d like to book a table for four for this Friday evening.",
+          "russian": "Здравствуйте, я бы хотел забронировать столик на четверых на этот пятничный вечер.",
+          "spanish": "Hola, me gustaría reservar una mesa para cuatro para este viernes por la noche.",
+          "french": "Bonjour, je voudrais réserver une table pour quatre pour ce vendredi soir.",
+          "german": "Hallo, ich möchte bitte einen Tisch für vier Personen für diesen Freitagabend reservieren.",
+          "italian": "Salve, vorrei prenotare un tavolo per quattro per questo venerdì sera.",
+          "portuguese": "Olá, eu gostaria de reservar uma mesa para quatro pessoas para esta sexta-feira à noite.",
+          "esperanto": "Saluton, mi ŝatus rezervi tablon por kvar homoj por ĉi tiu vendreda vespero."
+        },
+        {
+          "english": "Do you have any outdoor seating available for walk-ins tonight?",
+          "russian": "Есть ли у вас свободные места на улице для посетителей без брони на сегодня?",
+          "spanish": "¿Tienen mesas afuera disponibles para clientes sin reserva esta noche?",
+          "french": "Avez-vous des places en terrasse disponibles sans réservation pour ce soir ?",
+          "german": "Haben Sie heute Abend Plätze im Außenbereich für spontane Gäste frei?",
+          "italian": "Avete posti all'aperto disponibili senza prenotazione per stasera?",
+          "portuguese": "Vocês têm mesas na área externa para quem chega sem reserva hoje à noite?",
+          "esperanto": "Ĉu vi havas eksterajn sidlokojn disponeblajn por hazardaj gastoj ĉi-vespere?"
+        },
+        {
+          "english": "We have a reservation under the name [Name] for eight o'clock.",
+          "russian": "У нас забронирован столик на имя [Name] на восемь часов.",
+          "spanish": "Tenemos una reserva a nombre de [Name] para las ocho.",
+          "french": "Nous avons une réservation au nom de [Name] pour vingt heures.",
+          "german": "Wir haben eine Reservierung auf den Namen [Name] für acht Uhr.",
+          "italian": "Abbiamo una prenotazione a nome [Name] per le otto.",
+          "portuguese": "Temos uma reserva em nome de [Name] para as oito horas.",
+          "esperanto": "Ni havas rezervon sub la nomo [Nomo] por la oka horo."
+        },
+        {
+          "english": "Could we possibly be seated away from the kitchen entrance?",
+          "russian": "Можно ли нам сесть подальше от входа в кухню?",
+          "spanish": "¿Sería posible que nos sentaran lejos de la entrada de la cocina?",
+          "french": "Serait-il possible d'être placés loin de l'entrée de la cuisine ?",
+          "german": "Könnten wir uns eventuell weiter weg vom Kücheneingang setzen?",
+          "italian": "Sarebbe possibile sedersi lontano dall'ingresso della cucina?",
+          "portuguese": "Será que poderíamos sentar longe da entrada da cozinha?",
+          "esperanto": "Ĉu eblus sidi malproksime de la enirejo al la kuirejo?"
+        },
+        {
+          "english": "Is there a dress code required for dining at this establishment?",
+          "russian": "Обязателен ли дресс-код для посещения вашего заведения?",
+          "spanish": "¿Hay algún código de vestimenta obligatorio para cenar en este establecimiento?",
+          "french": "Y a-t-il un code vestimentaire exigé pour dîner dans cet établissement ?",
+          "german": "Gibt es für dieses Restaurant eine Kleiderordnung?",
+          "italian": "È richiesto un codice di abbigliamento per cenare in questo locale?",
+          "portuguese": "Existe algum código de vestimenta exigido para jantar neste estabelecimento?",
+          "esperanto": "Ĉu necesas vestaĵkodo por manĝi en ĉi tiu establo?"
+        },
+        {
+          "english": "How long is the estimated wait time for a table of two?",
+          "russian": "Какое примерно время ожидания столика на двоих?",
+          "spanish": "¿De cuánto es el tiempo estimado de espera para una mesa para dos?",
+          "french": "Combien de temps faut-il attendre environ pour une table de deux personnes ?",
+          "german": "Wie lange ist die geschätzte Wartezeit für einen Tisch für zwei Personen?",
+          "italian": "Quanto è il tempo di attesa previsto per un tavolo da due?",
+          "portuguese": "Quanto tempo está dando a espera estimada para uma mesa para dois?",
+          "esperanto": "Kiom da atendotempo estas taksita por tablo por du?"
+        },
+        {
+          "english": "Could we wait at the bar while our table is being prepared?",
+          "russian": "Можем ли мы подождать у бара, пока готовится наш столик?",
+          "spanish": "¿Podríamos esperar en la barra mientras preparan nuestra mesa?",
+          "french": "Pourrions-nous attendre au bar pendant que notre table se prépare ?",
+          "german": "Könnten wir an der Bar warten, während unser Tisch fertiggemacht wird?",
+          "italian": "Potremmo aspettare al bar mentre preparano il nostro tavolo?",
+          "portuguese": "Poderíamos esperar no bar enquanto a nossa mesa é preparada?",
+          "esperanto": "Ĉu ni povus atendi ĉe la trinkejo dum nia tablo pretiĝas?"
+        },
+        {
+          "english": "Is your restaurant wheelchair accessible?",
+          "russian": "Доступен ли ваш ресторан для людей на инвалидных колясках?",
+          "spanish": "¿Su restaurante es accesible para sillas de ruedas?",
+          "french": "Votre restaurant est-il accessible aux personnes en fauteuil roulant ?",
+          "german": "Ist Ihr Restaurant rollstuhlgerecht?",
+          "italian": "Il vostro ristorante è accessibile in sedia a rotelle?",
+          "portuguese": "O restaurante de vocês tem acessibilidade para cadeirantes?",
+          "esperanto": "Ĉu via restoracio estas alirebla por rulseĝoj?"
+        },
+        {
+          "english": "We are missing one person from our party; can we be seated?",
+          "russian": "Один человек из нашей компании опаздывает; можем ли мы присесть за столик?",
+          "spanish": "Falta una persona en nuestro grupo, ¿podemos sentarnos ya?",
+          "french": "Il manque une personne dans notre groupe ; pouvons-nous tout de même nous installer ?",
+          "german": "Es fehlt noch eine Person aus unserer Gruppe; dürfen wir uns trotzdem schon setzen?",
+          "italian": "Manca ancora una persona del nostro gruppo; possiamo accomodarci?",
+          "portuguese": "Está faltando uma pessoa do nosso grupo; a gente já pode se sentar?",
+          "esperanto": "Mankas unu persono el nia grupo; ĉu ni povas sidiĝi?"
+        },
+        {
+          "english": "Could we request a high chair for a toddler, please?",
+          "russian": "Можно ли попросить детский стульчик для ребенка, пожалуйста?",
+          "spanish": "¿Podríamos solicitar una silla alta para un niño pequeño, por favor?",
+          "french": "Pourrions-nous avoir une chaise haute pour un enfant en bas âge, s'il vous plaît ?",
+          "german": "Könnten wir bitte einen Kinderhochstuhl haben?",
+          "italian": "Potremmo avere un seggiolone per un bambino piccolo, per favore?",
+          "portuguese": "Poderíamos pedir um cadeirão para bebê, por favor?",
+          "esperanto": "Ĉu ni povus peti altseĝon por etulo, bonvolu?"
+        },
+        {
+          "english": "Could we please see the wine list and the dessert menu?",
+          "russian": "Можно нам, пожалуйста, винную карту и десертное меню?",
+          "spanish": "¿Podríamos ver la carta de vinos y el menú de postres, por favor?",
+          "french": "Pourrions-nous voir la carte des vins et le menu des desserts, s'il vous plaît ?",
+          "german": "Könnten wir bitte die Weinkarte und die Dessertkarte sehen?",
+          "italian": "Potremmo vedere la carta dei vini e il menu dei dolci, per favore?",
+          "portuguese": "Poderíamos ver a carta de vinhos e o cardápio de sobremesas, por favor?",
+          "esperanto": "Ĉu ni povus vidi la vinliston kaj la desertmenuon, bonvolu?"
+        },
+        {
+          "english": "What would you recommend as the house specialty tonight?",
+          "russian": "Что бы вы порекомендовали в качестве фирменного блюда сегодня вечером?",
+          "spanish": "¿Qué nos recomendaría como la especialidad de la casa para esta noche?",
+          "french": "Que nous recommandez-vous comme spécialité de la maison ce soir ?",
+          "german": "Was können Sie uns heute Abend als Spezialität des Hauses empfehlen?",
+          "italian": "Cosa ci consiglia come specialità della casa per stasera?",
+          "portuguese": "O que você recomendaria como a especialidade da casa hoje à noite?",
+          "esperanto": "Kion vi rekomendus kiel la doman specialaĵon ĉi-vespere?"
+        },
+        {
+          "english": "Are there any daily specials that are not listed on the main menu?",
+          "russian": "Есть ли какие-нибудь блюда дня, которых нет в основном меню?",
+          "spanish": "¿Hay algún plato del día que no figure en el menú principal?",
+          "french": "Y a-t-il des suggestions du jour qui ne sont pas inscrites sur la carte principale ?",
+          "german": "Gibt es Tagesgerichte, die nicht auf der normalen Speisekarte stehen?",
+          "italian": "Ci sono dei piatti del giorno fuori menu?",
+          "portuguese": "Tem algum prato do dia que não está no cardápio principal?",
+          "esperanto": "Ĉu estas tagaj specialaĵoj, kiuj ne estas en la ĉefa menuo?"
+        },
+        {
+          "english": "I am ready to order now, thank you.",
+          "russian": "Я готов сделать заказ, спасибо.",
+          "spanish": "Ya estoy listo para ordenar, gracias.",
+          "french": "Je suis prêt à commander, merci.",
+          "german": "Ich wäre so weit zu bestellen, danke.",
+          "italian": "Sono pronto per ordinare, grazie.",
+          "portuguese": "Já estou pronto para fazer o pedido, obrigado(a).",
+          "esperanto": "Mi pretas mendi nun, dankon."
+        },
+        {
+          "english": "Could I get the steak cooked medium-rare, please?",
+          "russian": "Можно мне стейк средней прожарки (medium-rare), пожалуйста?",
+          "spanish": "¿Me podría traer el filete cocinado a término medio/tres cuartos, por favor?",
+          "french": "Pourrais-je avoir le steak cuit saignant, s'il vous plaît ?",
+          "german": "Könnte ich das Steak bitte medium-rare bekommen?",
+          "italian": "Potrei avere la bistecca a cottura media-al sangue, per favore?",
+          "portuguese": "Poderia trazer o bife ao ponto para malpassado, por favor?",
+          "esperanto": "Ĉu mi povus ricevi la bifstekon kuirita mez-malrare, bonvolu?"
+        },
+        {
+          "english": "Instead of fries, would it be possible to get a side salad?",
+          "russian": "Можно ли вместо картофеля фри взять гарнир-салат?",
+          "spanish": "En lugar de patatas fritas, ¿sería posible cambiarlo por una ensalada de acompañamiento?",
+          "french": "À la place des frites, serait-il possible d'avoir une salade en accompagnement ?",
+          "german": "Wäre es möglich, statt der Pommes einen Beilagensalat zu bekommen?",
+          "italian": "Al posto delle patatine fritte, sarebbe possibile avere un'insalata di contorno?",
+          "portuguese": "Em vez de batata frita, seria possível vir uma salada de acompanhamento?",
+          "esperanto": "Anstataŭ frititaj terpomoj, ĉu eblus akiri flankosalaton?"
+        },
+        {
+          "english": "Does this specific dish come with any seafood or shellfish?",
+          "russian": "Входит ли в состав этого конкретного блюда морепродукты или моллюски?",
+          "spanish": "¿Este plato en específico lleva algún tipo de marisco?",
+          "french": "Ce plat contient-il des fruits de mer ou des crustacés ?",
+          "german": "Enthält dieses bestimmte Gericht Meeresfrüchte oder Schalentiere?",
+          "italian": "Questo piatto specifico contiene frutti di mare o crostacei?",
+          "portuguese": "Esse prato específico vem com frutos do mar ou crustáceos?",
+          "esperanto": "Ĉu ĉi tiu specifa plado enhavas marmanĝaĵojn aŭ konkojn?"
+        },
+        {
+          "english": "Could we start with an order of the garlic bread for the table?",
+          "russian": "Можно мы начнем с порции чесночного хлеба на всех?",
+          "spanish": "¿Podríamos empezar con una ración de pan de ajo para compartir?",
+          "french": "Pourrions-nous commencer par une portion de pain à l'ail pour la table ?",
+          "german": "Könnten wir mit einer Portion Knoblauchbrot für den Tisch beginnen?",
+          "italian": "Potremmo iniziare con una porzione di pane all'aglio per il tavolo?",
+          "portuguese": "Poderíamos começar com uma porção de pão de alho para a mesa?",
+          "esperanto": "Ĉu ni povus komenci per mendo de ajla pano por la tablo?"
+        },
+        {
+          "english": "What kind of soft drinks or juices do you have available?",
+          "russian": "Какие безалкогольные напитки или соки у вас есть в наличии?",
+          "spanish": "¿Qué tipo de refrescos o zumos tienen disponibles?",
+          "french": "Quels types de sodas ou de jus de fruits proposez-vous ?",
+          "german": "Welche alkoholfreien Getränke oder Säfte haben Sie da?",
+          "italian": "Che tipo di bevande analcoliche o succhi avete a disposizione?",
+          "portuguese": "Que tipo de refrigerantes ou sucos vocês têm disponíveis?",
+          "esperanto": "Kiajn senalkoholajn trinkaĵojn aŭ sukojn vi disponas?"
+        },
+        {
+          "english": "I will have the same thing that they are having, please.",
+          "russian": "Мне то же самое, что и им, пожалуйста.",
+          "spanish": "Pediré lo mismo que están tomando ellos, por favor.",
+          "french": "Je vais prendre la même chose qu'eux, s'il vous plaît.",
+          "german": "Ich nehme das Gleiche, was sie haben, bitte.",
+          "italian": "Prendo lo stesso che hanno preso loro, per favore.",
+          "portuguese": "Vou querer a mesma coisa que eles, por favor.",
+          "esperanto": "Mi prenos la samon kiel ili, bonvolu."
+        },
+        {
+          "english": "I am highly allergic to nuts; can this be prepared without them?",
+          "russian": "У меня сильная аллергия на орехи; можно приготовить это без них?",
+          "spanish": "Soy muy alérgico a los frutos secos; ¿se puede preparar esto sin ellos?",
+          "french": "Je suis très allergique aux fruits à coque ; est-il possible de préparer cela sans en mettre ?",
+          "german": "Ich bin stark allergisch gegen Nüsse; kann das ohne sie zubereitet werden?",
+          "italian": "Sono fortemente allergico alla frutta a guscio; si può preparare senza?",
+          "portuguese": "Eu sou muito alérgico(a) a nozes e castanhas; tem como preparar isso sem elas?",
+          "esperanto": "Mi estas tre alergia al nuksoj; ĉu ĉi tio povas esti preparita sen ili?"
+        },
+        {
+          "english": "Are there any gluten-free options available on your menu?",
+          "russian": "Есть ли в вашем меню безглютеновые блюда?",
+          "spanish": "¿Hay opciones sin gluten disponibles en su menú?",
+          "french": "Y a-t-il des options sans gluten disponibles sur votre carte ?",
+          "german": "Gibt es auf Ihrer Speisekarte glutenfreie Optionen?",
+          "italian": "Ci sono opzioni senza glutine disponibili nel vostro menu?",
+          "portuguese": "Tem opções sem glúten disponíveis no cardápio de vocês?",
+          "esperanto": "Ĉu estas sen glutenaj elektoj en via menuo?"
+        },
+        {
+          "english": "Is this particular dish completely vegetarian, or does it use animal broth?",
+          "russian": "Это блюдо полностью вегетарианское или в нем используется мясной бульон?",
+          "spanish": "¿Este plato en particular es totalmente vegetariano o utiliza caldo de origen animal?",
+          "french": "Ce plat particulier est-il complètement végétarien, ou contient-il du bouillon de viande ?",
+          "german": "Ist dieses Gericht komplett vegetarisch oder wird dafür Fleischbrühe verwendet?",
+          "italian": "Questo piatto in particolare è completamente vegetariano o viene usato brodo animale?",
+          "portuguese": "Este prato em específico é totalmente vegetariano ou leva caldo de carne animal?",
+          "esperanto": "Ĉu ĉi tiu plado estas tute vegetara, aŭ ĉu ĝi uzas viandan buljonon?"
+        },
+        {
+          "english": "Could you please ask the chef if this contains any dairy products?",
+          "russian": "Не могли бы вы спросить у шеф-повара, содержит ли это молочные продукты?",
+          "spanish": "¿Podría preguntarle al chef si esto contiene algún producto lácteo, por favor?",
+          "french": "Pourriez-vous demander au chef si cela contient des produits laitiers, s'il vous plaît ?",
+          "german": "Könnten Sie bitte den Koch fragen, ob das Milchprodukte enthält?",
+          "italian": "Potrebbe chiedere allo chef se questo piatto contiene latticini, per favore?",
+          "portuguese": "Você poderia perguntar ao chef se isso contém algum derivado de leite, por favor?",
+          "esperanto": "Ĉu vi bonvolus demandi al la kuiristo, ĉu ĉi tio enhavas laktaĵojn?"
+        },
+        {
+          "english": "I have a severe seafood allergy; please ensure no cross-contamination.",
+          "russian": "У меня сильная аллергия на морепродукты; пожалуйста, убедитесь в отсутствии перекрестного загрязнения.",
+          "spanish": "Tengo una alergia grave al marisco; por favor, asegúrese de que no haya contaminación cruzada.",
+          "french": "J'ai une grave allergie aux fruits de mer ; veuillez vous assurer qu'il n'y a pas de contamination croisée.",
+          "german": "Ich habe eine schwere Meeresfrüchteallergie; bitte stellen Sie sicher, dass keine Kreuzkontamination stattfindet.",
+          "italian": "Ho una grave allergia ai frutti di mare; per favore, si assicuri che non ci sia contaminazione crociata.",
+          "portuguese": "Tenho alergia grave a frutos do mar; por favor, certifique-se de que não haja contaminação cruzada.",
+          "esperanto": "Mi havas severan alergion al marmanĝaĵoj; bonvolu certigi, ke ne okazu kruca poluado."
+        },
+        {
+          "english": "Do you offer any vegan alternatives for your main entrees?",
+          "russian": "Предлагаете ли вы веганские альтернативы для основных блюд?",
+          "spanish": "¿Ofrecen alternativas veganas para los platos principales?",
+          "french": "Proposez-vous des alternatives végétaliennes pour les plats principaux ?",
+          "german": "Bieten Sie vegane Alternativen für die Hauptgerichte an?",
+          "italian": "Offrite alternative vegane per i piatti principali?",
+          "portuguese": "Vocês oferecem opções veganas para os pratos principais?",
+          "esperanto": "Ĉu vi ofertas veganajn alternativojn por viaj ĉefpladoj?"
+        },
+        {
+          "english": "Is there any MSG used in the preparation of this sauce?",
+          "russian": "Используется ли глутамат натрия (MSG) при приготовлении этого соуса?",
+          "spanish": "¿Se utiliza glutamato monosódico (GMS) en la preparación de esta salsa?",
+          "french": "Y a-t-il du glutamate de sodium utilisé dans la préparation de cette sauce ?",
+          "german": "Wird bei der Zubereitung dieser Sauce Glutamat verwendet?",
+          "italian": "Viene usato del glutammato monosodico nella preparazione di questa salsa?",
+          "portuguese": "É usado algum tipo de glutamato monossódico no preparo deste molho?",
+          "esperanto": "Ĉu oni uzas MSG-on en la preparado de ĉi tiu saŭco?"
+        },
+        {
+          "english": "Could you serve the dressing completely on the side, please?",
+          "russian": "Не могли бы вы подать заправку отдельно, пожалуйста?",
+          "spanish": "¿Podría servir el aderezo totalmente aparte, por favor?",
+          "french": "Pourriez-vous servir la sauce complètement à part, s'il vous plaît ?",
+          "german": "Könnten Sie das Dressing bitte komplett separat servieren?",
+          "italian": "Potrebbe servire il condimento a parte, per favore?",
+          "portuguese": "Você poderia trazer o molho totalmente à parte, por favor?",
+          "esperanto": "Ĉu vi bonvolus servi la saŭcon tute aparte?"
+        },
+        {
+          "english": "I need to avoid spicy food; can this dish be made mild?",
+          "russian": "Мне нельзя острое; можно сделать это блюдо не острым?",
+          "spanish": "Tengo que evitar la comida picante; ¿se puede hacer este plato suave?",
+          "french": "Je dois éviter de manger épicé ; ce plat peut-il être préparé non relevé ?",
+          "german": "Ich muss scharfes Essen vermeiden; kann dieses Gericht mild zubereitet werden?",
+          "italian": "Devo evitare il cibo piccante; questo piatto si può fare delicato?",
+          "portuguese": "Preciso evitar comida apimentada; dá para fazer esse prato bem suave?",
+          "esperanto": "Mi bezonas eviti spican manĝaĵon; ĉu ĉi tiu plado povas esti milda?"
+        },
+        {
+          "english": "Does this dessert contain any raw egg or alcohol?",
+          "russian": "Содержит ли этот десерт сырое яйцо или алкоголь?",
+          "spanish": "¿Este postre contiene huevo crudo o alcohol?",
+          "french": "Ce dessert contient-il de l'œuf cru ou de l'alcool ?",
+          "german": "Enthält dieses Dessert rohes Ei oder Alkohol?",
+          "italian": "Questo dolce contiene uovo a crudo o alcol?",
+          "portuguese": "Esta sobremesa contém ovo cru ou álcool?",
+          "esperanto": "Ĉu ĉi tiu deserto enhavas krudan ovon aŭ alkoholon?"
+        },
+        {
+          "english": "Excuse me, could we please get some extra napkins for the table?",
+          "russian": "Извините, можно нам, пожалуйста, дополнительные салфетки на стол?",
+          "spanish": "Disculpe, ¿podría traernos algunas servilletas extra para la mesa, por favor?",
+          "french": "Excusez-moi, pourrions-nous avoir des serviettes supplémentaires pour la table ?",
+          "german": "Entschuldigung, könnten wir bitte noch ein paar Servietten für den Tisch haben?",
+          "italian": "Scusi, potremmo avere dei tovaglioli extra per il tavolo, per favore?",
+          "portuguese": "Com licença, poderíamos pedir mais guardanapos para a mesa, por favor?",
+          "esperanto": "Pardonu, ĉu ni povus ricevi kromajn buŝtukojn por la tablo?"
+        },
+        {
+          "english": "Could you bring us another bottle of still water, please?",
+          "russian": "Не могли бы вы принести нам еще одну бутылку негазированной воды, пожалуйста?",
+          "spanish": "¿Podría traernos otra botella de agua sin gas, por favor?",
+          "french": "Pourriez-vous nous apporter une autre bouteille d'eau plate, s'il vous plaît ?",
+          "german": "Könnten Sie uns bitte noch eine Flasche stilles Wasser bringen?",
+          "italian": "Potrebbe portarci un'altra bottiglia di acqua naturale, per favore?",
+          "portuguese": "Você poderia trazer mais uma garrafa de água sem gás, por favor?",
+          "esperanto": "Ĉu vi bonvolus alporti alian botelon da sengasa akvo?"
+        },
+        {
+          "english": "I’m afraid I dropped my fork; could I get a clean one?",
+          "russian": "Кажется, я уронил вилку; можно мне чистую?",
+          "spanish": "Me temo que se me cayó el tenedor; ¿podría traerme uno limpio?",
+          "french": "Je crois que j'ai fait tomber ma fourchette ; pourrais-je en avoir une propre ?",
+          "german": "Mir ist leider meine Gabel heruntergefallen; könnte ich eine saubere bekommen?",
+          "italian": "Temo mi sia caduta la forchetta; potrei averne una pulita?",
+          "portuguese": "Deixei a minha forquilha cair; teria como me trazer uma limpa?",
+          "esperanto": "Mi timas ke mia forko falis; ĉu mi povus ricevi puran?"
+        },
+        {
+          "english": "Is it possible to get some extra ice for my drink?",
+          "russian": "Можно ли попросить еще льда для моего напитка?",
+          "spanish": "¿Sería posible que me trajera un poco más de hielo para mi bebida?",
+          "french": "Serait-il possible d'avoir un peu plus de glaçons pour ma boisson ?",
+          "german": "Wäre es möglich, noch etwas mehr Eis für mein Getränk zu bekommen?",
+          "italian": "Sarebbe possibile avere dell'altro ghiaccio per la mia bevanda?",
+          "portuguese": "Seria possível trazer um pouco mais de gelo para a minha bebida?",
+          "esperanto": "Ĉu eblus ricevi iom pli da glacio por mia trinkaĵo?"
+        },
+        {
+          "english": "This dish is a bit cold; could you have the kitchen heat it up?",
+          "russian": "Это блюдо немного остыло; не могли бы вы попросить кухню подогреть его?",
+          "spanish": "Este plato está un poco frío; ¿podría pedir en la cocina que lo calienten?",
+          "french": "Ce plat est un peu froid ; pourriez-vous demander en cuisine de le réchauffer ?",
+          "german": "Dieses Gericht ist etwas kalt; könnten Sie es in der Küche kurz aufwärmen lassen?",
+          "italian": "Questo piatto è un po' freddo; potrebbe farlo scaldare in cucina?",
+          "portuguese": "Este prato está um pouco frio; você poderia pedir para a cozinha esquentar um pouco?",
+          "esperanto": "Ĉi tiu plado estas iom malvarma; ĉu vi povus peti la kuirejon revarmigi ĝin?"
+        },
+        {
+          "english": "Excuse me, we are still waiting on one of our side dishes.",
+          "russian": "Извините, мы все еще ждем один из наших гарниров.",
+          "spanish": "Disculpe, todavía estamos esperando uno de nuestros acompañamientos.",
+          "french": "Excusez-moi, nous attendons toujours l'un de nos accompagnements.",
+          "german": "Entschuldigung, wir warten immer noch auf eine unserer Beilagen.",
+          "italian": "Scusi, stiamo ancora aspettando uno dei nostri contorni.",
+          "portuguese": "Com licença, nós ainda estamos esperando um dos nossos acompanhamentos.",
+          "esperanto": "Pardonu, ni ankoraŭ atendas unu el niaj flankmanĝaĵoj."
+        },
+        {
+          "english": "Could you please pass the salt and pepper shakers over?",
+          "russian": "Не могли бы вы передать солонку и перечницу?",
+          "spanish": "¿Podría pasarme los saleros y pimenteros, por favor?",
+          "french": "Pourriez-vous nous passer le sel et le poivre, s'il vous plaît ?",
+          "german": "Könnten Sie mir bitte Salz und Pfeffer rüberreichen?",
+          "italian": "Potrebbe passarmi il sale e il pepe, per favore?",
+          "portuguese": "Você poderia passar o sal e a pimenta, por favor?",
+          "esperanto": "Ĉu vi bonvolus transdoni la salujon kaj piprujon?"
+        },
+        {
+          "english": "May I have a small plate to share this appetizer?",
+          "russian": "Можно мне маленькую тарелку, чтобы поделиться этой закуской?",
+          "spanish": "¿Me podría dar un plato pequeño para compartir este aperitivo?",
+          "french": "Puis-je avoir une petite assiette pour partager cette entrée ?",
+          "german": "Könnte ich einen kleinen Teller haben, um diese Vorspeise zu teilen?",
+          "italian": "Potrei avere un piattino per dividere questo antipasto?",
+          "portuguese": "Poderia me trazer um prato pequeno para dividir essa entrada?",
+          "esperanto": "Ĉu mi povus havi malgrandan teleron por dividi ĉi tiun antaŭmanĝaĵon?"
+        },
+        {
+          "english": "Could you check on our main courses? It has been quite a while.",
+          "russian": "Не могли бы вы узнать насчет наших основных блюд? Прошло уже довольно много времени.",
+          "spanish": "¿Podría preguntar por nuestros platos principales? Ha pasado bastante tiempo.",
+          "french": "Pourriez-vous vous renseigner pour nos plats principaux ? Cela fait un bon moment.",
+          "german": "Könnten Sie mal nach unseren Hauptgerichten schauen? Es dauert schon recht lange.",
+          "italian": "Potrebbe controllare a che punto sono i nostri secondi? È passato un bel po' di tempo.",
+          "portuguese": "Você poderia dar uma olhada nos nossos pratos principais? Já faz um tempinho.",
+          "esperanto": "Ĉu vi povus kontroli pri niaj ĉefpladoj? Pasis jam sufiĉe da tempo."
+        },
+        {
+          "english": "Is it possible to get some extra parmesan cheese for the pasta?",
+          "russian": "Можно ли получить дополнительный пармезан к пасте?",
+          "spanish": "¿Sería posible que me trajera un poco más de queso parmesano para la pasta?",
+          "french": "Serait-il possible d'avoir un peu plus de parmesan pour les pâtes ?",
+          "german": "Wäre es möglich, noch etwas mehr Parmesankäse für die Pasta zu bekommen?",
+          "italian": "Sarebbe possibile avere dell'altro parmigiano per la pasta?",
+          "portuguese": "Seria possível trazer um pouco mais de queijo parmesão para a massa?",
+          "esperanto": "Ĉu eblus ricevi iom pli da parmesana fromaĝo por la pasto?"
+        },
+        {
+          "english": "Could we get the check whenever you have a moment, please?",
+          "russian": "Можно нам счет, как только у вас будет минутка, пожалуйста?",
+          "spanish": "¿Nos podría traer la cuenta cuando tenga un momento, por favor?",
+          "french": "Pourrions-nous avoir l'addition dès que vous aurez un moment, s'il vous plaît ?",
+          "german": "Könnten wir bitte die Rechnung bekommen, wenn Sie einen Moment Zeit haben?",
+          "italian": "Potremmo avere il conto appena ha un attimo, per favore?",
+          "portuguese": "Poderia trazer a conta assim que tiver um tempinho, por favor?",
+          "esperanto": "Ĉu ni povus ricevi la kalkulon kiam vi havos momenton?"
+        },
+        {
+          "english": "Do you accept major credit cards, or is it cash only?",
+          "russian": "Принимаете ли вы основные кредитные карты или у вас только наличные?",
+          "spanish": "¿Aceptan las principales tarjetas de crédito o es solo en efectivo?",
+          "french": "Acceptez-vous les principales cartes de crédit, ou est-ce uniquement en espèces ?",
+          "german": "Akzeptieren Sie die gängigen Kreditkarten oder geht nur Bargeld?",
+          "italian": "Accettate le principali carte di credito o si può pagare solo in contanti?",
+          "portuguese": "Vocês aceitam os principais cartões de crédito ou é só em dinheiro?",
+          "esperanto": "Ĉu vi akceptas ĉefajn kreditkartojn, aŭ nur kontante?"
+        },
+        {
+          "english": "Could we please split the final bill evenly between three cards?",
+          "russian": "Можем ли мы разделить итоговый счет поровну на три карты, пожалуйста?",
+          "spanish": "¿Podríamos dividir la cuenta final en partes iguales entre tres tarjetas, por favor?",
+          "french": "Pourrions-nous diviser l'addition finale équitablement sur trois cartes différentes, s'il vous plaît ?",
+          "german": "Könnten wir die Gesamtrechnung bitte gleichmäßig auf drei Karten aufteilen?",
+          "italian": "Potremmo dividere il conto finale equamente su tre carte, per favore?",
+          "portuguese": "Poderíamos dividir a conta igualmente em três cartões, por favor?",
+          "esperanto": "Ĉu ni povus egale dividi la finan kalkulon inter tri kartoj?"
+        },
+        {
+          "english": "Is the service charge or gratuity already included in this total?",
+          "russian": "Включен ли уже сбор за обслуживание или чаевые в эту общую сумму?",
+          "spanish": "¿El cargo por servicio o la propina ya están incluidos en este total?",
+          "french": "Le service ou le pourboire est-il déjà inclus dans ce total ?",
+          "german": "Ist die Servicegebühr oder das Trinkgeld bereits in dieser Gesamtsumme enthalten?",
+          "italian": "Il servizio o la mancia sono già inclusi in questo totale?",
+          "portuguese": "A taxa de serviço ou os valores de gorjeta já estão inclusos neste total?",
+          "esperanto": "Ĉu la servokotizo aŭ trinkmono jam estas inkludita en ĉi tiu sumo?"
+        },
+        {
+          "english": "Could you please bring us a container to wrap up the leftovers?",
+          "russian": "Не могли бы вы принести нам контейнер, чтобы завернуть остатки еды, пожалуйста?",
+          "spanish": "¿Podría traernos un recipiente para llevar las sobras, por favor?",
+          "french": "Pourriez-vous nous apporter une boîte pour emporter les restes, s'il vous plaît ?",
+          "german": "Könnten Sie uns bitte ein Behältnis bringen, um die Reste einzupacken?",
+          "italian": "Potrebbe portarci un contenitore per incartare gli avanzi, per favore?",
+          "portuguese": "Você poderia trazer uma embalagem para viagem para guardar as sobras, por favor?",
+          "esperanto": "Ĉu vi bonvolus alporti ujon por enpaki la restaĵojn?"
+        },
+        {
+          "english": "I believe there is an extra item on our bill that we didn't order.",
+          "russian": "Кажется, в нашем счете есть лишняя позиция, которую мы не заказывали.",
+          "spanish": "Creo que hay un artículo de más en nuestra cuenta que no ordenamos.",
+          "french": "Je crois qu'il y a un article en trop sur notre addition que nous n'avons pas commandé.",
+          "german": "Ich glaube, auf unserer Rechnung steht ein Posten, den wir nicht bestellt haben.",
+          "italian": "Credo ci sia una voce in più sul nostro conto che non abbiamo ordinato.",
+          "portuguese": "Acho que tem um item a mais na nossa conta que nós não pedimos.",
+          "esperanto": "Mi kredas ke estas kroma ero en nia kalkulo, kiun ni ne mendis."
+        },
+        {
+          "english": "Everything tonight was absolutely delicious; compliments to the chef!",
+          "russian": "Все сегодня было просто восхитительно; передайте комплименты шеф-повару!",
+          "spanish": "Todo estuvo absolutamente delicioso esta noche; ¡mis felicitaciones al chef!",
+          "french": "Tout était absolument délicieux ce soir ; mes compliments au chef !",
+          "german": "Es war heute Abend alles absolut köstlich; ein großes Lob an die Küche!",
+          "italian": "Stasera era tutto assolutamente delizioso; i miei complimenti allo chef!",
+          "portuguese": "Tudo hoje à noite estava absolutamente delicioso; parabéns ao chef!",
+          "esperanto": "Ĉio ĉi-vespere estis absolute bongusta; komplimentojn al la kuiristo!"
+        },
+        {
+          "english": "Do we pay right here at the table, or up front at the register?",
+          "russian": "Мы платим прямо здесь, за столиком, или впереди на кассе?",
+          "spanish": "¿Pagamos aquí mismo en la mesa o allá adelante en la caja?",
+          "french": "Payons-nous directement ici à table, ou devant à la caisse ?",
+          "german": "Zahlen wir direkt hier am Tisch oder vorne an der Kasse?",
+          "italian": "Paghiamo direttamente qui al tavolo o alla cassa all'ingresso?",
+          "portuguese": "A gente paga aqui na mesa mesmo ou lá na frente no caixa?",
+          "esperanto": "Ĉu ni pagas ĉi tie ĉe la tablo, aŭ ĉe la kason antaŭe?"
+        },
+        {
+          "english": "Thank you so much for your wonderful service tonight.",
+          "russian": "Большое спасибо за ваше прекрасное обслуживание сегодня вечером.",
+          "spanish": "Muchas gracias por su maravilloso servicio esta noche.",
+          "french": "Merci beaucoup pour votre excellent service ce soir.",
+          "german": "Vielen Dank für die wunderbare Bedienung heute Abend.",
+          "italian": "Grazie mille per lo splendido servizio di stasera.",
+          "portuguese": "Muito obrigado(a) pelo excelente atendimento hoje à noite.",
+          "esperanto": "Dankegon pro via bonega servo ĉi-vespere."
+        },
+        {
+          "english": "Keep the change; you did a fantastic job looking after us.",
+          "russian": "Сдачи не надо; вы отлично позаботились о нас.",
+          "spanish": "Quédese con el cambio; hizo un trabajo fantástico atendiéndonos.",
+          "french": "Gardez la monnaie ; vous vous êtes fantastiquement bien occupé de nous.",
+          "german": "Stimmt so; Sie haben sich fantastisch um uns gekümmert.",
+          "italian": "Tenga il resto; ha svolto un lavoro fantastico nel servirci.",
+          "portuguese": "Fique com o troco; você fez um trabalho fantástico cuidando da gente.",
+          "esperanto": "Retenu la reston; vi faris fantastan laboron prizorgante nin."
+        }
+      ]
+    }
+  ]
+}

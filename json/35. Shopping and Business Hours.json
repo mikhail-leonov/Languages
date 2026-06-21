@@ -1,0 +1,509 @@
+{
+  "categories": [
+    {
+      "name": "Shopping & Business Hours",
+      "phrases": [
+        {
+          "english": "Excuse me, what time do you open on Sunday mornings?",
+          "russian": "Извините, во сколько вы открываетесь по воскресным утрам?",
+          "spanish": "Disculpe, ¿a qué hora abren los domingos por la mañana?",
+          "french": "Excusez-moi, à quelle heure ouvrez-vous le dimanche matin ?",
+          "german": "Entschuldigung, um wie viel Uhr öffnen Sie sonntagsmorgens?",
+          "italian": "Scusi, a che ora aprite la domenica mattina?",
+          "portuguese": "Com licença, que horas vocês abrem aos domingos de manhã?",
+          "esperanto": "Pardonu, kioma horo vi malfermas dimanĉe matene?"
+        },
+        {
+          "english": "Are you open during the upcoming public holidays?",
+          "russian": "Будете ли вы открыты во время предстоящих государственных праздников?",
+          "spanish": "¿Estarán abiertos durante los próximos días festivos?",
+          "french": "Serez-vous ouvert pendant les prochains jours fériés ?",
+          "german": "Haben Sie an den bevorstehenden gesetzlichen Feiertagen geöffnet?",
+          "italian": "Sarete aperti durante le prossime festività pubbliche?",
+          "portuguese": "Vocês vão abrir nos próximos feriados?",
+          "esperanto": "Ĉu vi estos malfermitaj dum la venontaj publikaj ferioj?"
+        },
+        {
+          "english": "What are your official operating hours for the pharmacy department?",
+          "russian": "Каковы официальные часы работы аптечного отдела?",
+          "spanish": "¿Cuáles son los horarios oficiales de atención del departamento de farmacia?",
+          "french": "Quels sont les horaires officiels d'ouverture du rayon pharmacie ?",
+          "german": "Wie sind die offiziellen Öffnungszeiten der Apothekenabteilung?",
+          "italian": "Qual è l'orario di apertura ufficiale del reparto farmacia?",
+          "portuguese": "Qual é o horário oficial de funcionamento do setor da farmácia?",
+          "esperanto": "Kioj estas viaj oficialaj malfermohoroj por la apoteka sekcio?"
+        },
+        {
+          "english": "Do you close for lunch, or are you open all day?",
+          "russian": "Закрываетесь ли вы на обед или работаете весь день?",
+          "spanish": "¿Cierran al mediodía para almorzar o están abiertos todo el día?",
+          "french": "Fermez-vous pour le déjeuner, ou êtes-vous ouvert toute la journée ?",
+          "german": "Machen Sie über Mittag Pause oder haben Sie den ganzen Tag geöffnet?",
+          "italian": "Chiudete per pranzo o siete aperti tutto il giorno?",
+          "portuguese": "Vocês fecham para o almoço ou ficam abertos o dia todo?",
+          "esperanto": "Ĉu vi fermas por tagmanĝo, aŭ ĉu vi estas malfermitaj la tutan tagon?"
+        },
+        {
+          "english": "When is the latest time I can drop off my dry cleaning today?",
+          "russian": "Какое самое позднее время, когда я могу сдать вещи в химчистку сегодня?",
+          "spanish": "¿Hasta qué hora como tarde puedo dejar mi ropa en la tintorería hoy?",
+          "french": "Jusqu'à quelle heure au plus tard puis-je déposer mes vêtements au pressing aujourd'hui ?",
+          "german": "Bis wann spätestens kann ich meine chemische Reinigung heute abgeben?",
+          "italian": "Qual è l'orario massimo per consegnare i capi da lavare a secco oggi?",
+          "portuguese": "Até que horas, no máximo, posso deixar minhas roupas na lavanderia hoje?",
+          "esperanto": "Kiam estas la plej malfrua horo por deponi miajn sekpurigajn vestaĵojn hodiaŭ?"
+        },
+        {
+          "english": "Are your customer service phone lines open 24/7?",
+          "russian": "Работают ли ваши телефонные линии службы поддержки круглосуточно?",
+          "spanish": "¿Las líneas telefónicas de atención al cliente están abiertas las 24 horas, los 7 días de la semana?",
+          "french": "Vos lignes téléphoniques d'assistance clientèle sont-elles ouvertes 24h/24 et 7j/7 ?",
+          "german": "Ist Ihre Kundenservice-Hotline rund um die Uhr erreichbar?",
+          "italian": "Le vostre linee telefoniche di assistenza clienti sono attive 24 ore su 24, 7 giorni su 7?",
+          "portuguese": "As linhas de atendimento ao cliente por telefone funcionam 24 horas por dia, 7 dias por semana?",
+          "esperanto": "Ĉu viaj klientaj servaj telefonlinioj estas malfermitaj 24/7?"
+        },
+        {
+          "english": "Is the kitchen still open for food orders right now?",
+          "russian": "Кухня еще принимает заказы на еду прямо сейчас?",
+          "spanish": "¿La cocina sigue abierta para pedir comida en este momento?",
+          "french": "La cuisine est-elle encore ouverte pour les commandes de nourriture en ce moment ?",
+          "german": "Hat die Küche im Moment noch für Essensbestellungen geöffnet?",
+          "italian": "La cucina accetta ancora ordinazioni per il cibo in questo momento?",
+          "portuguese": "A cozinha ainda está aceitando pedidos de comida agora?",
+          "esperanto": "Ĉu la kuirejo ankoraŭ estas malfermita por manĝomendoj nun?"
+        },
+        {
+          "english": "What time do the doors lock for entry this evening?",
+          "russian": "Во сколько закрываются двери на вход сегодня вечером?",
+          "spanish": "¿A qué hora se cierran las puertas para entrar esta noche?",
+          "french": "À quelle heure ferment les portes d'entrée ce soir ?",
+          "german": "Um wie viel Uhr werden die Türen heute Abend für den Einlass geschlossen?",
+          "italian": "A che ora chiudono le porte d'ingresso stasera?",
+          "portuguese": "Que horas as portas trancam para entrada hoje à noite?",
+          "esperanto": "Kioma horo la pordoj fermiĝas por eniro ĉi-vespere?"
+        },
+        {
+          "english": "Do you have altered business hours during the winter season?",
+          "russian": "Изменяются ли у вас часы работы в зимний сезон?",
+          "spanish": "¿Tienen horarios de atención diferentes durante la temporada de invierno?",
+          "french": "Avez-vous des horaires d'ouverture modifiés pendant la saison hivernale ?",
+          "german": "Haben Sie während der Wintersaison geänderte Öffnungszeiten?",
+          "italian": "Avete orari di apertura modificati durante la stagione invernale?",
+          "portuguese": "Vocês têm horários de funcionamento diferenciados durante a temporada de inverno?",
+          "esperanto": "Ĉu vi havas ŝanĝitajn komercajn horojn dum la vintra sezono?"
+        },
+        {
+          "english": "Are you open late on Thursday nights for night shopping?",
+          "russian": "Работаете ли вы допоздна по четвергам для вечерних покупок?",
+          "spanish": "¿Abren hasta tarde los jueves por la noche para las compras nocturnas?",
+          "french": "Êtes-vous ouvert tard le jeudi soir pour les nocturnes ?",
+          "german": "Haben Sie donnerstagsabends für das Late-Night-Shopping länger geöffnet?",
+          "italian": "Siete aperti fino a tardi il giovedì sera per lo shopping notturno?",
+          "portuguese": "Vocês ficam abertos até mais tarde nas noites de quinta-feira para compras noturnas?",
+          "esperanto": "Ĉu vi estas malfermitaj malfrue ĵaŭdajn noktojn por nokta butikumado?"
+        },
+        {
+          "english": "Could you please tell me which aisle the baking supplies are in?",
+          "russian": "Не могли бы вы подсказать, в каком ряду находятся товары для выпечки?",
+          "spanish": "¿Podría decirme en qué pasillo están los artículos de repostería, por favor?",
+          "french": "Pourriez-vous me dire dans quel rayon se trouvent les articles de pâtisserie, s'il vous plaît ?",
+          "german": "Könnten Sie mir bitte sagen, in welchem Gang die Backzutaten stehen?",
+          "italian": "Potrebbe dirmi in quale corsia si trovano gli articoli da forno, per favore?",
+          "portuguese": "Você poderia me dizer em qual corredor ficam os produtos de confeitaria, por favor?",
+          "esperanto": "Ĉu vi bonvolus diri al mi en kiu koridoro estas la bakaĵaj provizoj?"
+        },
+        {
+          "english": "Where can I find the fresh organic produce section?",
+          "russian": "Где я могу найти отдел свежих органических продуктов?",
+          "spanish": "¿Dónde puedo encontrar la sección de productos orgánicos frescos?",
+          "french": "Où puis-je trouver le rayon des produits bio frais ?",
+          "german": "Wo finde ich die Abteilung für frische Bio-Produkte?",
+          "italian": "Dove posso trovare il reparto dei prodotti biologici freschi?",
+          "portuguese": "Onde fica o setor de produtos orgânicos frescos?",
+          "esperanto": "Kie mi povas trovi la sekcion de freŝaj organikaj produktoj?"
+        },
+        {
+          "english": "Is there an elevator that goes up to the children's clothing department?",
+          "russian": "Есть ли лифт, который поднимается в отдел детской одежды?",
+          "spanish": "¿Hay algún ascensor que suba al departamento de ropa infantil?",
+          "french": "Y a-t-il un ascenseur qui monte au rayon des vêtements pour enfants ?",
+          "german": "Gibt es einen Aufzug, der nach oben in die Kinderbekleidungsabteilung fährt?",
+          "italian": "C'è un ascensore che sale al reparto abbigliamento bambini?",
+          "portuguese": "Tem algum elevador que suba para o setor de roupas infantis?",
+          "esperanto": "Ĉu estas lifto kiu iras supren al la infana vestaĵa fako?"
+        },
+        {
+          "english": "Excuse me, do you carry electronics or mobile accessories here?",
+          "russian": "Извините, продаются ли у вас здесь электроника или аксессуары для мобильных телефонов?",
+          "spanish": "Disculpe, ¿tienen electrónica o accesorios para móviles aquí?",
+          "french": "Excusez-moi, vendez-vous des appareils électroniques ou des accessoires pour téléphones ici ?",
+          "german": "Entschuldigung, führen Sie hier Elektronik oder Mobilfunkzubehör?",
+          "italian": "Scusi, vendete articoli di elettronica o accessori per cellulari qui?",
+          "portuguese": "Com licença, vocês vendem eletrônicos ou acessórios para celular aqui?",
+          "esperanto": "Pardonu, ĉu vi vendas elektronikajn aĵojn aŭ poŝtelefonajn akcesoraĵojn ĉi tie?"
+        },
+        {
+          "english": "Where is the customer service desk located in this building?",
+          "russian": "Где в этом здании находится стойка обслуживания клиентов?",
+          "spanish": "¿Dónde está ubicado el mostrador de atención al cliente en este edificio?",
+          "french": "Où se trouve le bureau du service clientèle dans ce bâtiment ?",
+          "german": "Wo befindet sich die Kundeninformation in diesem Gebäude?",
+          "italian": "Dove si trova lo sportello del servizio clienti in questo edificio?",
+          "portuguese": "Onde fica o balcão de atendimento ao cliente neste prédio?",
+          "esperanto": "Kie estas la klienta servo en ĉi tiu konstruaĵo?"
+        },
+        {
+          "english": "Could you direct me toward the fitting rooms, please?",
+          "russian": "Не могли бы вы проводить меня к примерочным, пожалуйста?",
+          "spanish": "¿Podría indicarme el camino hacia los probadores, por favor?",
+          "french": "Pourriez-vous m'indiquer la direction des cabines d'essayage, s'il vous plaît ?",
+          "german": "Könnten Sie mir bitte den Weg zu den Umkleidekabinen zeigen?",
+          "italian": "Potrebbe indicarmi la direzione per i camerini, per favore?",
+          "portuguese": "Você poderia me indicar onde ficam os provadores, por favor?",
+          "esperanto": "Ĉu vi bonvolus montri al mi la vojon al la provĉambroj?"
+        },
+        {
+          "english": "Is this the designated line for the checkout registers?",
+          "russian": "Это очередь к кассам?",
+          "spanish": "¿Es esta la fila asignada para las cajas registradoras?",
+          "french": "Est-ce la file d'attente prévue pour les caisses ?",
+          "german": "Ist das hier die Schlange für die Kassen?",
+          "italian": "È questa la fila per le casse?",
+          "portuguese": "Esta é a fila certa para os caixas?",
+          "esperanto": "Ĉu ĉi tio estas la vico por la kasoj?"
+        },
+        {
+          "english": "Where can I return a shopping cart or basket?",
+          "russian": "Где я могу оставить покупательскую тележку или корзину?",
+          "spanish": "¿Dónde puedo devolver un carrito o una cesta de la compra?",
+          "french": "Où puis-je ramener un caddy ou un panier de courses ?",
+          "german": "Wo kann ich einen Einkaufswagen oder einen Einkaufskorb zurückstellen?",
+          "italian": "Dove posso riporre il carrello o il cestino della spesa?",
+          "portuguese": "Onde posso devolver o carrinho ou a cestinha de compras?",
+          "esperanto": "Kie mi povas redoni aĉetĉaron aŭ korbon?"
+        },
+        {
+          "english": "Do you have a map of the layout for this department store?",
+          "russian": "У вас есть схема расположения отделов в этом универмаге?",
+          "spanish": "¿Tienen un mapa de la distribución de estos grandes almacenes?",
+          "french": "Avez-vous un plan de la disposition de ce grand magasin ?",
+          "german": "Haben Sie einen Lageplan für dieses Kaufhaus?",
+          "italian": "Avete una mappa con la disposizione dei reparti di questo grande magazzino?",
+          "portuguese": "Você tem um mapa com o layout desta loja de departamentos?",
+          "esperanto": "Ĉu vi havas mapon de la aranĝo de ĉi tiu magazeno?"
+        },
+        {
+          "english": "Is there a specific counter where I can pick up an online order?",
+          "russian": "Есть ли специальное окно, где я могу забрать онлайн-заказ?",
+          "spanish": "¿Hay algún mostrador específico donde pueda recoger un pedido online?",
+          "french": "Y a-t-il un comptoir spécifique où je peux retirer une commande en ligne ?",
+          "german": "Gibt es einen bestimmten Schalter, an dem ich eine Online-Bestellung abholen kann?",
+          "italian": "C'è uno sportello specifico dove posso ritirare un ordine online?",
+          "portuguese": "Tem algum balcão específico onde eu possa retirar um pedido feito online?",
+          "esperanto": "Ĉu estas specifa vendotablo kie mi povas preni interretan mendon?"
+        },
+        {
+          "english": "Do you have this specific shirt available in a medium size?",
+          "russian": "Есть ли эта конкретная рубашка в среднем размере (M)?",
+          "spanish": "¿Tienen esta camisa en específico disponible en talla mediana?",
+          "french": "Avez-vous cette chemise en taille M ?",
+          "german": "Haben Sie dieses bestimmte Hemd in Größe M da?",
+          "italian": "Avete questa camicia specifica nella taglia M?",
+          "portuguese": "Você tem essa camisa específica no tamanho M?",
+          "esperanto": "Ĉu vi havas ĉi tiun specifan ĉemizon en meza grandeco?"
+        },
+        {
+          "english": "Could you please check if there are any more of these in the back room?",
+          "russian": "Не могли бы вы проверить, осталось ли что-то подобное на складе?",
+          "spanish": "¿Podría comprobar si quedan más de estos en el almacén, por favor?",
+          "french": "Pourriez-vous vérifier s'il y en a d'autres en réserve, s'il vous plaît ?",
+          "german": "Könnten Sie bitte nachsehen, ob Sie davon noch welche im Lager haben?",
+          "italian": "Potrebbe controllare se ce ne sono altri nel retrobottega, per favore?",
+          "portuguese": "Você poderia dar uma olhada se tem mais desse no estoque, por favor?",
+          "esperanto": "Ĉu vi bonvolus kontroli ĉu estas pli da ĉi tiuj en la malantaŭa ĉambro?"
+        },
+        {
+          "english": "Does this electronic item come with a manufacturer's warranty?",
+          "russian": "Предоставляется ли на этот электронный товар гарантия производителя?",
+          "spanish": "¿Este artículo electrónico viene con garantía del fabricante?",
+          "french": "Cet appareil électronique est-il assorti d'une garantie du fabricant ?",
+          "german": "Gibt es auf diesen Elektronikartikel eine Herstellergarantie?",
+          "italian": "Questo articolo elettronico è coperto da garanzia del produttore?",
+          "portuguese": "Esse produto eletrônico vem com garantia de fábrica?",
+          "esperanto": "Ĉu ĉi tiu elektronika objekto venas kun garantio de la fabrikanto?"
+        },
+        {
+          "english": "Is this product currently in stock, or is it completely sold out?",
+          "russian": "Этот товар сейчас есть в наличии или он полностью распродан?",
+          "spanish": "¿Este producto está disponible actualmente o está completamente agotado?",
+          "french": "Ce produit est-il actuellement en stock, ou est-il complètement épuisé ?",
+          "german": "Ist dieses Produkt vorrätig oder ist es komplett ausverkauft?",
+          "italian": "Questo prodotto è attualmente disponibile o è del tutto esaurito?",
+          "portuguese": "Este produto está em estoque no momento ou esgotou totalmente?",
+          "esperanto": "Ĉu ĉi tiu produkto estas aktuale en stoko, aŭ ĉu ĝi estas tute elvendita?"
+        },
+        {
+          "english": "Could you tell me what material this sweater is made out of?",
+          "russian": "Не могли бы вы сказать, из какого материала сделан этот свитер?",
+          "spanish": "¿Podría decirme de qué material está hecho este suéter?",
+          "french": "Pourriez-vous me dire en quelle matière est fait ce pull ?",
+          "german": "Könnten Sie mir sagen, aus welchem Material dieser Pullover ist?",
+          "italian": "Saprebbe dirmi di che materiale è fatto questo maglione?",
+          "portuguese": "Você saberia me dizer de qual material é feito este suéter?",
+          "esperanto": "Ĉu vi povus diri al mi el kiu materialo ĉi tiu svetero estas farita?"
+        },
+        {
+          "english": "Do you have this identical model available in a different color?",
+          "russian": "Есть ли у вас точно такая же модель другого цвета?",
+          "spanish": "¿Tienen este mismo modelo disponible en otro color?",
+          "french": "Avez-vous ce modèle identique dans une autre couleur ?",
+          "german": "Haben Sie genau dieses Modell auch in einer anderen Farbe?",
+          "italian": "Avete questo stesso identico modello in un colore diverso?",
+          "portuguese": "Você tem este mesmo modelo disponível em outra cor?",
+          "esperanto": "Ĉu vi havas ĉi tiun identan modelon en alia koloro?"
+        },
+        {
+          "english": "Is this particular item safe to put in the dishwasher?",
+          "russian": "Можно ли мыть именно эту вещь в посудомоечной машине?",
+          "spanish": "¿Este artículo en particular se puede meter en el lavavajillas?",
+          "french": "Cet article particulier passe-t-il au lave-vaisselle ?",
+          "german": "Ist dieses Produkt spülmaschinenfest?",
+          "italian": "Questo articolo in particolare è lavabile in lavastoviglie?",
+          "portuguese": "Este item em específico pode ser lavado na lava-louças?",
+          "esperanto": "Ĉu ĉi tiu specifa objekto estas sekura meti en la vazlavmaŝinon?"
+        },
+        {
+          "english": "When do you expect to receive your next shipment of this item?",
+          "russian": "Когда вы ожидаете следующую поставку этого товара?",
+          "spanish": "¿Cuándo esperan recibir el próximo cargamento de este artículo?",
+          "french": "Quand pensez-vous recevoir le prochain arrivage de cet article ?",
+          "german": "Wann erwarten Sie die nächste Lieferung dieses Artikels?",
+          "italian": "Quando è previsto l'arrivo della prossima fornitura di questo articolo?",
+          "portuguese": "Quando vocês esperam receber a próxima remessa deste produto?",
+          "esperanto": "Kiam vi atendas ricevi la venontan sendon de ĉi tiu objekto?"
+        },
+        {
+          "english": "Can I request a rain check for this sale item if you're out?",
+          "russian": "Могу ли я получить талон на скидку в будущем (rain check), если акционный товар закончился?",
+          "spanish": "¿Puedo solicitar un vale de reserva para este artículo en oferta si se ha agotado?",
+          "french": "Puis-je demander un bon d'achat différé pour cet article en promotion si vous êtes en rupture de stock ?",
+          "german": "Kann ich einen Gutschein für diesen Aktionsartikel bekommen, wenn er vergriffen ist?",
+          "italian": "Posso richiedere un buono di prenotazione per questo articolo in saldo se è esaurito?",
+          "portuguese": "Posso solicitar um vale-garantia para este produto em oferta se tiver acabado?",
+          "esperanto": "Ĉu mi povas peti prokrastitan kupono por ĉi tiu vendobjekto se ĝi elĉerpiĝis?"
+        },
+        {
+          "english": "Is there a limit on how many of these I can purchase at once?",
+          "russian": "Есть ли ограничение на количество штук, которое я могу купить за один раз?",
+          "spanish": "¿Hay un límite de cantidad para comprar de estos a la vez?",
+          "french": "Y a-t-il une limite quant au nombre d'exemplaires que je peux acheter en une seule fois ?",
+          "german": "Gibt es eine Mengenbegrenzung, wie viele ich davon auf einmal kaufen kann?",
+          "italian": "C'è un limite di quantità per l'acquisto di questo articolo in una sola volta?",
+          "portuguese": "Tem um limite de quantas unidades deste produto posso comprar de uma vez?",
+          "esperanto": "Ĉu estas limo pri kiom da ĉi tiuj mi povas aĉeti samtempe?"
+        },
+        {
+          "english": "Excuse me, how much does this item cost? There is no price tag.",
+          "russian": "Извините, сколько стоит этот товар? Здесь нет ценника.",
+          "spanish": "Disculpe, ¿cuánto cuesta este artículo? No tiene etiqueta de precio.",
+          "french": "Excusez-moi, combien coûte cet article ? Il n'y a pas d'étiquette de prix.",
+          "german": "Entschuldigung, wie viel kostet dieser Artikel? Es ist kein Preisschild dran.",
+          "italian": "Scusi, quanto costa questo articolo? Non c'è il cartellino del prezzo.",
+          "portuguese": "Com licença, quanto custa este item? Está sem etiqueta de preço.",
+          "esperanto": "Pardonu, kiom kostas ĉi tiu objekto? Ne estas prezetikedo."
+        },
+        {
+          "english": "Is this particular product included in the current buy-one-get-one promotion?",
+          "russian": "Входит ли именно этот товар в текущую акцию «купи один, получи второй в подарок»?",
+          "spanish": "¿Este producto en particular está incluido en la promoción actual de compra uno y llévate otro gratis?",
+          "french": "Ce produit particulier est-il inclus dans l'offre promotionnelle actuelle \"un acheté, un offert\" ?",
+          "german": "Gilt für dieses Produkt die aktuelle \"Nimm zwei, zahl eins\"-Aktion?",
+          "italian": "Questo prodotto in particolare rientra nella promozione \"prendi due paghi uno\"?",
+          "portuguese": "Este produto em específico entra na promoção atual de compre um e leve outro?",
+          "esperanto": "Ĉu ĉi tiu specifa produkto estas inkluzivita en la nuna aĉetu-unu-akiru-alian promocio?"
+        },
+        {
+          "english": "Could you tell me if this item is currently on clearance?",
+          "russian": "Не могли бы вы сказать, идет ли этот товар по распродаже (ликвидации)?",
+          "spanish": "¿Podría decirme si este artículo está en liquidación actualmente?",
+          "french": "Pourriez-vous me dire si cet article est actuellement en liquidation ?",
+          "german": "Könnten Sie mir sagen, ob dieser Artikel im Räumungsverkauf ist?",
+          "italian": "Saprebbe dirmi se questo articolo è attualmente in saldo per liquidazione?",
+          "portuguese": "Você poderia me dizer se este produto está em queima de estoque?",
+          "esperanto": "Ĉu vi povus diri al mi ĉu ĉi tiu objekto estas nune en elvendo?"
+        },
+        {
+          "english": "Do you offer a discount for students, military, or senior citizens?",
+          "russian": "Предоставляете ли вы скидки студентам, военным или пенсионерам?",
+          "spanish": "¿Ofrecen descuentos para estudiantes, militares o personas de la tercera edad?",
+          "french": "Proposez-vous une réduction pour les étudiants, les militaires ou les seniors ?",
+          "german": "Bieten Sie Rabatte für Studierende, Soldaten oder Senioren an?",
+          "italian": "Offrite sconti per studenti, militari o anziani?",
+          "portuguese": "Vocês oferecem desconto para estudantes, militares ou idosos?",
+          "esperanto": "Ĉu vi ofertas rabaton por studentoj, militistoj aŭ maljunuloj?"
+        },
+        {
+          "english": "Can I scan my digital loyalty card right here on the screen?",
+          "russian": "Могу ли я отсканировать свою цифровую карту лояльности прямо здесь на экране?",
+          "spanish": "¿Puedo escanear mi tarjeta de fidelidad digital justo aquí en la pantalla?",
+          "french": "Puis-je scanner ma carte de fidélité numérique directement ici sur l'écran ?",
+          "german": "Kann ich meine digitale Kundenkarte direkt hier am Bildschirm einscannen?",
+          "italian": "Posso scansionare la mia carta fedeltà digitale direttamente qui sullo schermo?",
+          "portuguese": "Posso escanear meu cartão de fidelidade digital direto aqui na tela?",
+          "esperanto": "Ĉu mi povas skani mian ciferecan lojalkarton ĉi tie sur la ekrano?"
+        },
+        {
+          "english": "Do you accept contactless mobile payments like Apple Pay or Google Pay?",
+          "russian": "Принимаете ли вы бесконтактные мобильные платежи, такие как Apple Pay или Google Pay?",
+          "spanish": "¿Aceptan pagos móviles sin contacto como Apple Pay o Google Pay?",
+          "french": "Acceptez-vous les paiements mobiles sans contact comme Apple Pay ou Google Pay ?",
+          "german": "Akzeptieren Sie kontaktlose mobile Zahlungen wie Apple Pay oder Google Pay?",
+          "italian": "Accettate pagamenti mobili contactless come Apple Pay o Google Pay?",
+          "portuguese": "Vocês aceitam pagamentos por aproximação via celular, como Apple Pay ou Google Pay?",
+          "esperanto": "Ĉu vi akceptas sennormajn poŝpagojn kiel Apple Pay aŭ Google Pay?"
+        },
+        {
+          "english": "I have a promotional coupon; can I apply it to this transaction?",
+          "russian": "У меня есть промокод (купон); могу ли я применить его к этой операции?",
+          "spanish": "Tengo un cupón de descuento, ¿puedo aplicarlo a esta compra?",
+          "french": "J'ai un coupon de réduction ; puis-je l'appliquer à cette transaction ?",
+          "german": "Ich habe einen Aktionsgutschein; kann ich den für diesen Einkauf einlösen?",
+          "italian": "Ho un buono promozionale; posso applicarlo a questa transazione?",
+          "portuguese": "Eu tenho um cupom promocional; posso usar nesta compra?",
+          "esperanto": "Mi havas reklaman kuponon; ĉu mi povas apliki ĝin al ĉi tiu transakcio?"
+        },
+        {
+          "english": "Would it be possible to get a price match for this lower competitor price?",
+          "russian": "Можно ли уровнять цену (сделать скидку), если у конкурента этот товар дешевле?",
+          "spanish": "¿Sería posible que me igualaran el precio si un competidor lo tiene más barato?",
+          "french": "Serait-il possible d'aligner votre tarif sur ce prix plus bas pratiqué par un concurrent ?",
+          "german": "Gibt es die Möglichkeit einer Tiefpreisgarantie, wenn ein Mitbewerber denselben Artikel günstiger anbietet?",
+          "italian": "Sarebbe possibile avere il pareggio del prezzo con quello più basso di un concorrente?",
+          "portuguese": "Seria possível cobrir o preço se o concorrente tiver mais barato?",
+          "esperanto": "Ĉu eblus egaligi la prezon al ĉi tiu pli malalta konkurenca prezo?"
+        },
+        {
+          "english": "Do you provide tax-free shopping forms for international tourists?",
+          "russian": "Выдаете ли вы бланки для покупок без налогов (tax-free) для иностранных туристов?",
+          "spanish": "¿Proporcionan formularios de compra libre de impuestos (tax-free) para turistas internacionales?",
+          "french": "Fournissez-vous des formulaires de détaxe pour les touristes internationaux ?",
+          "german": "Stellen Sie Tax-Free-Formulare für internationale Touristen aus?",
+          "italian": "Fornite i moduli per lo shopping tax-free per i turisti internazionali?",
+          "portuguese": "Vocês emitem o formulário de Tax-Free para turistas internacionais?",
+          "esperanto": "Ĉu vi provizas senimpostajn aĉetformularojn por internaciaj turistoj?"
+        },
+        {
+          "english": "Is there an additional activation fee for this gift card?",
+          "russian": "Взимается ли дополнительная плата за активацию этой подарочной карты?",
+          "spanish": "¿Hay alguna tarifa de activación adicional para esta tarjeta de regalo?",
+          "french": "Y a-t-il des frais d'activation supplémentaires pour cette carte-cadeau ?",
+          "german": "Fällt für diese Gutscheinkarte eine zusätzliche Aktivierungsgebühr an?",
+          "italian": "C'è una tariffa di attivazione aggiuntiva per questa carta regalo?",
+          "portuguese": "Tem alguma taxa de ativação adicional para este cartão-presente?",
+          "esperanto": "Ĉu estas kroma aktiviga kotizo por ĉi tiu donackarto?"
+        },
+        {
+          "english": "I would like to return this unopened item for a full refund, please.",
+          "russian": "Я бы хотел вернуть этот неоткрытый товар и получить полный возврат денег, пожалуйста.",
+          "spanish": "Me gustaría devolver este artículo sin abrir para obtener un reembolso completo, por favor.",
+          "french": "Je voudrais retourner cet article non ouvert pour un remboursement intégral, s'il vous plaît.",
+          "german": "Ich möchte diesen ungeöffneten Artikel bitte gegen eine vollständige Rückerstattung zurückgeben.",
+          "italian": "Vorrei restituire questo articolo sigillato per un rimborso completo, per favore.",
+          "portuguese": "Eu gostaria de devolver este produto fechado para receber o reembolso total, por favor.",
+          "esperanto": "Mi ŝatus redoni ĉi tiun ne malfermitan objekton por plena repago, bonvolu."
+        },
+        {
+          "english": "What is your official store policy regarding returns without a receipt?",
+          "russian": "Каковы официальные правила вашего магазина касательно возврата товара без чека?",
+          "spanish": "¿Cuál es la política oficial de la tienda sobre las devoluciones sin recibo?",
+          "french": "Quelle est la politique officielle du magasin concernant les retours sans ticket de caisse ?",
+          "german": "Wie lauten die offiziellen Richtlinien des Geschäfts für Rückgaben ohne Kassenbon?",
+          "italian": "Qual è la politica ufficiale del negozio per i resi senza scontrino?",
+          "portuguese": "Qual é a política oficial da loja em relação a devoluções sem nota fiscal?",
+          "esperanto": "Kio estas via oficiala vendeja politiko pri redonoj sen kvitanco?"
+        },
+        {
+          "english": "Could I exchange this item for a larger size instead of returning it?",
+          "russian": "Могу ли я обменять этот товар на больший размер вместо возврата?",
+          "spanish": "¿Podría cambiar este artículo por una talla más grande en lugar de devolverlo?",
+          "french": "Pourrais-je échanger cet article contre une taille plus grande au lieu de le retourner ?",
+          "german": "Könnte ich diesen Artikel gegen eine größere Größe umtauschen, anstatt ihn zurückzugeben?",
+          "italian": "Potrei cambiare questo articolo con una taglia più grande invece di fare il reso?",
+          "portuguese": "Eu poderia trocar este item por um tamanho maior em vez de devolver?",
+          "esperanto": "Ĉu mi povus interŝanĝi ĉi tiun objekton al pli granda grandeco anstataŭ redoni ĝin?"
+        },
+        {
+          "english": "This item turned out to be defective; can I get a direct replacement?",
+          "russian": "Этот товар оказался бракованным; могу ли я получить прямую замену?",
+          "spanish": "Este artículo resultó estar defectuoso, ¿puedo obtener un reemplazo directo?",
+          "french": "Cet article s'est avéré défectueux ; puis-je obtenir un échange standard ?",
+          "german": "Dieser Artikel ist fehlerhaft; kann ich einen direkten Ersatz bekommen?",
+          "italian": "Questo articolo si è rivelato difettoso; posso avere una sostituzione diretta?",
+          "portuguese": "Este produto veio com defeito; posso fazer a troca direta por outro igual?",
+          "esperanto": "Ĉi tiu objekto montriĝis difektita; ĉu mi povas ricevi rektan anstataŭaĵon?"
+        },
+        {
+          "english": "How many days do I have to return an item after the purchase date?",
+          "russian": "Сколько дней у меня есть на возврат товара со дня покупки?",
+          "spanish": "¿Cuántos días tengo para devolver un artículo después de la fecha de compra?",
+          "french": "De combien de jours disposé-je pour retourner un article après la date d'achat ?",
+          "german": "Wie viele Tage habe ich Zeit, um einen Artikel nach dem Kaufdatum zurückzugeben?",
+          "italian": "Quanti giorni ho a disposizione per restituire un articolo dalla data di acquisto?",
+          "portuguese": "Quantos dias eu tenho para devolver um produto após a data da compra?",
+          "esperanto": "Kiom da tagoj mi havas por redoni objekton post la aĉetdato?"
+        },
+        {
+          "english": "Will the refund go directly back onto my original credit card?",
+          "russian": "Вернутся ли деньги обратно на мою исходную кредитную карту?",
+          "spanish": "¿El reembolso se devolverá directamente a mi tarjeta de crédito original?",
+          "french": "Le remboursement sera-t-il recrédité directement sur la carte bancaire d'origine ?",
+          "german": "Wird die Rückerstattung direkt auf meine ursprüngliche Kreditkarte gebucht?",
+          "italian": "Il rimborso verrà riaccreditato direttamente sulla carta di credito originale?",
+          "portuguese": "O estorno vai cair direto no mesmo cartão de crédito que usei para a compra?",
+          "esperanto": "Ĉu la repago iros rekte sur mian originalan kreditkarton?"
+        },
+        {
+          "english": "Can I return an item that was purchased at a different branch location?",
+          "russian": "Могу ли я вернуть товар, купленный в другом филиале торговой сети?",
+          "spanish": "¿Puedo devolver un artículo que compré en una sucursal diferente?",
+          "french": "Puis-je retourner un article acheté dans une autre succursale de l'enseigne ?",
+          "german": "Kann ich einen Artikel zurückgeben, der in einer anderen Filiale gekauft wurde?",
+          "italian": "Posso restituire un articolo acquistato in un altro punto vendita della catena?",
+          "portuguese": "Posso devolver um item que foi comprado em outra filial de vocês?",
+          "esperanto": "Ĉu mi povas redoni objekton aĉetitan en alia filio?"
+        },
+        {
+          "english": "Do you offer store credit or gift cards for processed returns?",
+          "russian": "Выдаете ли вы баланс магазина (чек на покупки) или подарочные карты при оформлении возврата?",
+          "spanish": "¿Ofrecen crédito de la tienda o tarjetas de regalo por las devoluciones procesadas?",
+          "french": "Proposez-vous un avoir ou une carte-cadeau pour les retours effectués ?",
+          "german": "Bieten Sie Warengutscheine oder Geschenkkarten für bearbeitete Rückgaben an?",
+          "italian": "Offrite un buono acquisto o una carta regalo per i resi effettuati?",
+          "portuguese": "Vocês dão crédito na loja ou cartão-presente para as devoluções realizadas?",
+          "esperanto": "Ĉu vi ofertas vendejan krediton aŭ donackartojn por prilaboritaj redonoj?"
+        },
+        {
+          "english": "This item was damaged when I opened the box; who do I speak to?",
+          "russian": "Этот товар был поврежден, когда я открыл коробку; с кем мне поговорить?",
+          "spanish": "Este artículo estaba dañado cuando abrí la caja, ¿con quién tengo que hablar?",
+          "french": "Cet article était endommagé lorsque j'ai ouvert la boîte ; à qui dois-je m'adresser ?",
+          "german": "Dieser Artikel war beschädigt, als ich den Karton geöffnet habe; an wen muss ich mich wenden?",
+          "italian": "Questo articolo era danneggiato quando ho aperto la scatola; con chi devo parlare?",
+          "portuguese": "Este produto já estava quebrado quando abri a embalagem; com quem eu falo?",
+          "esperanto": "Ĉi tiu objekto estis difektita kiam mi malfermis la skatolon; kun kiu mi parolu?"
+        },
+        {
+          "english": "Is there a restocking fee for returning large electronic items?",
+          "russian": "Взимается ли плата за возврат на склад (restocking fee) при сдаче крупной электроники?",
+          "spanish": "¿Hay alguna tarifa de reposición por devolver artículos electrónicos grandes?",
+          "french": "Y a-t-il des frais de remise en stock pour le retour de gros appareils électroniques ?",
+          "german": "Fällt für die Rückgabe von großen Elektronikartikeln eine Wiedereinlagerungsgebühr an?",
+          "italian": "C'è una penale di rifornimento per il reso di grandi articoli elettronici?",
+          "portuguese": "Existe alguma taxa de reabastecimento para a devolução de eletroeletrônicos grandes?",
+          "esperanto": "Ĉu estas revena kotizo por redoni grandajn elektronikajn objektojn?"
+        }
+      ]
+    }
+  ]
+}

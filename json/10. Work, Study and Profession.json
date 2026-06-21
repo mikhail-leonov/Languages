@@ -1,0 +1,729 @@
+{
+  "categories": [
+    {
+      "name": "Work, Study and Profession",
+      "phrases": [
+        {
+          "english": "job",
+          "russian": "работа",
+          "spanish": "trabajo",
+          "french": "travail",
+          "german": "Arbeit",
+          "portuguese": "trabalho",
+          "italian": "lavoro",
+          "esperanto": "laboro"
+        },
+        {
+          "english": "profession",
+          "russian": "профессия",
+          "spanish": "profesión",
+          "french": "profession",
+          "german": "Beruf",
+          "portuguese": "profissão",
+          "italian": "professione",
+          "esperanto": "profesio"
+        },
+        {
+          "english": "teacher",
+          "russian": "учитель",
+          "spanish": "profesor",
+          "french": "professeur",
+          "german": "Lehrer",
+          "portuguese": "professor",
+          "italian": "insegnante",
+          "esperanto": "instruisto"
+        },
+        {
+          "english": "engineer",
+          "russian": "инженер",
+          "spanish": "ingeniero",
+          "french": "ingénieur",
+          "german": "Ingenieur",
+          "portuguese": "engenheiro",
+          "italian": "ingegnere",
+          "esperanto": "inĝeniero"
+        },
+        {
+          "english": "lawyer",
+          "russian": "юрист",
+          "spanish": "abogado",
+          "french": "avocat",
+          "german": "Anwalt",
+          "portuguese": "advogado",
+          "italian": "avvocato",
+          "esperanto": "advokato"
+        },
+        {
+          "english": "accountant",
+          "russian": "бухгалтер",
+          "spanish": "contable",
+          "french": "comptable",
+          "german": "Buchhalter",
+          "portuguese": "contabilista",
+          "italian": "contabile",
+          "esperanto": "librotenisto"
+        },
+        {
+          "english": "manager",
+          "russian": "менеджер",
+          "spanish": "gerente",
+          "french": "manager",
+          "german": "Manager",
+          "portuguese": "gerente",
+          "italian": "manager",
+          "esperanto": "manaĝero"
+        },
+        {
+          "english": "waiter",
+          "russian": "официант",
+          "spanish": "camarero",
+          "french": "serveur",
+          "german": "Kellner",
+          "portuguese": "empregado de mesa",
+          "italian": "cameriere",
+          "esperanto": "kelnero"
+        },
+        {
+          "english": "cook",
+          "russian": "повар",
+          "spanish": "cocinero",
+          "french": "cuisinier",
+          "german": "Koch",
+          "portuguese": "cozinheiro",
+          "italian": "cuoco",
+          "esperanto": "kuiristo"
+        },
+        {
+          "english": "driver",
+          "russian": "водитель",
+          "spanish": "conductor",
+          "french": "chauffeur",
+          "german": "Fahrer",
+          "portuguese": "motorista",
+          "italian": "autista",
+          "esperanto": "ŝoforo"
+        },
+        {
+          "english": "farmer",
+          "russian": "фермер",
+          "spanish": "agricultor",
+          "french": "agriculteur",
+          "german": "Bauer",
+          "portuguese": "agricultor",
+          "italian": "agricoltore",
+          "esperanto": "farmisto"
+        },
+        {
+          "english": "artist",
+          "russian": "художник",
+          "spanish": "artista",
+          "french": "artiste",
+          "german": "Künstler",
+          "portuguese": "artista",
+          "italian": "artista",
+          "esperanto": "artisto"
+        },
+        {
+          "english": "musician",
+          "russian": "музыкант",
+          "spanish": "músico",
+          "french": "musicien",
+          "german": "Musiker",
+          "portuguese": "músico",
+          "italian": "musicista",
+          "esperanto": "muzikisto"
+        },
+        {
+          "english": "writer",
+          "russian": "писатель",
+          "spanish": "escritor",
+          "french": "écrivain",
+          "german": "Schriftsteller",
+          "portuguese": "escritor",
+          "italian": "scrittore",
+          "esperanto": "verkisto"
+        },
+        {
+          "english": "journalist",
+          "russian": "журналист",
+          "spanish": "periodista",
+          "french": "journaliste",
+          "german": "Journalist",
+          "portuguese": "jornalista",
+          "italian": "giornalista",
+          "esperanto": "ĵurnalisto"
+        },
+        {
+          "english": "programmer",
+          "russian": "программист",
+          "spanish": "programador",
+          "french": "programmeur",
+          "german": "Programmierer",
+          "portuguese": "programador",
+          "italian": "programmatore",
+          "esperanto": "programisto"
+        },
+        {
+          "english": "scientist",
+          "russian": "учёный",
+          "spanish": "científico",
+          "french": "scientifique",
+          "german": "Wissenschaftler",
+          "portuguese": "cientista",
+          "italian": "scienziato",
+          "esperanto": "sciencisto"
+        },
+        {
+          "english": "electrician",
+          "russian": "электрик",
+          "spanish": "electricista",
+          "french": "électricien",
+          "german": "Elektriker",
+          "portuguese": "eletricista",
+          "italian": "elettricista",
+          "esperanto": "elektristo"
+        },
+        {
+          "english": "plumber",
+          "russian": "сантехник",
+          "spanish": "fontanero",
+          "french": "plombier",
+          "german": "Klempner",
+          "portuguese": "canalizador",
+          "italian": "idraulico",
+          "esperanto": "plumbisto"
+        },
+        {
+          "english": "mechanic",
+          "russian": "механик",
+          "spanish": "mecánico",
+          "french": "mécanicien",
+          "german": "Mechaniker",
+          "portuguese": "mecânico",
+          "italian": "meccanico",
+          "esperanto": "mekanikisto"
+        },
+        {
+          "english": "shop assistant",
+          "russian": "продавец",
+          "spanish": "dependiente",
+          "french": "vendeur",
+          "german": "Verkäufer",
+          "portuguese": "empregado de loja",
+          "italian": "commesso",
+          "esperanto": "vendisto"
+        },
+        {
+          "english": "office",
+          "russian": "офис",
+          "spanish": "oficina",
+          "french": "bureau",
+          "german": "Büro",
+          "portuguese": "escritório",
+          "italian": "ufficio",
+          "esperanto": "oficejo"
+        },
+        {
+          "english": "company",
+          "russian": "компания",
+          "spanish": "empresa",
+          "french": "entreprise",
+          "german": "Firma",
+          "portuguese": "empresa",
+          "italian": "azienda",
+          "esperanto": "kompanio"
+        },
+        {
+          "english": "salary",
+          "russian": "зарплата",
+          "spanish": "salario",
+          "french": "salaire",
+          "german": "Gehalt",
+          "portuguese": "salário",
+          "italian": "stipendio",
+          "esperanto": "salajro"
+        },
+        {
+          "english": "meeting",
+          "russian": "встреча",
+          "spanish": "reunión",
+          "french": "réunion",
+          "german": "Besprechung",
+          "portuguese": "reunião",
+          "italian": "riunione",
+          "esperanto": "kunveno"
+        },
+        {
+          "english": "computer",
+          "russian": "компьютер",
+          "spanish": "ordenador",
+          "french": "ordinateur",
+          "german": "Computer",
+          "portuguese": "computador",
+          "italian": "computer",
+          "esperanto": "komputilo"
+        },
+        {
+          "english": "email",
+          "russian": "электронная почта",
+          "spanish": "correo electrónico",
+          "french": "e-mail",
+          "german": "E-Mail",
+          "portuguese": "e-mail",
+          "italian": "e-mail",
+          "esperanto": "retpoŝto"
+        },
+        {
+          "english": "desk",
+          "russian": "письменный стол",
+          "spanish": "escritorio",
+          "french": "bureau",
+          "german": "Schreibtisch",
+          "portuguese": "secretária",
+          "italian": "scrivania",
+          "esperanto": "skribtablo"
+        },
+        {
+          "english": "employee",
+          "russian": "сотрудник",
+          "spanish": "empleado",
+          "french": "employé",
+          "german": "Mitarbeiter",
+          "portuguese": "funcionário",
+          "italian": "dipendente",
+          "esperanto": "dungito"
+        },
+        {
+          "english": "employer",
+          "russian": "работодатель",
+          "spanish": "empleador",
+          "french": "employeur",
+          "german": "Arbeitgeber",
+          "portuguese": "empregador",
+          "italian": "datore di lavoro",
+          "esperanto": "dunganto"
+        },
+        {
+          "english": "career",
+          "russian": "карьера",
+          "spanish": "carrera",
+          "french": "carrière",
+          "german": "Karriere",
+          "portuguese": "carreira",
+          "italian": "carriera",
+          "esperanto": "kariero"
+        },
+        {
+          "english": "contract",
+          "russian": "контракт",
+          "spanish": "contrato",
+          "french": "contrat",
+          "german": "Vertrag",
+          "portuguese": "contrato",
+          "italian": "contratto",
+          "esperanto": "kontrakto"
+        },
+        {
+          "english": "interview",
+          "russian": "собеседование",
+          "spanish": "entrevista",
+          "french": "entretien",
+          "german": "Vorstellungsgespräch",
+          "portuguese": "entrevista",
+          "italian": "colloquio",
+          "esperanto": "intervjuo"
+        },
+        {
+          "english": "CV",
+          "russian": "резюме",
+          "spanish": "currículum",
+          "french": "CV",
+          "german": "Lebenslauf",
+          "portuguese": "currículo",
+          "italian": "curriculum",
+          "esperanto": "vivresumo"
+        },
+        {
+          "english": "What do you do?",
+          "russian": "Кем вы работаете?",
+          "spanish": "¿A qué te dedicas?",
+          "french": "Que faites-vous dans la vie ?",
+          "german": "Was machen Sie beruflich?",
+          "portuguese": "O que é que faz?",
+          "italian": "Che lavoro fai?",
+          "esperanto": "Kion vi faras?"
+        },
+        {
+          "english": "I'm a teacher.",
+          "russian": "Я учитель.",
+          "spanish": "Soy profesor.",
+          "french": "Je suis professeur.",
+          "german": "Ich bin Lehrer.",
+          "portuguese": "Sou professor.",
+          "italian": "Sono insegnante.",
+          "esperanto": "Mi estas instruisto."
+        },
+        {
+          "english": "Where do you work?",
+          "russian": "Где вы работаете?",
+          "spanish": "¿Dónde trabajas?",
+          "french": "Où travaillez-vous ?",
+          "german": "Wo arbeiten Sie?",
+          "portuguese": "Onde trabalha?",
+          "italian": "Dove lavori?",
+          "esperanto": "Kie vi laboras?"
+        },
+        {
+          "english": "I work in an office.",
+          "russian": "Я работаю в офисе.",
+          "spanish": "Trabajo en una oficina.",
+          "french": "Je travaille dans un bureau.",
+          "german": "Ich arbeite in einem Büro.",
+          "portuguese": "Trabalho num escritório.",
+          "italian": "Lavoro in un ufficio.",
+          "esperanto": "Mi laboras en oficejo."
+        },
+        {
+          "english": "I work from home.",
+          "russian": "Я работаю из дома.",
+          "spanish": "Trabajo desde casa.",
+          "french": "Je travaille à domicile.",
+          "german": "Ich arbeite von zu Hause.",
+          "portuguese": "Trabalho a partir de casa.",
+          "italian": "Lavoro da casa.",
+          "esperanto": "Mi laboras hejme."
+        },
+        {
+          "english": "I'm looking for a job.",
+          "russian": "Я ищу работу.",
+          "spanish": "Estoy buscando trabajo.",
+          "french": "Je cherche un emploi.",
+          "german": "Ich suche eine Arbeit.",
+          "portuguese": "Estou à procura de trabalho.",
+          "italian": "Sto cercando lavoro.",
+          "esperanto": "Mi serĉas laboron."
+        },
+        {
+          "english": "I have a meeting.",
+          "russian": "У меня встреча.",
+          "spanish": "Tengo una reunión.",
+          "french": "J'ai une réunion.",
+          "german": "Ich habe eine Besprechung.",
+          "portuguese": "Tenho uma reunião.",
+          "italian": "Ho una riunione.",
+          "esperanto": "Mi havas kunvenon."
+        },
+        {
+          "english": "I'm busy.",
+          "russian": "Я занят.",
+          "spanish": "Estoy ocupado.",
+          "french": "Je suis occupé.",
+          "german": "Ich bin beschäftigt.",
+          "portuguese": "Estou ocupado.",
+          "italian": "Sono occupato.",
+          "esperanto": "Mi estas okupita."
+        },
+        {
+          "english": "I'm self-employed.",
+          "russian": "Я работаю на себя.",
+          "spanish": "Soy autónomo.",
+          "french": "Je suis indépendant.",
+          "german": "Ich bin selbstständig.",
+          "portuguese": "Sou trabalhador independente.",
+          "italian": "Sono un libero professionista.",
+          "esperanto": "Mi estas memdungita."
+        },
+        {
+          "english": "I'm retired.",
+          "russian": "Я на пенсии.",
+          "spanish": "Estoy jubilado.",
+          "french": "Je suis à la retraite.",
+          "german": "Ich bin im Ruhestand.",
+          "portuguese": "Estou reformado.",
+          "italian": "Sono in pensione.",
+          "esperanto": "Mi estas emerita."
+        },
+        {
+          "english": "I'm unemployed.",
+          "russian": "Я безработный.",
+          "spanish": "Estoy en paro.",
+          "french": "Je suis au chômage.",
+          "german": "Ich bin arbeitslos.",
+          "portuguese": "Estou desempregado.",
+          "italian": "Sono disoccupato.",
+          "esperanto": "Mi estas senlabora."
+        },
+        {
+          "english": "I work nine to five.",
+          "russian": "Я работаю с девяти до пяти.",
+          "spanish": "Trabajo de nueve a cinco.",
+          "french": "Je travaille de neuf heures à dix-sept heures.",
+          "german": "Ich arbeite von neun bis fünf.",
+          "portuguese": "Trabalho das nove às cinco.",
+          "italian": "Lavoro dalle nove alle cinque.",
+          "esperanto": "Mi laboras de naŭ ĝis kvin."
+        },
+        {
+          "english": "I'll send you an email.",
+          "russian": "Я пришлю вам письмо.",
+          "spanish": "Te envío un correo.",
+          "french": "Je vous enverrai un e-mail.",
+          "german": "Ich schicke Ihnen eine E-Mail.",
+          "portuguese": "Envio-lhe um e-mail.",
+          "italian": "Ti mando un'e-mail.",
+          "esperanto": "Mi sendos al vi retpoŝton."
+        },
+        {
+          "english": "school",
+          "russian": "школа",
+          "spanish": "escuela",
+          "french": "école",
+          "german": "Schule",
+          "portuguese": "escola",
+          "italian": "scuola",
+          "esperanto": "lernejo"
+        },
+        {
+          "english": "university",
+          "russian": "университет",
+          "spanish": "universidad",
+          "french": "université",
+          "german": "Universität",
+          "portuguese": "universidade",
+          "italian": "università",
+          "esperanto": "universitato"
+        },
+        {
+          "english": "lesson",
+          "russian": "урок",
+          "spanish": "lección",
+          "french": "leçon",
+          "german": "Lektion",
+          "portuguese": "lição",
+          "italian": "lezione",
+          "esperanto": "leciono"
+        },
+        {
+          "english": "classroom",
+          "russian": "класс",
+          "spanish": "aula",
+          "french": "salle de classe",
+          "german": "Klassenzimmer",
+          "portuguese": "sala de aula",
+          "italian": "aula",
+          "esperanto": "klassĉambro"
+        },
+        {
+          "english": "exam",
+          "russian": "экзамен",
+          "spanish": "examen",
+          "french": "examen",
+          "german": "Prüfung",
+          "portuguese": "exame",
+          "italian": "esame",
+          "esperanto": "ekzameno"
+        },
+        {
+          "english": "homework",
+          "russian": "домашнее задание",
+          "spanish": "deberes",
+          "french": "devoirs",
+          "german": "Hausaufgaben",
+          "portuguese": "trabalho de casa",
+          "italian": "compiti",
+          "esperanto": "hejmtaskoj"
+        },
+        {
+          "english": "course",
+          "russian": "курс",
+          "spanish": "curso",
+          "french": "cours",
+          "german": "Kurs",
+          "portuguese": "curso",
+          "italian": "corso",
+          "esperanto": "kurso"
+        },
+        {
+          "english": "degree",
+          "russian": "диплом",
+          "spanish": "título",
+          "french": "diplôme",
+          "german": "Abschluss",
+          "portuguese": "diploma",
+          "italian": "laurea",
+          "esperanto": "diplomo"
+        },
+        {
+          "english": "library",
+          "russian": "библиотека",
+          "spanish": "biblioteca",
+          "french": "bibliothèque",
+          "german": "Bibliothek",
+          "portuguese": "biblioteca",
+          "italian": "biblioteca",
+          "esperanto": "biblioteko"
+        },
+        {
+          "english": "student",
+          "russian": "студент",
+          "spanish": "estudiante",
+          "french": "étudiant",
+          "german": "Student",
+          "portuguese": "estudante",
+          "italian": "studente",
+          "esperanto": "studento"
+        },
+        {
+          "english": "pupil",
+          "russian": "ученик",
+          "spanish": "alumno",
+          "french": "élève",
+          "german": "Schüler",
+          "portuguese": "aluno",
+          "italian": "alunno",
+          "esperanto": "lernanto"
+        },
+        {
+          "english": "pen",
+          "russian": "ручка",
+          "spanish": "bolígrafo",
+          "french": "stylo",
+          "german": "Kugelschreiber",
+          "portuguese": "caneta",
+          "italian": "penna",
+          "esperanto": "plumilo"
+        },
+        {
+          "english": "pencil",
+          "russian": "карандаш",
+          "spanish": "lápiz",
+          "french": "crayon",
+          "german": "Bleistift",
+          "portuguese": "lápis",
+          "italian": "matita",
+          "esperanto": "krajono"
+        },
+        {
+          "english": "notebook",
+          "russian": "тетрадь",
+          "spanish": "cuaderno",
+          "french": "cahier",
+          "german": "Heft",
+          "portuguese": "caderno",
+          "italian": "quaderno",
+          "esperanto": "kajero"
+        },
+        {
+          "english": "to study",
+          "russian": "учиться",
+          "spanish": "estudiar",
+          "french": "étudier",
+          "german": "studieren",
+          "portuguese": "estudar",
+          "italian": "studiare",
+          "esperanto": "studi"
+        },
+        {
+          "english": "to learn",
+          "russian": "учить",
+          "spanish": "aprender",
+          "french": "apprendre",
+          "german": "lernen",
+          "portuguese": "aprender",
+          "italian": "imparare",
+          "esperanto": "lerni"
+        },
+        {
+          "english": "to teach",
+          "russian": "преподавать",
+          "spanish": "enseñar",
+          "french": "enseigner",
+          "german": "unterrichten",
+          "portuguese": "ensinar",
+          "italian": "insegnare",
+          "esperanto": "instrui"
+        },
+        {
+          "english": "to read",
+          "russian": "читать",
+          "spanish": "leer",
+          "french": "lire",
+          "german": "lesen",
+          "portuguese": "ler",
+          "italian": "leggere",
+          "esperanto": "legi"
+        },
+        {
+          "english": "to write",
+          "russian": "писать",
+          "spanish": "escribir",
+          "french": "écrire",
+          "german": "schreiben",
+          "portuguese": "escrever",
+          "italian": "scrivere",
+          "esperanto": "skribi"
+        },
+        {
+          "english": "I'm a student.",
+          "russian": "Я студент.",
+          "spanish": "Soy estudiante.",
+          "french": "Je suis étudiant.",
+          "german": "Ich bin Student.",
+          "portuguese": "Sou estudante.",
+          "italian": "Sono studente.",
+          "esperanto": "Mi estas studento."
+        },
+        {
+          "english": "I study medicine.",
+          "russian": "Я изучаю медицину.",
+          "spanish": "Estudio medicina.",
+          "french": "J'étudie la médecine.",
+          "german": "Ich studiere Medizin.",
+          "portuguese": "Estudo medicina.",
+          "italian": "Studio medicina.",
+          "esperanto": "Mi studas medicinon."
+        },
+        {
+          "english": "I'm learning Spanish.",
+          "russian": "Я учу испанский.",
+          "spanish": "Estoy aprendiendo español.",
+          "french": "J'apprends l'espagnol.",
+          "german": "Ich lerne Spanisch.",
+          "portuguese": "Estou a aprender espanhol.",
+          "italian": "Sto imparando lo spagnolo.",
+          "esperanto": "Mi lernas la hispanan."
+        },
+        {
+          "english": "What are you studying?",
+          "russian": "Что ты изучаешь?",
+          "spanish": "¿Qué estudias?",
+          "french": "Qu'est-ce que tu étudies ?",
+          "german": "Was studierst du?",
+          "portuguese": "O que estudas?",
+          "italian": "Cosa studi?",
+          "esperanto": "Kion vi studas?"
+        },
+        {
+          "english": "I have an exam tomorrow.",
+          "russian": "У меня завтра экзамен.",
+          "spanish": "Tengo un examen mañana.",
+          "french": "J'ai un examen demain.",
+          "german": "Ich habe morgen eine Prüfung.",
+          "portuguese": "Tenho um exame amanhã.",
+          "italian": "Ho un esame domani.",
+          "esperanto": "Mi havas ekzamenon morgaŭ."
+        },
+        {
+          "english": "I go to university.",
+          "russian": "Я учусь в университете.",
+          "spanish": "Voy a la universidad.",
+          "french": "Je vais à l'université.",
+          "german": "Ich gehe zur Universität.",
+          "portuguese": "Vou à universidade.",
+          "italian": "Vado all'università.",
+          "esperanto": "Mi iras al universitato."
+        }
+      ]
+    }
+  ]
+}
